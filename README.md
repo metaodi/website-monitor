@@ -3,6 +3,18 @@ website-monitor
 
 A small script to monitor the contents of a website and get a notification if there are changes.
 
+## Installation
+
+1. Clone this repository
+1. Run the `setup.sh` script.sh or install manually the dependencies:
+
+```
+source env/bin/activate
+pip install -r requirements.py
+```
+
+Alternatively 
+
 ## Usage
 
 ```bash
