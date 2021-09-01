@@ -1,0 +1,39 @@
+website-monitor
+===============
+
+A small script to monitor the contents of a website and get a notification if there are changes.
+
+## Usage
+
+```bash
+$ python monitor.py --help
+Usage:
+  monitor.py --url <url-of-website> [--selector <css-selector>] [--verbose] [--no-verify]
+  monitor.py (-h | --help)
+  monitor.py --version
+
+Options:
+  -h, --help                    Show this screen.
+  --version                     Show version.
+  -u, --url <url-of-website>    URL of the website to monitor.
+  -s, --selector <css-selector> CSS selector to check for changes [default: body]..
+  --verbose                     Option to enable more verbose output.
+  --no-verify                   Option to disable SSL verification for requests.
+```
+
+## Examples
+
+Watch «Amtliche Sammlung» of the City of Zurich:
+```bash
+python monitor.py --url https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/amtliche_sammlung.html --selector .mod_newsteaser
+```
+
+Ignore SSL certificate errors:
+```bash
+python monitor.py --url https://metaodi.ch --selector div.content --no-verify
+```
+
+Verbose output:
+```bash
+python monitor.py -u https://www.wikidata.org/wiki/Special:Random --selector span.wikibase-title-label --verbose
+```
