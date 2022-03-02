@@ -2,18 +2,18 @@
 """Monitor changes on a website
 
 Usage:
-  monitor.py --url <url-of-website> [--selector <css-selector>] [--verbose] [--no-verify]
+  monitor.py --url <url-of-website> [--selector <css-selector>] [--wait <number-of-seconds>] [--verbose] [--no-verify]
   monitor.py (-h | --help)
   monitor.py --version
 
 Options:
-  -h, --help                    Show this screen.
-  --version                     Show version.
-  -u, --url <url-of-website>    URL of the website to monitor.
-  -s, --selector <css-selector> CSS selector to check for changes [default: body]..
-  --verbose                     Option to enable more verbose output.
-  --no-verify                   Option to disable SSL verification for requests.
-
+  -h, --help                     Show this screen.
+  --version                      Show version.
+  -u, --url <url-of-website>     URL of the website to monitor.
+  -s, --selector <css-selector>  CSS selector to check for changes [default: body].
+  -w, --wait <number-of-seconds> Number of seconds to wait until the URL is checked again [default: 30].
+  --verbose                      Option to enable more verbose output.
+  --no-verify                    Option to disable SSL verification for requests.
 """
 
 
@@ -46,7 +46,8 @@ verify = not arguments['--no-verify']
 if not verify:
     import urllib3
     urllib3.disable_warnings()
-
+    
+wait = int(arguments['--wait'])
 old_hash = ''
 while True:
     content = dl.download_content(url, verify=verify)
@@ -60,7 +61,7 @@ while True:
         toast = ToastNotifier()
         toast.show_toast("Website changed", "Content of css selector changed", duration=20)
     old_hash = new_hash
-    time.sleep(30)
+    time.sleep(wait)
 
 
 
