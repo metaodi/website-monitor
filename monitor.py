@@ -2,28 +2,28 @@
 """Monitor changes on a website
 
 Usage:
-  monitor.py --url <url-of-website> [--selector <css-selector>] [--wait <number-of-seconds>] [--verbose] [--no-verify]
+  monitor.py --url <url-of-website> [--selector <css-selector>] [--wait <seconds>] [--verbose] [--no-verify]
   monitor.py (-h | --help)
   monitor.py --version
 
 Options:
-  -h, --help                     Show this screen.
-  --version                      Show version.
-  -u, --url <url-of-website>     URL of the website to monitor.
-  -s, --selector <css-selector>  CSS selector to check for changes [default: body].
-  -w, --wait <number-of-seconds> Number of seconds to wait until the URL is checked again [default: 30].
-  --verbose                      Option to enable more verbose output.
-  --no-verify                    Option to disable SSL verification for requests.
+  -h, --help                    Show this screen.
+  --version                     Show version.
+  -u, --url <url-of-website>    URL of the website to monitor.
+  -s, --selector <css-selector> CSS selector to check for changes [default: body].
+  -w, --wait <seconds>          Number of seconds to wait until the URL is checked again [default: 30].
+  --verbose                     Option to enable more verbose output.
+  --no-verify                   Option to disable SSL verification for requests.
 """
 
 
 import hashlib
 import time
 import logging
-from win10toast import ToastNotifier
 from bs4 import BeautifulSoup
 from docopt import docopt
 import download as dl
+
 
 arguments = docopt(__doc__, version='Monitor changes on a website 1.0')
 
@@ -38,6 +38,15 @@ logging.basicConfig(
 )
 logging.captureWarnings(True)
 log = logging.getLogger(__name__)
+
+try:
+    from win10toast import ToastNotifier
+    toast = ToastNotifier()
+except ImportError:
+    log.debug("Module 'win10toast' not found, skipping")
+    class ToastDummy(object):
+        def show_toast(*args, **kw): pass
+    toast = ToastDummy()
 
 url = arguments['--url']
 selector = arguments['--selector']
@@ -58,7 +67,6 @@ while True:
     log.info(f"Hash: {new_hash}")
     if old_hash != new_hash:
         log.info(f"Hash changed!")
-        toast = ToastNotifier()
         toast.show_toast("Website changed", "Content of css selector changed", duration=20)
     old_hash = new_hash
     log.debug(f"Wait for {wait} seconds...")
