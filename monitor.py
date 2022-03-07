@@ -61,6 +61,7 @@ while True:
         toast = ToastNotifier()
         toast.show_toast("Website changed", "Content of css selector changed", duration=20)
     old_hash = new_hash
+    log.debug(f"Wait for {wait} seconds...")
     time.sleep(wait)
 
 
