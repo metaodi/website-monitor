@@ -20,6 +20,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          sudo apt-get install sqlite3
 
       - name: Notify telegram failure
         uses: appleboy/telegram-action@master
