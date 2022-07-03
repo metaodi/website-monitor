@@ -1,4 +1,3 @@
-win10toast
 requests
 beautifulsoup4
 docopts
