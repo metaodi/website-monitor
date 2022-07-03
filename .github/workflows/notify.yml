@@ -22,6 +22,11 @@ jobs:
           pip install -r requirements.txt
           sudo apt-get install sqlite3
 
+      - name: Check each website
+        run: |
+          sqlite3 website.db -cmd '.mode csv' -cmd '.import website.csv website'
+          sqlite3 websites.db 'SELECT website, selector, hash FROM website'
+
       - name: Notify telegram failure
         uses: appleboy/telegram-action@master
         with:
