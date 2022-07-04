@@ -79,7 +79,7 @@ try:
         log.info(f"Hash: {new_hash}")
         if old_hash != new_hash:
              log.info(f"Hash changed!")
-             msg = f"🔴 Website changed: [{row['label']}]({row['url']})"
+             msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
              send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
              update_sql = ('UPDATE website set hash = ? WHERE selector = ? AND url = ?')
              cur.execute(update_sql, [new_hash, row['selector'], row['url']])
