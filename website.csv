@@ -9,5 +9,5 @@ label,url,selector,type,hash
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,42c7fab0d784a6b370d048608d9116d494ae86558daf558789467394bc116bbc
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,1a05667868f3ff744a98657708a96ea9fb2045389229320183316e7562964771
 "Dorfverein Gattikon",https://www.dorfverein-gattikon.ch/,#allrecords,static,687e46d9f94f51e115870cbe111bdf0169bc4c8232ed897f5352e980544c29e2
-"Ökopolis",https://www.oekopolis.ch/,#site-content,static,6bc23c19ce95d297c8212ac745092a60d5b16d4e227df3c78254da2e28a1c88c
+"Ökopolis",https://www.oekopolis.ch/,#site-content,static,c988013df3f5148277fb05b74a135bcc66795d626a112e6c7f7df0f19dad8507
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,div.app-content-center,dynamic,23f5934a8affc071e9f5a4fb9355a8f94a6d4b1f5e147f405240f9bc2e599249
