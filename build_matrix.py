@@ -34,8 +34,7 @@ try:
     cur.execute("SELECT * FROM website")
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
-    matrix = {'include': config}
-    print(json.dumps(matrix))
+    print(json.dumps(config))
 
 except Exception as e:
     print("Error: %s" % e, file=sys.stderr)

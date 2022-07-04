@@ -30,7 +30,8 @@ jobs:
     needs: build-matrix
     runs-on: ubuntu-latest
     strategy:
-      matrix: ${{ fromJson(needs.build-matrix.outputs.website_matrix) }}
+      matrix:
+        include: ${{ fromJson(needs.build-matrix.outputs.website_matrix) }}
 
     steps:
       - uses: actions/checkout@v3
