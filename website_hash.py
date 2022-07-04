@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Hash of a website selector
 
@@ -25,8 +26,13 @@ import download as dl
 
 log = logging.getLogger(__name__)
 
-def get_website_hash(url, selector, verify):
-    content = dl.download_content(url, verify=verify)
+def get_website_hash(url, selector, verify, dl_type='static'):
+    if dl_type == 'static':
+        content = dl.download_content(url, verify=verify)
+    elif dl_type == 'dynamic':
+        content = dl.download_with_selenium(url, selector)
+    else:
+        raise Exception(f"Invalid type: {dl_type}")
     soup = BeautifulSoup(content, 'html.parser')
     as_list = soup.select_one(selector)
     log.debug(as_list.prettify())

@@ -78,7 +78,7 @@ try:
             log.info(f"Old hash: {old_hash}")
             
             log.info(f"Checking website {r['url']}...")
-            new_hash = wh.get_website_hash(r['url'], r['selector'], verify)
+            new_hash = wh.get_website_hash(r['url'], r['selector'], verify, r['type'])
             log.info(f"New hash: {new_hash}")
             if old_hash == new_hash:
                  # nothing changed

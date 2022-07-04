@@ -2,6 +2,11 @@
 import requests
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 
 def _download_request(url, verify=True):
@@ -44,3 +49,17 @@ def download_file(url, path, verify=True):
         for chunk in r.iter_content(1024):
             f.write(chunk)
 
+
+def download_with_selenium(url, selector):
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    driver = webdriver.Chrome(options=chrome_options)
+    driver.implicitly_wait(5)
+
+    driver.get(url)
+    wait = WebDriverWait(driver, 10)
+    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
+    content = driver.page_source
+    driver.quit()
+
+    return content
