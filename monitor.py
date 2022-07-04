@@ -17,12 +17,10 @@ Options:
 """
 
 
-import hashlib
 import time
 import logging
-from bs4 import BeautifulSoup
 from docopt import docopt
-import download as dl
+import website_hash as wh
 
 
 arguments = docopt(__doc__, version='Monitor changes on a website 1.0')
@@ -39,15 +37,6 @@ logging.basicConfig(
 logging.captureWarnings(True)
 log = logging.getLogger(__name__)
 
-try:
-    from win10toast import ToastNotifier
-    toast = ToastNotifier()
-except ImportError:
-    log.debug("Module 'win10toast' not found, skipping")
-    class ToastDummy(object):
-        def show_toast(*args, **kw): pass
-    toast = ToastDummy()
-
 url = arguments['--url']
 selector = arguments['--selector']
 verify = not arguments['--no-verify']
@@ -56,23 +45,14 @@ if not verify:
     import urllib3
     urllib3.disable_warnings()
     
+
 wait = int(arguments['--wait'])
 old_hash = ''
 while True:
-    content = dl.download_content(url, verify=verify)
-    soup = BeautifulSoup(content, 'html.parser')
-    as_list = soup.select_one(selector)
-    log.debug(as_list.prettify())
-    new_hash = hashlib.sha256(str(as_list).encode('utf-8')).hexdigest()
+    new_hash = wh.get_website_hash(url, selector, verify)
     log.info(f"Hash: {new_hash}")
     if old_hash != new_hash:
         log.info(f"Hash changed!")
-        toast.show_toast("Website changed", "Content of css selector changed", duration=20)
     old_hash = new_hash
     log.debug(f"Wait for {wait} seconds...")
     time.sleep(wait)
-
-
-
-
-

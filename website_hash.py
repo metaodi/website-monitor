@@ -1,0 +1,64 @@
+# -*- coding: utf-8 -*-
+"""Hash of a website selector
+
+Usage:
+  website_hash.py --url <url-of-website> [--selector <css-selector>] [--verbose] [--no-verify]
+  website_hash.py (-h | --help)
+  website_hash.py --version
+
+Options:
+  -h, --help                    Show this screen.
+  --version                     Show version.
+  -u, --url <url-of-website>    URL of the website to monitor.
+  -s, --selector <css-selector> CSS selector to check for changes [default: body].
+  --verbose                     Option to enable more verbose output.
+  --no-verify                   Option to disable SSL verification for requests.
+"""
+
+
+import hashlib
+import time
+import logging
+from bs4 import BeautifulSoup
+from docopt import docopt
+import download as dl
+
+log = logging.getLogger(__name__)
+
+def get_website_hash(url, selector, verify):
+    content = dl.download_content(url, verify=verify)
+    soup = BeautifulSoup(content, 'html.parser')
+    as_list = soup.select_one(selector)
+    log.debug(as_list.prettify())
+    new_hash = hashlib.sha256(str(as_list).encode('utf-8')).hexdigest()
+    return new_hash
+
+
+if __name__ == "__main__":
+    arguments = docopt(__doc__, version='Get hash of website 1.0')
+
+    loglevel = logging.INFO
+    if arguments['--verbose']:
+        loglevel = logging.DEBUG
+
+    logging.basicConfig(
+        format='%(asctime)s %(levelname)-8s %(message)s',
+        level=loglevel,
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
+    logging.captureWarnings(True)
+
+
+    url = arguments['--url']
+    selector = arguments['--selector']
+    verify = not arguments['--no-verify']
+
+    if not verify:
+        import urllib3
+        urllib3.disable_warnings()
+
+    new_hash = get_website_hash(url, selector, verify)
+    log.info(f"Hash: {new_hash}")
+    print(new_hash)
+    
+
