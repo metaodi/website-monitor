@@ -22,7 +22,9 @@ jobs:
           sudo apt-get install sqlite3
 
       - id: set-matrix
-        run: echo '::set-output name=website_matrix::$(./matrix.sh)'
+        run: |
+          ./matrix.sh
+          echo '::set-output name=website_matrix::$(./matrix.sh)'
     outputs:
       website_matrix: ${{ steps.set-matrix.outputs.website_matrix }}
 

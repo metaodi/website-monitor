@@ -15,7 +15,7 @@ rm -rf $DIR/website.db
 sqlite3 $DIR/website.db -cmd '.mode csv' -cmd '.import website.csv website' .quit
 
 # run script to check each website
-$DIR/check_website.py -d $DIR/website.db
+$DIR/update_hashes.py -d $DIR/website.db
 
 # export the SQLite to CSV
 sqlite3 -header -csv $DIR/website.db "select * from website;" > $DIR/temp.csv
