@@ -27,6 +27,30 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
         run: ./run.sh
+      
+      - name: Check if there are changes in the repo
+        run: |
+          git status --porcelain
+          if [[ -z $(git status --porcelain) ]];
+          then
+            echo "Repo is clean"
+            echo '::set-output name=changed::0'
+          else
+            echo "Repo is dirty"
+            echo '::set-output name=changed::1'
+          fi
+        id: changes
+        
+      - name: Commit and push to repo
+        if: steps.changes.outputs.changed == 1 # only try to commit if there are actually changes
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: main
+          name: GitHub Action Bot
+          email: oderbolz@gmail.com
+          commit-message: Update website.csv with updated hashes
+          rebase: 'true'
 
       - name: Notify telegram failure
         if: ${{ failure()  || cancelled() }}
