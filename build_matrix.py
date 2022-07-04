@@ -23,6 +23,7 @@ import json
 import requests
 from docopt import docopt
 
+arguments = docopt(__doc__, version='Create JSON for dynamic build matrix 1.0')
 
 conn = None
 try:
@@ -34,7 +35,7 @@ try:
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
     matrix = {'include': config}
-    print(json.dumps(matrix))
+    print(json.dumps(matrix, indent=4))
 
 except Exception as e:
     print("Error: %s" % e, file=sys.stderr)
