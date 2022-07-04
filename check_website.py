@@ -21,6 +21,7 @@ import sys
 import time
 import logging
 import sqlite3
+import traceback
 import requests
 from docopt import docopt
 from dotenv import load_dotenv, find_dotenv
