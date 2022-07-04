@@ -22,6 +22,7 @@ import time
 import logging
 import sqlite3
 import traceback
+import json
 import requests
 from docopt import docopt
 from dotenv import load_dotenv, find_dotenv
@@ -41,8 +42,9 @@ def send_telegram_message(token, chat_id, message):
         "text": message,
         "parse_mode": 'MarkdownV2',
     }
+    headers = {'Content-type': 'application/json'}
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    r = requests.post(url, params=params)
+    r = requests.post(url, data=json.dumps(params), headers=headers)
     r.raise_for_status()
 
 loglevel = logging.INFO
@@ -74,16 +76,17 @@ try:
     for row in rows:
         try:
             r = dict(row)
-            old_hash = r['hash']
-            log.info(f"Old hash: {old_hash}")
-            
             log.info(f"Checking website {r['url']}")
+
+            old_hash = r['hash']
             new_hash = wh.get_website_hash(r['url'], r['selector'], verify, r['type'])
-            log.info(f"New hash: {new_hash}")
+            log.info(f"  Old hash: {old_hash}")
+            log.info(f"  New hash: {new_hash}")
             if old_hash == new_hash:
                  # nothing changed
+                 log.info(f"  Hash unchanged. Continue...")
                  continue
-            log.info(f"Hash changed!")
+            log.info(f"  ***Hash changed!***")
             msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
             send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
             update_sql = ('UPDATE website set hash = ? WHERE selector = ? AND url = ?')

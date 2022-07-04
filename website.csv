@@ -11,3 +11,4 @@ label,url,selector,type,hash
 "Dorfverein Gattikon",https://www.dorfverein-gattikon.ch/,#allrecords,static,687e46d9f94f51e115870cbe111bdf0169bc4c8232ed897f5352e980544c29e2
 "Ökopolis",https://www.oekopolis.ch/,#site-content,static,c988013df3f5148277fb05b74a135bcc66795d626a112e6c7f7df0f19dad8507
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,div.app-content-center,dynamic,23f5934a8affc071e9f5a4fb9355a8f94a6d4b1f5e147f405240f9bc2e599249
+"Thalwil politisch Facebook",https://de-de.facebook.com/groups/thalwilpolitsch/,"[data-pagelet=""GroupFeed""]",dynamic,d705a2a4b8538cee156b0f3a371259a8e2f009d1a580abd04b5c3028e9b07b0c
