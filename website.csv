@@ -7,3 +7,4 @@ label,url,selector,hash
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,
+"GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage
