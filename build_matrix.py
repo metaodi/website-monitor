@@ -35,7 +35,7 @@ try:
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
     matrix = {'include': config}
-    print(json.dumps(matrix, indent=4))
+    print(json.dumps(matrix))
 
 except Exception as e:
     print("Error: %s" % e, file=sys.stderr)
