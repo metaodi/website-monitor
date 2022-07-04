@@ -10,3 +10,4 @@ label,url,selector,hash
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,1a05667868f3ff744a98657708a96ea9fb2045389229320183316e7562964771
 "Dorfverein Gattikon",https://www.dorfverein-gattikon.ch/,#allrecords,687e46d9f94f51e115870cbe111bdf0169bc4c8232ed897f5352e980544c29e2
 "Ökopolis",https://www.oekopolis.ch/,#site-content,
+"Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,div.app-content-center,
