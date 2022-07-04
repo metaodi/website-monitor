@@ -1,3 +1,4 @@
 label,url,selector,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,5cb7bfe4b6416f288bb19b5922b7a3a13b64dfb2543282f1be53eae179301775
 "Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,6da90578daefd67f9176599d579d42435fa280d3d54b403f4365f58c8562522a
+"SP Thalwil",https://thalwil.spkantonzh.ch/,#main,
