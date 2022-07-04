@@ -1,11 +1,11 @@
 label,url,selector,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,5cb7bfe4b6416f288bb19b5922b7a3a13b64dfb2543282f1be53eae179301775
 "Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,6da90578daefd67f9176599d579d42435fa280d3d54b403f4365f58c8562522a
-"SP Thalwil",https://thalwil.spkantonzh.ch/,#main,
-"FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,
-"EVP Thalwil",https://evp-thalwil.ch/home,#main,
-"SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,
-"Mitte Thalwil",https://thalwil.die-mitte.ch/,main,
-"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,
-"GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,
-"Dorfverein Gattikon",https://www.dorfverein-gattikon.ch/,#allrecords,
+"SP Thalwil",https://thalwil.spkantonzh.ch/,#main,349ecbc55006cdb1fa43e20bb67106c3c64600ded8794ef08b758c4707d8d64e
+"FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,bce3c327117329b7b5ee3dd307cf678fa640afc51e247093c69e13bda698d31a
+"EVP Thalwil",https://evp-thalwil.ch/home,#main,521c4cce7002c51b78bfe74d1c2a540198fe9867a95780ab72611a9167e4adb1
+"SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,2e368c9136024a6c8e9678ad191249c24aefb589e5565493b3bab6efff4c9bb0
+"Mitte Thalwil",https://thalwil.die-mitte.ch/,main,0ac177d599cf0685de717f7bc59950c419c6861885af58ee041d26dc0b8dea5c
+"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,42c7fab0d784a6b370d048608d9116d494ae86558daf558789467394bc116bbc
+"GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,1a05667868f3ff744a98657708a96ea9fb2045389229320183316e7562964771
+"Dorfverein Gattikon",https://www.dorfverein-gattikon.ch/,#allrecords,687e46d9f94f51e115870cbe111bdf0169bc4c8232ed897f5352e980544c29e2
