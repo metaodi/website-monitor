@@ -2,7 +2,7 @@ name: Notify when website changes
 
 on:
   schedule:
-    - cron:  '*/30 * * * *' # every 30min
+    - cron:  '*/15 * * * *' # every 15min
   workflow_dispatch:
 
 jobs:
