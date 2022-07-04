@@ -4,3 +4,4 @@ label,url,selector,hash
 "SP Thalwil",https://thalwil.spkantonzh.ch/,#main,
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,
+"SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,
