@@ -72,19 +72,31 @@ try:
     cur.execute("SELECT * FROM website")
     rows = cur.fetchall()
     for row in rows:
-        from pprint import pprint
-        r = dict(row)
-        old_hash = r['hash']
-
-        log.info(f"Checking website {r['url']}...")
-        new_hash = wh.get_website_hash(r['url'], r['selector'], verify)
-        log.info(f"Hash: {new_hash}")
-        if old_hash != new_hash:
-             log.info(f"Hash changed!")
-             msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
-             send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
-             update_sql = ('UPDATE website set hash = ? WHERE selector = ? AND url = ?')
-             cur.execute(update_sql, [new_hash, row['selector'], row['url']])
+        try:
+            r = dict(row)
+            old_hash = r['hash']
+            log.info(f"Old hash: {old_hash}")
+            
+            log.info(f"Checking website {r['url']}...")
+            new_hash = wh.get_website_hash(r['url'], r['selector'], verify)
+            log.info(f"New hash: {new_hash}")
+            if old_hash == new_hash:
+                 # nothing changed
+                 continue
+            log.info(f"Hash changed!")
+            msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
+            send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
+            update_sql = ('UPDATE website set hash = ? WHERE selector = ? AND url = ?')
+            cur.execute(update_sql, [new_hash, row['selector'], row['url']])
+        except Exception as e:
+            print("Error: %s" % e, file=sys.stderr)
+            print(traceback.format_exc(), file=sys.stderr)
+            send_telegram_message(
+                TELEGRAM_TOKEN,
+                TELEGRAM_CHAT_ID,
+                f"🟠 Failed to get website: [{row['label']}]({row['url']}))\nError: {e}"
+            )
+            continue
     conn.commit()
 except Exception as e:
     print("Error: %s" % e, file=sys.stderr)
