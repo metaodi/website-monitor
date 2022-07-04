@@ -3,3 +3,4 @@ label,url,selector,hash
 "Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,6da90578daefd67f9176599d579d42435fa280d3d54b403f4365f58c8562522a
 "SP Thalwil",https://thalwil.spkantonzh.ch/,#main,
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,
+"EVP Thalwil",https://evp-thalwil.ch/home,#main,
