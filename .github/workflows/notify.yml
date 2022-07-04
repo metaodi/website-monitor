@@ -23,16 +23,17 @@ jobs:
           sudo apt-get install sqlite3
 
       - name: Check each website
-        run: |
-          sqlite3 website.db -cmd '.mode csv' -cmd '.import website.csv website'
-          sqlite3 websites.db 'SELECT website, selector, hash FROM website'
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+        run: ./run.sh
 
       - name: Notify telegram failure
+        if: ${{ failure()  || cancelled() }}
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
-            🔴 Website changed: [thalwil.ch](https://thalwil.ch)
-     
+            🔴 [Website Checker Job Failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
