@@ -98,7 +98,7 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
-            🟢 Website changed: [${{matrix.label }}](${{ matrix.url }})"
+            🟢 Website changed: [${{matrix.label }}](${{ matrix.url }})
 
       - name: Notify telegram failure
         if: ${{ failure()  || cancelled() }}
