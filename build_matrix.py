@@ -34,8 +34,8 @@ try:
     cur.execute("SELECT * FROM website")
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
-    config = [{'hallo': 'velo'}]
-    print(json.dumps(config))
+    jsonstr = json.dumps(config).replace('"', '\\"').replace('\n', '\\n')
+    print(jsonstr)
 
 except Exception as e:
     print("Error: %s" % e, file=sys.stderr)
