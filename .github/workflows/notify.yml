@@ -32,8 +32,8 @@ jobs:
   notify:
     needs: build-matrix
     runs-on: ubuntu-latest
-    continue-on-error: true
     strategy:
+      fail-fast: false
       matrix: ${{fromJSON(needs.build-matrix.outputs.matrix)}}
 
     steps:
