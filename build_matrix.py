@@ -34,6 +34,7 @@ try:
     cur.execute("SELECT * FROM website")
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
+    config = [{'hallo': 'velo'}]
     print(json.dumps(config))
 
 except Exception as e:
