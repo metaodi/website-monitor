@@ -91,7 +91,7 @@ jobs:
       #     rebase: 'true'
 
       - name: Notify telegram about website changes
-        if: ${{ steps.website.outputs.new_hash }} != ${{ matrix.hash }}
+        if: steps.website.outputs.new_hash != matrix.hash
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
