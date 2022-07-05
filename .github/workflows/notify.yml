@@ -109,3 +109,58 @@ jobs:
           format: markdown
           message: |
             🔴 [Website Checker Job Failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
+  
+  update_hashes:
+    needs: notify
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          sudo apt-get install sqlite3
+          sudo apt-get install chromium-browser
+      
+      - name: Update hashes
+        run: ./run.sh
+          
+      - name: Check if there are changes in the repo
+        run: |
+            git status --porcelain
+            if [[ -z $(git status --porcelain) ]];
+            then
+              echo "Repo is clean"
+              echo '::set-output name=changed::0'
+            else
+              echo "Repo is dirty"
+              echo '::set-output name=changed::1'
+            fi
+        id: changes
+         
+      - name: Commit and push to repo
+        if: steps.changes.outputs.changed == 1 # only try to commit if there are actually changes
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: main
+          name: GitHub Action Bot
+          email: oderbolz@gmail.com
+          commit-message: Update website.csv with updated hashes
+          rebase: 'true'
+
+      - name: Notify telegram failure
+        if: ${{ failure()  || cancelled() }}
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          format: markdown
+          message: |
+            🔴 [Website Checker Job Failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
