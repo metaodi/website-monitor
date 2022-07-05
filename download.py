@@ -11,7 +11,7 @@ from selenium.webdriver.common.by import By
 
 def _download_request(url, verify=True):
     retry_strategy = Retry(
-        total=3,
+        total=10,
         backoff_factor=2,
         status_forcelist=[403, 429, 500, 502, 503, 504],
         method_whitelist=["HEAD", "GET", "OPTIONS"]
