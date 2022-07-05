@@ -34,7 +34,8 @@ try:
     cur.execute("SELECT * FROM website")
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
-    jsonstr = json.dumps(config).replace('"', '\\"').replace('\n', '\\n')
+    matrix = {'include': config}
+    jsonstr = json.dumps(matrix).replace('"', '\\"').replace('\n', '\\n')
     print(jsonstr)
 
 except Exception as e:
