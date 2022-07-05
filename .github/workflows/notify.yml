@@ -24,7 +24,8 @@ jobs:
       - id: set-matrix
         run: |
           ./matrix.sh
-          echo '::set-output name=website_matrix::$(./matrix.sh)'
+          #echo '::set-output name=website_matrix::$(./matrix.sh)'
+          run: echo "::set-output name=matrix::{\"include\": [{\"label\": \"Thalwil informiert\", \"url\": \"https://www.thalwil.ch/aktuellesinformationen\", \"selector\": \"#informationList\", \"type\": \"static\", \"hash\": \"5cb7bfe4b6416f288bb19b5922b7a3a13b64dfb2543282f1be53eae179301775\"}, {\"label\": \"Anl\u00e4sse/Veranstaltungen Thalwil\", \"url\": \"https://www.thalwil.ch/anlaesseaktuelles\", \"selector\": \"#anlassList\", \"type\": \"static\", \"hash\": \"6da90578daefd67f9176599d579d42435fa280d3d54b403f4365f58c8562522a\"}]}"
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
 
