@@ -23,7 +23,7 @@ jobs:
 
       - id: set-matrix
         run: |
-          matrix=$(./matrix.sh | jq -cnR '.')
+          matrix=$(./matrix.sh | jq -cR '.')
           echo $matrix
           echo "::set-output name=matrix::$matrix"
     outputs:
