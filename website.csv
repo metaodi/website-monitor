@@ -1,14 +1,14 @@
 label,url,selector,type,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,5cb7bfe4b6416f288bb19b5922b7a3a13b64dfb2543282f1be53eae179301775
-"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,6da90578daefd67f9176599d579d42435fa280d3d54b403f4365f58c8562522a
-"SP Thalwil",https://thalwil.spkantonzh.ch/,#main,static,349ecbc55006cdb1fa43e20bb67106c3c64600ded8794ef08b758c4707d8d64e
+"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,91b8436d833498b175a3f40d02e576b6d6fc2ff6096e845db4bc22bb26316bed
+"SP Thalwil",https://thalwil.spkantonzh.ch/,#main,static,667aa236f93c999d72392231639e875eb975e7f5af640fde8ebd828819f810bb
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,bce3c327117329b7b5ee3dd307cf678fa640afc51e247093c69e13bda698d31a
-"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,521c4cce7002c51b78bfe74d1c2a540198fe9867a95780ab72611a9167e4adb1
+"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,cd328589b6d22b458f67ed5429f7eb8ece1ccbd96bef2a02494b1a6870b1bc50
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,2e368c9136024a6c8e9678ad191249c24aefb589e5565493b3bab6efff4c9bb0
-"Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,0ac177d599cf0685de717f7bc59950c419c6861885af58ee041d26dc0b8dea5c
+"Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,1212a1f2c28c090a76182b1aaadc731b7d1d9000f49d9b7958091b074c355e29
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,42c7fab0d784a6b370d048608d9116d494ae86558daf558789467394bc116bbc
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,1a05667868f3ff744a98657708a96ea9fb2045389229320183316e7562964771
 "Dorfverein Gattikon",https://www.dorfverein-gattikon.ch/,#allrecords,static,687e46d9f94f51e115870cbe111bdf0169bc4c8232ed897f5352e980544c29e2
-"Ökopolis",https://www.oekopolis.ch/,#site-content,static,c988013df3f5148277fb05b74a135bcc66795d626a112e6c7f7df0f19dad8507
+"Ökopolis",https://www.oekopolis.ch/,#site-content,static,4e3193288e6a22af6a45d1b187c336504d5f9282064908c452a24a9154139585
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,div.app-content-center,dynamic,23f5934a8affc071e9f5a4fb9355a8f94a6d4b1f5e147f405240f9bc2e599249
 "Thalwil politisch Facebook",https://de-de.facebook.com/groups/thalwilpolitsch/,"div[role=""feed""]",dynamic,d705a2a4b8538cee156b0f3a371259a8e2f009d1a580abd04b5c3028e9b07b0c
