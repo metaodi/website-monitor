@@ -57,9 +57,11 @@ def download_with_selenium(url, selector):
     driver.implicitly_wait(5)
 
     driver.get(url)
-    wait = WebDriverWait(driver, 10)
-    wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
-    content = driver.page_source
-    driver.quit()
+    try:
+        wait = WebDriverWait(driver, 10)
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
+        content = driver.page_source
+    finally:
+        driver.quit()
 
     return content
