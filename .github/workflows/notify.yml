@@ -24,8 +24,7 @@ jobs:
       - id: set-matrix
         run: |
           ./matrix.sh
-          #echo '::set-output name=website_matrix::$(./matrix.sh)'
-          echo "::set-output name=matrix::{\"include\":[{\"project\":\"foo\",\"config\":\"Debug\"},{\"project\":\"bar\",\"config\":\"Release\"}]}"
+          echo '::set-output name=website_matrix::$(./matrix.sh)'
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
 
