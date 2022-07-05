@@ -23,9 +23,9 @@ jobs:
 
       - id: set-matrix
         run: |
-          matrix=$(./matrix.sh | jq -cR '.')
+          matrix=$(./matrix.sh | jq -c '.')
           echo $matrix
-          echo "::set-output name=matrix::${matrix:1:${#matrix}-2}"
+          echo "::set-output name=matrix::$matrix"
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
 
