@@ -57,12 +57,12 @@ jobs:
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
           new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}")
           echo $new_hash
-          echo '::set-output name=hash::$new_hash'
+          echo '::set-output name=new_hash::$new_hash'
           
       - name: Has the hash changed?
         run: |
           echo "Old hash: ${{ matrix.hash }}"
-          echo "New hash: ${{ steps.website.outputs.hash }}"
+          echo "New hash: ${{ steps.website.outputs.new_hash }}"
       
       # - name: Check if there are changes in the repo
       #   run: |
@@ -89,7 +89,7 @@ jobs:
       #     rebase: 'true'
 
       - name: Notify telegram about website changes
-        if: ${{ steps.website.outputs.hash }} != ${{ matrix.hash }}
+        if: ${{ steps.website.outputs.new_hash }} != ${{ matrix.hash }}
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
