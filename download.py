@@ -54,11 +54,11 @@ def download_with_selenium(url, selector):
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     driver = webdriver.Chrome(options=chrome_options)
-    driver.implicitly_wait(5)
+    driver.implicitly_wait(10)
 
     driver.get(url)
     try:
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 20)
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
         content = driver.page_source
     finally:
