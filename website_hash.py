@@ -3,7 +3,7 @@
 """Hash of a website selector
 
 Usage:
-  website_hash.py --url <url-of-website> [--selector <css-selector>] [--verbose] [--no-verify]
+  website_hash.py --url <url-of-website> [--selector <css-selector>] [--type <type>] [--verbose] [--no-verify]
   website_hash.py (-h | --help)
   website_hash.py --version
 
@@ -12,6 +12,7 @@ Options:
   --version                     Show version.
   -u, --url <url-of-website>    URL of the website to monitor.
   -s, --selector <css-selector> CSS selector to check for changes [default: body].
+  -t, --type <type>             Type of website, one [default: static].
   --verbose                     Option to enable more verbose output.
   --no-verify                   Option to disable SSL verification for requests.
 """
@@ -57,13 +58,14 @@ if __name__ == "__main__":
 
     url = arguments['--url']
     selector = arguments['--selector']
+    dl_type = arguments['--type']
     verify = not arguments['--no-verify']
 
     if not verify:
         import urllib3
         urllib3.disable_warnings()
 
-    new_hash = get_website_hash(url, selector, verify)
+    new_hash = get_website_hash(url, selector, verify, dl_type)
     log.info(f"Hash: {new_hash}")
     print(new_hash)
     
