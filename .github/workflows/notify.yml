@@ -51,7 +51,16 @@ jobs:
 
       - name: Check website
         id: website
-        run: echo '::set-output name=hash::$(./website_hash.py -u ${{ matrix.url }} -s ${{ matrix.selector }})'
+        run: |
+          echo "Old hash: ${{ matrix.hash }}"
+          echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
+          new_hash=$(./website_hash.py -u ${{ matrix.url }} -s ${{ matrix.selector }})
+          echo '::set-output name=hash::$new_hash'
+          
+      - name: Has the hash changed?
+        run: |
+          echo "Old hash: ${{ matrix.hash }}"
+          echo "New hash: ${{ steps.website.outputs.hash }}"
       
       # - name: Check if there are changes in the repo
       #   run: |
