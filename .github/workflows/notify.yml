@@ -55,7 +55,7 @@ jobs:
         run: |
           echo "Old hash: ${{ matrix.hash }}"
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
-          new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}")
+          new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}")
           echo $new_hash
           echo '::set-output name=hash::$new_hash'
           
