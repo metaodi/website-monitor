@@ -20,8 +20,10 @@ import time
 import sqlite3
 import traceback
 import json
+import urllib
 import requests
 from docopt import docopt
+
 
 arguments = docopt(__doc__, version='Create JSON for dynamic build matrix 1.0')
 
@@ -35,7 +37,7 @@ try:
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
     matrix = {'include': config}
-    jsonstr = json.dumps(matrix).replace('"', '\\"').replace('\n', '\\n')
+    jsonstr = urllib.parse.urlencode(json.dumps(matrix))
     print(jsonstr)
 
 except Exception as e:
