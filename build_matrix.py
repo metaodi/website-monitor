@@ -37,8 +37,7 @@ try:
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
     matrix = {'include': config}
-    jsonstr = urllib.parse.quote(json.dumps(matrix))
-    print(jsonstr)
+    print(json.dumps(matrix))
 
 except Exception as e:
     print("Error: %s" % e, file=sys.stderr)
