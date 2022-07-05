@@ -24,16 +24,16 @@ jobs:
       - id: set-matrix
         run: |
           ./matrix.sh
-          echo '::set-output name=website_matrix::$(./matrix.sh)'
+          #echo '::set-output name=website_matrix::$(./matrix.sh)'
+          echo "::set-output name=matrix::{\"include\":[{\"project\":\"foo\",\"config\":\"Debug\"},{\"project\":\"bar\",\"config\":\"Release\"}]}"
     outputs:
-      website_matrix: ${{ steps.set-matrix.outputs.website_matrix }}
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
 
   notify:
     needs: build-matrix
     runs-on: ubuntu-latest
     strategy:
-      matrix:
-        include: ${{ fromJson(needs.build-matrix.outputs.website_matrix) }}
+      matrix: ${{fromJSON(needs.build-matrix.outputs.matrix)}}
 
     steps:
       - uses: actions/checkout@v3
