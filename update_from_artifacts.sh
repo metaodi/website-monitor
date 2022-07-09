@@ -15,7 +15,7 @@ rm -rf $DIR/website.db
 sqlite3 $DIR/website.db -cmd '.mode csv' -cmd '.import website.csv website' .quit
 
 # update db from artifacts
-for artifact in $DIR/*.txt
+for artifact in $DIR/hashes/*.txt
 do
     old_hash=$(basename $artifact .txt)
     new_hash=$(cat $artifact)

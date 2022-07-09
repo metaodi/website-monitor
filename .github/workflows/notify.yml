@@ -60,7 +60,8 @@ jobs:
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
           new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}")
           echo $new_hash
-          echo $new_hash > ${{ matrix.hash }}.txt
+          mkdir hashes
+          echo $new_hash > hashes/${{ matrix.hash }}.txt
           echo "::set-output name=new_hash::$new_hash"
           
       - name: Has the hash changed?
@@ -72,7 +73,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: hashes
-          path: ${{ matrix.hash }}.txt
+          path: hashes/${{ matrix.hash }}.txt
 
       - name: Notify telegram about website changes
         if: steps.website.outputs.new_hash != matrix.hash
