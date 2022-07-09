@@ -117,6 +117,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: hashes
+          path: hashes
 
       - name: Update hashes
         run: ./update_from_artifacts.sh
