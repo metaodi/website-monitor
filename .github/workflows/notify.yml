@@ -69,7 +69,6 @@ jobs:
           echo "New hash: ${{ steps.website.outputs.new_hash }}"
 
       - name: Upload hash as artifact
-        if: steps.website.outputs.new_hash != matrix.hash
         uses: actions/upload-artifact@v3
         with:
           name: hashes
@@ -120,10 +119,7 @@ jobs:
           name: hashes
 
       - name: Update hashes
-        env:
-          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-        run: ./update.sh
+        run: ./update_from_artifacts.sh
           
       - name: Check if there are changes in the repo
         run: |
