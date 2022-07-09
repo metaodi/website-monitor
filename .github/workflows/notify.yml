@@ -60,12 +60,20 @@ jobs:
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
           new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}")
           echo $new_hash
+          echo $new_hash > ${{ matrix.hash }}.txt
           echo "::set-output name=new_hash::$new_hash"
           
       - name: Has the hash changed?
         run: |
           echo "Old hash: ${{ matrix.hash }}"
           echo "New hash: ${{ steps.website.outputs.new_hash }}"
+
+      - name: Upload hash as artifact
+        if: steps.website.outputs.new_hash != matrix.hash
+        uses: actions/upload-artifact@v3
+        with:
+          name: hashes
+          path: ${{ matrix.hash }}.txt
 
       - name: Notify telegram about website changes
         if: steps.website.outputs.new_hash != matrix.hash
@@ -105,7 +113,12 @@ jobs:
           pip install -r requirements.txt
           sudo apt-get install sqlite3
           sudo apt-get install chromium-browser
-      
+
+      - name: Download hashes
+        uses: actions/download-artifact@v3
+        with:
+          name: hashes
+
       - name: Update hashes
         env:
           TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
