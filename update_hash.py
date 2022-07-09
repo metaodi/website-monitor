@@ -48,7 +48,7 @@ try:
     conn.row_factory = sqlite3.Row
     
     new_hash = arguments['--new']
-    old_hash = arguments[''--old]
+    old_hash = arguments['--old']
 
     cur = conn.cursor()
     try:
