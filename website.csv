@@ -1,6 +1,6 @@
 label,url,selector,type,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,d2a8b4e868cb3dc60ca39326a1b30518579d21c03cdbe2d4cbbadf44630baa1b
-"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,6fef8411e13f25a355bdbdd6e5cf439634019eceacaa02fde11e597249ac4c42
+"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,16f18a899f641397848eba54ce05d05b9ca1bfec8158b6b99df1014cf139e142
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,e862adb53fbfa7bed4cf267ff95b7621e84dec144eb75b977703960f913c7e75
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,9c8dd629e80d100d2d79d97484b8497d2b718f5d913944b4ce4c6aef715058f8
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,bce3c327117329b7b5ee3dd307cf678fa640afc51e247093c69e13bda698d31a
@@ -10,4 +10,4 @@ label,url,selector,type,hash
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,42c7fab0d784a6b370d048608d9116d494ae86558daf558789467394bc116bbc
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,1a05667868f3ff744a98657708a96ea9fb2045389229320183316e7562964771
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
-"Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,0b5408c7c0a749dc1b1d8da42d852a0c1c69bebd395aeb0550b134547823401c
+"Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,2527d177484fc65caddbc9cfc8055a5bb7d6f90c383d776e691a5c4ab42fbe57
