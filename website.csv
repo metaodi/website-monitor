@@ -8,6 +8,6 @@ label,url,selector,type,hash
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,2e368c9136024a6c8e9678ad191249c24aefb589e5565493b3bab6efff4c9bb0
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,1212a1f2c28c090a76182b1aaadc731b7d1d9000f49d9b7958091b074c355e29
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,42c7fab0d784a6b370d048608d9116d494ae86558daf558789467394bc116bbc
-"GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,1a05667868f3ff744a98657708a96ea9fb2045389229320183316e7562964771
+"GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,90d107b9cdc5bb148fa460a5fe712b0ce12dd3ead338b529f98e890fa2f75153
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,2527d177484fc65caddbc9cfc8055a5bb7d6f90c383d776e691a5c4ab42fbe57
