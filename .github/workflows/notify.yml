@@ -93,7 +93,7 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
-            🔴 [Website Checker Job Failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
+            🔴 [Website check for «${{matrix.label }}» failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
   
   update_hashes:
     needs: notify
