@@ -7,7 +7,7 @@ label,url,selector,type,hash
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,static,a9c069051b3486b600ec50dfe28d301bb53d9ad7d048e8d19240a0e0dd74a3d4
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,2e368c9136024a6c8e9678ad191249c24aefb589e5565493b3bab6efff4c9bb0
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,f41f85488498e003799694e5d9bfadecc144d1276fe5b224ed0417cc9abe00d1
-"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,533330e82b5430c1867ff516023cefa33d25460a70d2d3fe1f8a3040d5a543d6
+"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,101235acaa4ceb3abb69ef34fcb9186053657cd2f3a528ac050dfe6a6ce60a26
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,90d107b9cdc5bb148fa460a5fe712b0ce12dd3ead338b529f98e890fa2f75153
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,9dfcae5e317a25535006b3bd45f6a0a8e8644aee1dedc9c7ea04cbe7fb6601b3
