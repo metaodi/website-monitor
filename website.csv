@@ -12,4 +12,4 @@ label,url,selector,type,hash
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,9dfcae5e317a25535006b3bd45f6a0a8e8644aee1dedc9c7ea04cbe7fb6601b3
 "ZPZ News",https://www.zpz.ch/news-index,.news-container,static,81ccf780ef7d2267b92047c871f155422ca7cadc6bec2187cbba809d14914b48
-"ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,main section,static,93e597b671a82b0938512fbd13b7b914cd41fe0cff389b854be7d93c3191f109
+"ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section",static,e9caf5de6cbd4e094405da3c8a8bc1468cea45750a1d12f4216c34372e0513f4
