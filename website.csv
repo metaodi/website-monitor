@@ -1,5 +1,5 @@
 label,url,selector,type,hash
-"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,35154d7aa49526d574129b1cafcb74d9fc967c4ff55149b5d71f0e0679ffc0da
+"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,76fa3a170bc08b042d2096d42eae1a16a075122b65b434200dac28cec85700cc
 "Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,5887bc12239bd234bac807da5bd79cadef91a3532dbc960d0a61e5f179b5b2c6
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,de8e955981c0af16b9391e4379de5c256141a7a16605d2e1fc5d4fb29597daf0
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,2ee3531ceb8fa3116c5ccac393f328fee564a3d73ccd0ae372e66ea9c1fb48de
@@ -13,4 +13,4 @@ label,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,6cc290f798d961c6851bf50be893b22d667f2fa563383938de8140ea1190ed17
 "ZPZ News",https://www.zpz.ch/news-index,.news-container,static,81ccf780ef7d2267b92047c871f155422ca7cadc6bec2187cbba809d14914b48
 "ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
-"Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,body,static,3566f91f561def10da093c1da72e26f93aa923006ef1d31840845e8163374e80
+"Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,body,static,3abf12b249049a8a19cb1c09f1a1a59d6161c5146eb97edd002af74724de1272
