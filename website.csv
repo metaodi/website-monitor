@@ -13,4 +13,4 @@ label,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,9a784063121a1856ffe9ea2122c6193effbd6b409e2dae43ee6e14ffc49e513b
 "ZPZ News",https://www.zpz.ch/news-index,.news-container,static,81ccf780ef7d2267b92047c871f155422ca7cadc6bec2187cbba809d14914b48
 "ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
-"Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,body,static,3abf12b249049a8a19cb1c09f1a1a59d6161c5146eb97edd002af74724de1272
+"Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,body,static,7733f5d5402421ecc8d32125144a32fd148883e84fa1ead753c2dda3c0ae36cd
