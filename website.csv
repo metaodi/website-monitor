@@ -1,6 +1,6 @@
 label,url,selector,type,hash
-"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,a2133eb8c965c5e068a32c5de306756fdc07734f38da7cd38de43d388c3f163e
-"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,dfa07164ae2010eb44b7a6ce42805a8420b7bfffb4eccf76d175e7159670feee
+"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,393a18ed33f04d3731a83bfb8848b8d1c578b9cefab7f848f6fef8c7e0ecb66b
+"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,ceb1fd8ea5b673d14d44cb3223743d25c5617fc7080205d3d83c784048ae9f4d
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,de8e955981c0af16b9391e4379de5c256141a7a16605d2e1fc5d4fb29597daf0
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,2ee3531ceb8fa3116c5ccac393f328fee564a3d73ccd0ae372e66ea9c1fb48de
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,bce3c327117329b7b5ee3dd307cf678fa640afc51e247093c69e13bda698d31a
@@ -10,7 +10,7 @@ label,url,selector,type,hash
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,101235acaa4ceb3abb69ef34fcb9186053657cd2f3a528ac050dfe6a6ce60a26
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,90d107b9cdc5bb148fa460a5fe712b0ce12dd3ead338b529f98e890fa2f75153
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
-"Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,9a784063121a1856ffe9ea2122c6193effbd6b409e2dae43ee6e14ffc49e513b
+"Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public_bodies&municipalityName=Thalwil,"div.app-content-center div.list-entry:nth-child(1)",dynamic,1840c0e47710fd02dee0b83f0549a1967bcf2cd493099980c1907c66c7b2b0a0
 "ZPZ News",https://www.zpz.ch/news-index,.news-container,static,81ccf780ef7d2267b92047c871f155422ca7cadc6bec2187cbba809d14914b48
 "ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,body,static,7733f5d5402421ecc8d32125144a32fd148883e84fa1ead753c2dda3c0ae36cd
