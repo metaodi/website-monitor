@@ -142,7 +142,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: main
           name: GitHub Action Bot
-          email: oderbolz@gmail.com
+          email: website-monitor@metaodi.ch
           commit-message: Update website.csv with updated hashes
           rebase: 'true'
 
