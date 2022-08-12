@@ -7,7 +7,7 @@ label,url,selector,type,hash
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,static,2f920be7dd6f661e1fc07254090ba450079a94dfe47675e6138d1c387e4023db
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,a48bfdab02cb3c34391f3bdde1abcab0de9e6fbe1a916eafaea9a740738a9a91
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,1212a1f2c28c090a76182b1aaadc731b7d1d9000f49d9b7958091b074c355e29
-"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,d84108e4d79ee3fb7506e25035e5e7220d9c66608c25c1660b2910784d67d75c
+"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,97e0beb106233e66bb1847070366537e4269ac0374aac504a49fb4e6826d07a5
 "Grüne Bezirk Horgen",https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,fa5f3405d247cec8f2ad4b4e4a52e8a77c4160dd0aa2b5dbbd75437cb15298a0
 "Grüne Kanton Zürich",https://gruene-zh.ch/aktuell,.views-row,static,716128edf70878326c0c2e79e19701d576ec8d00e42d67647f1d375450bc8157
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,90d107b9cdc5bb148fa460a5fe712b0ce12dd3ead338b529f98e890fa2f75153
