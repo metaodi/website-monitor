@@ -3,7 +3,7 @@ label,url,selector,type,hash
 "Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,b66757767db2b70c232320680dbea77c25ff79fabd2c31e66c6ccc41a1dc5d0f
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,83a3cb1d4d491b6b59b6acef9a089276a111ddc448f023eafcffa33efe7443a2
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,2ee3531ceb8fa3116c5ccac393f328fee564a3d73ccd0ae372e66ea9c1fb48de
-"FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,bce3c327117329b7b5ee3dd307cf678fa640afc51e247093c69e13bda698d31a
+"FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,a96e1995513c92b500ac9aa61a8113bc0dd56c5b4b671d98ea8694d3db1afcc5
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,static,b43aba2a300e53ca9905e4d67c3307aea6aab2477c85c6eaf25c43e45a74b532
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,a48bfdab02cb3c34391f3bdde1abcab0de9e6fbe1a916eafaea9a740738a9a91
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,1212a1f2c28c090a76182b1aaadc731b7d1d9000f49d9b7958091b074c355e29
