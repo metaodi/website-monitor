@@ -5,7 +5,7 @@ label,url,selector,type,hash
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,2ee3531ceb8fa3116c5ccac393f328fee564a3d73ccd0ae372e66ea9c1fb48de
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,6bdfaa080db6983db2f8fb0170ad14e2614242aa2d608cff7c7be3a94a767238
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,static,b43aba2a300e53ca9905e4d67c3307aea6aab2477c85c6eaf25c43e45a74b532
-"SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,2e368c9136024a6c8e9678ad191249c24aefb589e5565493b3bab6efff4c9bb0
+"SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,a48bfdab02cb3c34391f3bdde1abcab0de9e6fbe1a916eafaea9a740738a9a91
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,1212a1f2c28c090a76182b1aaadc731b7d1d9000f49d9b7958091b074c355e29
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,c68f23afe7a591e9c880b503c4815d64c4564e5de2c116e3df9e4eace69fc782
 "Grüne Bezirk Horgen",https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,fa5f3405d247cec8f2ad4b4e4a52e8a77c4160dd0aa2b5dbbd75437cb15298a0
