@@ -17,4 +17,4 @@ label,url,selector,type,hash
 "ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,"#page .content",static,d0cf7ad8e5b78aeaf9aa06dd4e33dcb04b16381c9abe6bcc4f6eb4eea288c3c7
 "HEV TRO",https://www.hev-tro.ch/,div.news,static,aee85ca083509a62069e48c598809a7fb9e5e13ede1a178af4d74efabc9da253
-"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,ada50df6d3d89b57e1e132bf755c0ef1e778cc83fdf4761ef7703cc5820b77b9
+"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,59aca7b7c90465f1db930ce4a527cb111ae23c8a9a8336b49338e1a79d0c2664
