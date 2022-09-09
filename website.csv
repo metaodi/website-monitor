@@ -1,6 +1,6 @@
 label,url,selector,type,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,1ab830b0bede37791772235315db877af1ad77146724d73166cc15e3bf1e1ba2
-"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,8e1b6bc71d721e32806fd09e49fc480882b47a4cd15c1f95d0e6f7bd2a355152
+"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,27ba01a69d64f0f66b13d79277741d371424faa48b38c55f711ecc6f979c2ea9
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,a8370c2a1378e5a1727390c3ed1be08d6f8aaa40aa2a3dba82cb9f60edc07818
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,d1ce3b3403ed1d0a0cfe0c08fcb9d25914da16c9266f0109af84e4def9a5301e
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
@@ -12,9 +12,9 @@ label,url,selector,type,hash
 "Grüne Kanton Zürich",https://gruene-zh.ch/aktuell,.views-row,static,d9cea882143b821e08a23b8a3396562ea7e00a72ebf17248d50ac8d08c1d8f2b
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,1b66a88f6a71ad21cc142fa8011a2b45b766c6444e4481fbab731f2c556ba2a8
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
-"Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,65c4d2a406b1ffa80c2e1f432aa0b79757fc5c1dd918357209567cc4accac4fb
+"Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,6e962a793d6ad24d41f90c1608cda15f2ac9c139e69a3b10dfa2a2ef25232c58
 "ZPZ News",https://www.zpz.ch/news-index,.news-container,static,81ccf780ef7d2267b92047c871f155422ca7cadc6bec2187cbba809d14914b48
 "ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,"#page .content",static,d0cf7ad8e5b78aeaf9aa06dd4e33dcb04b16381c9abe6bcc4f6eb4eea288c3c7
 "HEV TRO",https://www.hev-tro.ch/,div.news,static,aee85ca083509a62069e48c598809a7fb9e5e13ede1a178af4d74efabc9da253
-"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,59aca7b7c90465f1db930ce4a527cb111ae23c8a9a8336b49338e1a79d0c2664
+"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,751f23f01c2b58170061da7473960a71305d3ad331ba60a897a7eb8a0fcc67eb
