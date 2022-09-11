@@ -1,7 +1,7 @@
 label,url,selector,type,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,9a91f6a731b72816ce0486061f0325ebcbac4266881682436ee5d7ceff43d4f2
-"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,2e968c3a0d9e952a90e4cad75915bedd71b0d2db458643faee3b57a7bf0d7fd0
-"Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,a8370c2a1378e5a1727390c3ed1be08d6f8aaa40aa2a3dba82cb9f60edc07818
+"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,c5104221d9182485109c66e42eb41b2dcd7163508e4660205b351618d84ba659
+"Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,15e361101381ee886a5890e38a6b750814547d79dba3f58a16a91599900cb3ba
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,fe287e3f279207ff9221afc920cae25cf789a3067d1309228d1682eca363eb98
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,static,8dd9ad7b5816da30b6026decaad1da9934cd224f9d91fa9aeec3f1b7fe88bf19
@@ -17,4 +17,4 @@ label,url,selector,type,hash
 "ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,"#page .content",static,d0cf7ad8e5b78aeaf9aa06dd4e33dcb04b16381c9abe6bcc4f6eb4eea288c3c7
 "HEV TRO",https://www.hev-tro.ch/,div.news,static,aee85ca083509a62069e48c598809a7fb9e5e13ede1a178af4d74efabc9da253
-"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,9e847953f1dc83e76bb29095e6c6d20c722c9f622da6f492d60af2369804296d
+"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,0c138f278f38e5356bc5b73a6595e7f278c8e443fb8cadb3ee579776901d7412
