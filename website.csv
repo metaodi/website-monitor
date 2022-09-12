@@ -1,10 +1,10 @@
 label,url,selector,type,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,9a91f6a731b72816ce0486061f0325ebcbac4266881682436ee5d7ceff43d4f2
-"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,c5104221d9182485109c66e42eb41b2dcd7163508e4660205b351618d84ba659
+"Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,7f14047e301a14c42e6934d0a0f6e0e9f8de9d099f6da7af6c857d789bc05ba3
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,15e361101381ee886a5890e38a6b750814547d79dba3f58a16a91599900cb3ba
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,fe287e3f279207ff9221afc920cae25cf789a3067d1309228d1682eca363eb98
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
-"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,8dd9ad7b5816da30b6026decaad1da9934cd224f9d91fa9aeec3f1b7fe88bf19
+"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,b5e699149b859125dc96be3c01ea2500b5c58bfa7a5371555cae67df5842dabd
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,2e368c9136024a6c8e9678ad191249c24aefb589e5565493b3bab6efff4c9bb0
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,1212a1f2c28c090a76182b1aaadc731b7d1d9000f49d9b7958091b074c355e29
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,c68f23afe7a591e9c880b503c4815d64c4564e5de2c116e3df9e4eace69fc782
@@ -17,4 +17,4 @@ label,url,selector,type,hash
 "ZPZ Agenda",https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",https://www.vereinprobadibuerger1.ch/,"#page .content",static,d0cf7ad8e5b78aeaf9aa06dd4e33dcb04b16381c9abe6bcc4f6eb4eea288c3c7
 "HEV TRO",https://www.hev-tro.ch/,div.news,static,aee85ca083509a62069e48c598809a7fb9e5e13ede1a178af4d74efabc9da253
-"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,2178de0e246c5fc32dc3f44a7f578914676b580ceac78dde948a08b330b41534
+"HGV Thalwil",https://hgv-thalwil.ch/news/,body,static,c962bfe4428b45ce66d6ed81796dac4e71b5703e456e127d7c95d80441bb8671
