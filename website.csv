@@ -2,14 +2,14 @@ label,url,selector,type,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,5430c89bc72a4458f2ecb52f225018cdad33bce421c89e8c1824bc9117f628cf
 "Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,c5e881d548a545ebe1a0b86cd251572b486c741977ca8fb7a24318558d3193bd
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,61bbbcf818fac6646b7a6f614cb25d80cb5175b6a95f67ada5ebec48ddcbc1e4
-"SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,651f276b395df6119c0c24f39a392c8af60349142d5e2ffcc341468b5d323753
+"SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,2ec4f8731bb0a7026b6f20e7a28057dc88ff2ee4bbf2de99c5460247cce833db
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
-"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,33e42240aba5d95e2ede5371f31ea7e1eb5f01820bb6c9b046131bdaffe6c757
+"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,b63520b009bd4589b0699a5b8b842ea002c71c4136fa569fe3f924f0f31d16a9
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,2e368c9136024a6c8e9678ad191249c24aefb589e5565493b3bab6efff4c9bb0
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,1212a1f2c28c090a76182b1aaadc731b7d1d9000f49d9b7958091b074c355e29
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,c68f23afe7a591e9c880b503c4815d64c4564e5de2c116e3df9e4eace69fc782
 "Grüne Bezirk Horgen",https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,fa5f3405d247cec8f2ad4b4e4a52e8a77c4160dd0aa2b5dbbd75437cb15298a0
-"Grüne Kanton Zürich",https://gruene-zh.ch/aktuell,.views-row,static,6ed8af29f0aa3e7090a9dd69ed9073e87e6bc17e356a875272f991a0b2602c6c
+"Grüne Kanton Zürich",https://gruene-zh.ch/aktuell,.views-row,static,dba0b7db68f71d6d6cebb8caca8a071fe7829d8fc4a2019a42d5e7ebb3756908
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,133134248055d5e15b751cf4452fd4f961a88f827a05f6241875d428c4f6d23e
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,04210f9f23f2571da57323e2c24397f34ad60cada79b0004d57288640ce42243
