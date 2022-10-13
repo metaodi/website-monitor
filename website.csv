@@ -1,5 +1,5 @@
 label,url,selector,type,hash
-"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,769251fe5919a149b739bc892939be2c7f24a34378fd0dba2bdd37d5938c6713
+"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,cedbcb7ad52f71a11e9162b09a34aecb0aed4f2ad56397c51f2b4bff9ae69a6e
 "Anlässe/Veranstaltungen Thalwil",https://www.thalwil.ch/anlaesseaktuelles,#anlassList,static,214895bb3fb7f96e77bb337e768684966aa7e28d59c712974e7ab086b1f47cb5
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,c61f4a22d20d08711d6d32a867fdeb750a0c778b791d4fcc6600c334cc36caf0
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,704fcf24fa07bfab2d7308bab069c025e3bee2545afb2bb8335f2120b067209c
