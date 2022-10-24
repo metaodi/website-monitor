@@ -4,7 +4,7 @@ label,url,selector,type,hash
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,ef3c938cd4eceaf6908e34902e969adf50c9b1e69a4536d3e758c42a8255067b
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,704fcf24fa07bfab2d7308bab069c025e3bee2545afb2bb8335f2120b067209c
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
-"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,dd22f1fc2c8f3c9632f1a2decba4c337fa73072c2332840f1957432554426f99
+"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,71294f4b21180a7f2506eab476241b8856445e4b6131e2ade5895c28f19d393d
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,b5629b0ca72cc3665e9c9d6bacfceca12dee1e7f4bbbab31f067463dec55afe8
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,55ea56b9b431b2d3334ad17db2763b6823906db0ae8fd4b7ace7d2f196ababf2
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,c68f23afe7a591e9c880b503c4815d64c4564e5de2c116e3df9e4eace69fc782
