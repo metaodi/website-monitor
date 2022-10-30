@@ -2,20 +2,20 @@ label,url,selector,type,hash
 "Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,03bf71c0cdf6b25439a30ae1ca697fbfad61f0e0dd83fa1ca457c3b500cdaa5d
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,5e8ef2b9b8608a8d369b23c17c0065a5a96d68447e4fbf93ce3a1f86f2469e38
 "SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,0637f0907a2bb8a81f754e6170919de576aaf28cbf66f1f19acf22041bc8d78e
-"SP Bezirk Horgen",https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,0637f0907a2
+"SP Bezirk Horgen",https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,12fb5f545c7fff769d22aafa3fdc8268dd018e5a816b069110754a371836e776
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
-"FDP Bezirk Horgen",https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,db461
+"FDP Bezirk Horgen",https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,470a9590bda0f9844c39a985cb27c8e646098f29499fe782d3484e876857edeb
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,static,71294f4b21180a7f2506eab476241b8856445e4b6131e2ade5895c28f19d393d
-"EVP Bezirk Horgen",https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,71294f4
+"EVP Bezirk Horgen",https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,f15a8cc10802f2809f58d9213c65a3f6f89ababdc8415c9212b83677068a841d
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,b5629b0ca72cc3665e9c9d6bacfceca12dee1e7f4bbbab31f067463dec55afe8
-"SVP Bezirk Horgen",https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,b5629b0c
+"SVP Bezirk Horgen",https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,29758fffb6190fe7bbd163dbc46d8e471519e056b2e58063896b3d6953c3a1a8
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,55ea56b9b431b2d3334ad17db2763b6823906db0ae8fd4b7ace7d2f196ababf2
-"Mitte Bezirk Horgen",https://zh.die-mitte.ch/bezirk-horgen/,main,static,55ea56b9b
+"Mitte Bezirk Horgen",https://zh.die-mitte.ch/bezirk-horgen/,main,static,e794059f984d0a98335bba83d18f3bbb64ed9d51e8aa53ee6f6d479bbca7e66d
 "Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,c68f23afe7a591e9c880b503c4815d64c4564e5de2c116e3df9e4eace69fc782
 "Grüne Bezirk Horgen",https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,fa5f3405d247cec8f2ad4b4e4a52e8a77c4160dd0aa2b5dbbd75437cb15298a0
 "Grüne Kanton Zürich",https://gruene-zh.ch/aktuell,.views-row,static,e9ed65f7de90aee0b2f71913a1096477d8bdd4e2872ed38b9e6994f6176a5a99
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,133134248055d5e15b751cf4452fd4f961a88f827a05f6241875d428c4f6d23e
-"GLP Bezirk Horgen",https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,133134
+"GLP Bezirk Horgen",https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,a952f4d8db2b451acb7e25469b8c75fd832b9ec568e32ecad0451ed708362750
 "Ökopolis",https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
 "Digitales Amtsblatt Thalwil",https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,b63f953431e399a08606e6c0b5f1a597b465a00abce1298cafb071078aa9ad09
 "ZPZ News",https://www.zpz.ch/news-index,.news-container,static,a7ce2248db9d0e9d6f9860c167130cda208075287e9ccd8011dc4ea9d142b9f3
