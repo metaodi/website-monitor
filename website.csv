@@ -5,13 +5,13 @@ label,url,selector,type,hash
 "SP Bezirk Horgen",https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,12409efb0a5fc6e5adcc9c8059831d2f966617045618071541c1728e2ef917e2
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
 "FDP Bezirk Horgen",https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,470a9590bda0f9844c39a985cb27c8e646098f29499fe782d3484e876857edeb
-"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,acf4de1ca145ae8cc1b70236da6aa5b32f43da98498e228c656c318fa4885f2f
+"EVP Thalwil",https://evp-thalwil.ch/home,#main,static,5d10fedd921656c19592306c593c3c233b8ffb49d32e2f54e8f1e43ecf7cacb9
 "EVP Bezirk Horgen",https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,f15a8cc10802f2809f58d9213c65a3f6f89ababdc8415c9212b83677068a841d
 "SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,b5629b0ca72cc3665e9c9d6bacfceca12dee1e7f4bbbab31f067463dec55afe8
 "SVP Bezirk Horgen",https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,29758fffb6190fe7bbd163dbc46d8e471519e056b2e58063896b3d6953c3a1a8
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,aa949110483e27e79489953131510cb5942aaa634ecc7e1b265b1110bfc80022
 "Mitte Bezirk Horgen",https://zh.die-mitte.ch/bezirk-horgen/,main,static,e794059f984d0a98335bba83d18f3bbb64ed9d51e8aa53ee6f6d479bbca7e66d
-"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,c68f23afe7a591e9c880b503c4815d64c4564e5de2c116e3df9e4eace69fc782
+"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,8479ca4e394982e7215892c0e994f53a5f2d47c972f92ff7182fd7d1a4b5bc04
 "Grüne Bezirk Horgen",https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,fa5f3405d247cec8f2ad4b4e4a52e8a77c4160dd0aa2b5dbbd75437cb15298a0
 "Grüne Kanton Zürich",https://gruene-zh.ch/aktuell,.views-row,static,70bffc937960d87822e442df80837da462447125a0abf656ae69257b6fb3c6f1
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,133134248055d5e15b751cf4452fd4f961a88f827a05f6241875d428c4f6d23e
