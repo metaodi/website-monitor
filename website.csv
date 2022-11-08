@@ -11,7 +11,7 @@ label,url,selector,type,hash
 "SVP Bezirk Horgen",https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,29758fffb6190fe7bbd163dbc46d8e471519e056b2e58063896b3d6953c3a1a8
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,aa949110483e27e79489953131510cb5942aaa634ecc7e1b265b1110bfc80022
 "Mitte Bezirk Horgen",https://zh.die-mitte.ch/bezirk-horgen/,main,static,e794059f984d0a98335bba83d18f3bbb64ed9d51e8aa53ee6f6d479bbca7e66d
-"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,ece1abc32711d67a6e761f6a20573c72f418d758866bde7d45fda71acd4717db
+"Grüne Thalwil",https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,a6ee892c5398b5ed0a94e216ae425da15a6c0e1c11c2b4038a09c6964041e723
 "Grüne Bezirk Horgen",https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,fa5f3405d247cec8f2ad4b4e4a52e8a77c4160dd0aa2b5dbbd75437cb15298a0
 "Grüne Kanton Zürich",https://gruene-zh.ch/aktuell,.views-row,static,70bffc937960d87822e442df80837da462447125a0abf656ae69257b6fb3c6f1
 "GLP Thalwil",https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,133134248055d5e15b751cf4452fd4f961a88f827a05f6241875d428c4f6d23e
