@@ -1,13 +1,13 @@
 label,url,selector,type,hash
-"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,712ba1cc1d5ca537da8b121af1cf7dad48c4ce2a4be3c0944b98f1f49e258d28
+"Thalwil informiert",https://www.thalwil.ch/aktuellesinformationen,#informationList,static,c3f3b35aa25907ca2a1b490e9cfcbc27b33a056c51e4bfb63fc3089f247986e3
 "Politische Infos Thalwil",https://www.thalwil.ch/politikinformationen,#informationList,static,620113d7fa98586bd01e1fa2a79c779bafdba678d8e3b89717de0fdbb672b1fd
-"SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,25038ce330ed74d5a61044fa5454de1487265dbf7246e6081aa621ef1b144693
-"SP Bezirk Horgen",https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,12409efb0a5fc6e5adcc9c8059831d2f966617045618071541c1728e2ef917e2
+"SP Thalwil",https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,52afb72ef125897a7ee56d425ede24742a5805f7fa8e1704c5723730e537f055
+"SP Bezirk Horgen",https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,6ddd358cf04e88a281375883032c58f727111682bc2ddc4441a71f7a9cc7aa14
 "FDP Thalwil",https://www.fdpthalwil.ch/aktuell/news,#main-content,static,db461503d6ead47ce391192e2bd88333a7d8df40dd29b59c64301377233ff0f7
 "FDP Bezirk Horgen",https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,470a9590bda0f9844c39a985cb27c8e646098f29499fe782d3484e876857edeb
 "EVP Thalwil",https://evp-thalwil.ch/home,#main,static,cfee4e7f56d4a35f3c95b19c5d54795bc6303d47e4975a512f45b10584f757d8
 "EVP Bezirk Horgen",https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,f15a8cc10802f2809f58d9213c65a3f6f89ababdc8415c9212b83677068a841d
-"SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,b5629b0ca72cc3665e9c9d6bacfceca12dee1e7f4bbbab31f067463dec55afe8
+"SVP Thalwil",https://www.svp-thalwil.ch/,#page-zones__main,static,cedb851f929267b2dc14f836c99c21b4ffb18a38d68ce4d149adf8059f5719ee
 "SVP Bezirk Horgen",https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,29758fffb6190fe7bbd163dbc46d8e471519e056b2e58063896b3d6953c3a1a8
 "Mitte Thalwil",https://thalwil.die-mitte.ch/,main,static,aa949110483e27e79489953131510cb5942aaa634ecc7e1b265b1110bfc80022
 "Mitte Bezirk Horgen",https://zh.die-mitte.ch/bezirk-horgen/,main,static,e794059f984d0a98335bba83d18f3bbb64ed9d51e8aa53ee6f6d479bbca7e66d
