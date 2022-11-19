@@ -5,7 +5,7 @@ label,active,url,selector,type,hash
 "SP Bezirk Horgen",yes,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,769e3ed6e68de2709ba9ac0c8c6b423dcea3d1a522c68275c4f46a8c951e0ba1
 "FDP Thalwil",yes,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,6e324940370055af196b3925aaa240c4c139d59e6c0015e19910efa656c58aa8
 "FDP Bezirk Horgen",yes,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,2affc5108b6ddd22cfb568e68d758e0b4492dd998ee97348e900d6eceadba393
-"EVP Thalwil",yes,https://evp-thalwil.ch/home,#main,static,018e80bed4f198802124fc96b58392fe01d3c2a4261121265bd8762341021043
+"EVP Thalwil",yes,https://evp-thalwil.ch/home,#main,static,31b7c82f8547610fb5242cc56188688bec21e0d57df30b256b4451e79e1e74cb
 "EVP Bezirk Horgen",yes,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,f15a8cc10802f2809f58d9213c65a3f6f89ababdc8415c9212b83677068a841d
 "SVP Thalwil",yes,https://www.svp-thalwil.ch/,#page-zones__main,static,cedb851f929267b2dc14f836c99c21b4ffb18a38d68ce4d149adf8059f5719ee
 "SVP Bezirk Horgen",yes,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,29758fffb6190fe7bbd163dbc46d8e471519e056b2e58063896b3d6953c3a1a8
