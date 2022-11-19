@@ -33,7 +33,7 @@ try:
     conn.row_factory = sqlite3.Row
 
     cur = conn.cursor()
-    cur.execute("SELECT * FROM website")
+    cur.execute("SELECT * FROM website where active = 'yes'")
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
     matrix = {'include': config}
