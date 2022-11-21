@@ -13,7 +13,7 @@ label,active,url,selector,type,hash
 "Mitte Bezirk Horgen",yes,https://zh.die-mitte.ch/bezirk-horgen/,main,static,e794059f984d0a98335bba83d18f3bbb64ed9d51e8aa53ee6f6d479bbca7e66d
 "Grüne Thalwil",yes,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,a6ee892c5398b5ed0a94e216ae425da15a6c0e1c11c2b4038a09c6964041e723
 "Grüne Bezirk Horgen",yes,https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,1dafb027d8917cbc425552453ef01c397714a416d29853cf4c7f500adf7fb7f5
-"Grüne Kanton Zürich",yes,https://gruene-zh.ch/aktuell,.views-row,static,e17636ca58343e0401406be6056d5e81049090863228ce24696b95dd0ada0ff6
+"Grüne Kanton Zürich",yes,https://gruene-zh.ch/aktuell,.views-row,static,46b765ac9e63ff1946a079ba04bb6a11f19da19a8e44aa4a38dda850ac12db41
 "GLP Thalwil",yes,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,133134248055d5e15b751cf4452fd4f961a88f827a05f6241875d428c4f6d23e
 "GLP Bezirk Horgen",yes,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,a952f4d8db2b451acb7e25469b8c75fd832b9ec568e32ecad0451ed708362750
 "Ökopolis",no,https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,77a3441fc8178ceda67f5f4929c7cffd0557714ab3564b344cee4109c015ecae
