@@ -1,11 +1,11 @@
 label,active,url,selector,type,hash
-"Thalwil informiert",yes,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,7c4c677b43c798a5996a175c2585a0c3684a3d068eb3120f46928bbf0ed6ef8f
+"Thalwil informiert",yes,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,2565b978b9e9426660c6344762d0d9cca7da7300696f846768a33420125c1b36
 "Politische Infos Thalwil",yes,https://www.thalwil.ch/politikinformationen,#informationList,static,d56f9061324388e857d7816199e6d26dcc02840d127f03dcc950bd8049f87b6c
 "SP Thalwil",yes,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,62fcba795241d49b3951ffd8bc7f9d71a63f151705b0b02f26df90f5b4736ab7
 "SP Bezirk Horgen",yes,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,769e3ed6e68de2709ba9ac0c8c6b423dcea3d1a522c68275c4f46a8c951e0ba1
 "FDP Thalwil",yes,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,6e324940370055af196b3925aaa240c4c139d59e6c0015e19910efa656c58aa8
 "FDP Bezirk Horgen",yes,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,2affc5108b6ddd22cfb568e68d758e0b4492dd998ee97348e900d6eceadba393
-"EVP Thalwil",yes,https://evp-thalwil.ch/home,#main,static,b95c6feae60514cb1661a28e27e66cf7fd8fc9ed137d5baccc52cb3748503355
+"EVP Thalwil",yes,https://evp-thalwil.ch/home,#main,static,ba14ccd97dccdf7680dedee75ed5ab39c78424fae2d1a7b42cdf7df598cd9bf3
 "EVP Bezirk Horgen",yes,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,f15a8cc10802f2809f58d9213c65a3f6f89ababdc8415c9212b83677068a841d
 "SVP Thalwil",yes,https://www.svp-thalwil.ch/,#page-zones__main,static,cedb851f929267b2dc14f836c99c21b4ffb18a38d68ce4d149adf8059f5719ee
 "SVP Bezirk Horgen",yes,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,29758fffb6190fe7bbd163dbc46d8e471519e056b2e58063896b3d6953c3a1a8
@@ -17,7 +17,7 @@ label,active,url,selector,type,hash
 "GLP Thalwil",yes,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,133134248055d5e15b751cf4452fd4f961a88f827a05f6241875d428c4f6d23e
 "GLP Bezirk Horgen",yes,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,a952f4d8db2b451acb7e25469b8c75fd832b9ec568e32ecad0451ed708362750
 "Ökopolis",no,https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,77a3441fc8178ceda67f5f4929c7cffd0557714ab3564b344cee4109c015ecae
-"Digitales Amtsblatt Thalwil",yes,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,36d40f524659bbeb9f8f2d79ea0c091dc59db27780bc5c7e7af5421bad557b4d
+"Digitales Amtsblatt Thalwil",yes,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,df38f88d029c88560417eea614532dea30d19307dd006c34817cd838640cdd06
 "ZPZ News",yes,https://www.zpz.ch/news-index,.news-container,static,a7ce2248db9d0e9d6f9860c167130cda208075287e9ccd8011dc4ea9d142b9f3
 "ZPZ Agenda",yes,https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",yes,https://www.vereinprobadibuerger1.ch/,"#page .content",static,ab6d7168ee1d91caea5bc2fdc8ff43ed8c45f82e2bece1d79a399ec64d85a82a
