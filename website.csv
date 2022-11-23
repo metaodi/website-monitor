@@ -9,7 +9,7 @@ label,active,url,selector,type,hash
 "EVP Bezirk Horgen",yes,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,f15a8cc10802f2809f58d9213c65a3f6f89ababdc8415c9212b83677068a841d
 "SVP Thalwil",yes,https://www.svp-thalwil.ch/,#page-zones__main,static,cedb851f929267b2dc14f836c99c21b4ffb18a38d68ce4d149adf8059f5719ee
 "SVP Bezirk Horgen",yes,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,29758fffb6190fe7bbd163dbc46d8e471519e056b2e58063896b3d6953c3a1a8
-"Mitte Thalwil",yes,https://thalwil.die-mitte.ch/,main,static,aa949110483e27e79489953131510cb5942aaa634ecc7e1b265b1110bfc80022
+"Mitte Thalwil",yes,https://thalwil.die-mitte.ch/,main,static,5cf964d3509824d92242efc1b5a1d3ddd7bc570e3db394cf42b74b90f97b1175
 "Mitte Bezirk Horgen",yes,https://zh.die-mitte.ch/bezirk-horgen/,main,static,e794059f984d0a98335bba83d18f3bbb64ed9d51e8aa53ee6f6d479bbca7e66d
 "Grüne Thalwil",yes,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,a6ee892c5398b5ed0a94e216ae425da15a6c0e1c11c2b4038a09c6964041e723
 "Grüne Bezirk Horgen",yes,https://gruene-zh.ch/aktuell-bezirk-horgen,#content,static,1dafb027d8917cbc425552453ef01c397714a416d29853cf4c7f500adf7fb7f5
