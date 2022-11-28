@@ -1,8 +1,8 @@
 label,active,url,selector,type,hash
 "Thalwil informiert",yes,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,a4fe47463e8b72fb7f9260509fcf6f7fdc8ed6aee9a60c6ba795d1c8c68ecd52
 "Politische Infos Thalwil",yes,https://www.thalwil.ch/politikinformationen,#informationList,static,d56f9061324388e857d7816199e6d26dcc02840d127f03dcc950bd8049f87b6c
-"SP Thalwil",yes,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,a5301a65f4b4800fd564831ea0c2f53e104a8bff554e43a948b1301a1bc44d9b
-"SP Bezirk Horgen",yes,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,c51b0ab10d3e6a26376e61173c434602af3da3c6428c8d78aa677ff813705f4c
+"SP Thalwil",yes,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,ab20628c594d057bd1e2aa26e1b15a7aed36bd18664af1007ff1d29da2df7be6
+"SP Bezirk Horgen",yes,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,012c7f0ca1fb32e17f706f8a9a4c431b43e3ad5982a03b9ba8ff3ebd7bbd7620
 "FDP Thalwil",yes,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,6e324940370055af196b3925aaa240c4c139d59e6c0015e19910efa656c58aa8
 "FDP Bezirk Horgen",yes,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,2affc5108b6ddd22cfb568e68d758e0b4492dd998ee97348e900d6eceadba393
 "EVP Thalwil",yes,https://evp-thalwil.ch/home,#main,static,4fc2d0b1022cf0d4e5122cf9bf1ac2f84f91778e7031e06c5b3fb13b8aeaaa1e
