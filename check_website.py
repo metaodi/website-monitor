@@ -79,6 +79,7 @@ try:
             log.info(f"Checking website {r['url']}")
 
             old_hash = r['hash']
+            error_count = int(r['error_count'])
             new_hash = wh.get_website_hash(r['url'], r['selector'], verify, r['type'])
             log.info(f"  Old hash: {old_hash}")
             log.info(f"  New hash: {new_hash}")
@@ -89,16 +90,20 @@ try:
             log.info(f"  ***Hash changed!***")
             msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
             send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
-            update_sql = ('UPDATE website set hash = ? WHERE selector = ? AND url = ?')
+            update_sql = ('UPDATE website set hash = ?, error_count = 0 WHERE selector = ? AND url = ?')
             cur.execute(update_sql, [new_hash, row['selector'], row['url']])
         except Exception as e:
             print("Error: %s" % e, file=sys.stderr)
             print(traceback.format_exc(), file=sys.stderr)
-            send_telegram_message(
-                TELEGRAM_TOKEN,
-                TELEGRAM_CHAT_ID,
-                f"🟠 Failed to get website: [{row['label']}]({row['url']}))\nError: {e}"
-            )
+            
+            if error_count > 1:
+                send_telegram_message(
+                    TELEGRAM_TOKEN,
+                    TELEGRAM_CHAT_ID,
+                    f"🟠 Failed to get website: [{row['label']}]({row['url']}))\nError: {e}"
+                )
+            error_sql = ('UPDATE website set error_count = 0 WHERE selector = ? AND url = ?')
+            cur.execute(error_sql, [row['selector'], row['url']])
             continue
     conn.commit()
 except Exception as e:
