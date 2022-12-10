@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,hash
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,8c06408333425a13cdea1f1ff34d71d95e0a7aaf7259b09063bd7eb0bfc1553c
-"Politische Infos Thalwil",yes,0,https://www.thalwil.ch/politikinformationen,#informationList,static,47589ba710fa5898e90fc3f40f7211a295ed4b8547cc816ff8430aaa79d3d309
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,ba92951bdf28576ab92641486907974a5052636561f32991c08a53d71aa9051c
+"Politische Infos Thalwil",yes,0,https://www.thalwil.ch/politikinformationen,#informationList,static,8ff81d7af096668364e746b41297ff42e2428dfe348cbbe27e0bc9e8d8b10f14
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,70b14b973ab6a51de4cfaecc57f8b95d903657f2f4b66431fb8d806630e1a572
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,086d54d5dfb265b5a02bd3183dc111de8d8c05644464a3f20a1cbd3d81f1f719
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,6e324940370055af196b3925aaa240c4c139d59e6c0015e19910efa656c58aa8
@@ -17,7 +17,7 @@ label,active,error_count,url,selector,type,hash
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,133134248055d5e15b751cf4452fd4f961a88f827a05f6241875d428c4f6d23e
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,a952f4d8db2b451acb7e25469b8c75fd832b9ec568e32ecad0451ed708362750
 "Ökopolis",yes,0,https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,c5964e94e2606971b66f6d72968318c83f50a37f7cb4216040ac4ec034b41f31
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,7448ad00fa334bde5e8a9414c5bc6907dca0cce5adb15e3eab9107696503003c
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,a7ce2248db9d0e9d6f9860c167130cda208075287e9ccd8011dc4ea9d142b9f3
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,ab6d7168ee1d91caea5bc2fdc8ff43ed8c45f82e2bece1d79a399ec64d85a82a
