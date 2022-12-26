@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import logging
 import requests
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
@@ -8,6 +9,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import selenium.common.exceptions.TimeoutException
+
+
+log = logging.getLogger(__name__)
 
 
 def _download_request(url, verify=True):
@@ -64,6 +68,7 @@ def download_with_selenium(url, selector):
         content = driver.page_source
     execpt selenium.common.exceptions.TimeoutException:
         # if the selector was not found return a static string
+        log.info(f"selector '{selector}' not found!")
         content = f"selector '{selector}' not found"
     finally:
         driver.quit()
