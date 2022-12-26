@@ -36,7 +36,8 @@ def get_website_hash(url, selector, verify, dl_type='static'):
         raise Exception(f"Invalid type: {dl_type}")
     soup = BeautifulSoup(content, 'html.parser')
     as_list = soup.select_one(selector)
-    log.debug(as_list.prettify())
+    if as_list:
+        log.debug(as_list.prettify())
     new_hash = hashlib.sha256(str(as_list).encode('utf-8')).hexdigest()
     return new_hash
 
