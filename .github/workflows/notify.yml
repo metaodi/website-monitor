@@ -25,7 +25,7 @@ jobs:
         run: |
           matrix=$(./matrix.sh | jq -c '.')
           echo $matrix
-          echo "::set-output name=matrix::$matrix"
+          echo "matrix=$matrix" >> $GITHUB_OUTPUT
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
 
@@ -62,7 +62,7 @@ jobs:
           echo $new_hash
           mkdir hashes
           echo $new_hash > hashes/${{ matrix.hash }}.txt
-          echo "::set-output name=new_hash::$new_hash"
+          echo "new_hash=$new_hash" >> $GITHUB_OUTPUT
           
       - name: Has the hash changed?
         run: |
@@ -128,10 +128,10 @@ jobs:
             if [[ -z $(git status --porcelain) ]];
             then
               echo "Repo is clean"
-              echo '::set-output name=changed::0'
+              echo "changed=0" >> $GITHUB_OUTPUT
             else
               echo "Repo is dirty"
-              echo '::set-output name=changed::1'
+              echo "changed=1" >> $GITHUB_OUTPUT
             fi
         id: changes
          
