@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-import selenium.common.exceptions.TimeoutException
+from selenium.common.exceptions import TimeoutException
 
 
 log = logging.getLogger(__name__)
@@ -66,7 +66,7 @@ def download_with_selenium(url, selector):
         wait = WebDriverWait(driver, 20)
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
         content = driver.page_source
-    except selenium.common.exceptions.TimeoutException:
+    except TimeoutException:
         # if the selector was not found return a static string
         log.info(f"selector '{selector}' not found!")
         content = f"selector '{selector}' not found"
