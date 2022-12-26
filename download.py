@@ -66,7 +66,7 @@ def download_with_selenium(url, selector):
         wait = WebDriverWait(driver, 20)
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
         content = driver.page_source
-    execpt selenium.common.exceptions.TimeoutException:
+    except selenium.common.exceptions.TimeoutException:
         # if the selector was not found return a static string
         log.info(f"selector '{selector}' not found!")
         content = f"selector '{selector}' not found"
