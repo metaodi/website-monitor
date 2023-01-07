@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,834066de4e766c17076c8fc8333ea85afe155a8375df693db576dfa8850ee80a
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,0ecd01f3a9c9bd14578a357cbbdbb853976f705f8da0d01a25b2aea4c8830f4e
 "Politische Infos Thalwil",yes,0,https://www.thalwil.ch/politikinformationen,#informationList,static,deeeb6db1d16bce90b38c0c624b2bf1415e71a25ed1a04bcc0aebec02868ac10
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,e0e4bc093ca3b47ee875262c8de119f613aaf46b27b80ae819f12692fb608b9c
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,0e1e33daf8902cc3165e04bd1db1fb69fa7784e528853d490bfd792c66d24ca8
@@ -17,7 +17,7 @@ label,active,error_count,url,selector,type,hash
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,11905fe056df41ffd2d6db905085628af3e8700837b06b093dea31e9bec03ab6
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,da5980ac3cb6c699c61a163ce1b82ac45dbba8018a30051e968c2d040b7b5671
 "Ökopolis",yes,0,https://www.oekopolis.ch/,"aside.sidebar div.widget-content",static,09df76709da49599f1b993b6cc2fa7bb515c07f95b2d5247383e4ef524834c19
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,1cc0a49661c3a591d088ada78c775dba977d0b61588e2b9d1d05d654e13fc24a
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry:nth-child(1)",dynamic,c2f2339de483e51a1ad558a39395284930e5e778c6e325afc94130937500d6ef
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,a7ce2248db9d0e9d6f9860c167130cda208075287e9ccd8011dc4ea9d142b9f3
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,7dc0018b16a340bcdc7007e012492bc775bbe414c5aba2d407001df28cffc233
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,ab6d7168ee1d91caea5bc2fdc8ff43ed8c45f82e2bece1d79a399ec64d85a82a
