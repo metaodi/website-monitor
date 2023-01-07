@@ -35,10 +35,14 @@ def get_website_hash(url, selector, verify, dl_type='static'):
     else:
         raise Exception(f"Invalid type: {dl_type}")
     soup = BeautifulSoup(content, 'html.parser')
-    as_list = soup.select_one(selector)
+    as_list = soup.select(selector)
     if as_list:
-        log.debug(as_list.prettify())
-    new_hash = hashlib.sha256(str(as_list).encode('utf-8')).hexdigest()
+        log.debug([i.prettify() for i in as_list])
+    else as_list:
+        as_list = []
+    as_list.sort()
+    source_text = " ".join([str(i).encode('utf-8') for i in as_list])
+    new_hash = hashlib.sha256(source_text).hexdigest()
     return new_hash
 
 
