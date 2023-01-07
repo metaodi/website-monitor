@@ -38,7 +38,7 @@ def get_website_hash(url, selector, verify, dl_type='static'):
     as_list = soup.select(selector)
     if as_list:
         log.debug([i.prettify() for i in as_list])
-    else as_list:
+    else:
         as_list = []
     as_list.sort()
     source_text = " ".join([str(i).encode('utf-8') for i in as_list])
