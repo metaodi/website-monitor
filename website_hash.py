@@ -41,7 +41,7 @@ def get_website_hash(url, selector, verify, dl_type='static'):
     else:
         as_list = []
     as_list.sort()
-    source_text = " ".join([str(i).encode('utf-8') for i in as_list])
+    source_text = " ".join([i.prettify() for i in as_list])
     new_hash = hashlib.sha256(source_text).hexdigest()
     return new_hash
 
