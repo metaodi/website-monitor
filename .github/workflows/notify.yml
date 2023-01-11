@@ -23,7 +23,7 @@ jobs:
 
       - id: set-matrix
         run: |
-          matrix=$(./matrix.sh | jq -c '.')
+          matrix=$(./workflow/matrix.sh | jq -c '.')
           echo $matrix
           echo "matrix=$matrix" >> $GITHUB_OUTPUT
     outputs:
@@ -41,7 +41,7 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: Set up Python 3.8
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
           python-version: 3.8
       - name: Install dependencies
@@ -104,7 +104,7 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: Set up Python 3.8
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
           python-version: 3.8
       - name: Install dependencies
@@ -120,7 +120,7 @@ jobs:
           path: hashes
 
       - name: Update hashes
-        run: ./update_from_artifacts.sh
+        run: ./workflow/update_from_artifacts.sh
           
       - name: Check if there are changes in the repo
         run: |
