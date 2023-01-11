@@ -1,9 +1,37 @@
 website-monitor
 ===============
 
+## GitHub Action to monitor a list of websites
+
+This repository contains a CSV called `website.csv`, which is used to define a list of websites to monitor.
+The file is parsed on a regular basis (see the workflow file for details) and a notification is sent via Telegram if a change has been detected.
+
+### CSV format
+
+The `website.csv` has the following structure:
+
+```
+label,active,error_count,url,selector,type,hash
+```
+
+* `label`: a label or title of the website
+* `active`: used to enable or disable this entry, use values `yes` or `no`
+* `error_count`: The number of times an error has occured for this entry
+* `url`: the actual URL of the website
+* `selector`: as CSS selector for elements on the website
+* `type`: determines the type of the website, use `static` for static websites or `dynamic` for websites, that load most of their contant at runtime. Dynamic websites will be parsed using Selenium. Use `static` as a default.
+* `hash`: The hash of the previous run. Make sure to always provide a value (use a dummy value for new entries)
+
+Example:
+
+| `label`              | `active` | `error_count` | `url`                                         | `selector`       | `type` | `hash`                                                           |
+|----------------------|----------|---------------|-----------------------------------------------|------------------|--------|------------------------------------------------------------------|
+| "Thalwil informiert" | yes      | 0             | https://www.thalwil.ch/aktuellesinformationen | #informationList | static | db60b21849b715eb4c12d75f285d460de6dfbc17b9429f8f0bfcc78fca76cb2e |
+
+## `monitor.py`
 A small script to monitor the contents of a website and get a notification if there are changes.
 
-## Installation
+### Installation
 
 1. Clone this repository
 1. Run the `setup.sh` script.sh or install manually the dependencies:
@@ -11,11 +39,9 @@ A small script to monitor the contents of a website and get a notification if th
 ```
 source env/bin/activate
 pip install -r requirements.py
-```
+``` 
 
-Alternatively 
-
-## Usage
+### Usage
 
 ```bash
 $ python monitor.py --help
