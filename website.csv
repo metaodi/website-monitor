@@ -21,5 +21,5 @@ label,active,error_count,url,selector,type,hash
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,8426c658de9a7eaf15bac2dbb6f04a655718cb149e40887260d4d5a23490c406
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e43bafc78fd2c7c6b1843e54f43701e6b4fee322fca8ee37008b1bac7c951f98
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,356c5cf59db0f9d1514eada0be982b21a101a38d0b78fdf6ad8d30541b68114e
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,fa8ec5faf34d7a1103c8181554876e893bbed3d756f8d8fc61b26e997db2181d
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,6317ebb5e9bf7add1858c6c4a48f37433221eb50071bf11cb2a4102ef7bd6495
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,5d25af56a085c77412cf2cb3005493d6461de66c76b3aca95692b2bd8037a42e
