@@ -84,14 +84,6 @@ jobs:
         run: |
           mkdir error_counts
           touch error_counts/${{ matrix.hash }}.txt
-
-      - name: Upload hash as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: hashes
-          path: |
-            hashes
-            error_counts
       
       - name: Notify telegram failure
         if: ${{ failure()  && matrix.error_count > 3 }}
@@ -102,6 +94,15 @@ jobs:
           format: markdown
           message: |
             🔴 [Website check for «${{ matrix.label }}» failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
+      
+      - name: Upload hash as artifact
+        uses: actions/upload-artifact@v3
+        if: ${{ always() }}
+        with:
+          name: hashes
+          path: |
+            hashes
+            error_counts
   
   update_hashes:
     needs: notify
