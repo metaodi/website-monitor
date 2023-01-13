@@ -16,7 +16,7 @@ log = logging.getLogger(__name__)
 
 def _download_request(url, verify=True):
     retry_strategy = Retry(
-        total=10,
+        total=5,
         backoff_factor=2,
         status_forcelist=[403, 429, 500, 502, 503, 504],
         method_whitelist=["HEAD", "GET", "OPTIONS"]
