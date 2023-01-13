@@ -11,7 +11,7 @@ Options:
   -h, --help                  Show this screen.
   --version                   Show version.
   -d, --db <path-to-db-file>  Path to the SQLite DB.
-  -i, --hash <hash>           Hash of the watched selector.
+  -e, --hash <hash>           Hash of the watched selector.
   --verbose                   Option to enable more verbose output.
 """
 

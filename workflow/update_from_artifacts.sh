@@ -22,5 +22,5 @@ done
 for artifact in $DIR/../hashes/error_codes/*.txt
 do
     error_hash=$(basename $artifact .txt)
-    $DIR/increase_error_count.py -d $DIR/website.db --hash $error_hash
+    $DIR/increase_error_count.py -d $DIR/website.db -e $error_hash
 done
