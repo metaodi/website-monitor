@@ -3,9 +3,9 @@
 """Update website error count
 
 Usage:
-  update_error_count.py --db <path-to-db-file> --hash <hash> [--verbose]
-  update_error_count.py (-h | --help)
-  update_error_count.py --version
+  increase_error_count.py --db <path-to-db-file> --hash <hash> [--verbose]
+  increase_error_count.py (-h | --help)
+  increase_error_count.py --version
 
 Options:
   -h, --help                  Show this screen.
