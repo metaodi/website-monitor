@@ -52,7 +52,7 @@ try:
 
     cur = conn.cursor()
     try:
-        update_sql = ('UPDATE website set hash = ? WHERE hash = ?')
+        update_sql = ('UPDATE website set hash = ?, error_count = 0 WHERE hash = ?')
         cur.execute(update_sql, [new_hash, old_hash])
     except Exception as e:
         conn.rollback()
