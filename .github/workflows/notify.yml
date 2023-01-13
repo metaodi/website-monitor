@@ -101,7 +101,7 @@ jobs:
           rebase: 'true'
       
       - name: Notify telegram failure
-        if: ${{ failure()  && matrix.error_count > 4 }}
+        if: ${{ failure()  && matrix.error_count > 3 }}
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
