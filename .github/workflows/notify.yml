@@ -69,12 +69,6 @@ jobs:
           echo "Old hash: ${{ matrix.hash }}"
           echo "New hash: ${{ steps.website.outputs.new_hash }}"
 
-      - name: Upload hash as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: hashes
-          path: hashes/${{ matrix.hash }}.txt
-
       - name: Notify telegram about website changes
         if: steps.website.outputs.new_hash != matrix.hash
         uses: appleboy/telegram-action@master
@@ -85,20 +79,19 @@ jobs:
           message: |
             🟢 Website changed: [${{matrix.label }}](${{ matrix.url }})
 
-      - name: Increase error count if necessary
+      - name: Note error for later
         if: ${{ failure() }}
-        run: ./workflow/update_on_error.sh ${{ matrix.hash }}
-      
-      - name: Commit and push to repo
-        if: ${{ failure() }}
-        uses: github-actions-x/commit@v2.9
+        run: |
+          mkdir error_counts
+          touch error_counts/${{ matrix.hash }}.txt
+
+      - name: Upload hash as artifact
+        uses: actions/upload-artifact@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: main
-          name: GitHub Action Bot
-          email: website-monitor@metaodi.ch
-          commit-message: Update website.csv with error count
-          rebase: 'true'
+          name: hashes
+          path: |
+            hashes
+            error_counts
       
       - name: Notify telegram failure
         if: ${{ failure()  && matrix.error_count > 3 }}
@@ -136,6 +129,9 @@ jobs:
 
       - name: Update hashes
         run: ./workflow/update_from_artifacts.sh
+      
+      - name: Update error counts
+        run: ./workflow/update_on_error.sh
           
       - name: Check if there are changes in the repo
         run: |
