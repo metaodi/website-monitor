@@ -121,17 +121,20 @@ jobs:
           pip install -r requirements.txt
           sudo apt-get install sqlite3
 
+      - name: Populate database
+        run: ./workflow/populate_database.sh
+
       - name: Download hashes
         uses: actions/download-artifact@v3
         with:
           name: hashes
           path: hashes
 
-      - name: Update hashes
+      - name: Update hashes and error counts
         run: ./workflow/update_from_artifacts.sh
       
-      - name: Update error counts
-        run: ./workflow/update_on_error.sh
+      - name: Export database
+        run: ./workflow/export_database_to_csv.sh
           
       - name: Check if there are changes in the repo
         run: |
