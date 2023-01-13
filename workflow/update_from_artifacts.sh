@@ -11,7 +11,7 @@ trap "cleanup" EXIT
 DIR="$(cd "$(dirname "$0")" && pwd)"
 
 # update hashes in db from artifacts
-for artifact in $DIR/../hashes/*.txt
+for artifact in $DIR/../hashes/hashes/*.txt
 do
     old_hash=$(basename $artifact .txt)
     new_hash=$(cat $artifact)
@@ -19,7 +19,7 @@ do
 done
 
 # update error_counts in db from artifacts
-for artifact in $DIR/../error_codes/*.txt
+for artifact in $DIR/../hashes/error_codes/*.txt
 do
     error_hash=$(basename $artifact .txt)
     $DIR/increase_error_count.py -d $DIR/website.db --hash $error_hash
