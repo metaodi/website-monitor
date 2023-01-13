@@ -87,7 +87,7 @@ jobs:
 
       - name: Increase error count if necessary
         if: ${{ failure() }}
-        run: ./workflow/update_from_artifacts.sh ${{ matrix.hash }}
+        run: ./workflow/update_on_error.sh ${{ matrix.hash }}
       
       - name: Commit and push to repo
         if: ${{ failure() }}
