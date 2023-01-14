@@ -9,7 +9,7 @@ jobs:
   notify_thalwil_websites:
     uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
     with:
-      csv-path: website.csv
+      csv-path: csv/thalwil.csv
     secrets:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_TO }}
