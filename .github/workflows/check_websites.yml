@@ -11,7 +11,8 @@ on:
         required: true
       TELEGRAM_TOKEN:
         required: true
-
+      TELEGRAM_ERROR_CHAT_ID:
+        required: true
 jobs:
   build-matrix:
     runs-on: ubuntu-latest
