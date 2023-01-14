@@ -6,7 +6,6 @@ on:
       csv-path:
         required: true
         type: string
-    secrets: inherit
 
 jobs:
   build-matrix:
@@ -26,7 +25,7 @@ jobs:
 
       - id: set-matrix
         env:
-           CSV_PATH: ${{ inputs.config-path }}
+           CSV_PATH: ${{ inputs.csv-path }}
         run: |
           matrix=$(./workflow/matrix.sh $CSV_PATH | jq -c '.')
           echo $matrix
@@ -129,7 +128,9 @@ jobs:
           sudo apt-get install sqlite3
 
       - name: Populate database
-        run: ./workflow/populate_database.sh
+        env:
+           CSV_PATH: ${{ inputs.csv-path }}
+        run: ./workflow/populate_database.sh $CSV_PATH
 
       - name: Download hashes
         uses: actions/download-artifact@v3
@@ -141,7 +142,9 @@ jobs:
         run: ./workflow/update_from_artifacts.sh
       
       - name: Export database
-        run: ./workflow/export_database_to_csv.sh
+        env:
+           CSV_PATH: ${{ inputs.csv-path }}
+        run: ./workflow/export_database_to_csv.sh $CSV_PATH
           
       - name: Check if there are changes in the repo
         run: |
