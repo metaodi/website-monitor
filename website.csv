@@ -12,7 +12,7 @@ label,active,error_count,url,selector,type,hash
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,c736f715b7a51beac838e445c7a8d8d5b00811d4e9ee7bef1bc55ebe46b3d01a
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,58591261a8cff167629eb2c752fadcda6332851c615aeac009a8b62eeb74933a
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,0a3a9820f2a39d77ef6fc89a4d93d1e2491f4a0a555984e0c97d4f1b85d9c229
-"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,9cb2fccfb3ad762465ac0a591bb8be068ede0bde167b2e1c56deeb4dffe75fd4
+"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen/gibtsnicht,#content,static,9cb2fccfb3ad762465ac0a591bb8be068ede0bde167b2e1c56deeb4dffe75fd4
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch/aktuell,.views-row,static,3ab9a477eb34cc536bca17975d4d6d2a59db60a6cb75002894a09dc39588e945
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,40988e45442ca21b157ce2ddfbce6cad7b9d6fb18627aadcf4162f3afe55c1c2
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,fc4022d3c03ab8b664c7cb5b63b1dc7887fc6ac7697ba7ff3214cfe43e01fcd0
