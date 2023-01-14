@@ -2,6 +2,11 @@ name: Check websites for changes
 
 on:
   workflow_call:
+    inputs:
+      csv-path:
+        required: true
+        type: string
+    secrets: inherit
 
 jobs:
   build-matrix:
