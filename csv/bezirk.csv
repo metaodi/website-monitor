@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"SP Bezirk Horgen",yes,5,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,dfc4d32c365221f7e396e2d0a3f19dbb2e5ee66608f726b767ea691058d83d05
+"SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,dfc4d32c365221f7e396e2d0a3f19dbb2e5ee66608f726b767ea691058d83d05
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,9f8476b137920154d69da7ff5c7e9dc4abc595a511a4b8b02f0fb5e5a77f90d9
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,d2fc0178d81048442ac7318342eb86594321ea2c8d8198a33d4533dc5bbe5015
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,8478bd6da9196f4596fe3041742031c873b7257f6c522779e1f0790d7ded68c6
