@@ -1,4 +1,4 @@
-name: Notify when website changes
+name: Check Thalwil websites
 
 on:
   schedule:
