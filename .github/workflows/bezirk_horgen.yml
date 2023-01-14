@@ -11,5 +11,6 @@ jobs:
     with:
       csv-path: bezirk.csv
     secrets:
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_BEZ_HORGEN_CHAT_ID }}
 
