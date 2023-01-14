@@ -6,6 +6,9 @@ on:
       csv-path:
         required: true
         type: string
+    secrets:
+      TELEGRAM_CHAT_ID:
+        required: true
 
 jobs:
   build-matrix:
@@ -78,7 +81,7 @@ jobs:
         if: steps.website.outputs.new_hash != matrix.hash
         uses: appleboy/telegram-action@master
         with:
-          to: ${{ secrets.TELEGRAM_TO }}
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
@@ -94,7 +97,7 @@ jobs:
         if: ${{ failure()  && matrix.error_count > 3 }}
         uses: appleboy/telegram-action@master
         with:
-          to: ${{ secrets.TELEGRAM_TO }}
+          to: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
@@ -174,7 +177,7 @@ jobs:
         if: ${{ failure()  || cancelled() }}
         uses: appleboy/telegram-action@master
         with:
-          to: ${{ secrets.TELEGRAM_TO }}
+          to: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
