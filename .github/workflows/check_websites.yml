@@ -173,7 +173,7 @@ jobs:
           push-branch: main
           name: GitHub Action Bot
           email: website-monitor@metaodi.ch
-          commit-message: Update website.csv with updated hashes
+          commit-message: Update ${{ inputs.csv-path }} with updated hashes
           rebase: 'true'
 
       - name: Notify telegram failure
