@@ -1,1 +1,16 @@
-# TELEGRAM_JOBS_CHAT_ID
+name: Check Job websites
+
+on:
+  schedule:
+    - cron:  '20 5-21 * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  notify_jobs_websites:
+    uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
+    with:
+      csv-path: csv/jobs.csv
+    secrets:
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_JOBS_CHAT_ID }}
+      TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
