@@ -28,7 +28,7 @@ Example:
 |----------------------|----------|---------------|-----------------------------------------------|------------------|--------|------------------------------------------------------------------|
 | "Thalwil informiert" | yes      | 0             | https://www.thalwil.ch/aktuellesinformationen | #informationList | static | db60b21849b715eb4c12d75f285d460de6dfbc17b9429f8f0bfcc78fca76cb2e |
 
-## `monitor.py`
+## Script to watch for changes in website (`monitor.py`)
 A small script to monitor the contents of a website and get a notification if there are changes.
 
 ### Installation
@@ -59,7 +59,7 @@ Options:
   --no-verify                    Option to disable SSL verification for requests.
 ```
 
-## Examples
+### Examples
 
 Watch «Amtliche Sammlung» of the City of Zurich:
 ```bash
