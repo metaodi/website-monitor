@@ -11,3 +11,4 @@ label,active,error_count,url,selector,type,hash
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,8426c658de9a7eaf15bac2dbb6f04a655718cb149e40887260d4d5a23490c406
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e43bafc78fd2c7c6b1843e54f43701e6b4fee322fca8ee37008b1bac7c951f98
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,body,static,abcdef123
+"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,sadaasdfsaf321
