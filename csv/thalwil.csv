@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Thalwil informiert",yes,3,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,6878d11c8ac131538f26a0e511b96d54ef019c1b3d80fbd893d0171b0f73cecc
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,6878d11c8ac131538f26a0e511b96d54ef019c1b3d80fbd893d0171b0f73cecc
 "Politische Infos Thalwil",yes,0,https://www.thalwil.ch/politikinformationen,#informationList,static,1a8323cafee10ccfa2129c68da49dc58e5e2d933884f7e496d85dc9de5670a78
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,9216bc879a8643f042e196d23c9eb28f740b57b2dc8a1a3f9dfbd47277aca3d1
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,e8299286ace12b5b846215126809f329fa007271f299b5e5b8d6c02a9762dfb1
