@@ -12,3 +12,4 @@ label,active,error_count,url,selector,type,hash
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e43bafc78fd2c7c6b1843e54f43701e6b4fee322fca8ee37008b1bac7c951f98
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,5d705e3cd99756ff0a80d5b67ec744d122890d0eea4126f5808c78e8bd11c332
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,36fd38cfee08696c1677bb3662e4dd7721608ae6ff6d479f00382fe6f2f0aa06
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,absd23135324
