@@ -10,6 +10,6 @@ label,active,error_count,url,selector,type,hash
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,571fcbc137813e9ceb451ed0763f24ba025401c33eab3ffb58a6f1ed289d74ef
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,8426c658de9a7eaf15bac2dbb6f04a655718cb149e40887260d4d5a23490c406
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e43bafc78fd2c7c6b1843e54f43701e6b4fee322fca8ee37008b1bac7c951f98
-"Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,17d68417b85526641219a1297a6f3c615bdf7d835af4027b5c8c9fc1b924f570
+"Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,826118aa4d9c2affe6bb3681bc63b560a7fa7983925c7b9b522d2e56125da710
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,36fd38cfee08696c1677bb3662e4dd7721608ae6ff6d479f00382fe6f2f0aa06
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,a52695a8275d5323bcb83ea666d70d6088c6d901eb70ce152be81f9357f9e60f
