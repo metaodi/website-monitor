@@ -20,6 +20,6 @@ label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,4b4ea118bcbf6ecb9e7246bb3efde6d71535f536ef812e7bfb39f77785d16cfb
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,8426c658de9a7eaf15bac2dbb6f04a655718cb149e40887260d4d5a23490c406
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e43bafc78fd2c7c6b1843e54f43701e6b4fee322fca8ee37008b1bac7c951f98
-"Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,0db8ba4f057dbdc467699fdb4230ac59abe54725e71557541b2f261b69689285
+"Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,68fcdefb9055f2d26778a4123ed4fc587f09608869f85763b724ac562d9cca3e
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,a0305270e45d80e231e9df1d51266903d4d9786c86e9bd11fbd2e8dcc92ec1ad
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,5d25af56a085c77412cf2cb3005493d6461de66c76b3aca95692b2bd8037a42e
