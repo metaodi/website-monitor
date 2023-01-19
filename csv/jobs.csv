@@ -1,3 +1,3 @@
 label,active,error_count,url,selector,type,hash
 "Migros Jobs",yes,0,https://migros-gruppe.jobs/de/unsere-unternehmen/migros-gruppe/offene-stellen?q=product&type=job,.job-ad,static,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-"SBB Jobs",yes,0,https://company.sbb.ch/de/jobs-karriere/jobs/offene-stellen.html?topic=IT%2FTelekommunikation&region=Z%C3%BCrich%20(ZH%2FAG%2FSH%2FZG)&startItem=1,.mod_jobfilter_results,static,29976360e5e4d92c0e7ff5a1d3d97963780139dd873373e8e5287676d3f348b8
+"SBB Jobs",yes,0,https://company.sbb.ch/de/jobs-karriere/jobs/offene-stellen.html?topic=IT%2FTelekommunikation&region=Z%C3%BCrich%20(ZH%2FAG%2FSH%2FZG)&startItem=1,.mod_jobfilter_results,static,01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
