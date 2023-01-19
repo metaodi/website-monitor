@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,hash
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,6d2d3e8cc146ea693cc5a924272ea176315dbfb20a542bae750ebfb1f827dae9
-"Politische Infos Thalwil",yes,2,https://www.thalwil.ch/politikinformationen,#informationList,static,1a8323cafee10ccfa2129c68da49dc58e5e2d933884f7e496d85dc9de5670a78
+"Politische Infos Thalwil",yes,3,https://www.thalwil.ch/politikinformationen,#informationList,static,1a8323cafee10ccfa2129c68da49dc58e5e2d933884f7e496d85dc9de5670a78
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,0f86572301f56e5c2c00d2f120f0f9a3c09d7c57497f3414d32f439145040976
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,5a659978cbd153208a75eb55c704ad17069753f7fea67d74d84bbeb19f41895f
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,2bf0efce4e1c2abaf6ad43cbbde3a6d40437a3be390c2432bf4cf0867770e353
@@ -20,6 +20,6 @@ label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?metaTags=invitations&metaTags=enactments&metaTags=votes&metaTags=citizenship&metaTags=planning&metaTags=building&metaTags=traffic&metaTags=protection&metaTags=deaths&metaTags=court&metaTags=announcements&metaTags=public%5C_bodies&municipalityName=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,4b4ea118bcbf6ecb9e7246bb3efde6d71535f536ef812e7bfb39f77785d16cfb
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,8426c658de9a7eaf15bac2dbb6f04a655718cb149e40887260d4d5a23490c406
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e43bafc78fd2c7c6b1843e54f43701e6b4fee322fca8ee37008b1bac7c951f98
-"Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,0db8ba4f057dbdc467699fdb4230ac59abe54725e71557541b2f261b69689285
+"Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,68fcdefb9055f2d26778a4123ed4fc587f09608869f85763b724ac562d9cca3e
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,a0305270e45d80e231e9df1d51266903d4d9786c86e9bd11fbd2e8dcc92ec1ad
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,5d25af56a085c77412cf2cb3005493d6461de66c76b3aca95692b2bd8037a42e
