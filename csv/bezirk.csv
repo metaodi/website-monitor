@@ -14,3 +14,4 @@ label,active,error_count,url,selector,type,hash
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,244a31c543ef51d77df312901945191f64bb880dd55960912d39b2a29ab97bd3
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,48f145f4bdf962ccb157834798195df3a7066d94546593fb3be4e61df78c005e
 "Gewerkschaftsbund Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,khsakfj1221
+"Unia",yes,0,https://www.unia.ch/de/aktuell/aktuell,.article,static,jakaaha1243
