@@ -21,6 +21,7 @@ Options:
 import hashlib
 import time
 import logging
+import re
 from pprint import pformat
 from bs4 import BeautifulSoup
 from docopt import docopt
@@ -36,12 +37,14 @@ def get_website_hash(url, selector, verify, dl_type='static'):
     else:
         raise Exception(f"Invalid type: {dl_type}")
     soup = BeautifulSoup(content, 'html.parser')
-    as_list = soup.select(selector)
-    source_list = list(set([i.get_text() for i in as_list or []]))
-    log.debug(pformat(source_list))
+    as_list = soup.select(selector) or []
+    source_list = [i.get_text() for i in as_list if re.search(r'\w', i.get_text())]
+
+    unique_source_list = list(set(source_list))
+    log.debug(pformat(unique_source_list))
     
-    source_list.sort()
-    source_text = " ".join(source_list)
+    unique_source_list.sort()
+    source_text = " ".join(unique_source_list)
     new_hash = hashlib.sha256(source_text.encode('utf-8')).hexdigest()
     return new_hash
 
