@@ -69,7 +69,7 @@ jobs:
         run: |
           echo "Old hash: ${{ matrix.hash }}"
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
-          new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}")
+          new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" --verbose)
           echo $new_hash
           mkdir hashes
           echo $new_hash > hashes/${{ matrix.hash }}.txt
