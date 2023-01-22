@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,hash
-"Thalwil informiert",yes,1,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,f881b1699679e51f8abd428d71d6fa43ca85084a1ca0e3b5cab1da4653da5d77
-"Politische Infos Thalwil",yes,1,https://www.thalwil.ch/politikinformationen,#informationList,static,f881b1699679e51f8abd428d71d6fa43ca85084a1ca0e3b5cab1da4653da5d77
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList,static,f881b1699679e51f8abd428d71d6fa43ca85084a1ca0e3b5cab1da4653da5d77
+"Politische Infos Thalwil",yes,0,https://www.thalwil.ch/politikinformationen,#informationList,static,f881b1699679e51f8abd428d71d6fa43ca85084a1ca0e3b5cab1da4653da5d77
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,3d34389e9fadd4bf60134833204c36552a130dde8e5da68f666e64ec34a536e7
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,088ef0134c5fe7a283c79d17fac596bb6f1d3812b09840a0e5b10803a38f720e
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,fb47da0e6fe8b40a83348729a3d08ca85bd98991f33a1138b1fd73e10154808e
@@ -22,5 +22,5 @@ label,active,error_count,url,selector,type,hash
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5601e119f44550ca91b89f22ea3b86ea0c6b7cf8b43543426ceb52a9fd68125c
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,df1081a6a3ebb42561715aaf52d1d569deb8a76e1ccfa2ab70738f2641154327
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,87ef7ca8ac5eaad72c9b176981b9344b77139dcd04e637dff48795634674deba
-"HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,29f440d7fbe5d7b4dde755a2f6dac9bab3d68730f96b5f908d736ae0f5dc6c35
+"HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,5034085d75a29dae1c893a4356a5c900283f207ccb84891f105d25a6397bfb90
 stefanoderbolz.ch,yes,0,https://stefanoderbolz.ch,section,static,d43a06e24328b31998bdd4e348e332703449076c599ffcf7fb339d9e98c65258
