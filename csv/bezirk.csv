@@ -13,8 +13,8 @@ label,active,error_count,url,selector,type,hash
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,244a31c543ef51d77df312901945191f64bb880dd55960912d39b2a29ab97bd3
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,48f145f4bdf962ccb157834798195df3a7066d94546593fb3be4e61df78c005e
-"Gewerkschaftsbund Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,khsakfj1221
-"Unia",yes,0,https://www.unia.ch/de/aktuell/aktuell,.article,static,jakaaha1243
-"Syna",yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,lksadj121245521232kh
-"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,ajhsgg98isadhlo98998ui
-"syndicom",yes,0,https://syndicom.ch/aktuell/,.news-item,static,fghsksuzd99iehlsdhsadlh
+"Gewerkschaftsbund Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,e2ff89c22e12526ee7cee46601e830c0f73af67455112ef67b032376046484d8
+Unia,yes,0,https://www.unia.ch/de/aktuell/aktuell,.article,static,a013bafe9e4b90ac16521e951d9e17131b6c4a404897620bd7991de9fe2508c7
+Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,lksadj121245521232kh
+"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,5fb93680c2d9996b4b246b94af9b59c6ce7c902fb98d57eb03f6c1eacb84c1d3
+syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,796c24ae200917030452b90127638e5d2797ea980b2c41ad2cea77c1c04834c5
