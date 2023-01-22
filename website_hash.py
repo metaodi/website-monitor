@@ -21,6 +21,7 @@ Options:
 import hashlib
 import time
 import logging
+from pprint import pformat
 from bs4 import BeautifulSoup
 from docopt import docopt
 import download as dl
@@ -37,7 +38,7 @@ def get_website_hash(url, selector, verify, dl_type='static'):
     soup = BeautifulSoup(content, 'html.parser')
     as_list = soup.select(selector)
     if as_list:
-        log.debug([i.text for i in as_list])
+        log.debug(pformat([i.text for i in as_list]))
     source_list = [i.text for i in as_list or []]
     source_list.sort()
     source_text = " ".join(source_list)
