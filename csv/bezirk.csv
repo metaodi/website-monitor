@@ -13,11 +13,11 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,de18b75c53c8c1360b569068921cc524a37a6cae617c0612fdbf69d642161c4f
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,38ce53c51e8c4c6432e0562b8a8627dbdfd6909f331a5a9c4bc0665577fa4b08
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,2ae895eff170f3fb56cc88b88d39a6313d342afc9a0eca63103ef32461e7ccad
+Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,2ae895eff170f3fb56cc88b88d39a6313d342afc9a0eca63103ef32461e7ccad
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,796c24ae200917030452b90127638e5d2797ea980b2c41ad2cea77c1c04834c5
 Unia,yes,0,https://www.unia.ch/de/aktuell/aktuell,.article,static,a013bafe9e4b90ac16521e951d9e17131b6c4a404897620bd7991de9fe2508c7
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
-"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,edbb046f49979ad55adda4fd9dbfe1b1f36d815876cdc7e49f9718d91ab411a8
+"Verband der Gemeindepräsidien",yes,1,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,edbb046f49979ad55adda4fd9dbfe1b1f36d815876cdc7e49f9718d91ab411a8
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,b9819c988e2aa1f692f2b3621ec7261b71bc57a4690b787011913247565fef62
 VStA,yes,0,https://www.vsta.ch/,article,static,3d48d36c86de77bce7063516b833be647b1f732f8f8cfcae281849d7c2eef52c
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5601e119f44550ca91b89f22ea3b86ea0c6b7cf8b43543426ceb52a9fd68125c
