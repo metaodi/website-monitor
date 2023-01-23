@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,hash
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,e5d766ccd9953be433864157856e71fd044625eac06c36d1fafd63286f84bc88
-Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section,static,6c1be5ef9fc326c2751814ce87626a22f85ed4dcd6d1e0548d3edac29c028381
+Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section,static,5496db87dd06ba3b434f1d9015d2dffecd343069dc9f566e0d4e7421a95c84d3
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,c641e8ba4db101928b2ca588b993b7a2ba0f801f0203e5c4a5f347555b7ff93b
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,ff64cc2df41d9aa06dc08fec8435010994f1f433c328c77a20d0db447b72b1a2
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,e2ff89c22e12526ee7cee46601e830c0f73af67455112ef67b032376046484d8
@@ -13,7 +13,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,de18b75c53c8c1360b569068921cc524a37a6cae617c0612fdbf69d642161c4f
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,38ce53c51e8c4c6432e0562b8a8627dbdfd6909f331a5a9c4bc0665577fa4b08
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,8ae569eeeca70d21071ce36e6e133b65b98a7b7cf98c7f8b59eb36a0df45b4b8
+Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,fc0f71ec9b6135e917d51d94990f936a2efaf7bcf07d44c0df5d1666577637c5
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,796c24ae200917030452b90127638e5d2797ea980b2c41ad2cea77c1c04834c5
 Unia,yes,0,https://www.unia.ch/de/aktuell/aktuell,.article,static,a013bafe9e4b90ac16521e951d9e17131b6c4a404897620bd7991de9fe2508c7
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
