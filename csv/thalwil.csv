@@ -22,4 +22,3 @@ label,active,error_count,url,selector,type,hash
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,c1e6e5dbf013496d8ebd9e54e064c6eb079b584e2314e49e775b2c7adc78adc2
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,cdb0e330387275a6724b94e53d5f8a271d0bcba95954320a8994a06cb841a1c7
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,3df97493de9f7ca5e29abe46cb36930375bb80a1a9352aace33da45d43d20a37
-stefanoderbolz.ch,yes,0,https://stefanoderbolz.ch,section,static,d43a06e24328b31998bdd4e348e332703449076c599ffcf7fb339d9e98c65258
