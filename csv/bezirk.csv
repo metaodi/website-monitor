@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,b32eb24bb21fa8a277687f1617bf86af681c29e5ffc9a73156c6aed60f362188
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,ad62ff86f7fcb6ca7c5fecd0b0f15e0ba10d156f9bab3a438269cac865c6d2d1
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section,static,6c1be5ef9fc326c2751814ce87626a22f85ed4dcd6d1e0548d3edac29c028381
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,c641e8ba4db101928b2ca588b993b7a2ba0f801f0203e5c4a5f347555b7ff93b
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,ff64cc2df41d9aa06dc08fec8435010994f1f433c328c77a20d0db447b72b1a2
@@ -13,7 +13,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,de18b75c53c8c1360b569068921cc524a37a6cae617c0612fdbf69d642161c4f
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,38ce53c51e8c4c6432e0562b8a8627dbdfd6909f331a5a9c4bc0665577fa4b08
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,f3aa84d1b0d39dc98b368fd9f181151da7b42d934515825277e5154bd9e7adcd
+Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,db807c4457a8c0046791d16aa13302a289e9f8c353d9b09b9645ec29437afaf1
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,796c24ae200917030452b90127638e5d2797ea980b2c41ad2cea77c1c04834c5
 Unia,yes,0,https://www.unia.ch/de/aktuell/aktuell,.article,static,a013bafe9e4b90ac16521e951d9e17131b6c4a404897620bd7991de9fe2508c7
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
