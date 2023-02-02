@@ -19,6 +19,6 @@ label,active,error_count,url,selector,type,hash
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,c10c83a38c0aee80610269b52c251fbdc9955da5a1b5b2a180e3e266677c43a2
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,312ebe190ea7a1f639ab30c1c0532c4568f3f3867df950c65455ed73de53e0a1
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,c1e6e5dbf013496d8ebd9e54e064c6eb079b584e2314e49e775b2c7adc78adc2
-"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,1b0f042f55e797a35ec97acc9ba383925f52cfb54e38fcfa570b1d3bcb230561
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,8563f47f90f1c97b3394f83143608c6dd688a30382c506b23d84daa163a11d57
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,4d3be32305d153c97dd875fa15fa3ab7932b69fee0b2059c96f8ac942585b71e
 "Ökopolis",yes,0,https://www.oekopolis.ch/,.lovecraft-widget-list,static,2dfb486b220a56b5eac95109c455e032fe7177a5232a03e60151b2c601771796
