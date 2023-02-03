@@ -22,6 +22,7 @@ import hashlib
 import time
 import logging
 import re
+import sys
 from pprint import pformat
 from bs4 import BeautifulSoup
 from docopt import docopt
@@ -37,7 +38,10 @@ def get_website_hash(url, selector, verify, dl_type='static'):
     else:
         raise Exception(f"Invalid type: {dl_type}")
     soup = BeautifulSoup(content, 'html.parser')
-    as_list = soup.select(selector) or []
+    as_list = soup.select(selector)
+    if not as_list:
+        log.error(f"Selector {selector} not found in {url}")
+        sys.exit(1)
     source_list = [i.get_text() for i in as_list if re.search(r'\w', i.get_text())]
 
     unique_source_list = list(set(source_list))
@@ -76,5 +80,3 @@ if __name__ == "__main__":
     new_hash = get_website_hash(url, selector, verify, dl_type)
     log.info(f"Hash: {new_hash}")
     print(new_hash)
-    
-
