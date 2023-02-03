@@ -42,7 +42,14 @@ def get_website_hash(url, selector, verify, dl_type='static'):
     if not as_list:
         log.error(f"Selector {selector} not found in {url}")
         sys.exit(1)
-    source_list = [i.get_text() for i in as_list if re.search(r'\w', i.get_text())]
+        
+    source_list = []
+    for elem in as_list:
+        text = elem.get_text()
+        text = text.replace("\n\n", "\n")
+        text = text.replace("  ", " ")
+        if re.search(r'\w', text):
+            source_list.append(text)
 
     unique_source_list = list(set(source_list))
     log.debug(pformat(unique_source_list))
