@@ -1,24 +1,24 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,fd99e7f34548dc71f00d44d8413d6c04e87a27de43efb913faeee4c1d09b37e0
-"EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,c641e8ba4db101928b2ca588b993b7a2ba0f801f0203e5c4a5f347555b7ff93b
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,12efd07c69b656a90373c320eecf4cf625af0e51bb4c7f0eab1ac65d41e8533b
-"FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,ff64cc2df41d9aa06dc08fec8435010994f1f433c328c77a20d0db447b72b1a2
-"FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,fb47da0e6fe8b40a83348729a3d08ca85bd98991f33a1138b1fd73e10154808e
-"GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,e808bc0375d39293087346205b343a343ac291acb421ae23591271260a35b21c
-"GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,363a1ffacaf8e15882d159946468177834d9ed7f84377900eb8f9792edc19e6a
-"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,ae17489e4d5e4b720d0c9077d02ab9a9f150ab395d579acf0931ef5f05ecdef1
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch/aktuell,.views-row,static,88c16e8e18b435a9a6ebca2dbf462011ac0b1cf64ff390c316081268244362f1
-"Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,91188af49ab160ac4b780070eaffa39b712ca7c2a83454a4d4f4e0cd93bcba3f
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,b6a946619aa2ed1ed3718190829dd20adc64ee6e7f07dfac1a8b325e579b9069
-"HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,30bccb7758bcb4d5b8589e783b811a1f434ec9da36e84b82f6520a7cf0bf61b9
-"Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,d649ca5f7f7a74f1ed5fd77f6a1d8c5f7300e41268e5df3f41bfa2af1f05012e
-"Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,8a2d7eb55369c14bff0653e11f2ab53684d94f9ae9391978dbd2092fb754813e
-"SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,088ef0134c5fe7a283c79d17fac596bb6f1d3812b09840a0e5b10803a38f720e
-"SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,3d34389e9fadd4bf60134833204c36552a130dde8e5da68f666e64ec34a536e7
-"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,38ce53c51e8c4c6432e0562b8a8627dbdfd6909f331a5a9c4bc0665577fa4b08
-"SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,c10c83a38c0aee80610269b52c251fbdc9955da5a1b5b2a180e3e266677c43a2
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,312ebe190ea7a1f639ab30c1c0532c4568f3f3867df950c65455ed73de53e0a1
-"Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,c1e6e5dbf013496d8ebd9e54e064c6eb079b584e2314e49e775b2c7adc78adc2
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,81924b87804736fe05a6147e35f091e48bc7249375da999806eda697d21a63fd
+"EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,d307ba23e7cd854e4444b3d4419248fff2cf595d9cb61ba69a097e07848e8ca6
+"FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,0d34f1f6b9a3f32ffb311433df7ce42dcf6b0f88f5e1a7b082a7a6e838a76e3c
+"FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,4bbe9562b3a2fc3bd8b3497b4a8e0b83c7a4bb9c1b15b23d093c697340362b24
+"GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,09e3065038e77cd3286c4c3b54ef31d40e9e4aa04770f973233016ba52f4ebca
+"GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,caefc5d693d93f0ce7a77cf3424bdb7c578666714da153cbd1500139c81f4ce0
+"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a72ef0325a7b1a7f93b21e61b379a7acaa35f5cb88ae28344d4c3609bb162fac
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch/aktuell,.views-row,static,5549182eb13f856713ecb4a7a14c2a63e701d04f38d2938e20b680beb4dfadad
+"Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,24876d734574a7e2d863996fb33d7d1545fb7bb8b097de110f50199c08d3f99d
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,e230a0229de2cea26614db288daaa0ce0204f8c364371965400a9b3d2dd4ab2b
+"HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,93f4ee3bee55c3f5d3e48ef61d08f4835053659039f5bcb88b93033e03c96b35
+"Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
+"Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,7e42ebde6651c0d25d495af668a806b2bd07a6dac183b808a373f9ae6bc46abb
+"SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,79c9aa980f961340453d9a209378b245a1707c3e9c1be2fc9bb9a68a74495184
+"SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,2a120371a4ea1d7d8c1ae87eccf7c61be7a219cffa9fe1035f1a886582db85b2
+"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
+"SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,be7fa0c4b41e0afb1b16c724cdfa6e84bb6c53369f6c8c06fbaf963adbff017d
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,364df62b362c295ce2855ef79922f2e358496ad7ac5444e9a4167b24ce847269
+"Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,046f3b273e45008d457c86c01fad122fa58bc1ffbeb096bd46096060375d7678
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,cd7062faf200b6883bf544941f81e3736c8c29606497a476c9de9fd3ab00e02d
-"ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,4d3be32305d153c97dd875fa15fa3ab7932b69fee0b2059c96f8ac942585b71e
-"Ökopolis",yes,0,https://www.oekopolis.ch/,.lovecraft-widget-list,static,2dfb486b220a56b5eac95109c455e032fe7177a5232a03e60151b2c601771796
+"ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
+"Ökopolis",yes,0,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
