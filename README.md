@@ -8,7 +8,7 @@ The files is parsed on a regular basis (see the workflow file for details) and a
 
 ### CSV format
 
-The `website.csv` has the following structure:
+The CSV must have the following structure:
 
 ```
 label,active,error_count,url,selector,type,hash
