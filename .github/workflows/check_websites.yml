@@ -88,7 +88,7 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
-            🟢 Website changed: [${{matrix.label }}](${{ matrix.url }})
+            🟢 Website hat Änderungen: [${{matrix.label }}](${{ matrix.url }})
 
       - name: Note error for later
         if: ${{ failure() }}
@@ -104,7 +104,7 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
-            🔴 [Website check for «${{ matrix.label }}» failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
+            🔴 [Website-Check für «${{ matrix.label }}» fehlgeschlagen](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
       
       - name: Upload hash as artifact
         uses: actions/upload-artifact@v3
@@ -184,4 +184,4 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
-            🔴 [Website Checker Job Failed](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
+            🔴 [Website Checker Job fehlgeschlagen](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
