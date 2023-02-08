@@ -14,14 +14,14 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,4a573b14dac3647e1679efc1b423c1ffab17ad5829e3416bc0dca1e5698f3aa8
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
-Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,3fa4cb1754e1149a946feb5429c8ed8b0182260d1189fc4aa5d72ef46071ff2a
+Syna,yes,2,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,3fa4cb1754e1149a946feb5429c8ed8b0182260d1189fc4aa5d72ef46071ff2a
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,8649aee6d841e59886bb30d18d99f4d7d4adff0e4a457abd82385284ede333f3
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,172dc58c2bc52fca8dd7cf0569d56e28908055aa838d2e311389b7b34a51fa07
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,4d414c43e16fd79c8c3446a0a25ee8b043f60158a14162d34bd33cbee5bb9862
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,498a05122ef68473b3da0079520070a3738044b8fe551d7a634ca61528b1fbfc
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,913fbe9407c873105ac37d44286e2dfc33e9f112134e74099c1006ce9b27d59c
-"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,d29c9e5833e03615bb63cc590ecebd91db5f1689e637e6ee5a45e48bb52836cf
+"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,63949a368c766e416322fbcbf67bf4c8e09e477424927639e3c37e462db50c54
 VStA,yes,0,https://www.vsta.ch/,article,static,31d535783fe2849935ec3f8c1503e639dd4941775bf869368ae2e52ac13f415a
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,cd7062faf200b6883bf544941f81e3736c8c29606497a476c9de9fd3ab00e02d
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
