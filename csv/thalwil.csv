@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,9232155282d08c3e8b9b34d161470f003f9fd0a31d21f4e5abe12acf258076c0
+"Digitales Amtsblatt Thalwil",yes,1,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,9232155282d08c3e8b9b34d161470f003f9fd0a31d21f4e5abe12acf258076c0
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,d3dfc6393a62512b1874551e712495be7e96f3a91bd5bd85a1bec1402b1e7054
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,0d34f1f6b9a3f32ffb311433df7ce42dcf6b0f88f5e1a7b082a7a6e838a76e3c
@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a72ef0325a7b1a7f93b21e61b379a7acaa35f5cb88ae28344d4c3609bb162fac
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch/aktuell,.views-row,static,5085a588a7c80ddf21fca41ae95161e5702271de9a83a0b295a0de261ec3db7f
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,24876d734574a7e2d863996fb33d7d1545fb7bb8b097de110f50199c08d3f99d
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,fec962efda9a6acbc979393058f874667a5983430d287d533fc0255e3c2abfa3
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,0983062a12b8e13f219e3a78059a381083122f1b6534cb7107a198b14360d20b
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,93f4ee3bee55c3f5d3e48ef61d08f4835053659039f5bcb88b93033e03c96b35
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,7e42ebde6651c0d25d495af668a806b2bd07a6dac183b808a373f9ae6bc46abb
