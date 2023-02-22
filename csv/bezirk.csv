@@ -14,14 +14,14 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,81b5a8502fce1b9b5520d16e5c6b6365c8f39cb6aeeae266327bafc60036fbf6
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,0758053e3b6dee932f73ad8a6b44768e3a465301bff6191584a23761ce0cae44
+Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,0758053e3b6dee932f73ad8a6b44768e3a465301bff6191584a23761ce0cae44
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,446be0e1ca6c610bd847231eb4469fc172f0daea5f2bd81b540fc1b5562b6618
-"TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,b9f071a0a16ea084b71a37e3477c5a41cd87dfd5b5a2e0cd499f0bfa511a833c
+"TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,0037f95b4a582ff13b79ba9670c55f91bdb17d479494a08065df68108fc1ad5e
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,95a9a750bd3fdd86f4fbf6bb2983448ac2027660d1655112b430484fcc7af57c
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,12c419bcec0b8eda09723b381fdc7224ad3abaaa5944b50698c30c3e040bc214
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,913fbe9407c873105ac37d44286e2dfc33e9f112134e74099c1006ce9b27d59c
-"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,f9a18eadb93e23168ee4a0229f9f11bb115b41bd873736da00d754685cfcf46a
+"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,2548f2a2af8f22d9afa647e9ceb1c2ece9ac0f435a3502d2218e892350f94bf3
 VStA,yes,0,https://www.vsta.ch/,article,static,d3979dc95c55660dcd51e44a74c248c89bea9729065f074155747f8a477b66e1
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,cd7062faf200b6883bf544941f81e3736c8c29606497a476c9de9fd3ab00e02d
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
