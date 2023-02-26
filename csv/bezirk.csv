@@ -22,6 +22,6 @@ Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,95a9a750
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,acf68d60caf00d42fd4e36965299453ffe32386f8b8c039dabf9ff73fd1f9708
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,913fbe9407c873105ac37d44286e2dfc33e9f112134e74099c1006ce9b27d59c
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,2548f2a2af8f22d9afa647e9ceb1c2ece9ac0f435a3502d2218e892350f94bf3
-VStA,yes,0,https://www.vsta.ch/,article,static,d3979dc95c55660dcd51e44a74c248c89bea9729065f074155747f8a477b66e1
+VStA,yes,1,https://www.vsta.ch/,article,static,d3979dc95c55660dcd51e44a74c248c89bea9729065f074155747f8a477b66e1
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,cd7062faf200b6883bf544941f81e3736c8c29606497a476c9de9fd3ab00e02d
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
