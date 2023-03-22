@@ -2,7 +2,7 @@ label,active,error_count,url,selector,type,hash
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,4fa6cdcbc34e3fa0500e701ab3112f77fe1733c4371242ae4fa52bd84b5dc201
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,765670ce1ab6e7b598775cc6720d065660dcdaa389754902bd6741beadcb21e5
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
-"EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,9319e6c9096c1853678789c6b768d037a6f17bb442396358f59dbdc780f83b96
+"EVP Kanton Zürich",yes,1,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,9319e6c9096c1853678789c6b768d037a6f17bb442396358f59dbdc780f83b96
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,0d34f1f6b9a3f32ffb311433df7ce42dcf6b0f88f5e1a7b082a7a6e838a76e3c
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,c8a43a7c7eecc99fc69f75a104de04f5d3e43ae99675b3b2d7e21acd888212a9
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,0be41a6d6675a4577df884f707f729bc2da8a9104572e4781ab4840c173dba9a
@@ -14,7 +14,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,3ee70917d6ba327b7aaafee5675f91580802f2b494d80627a5ce757cbc1acd99
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
-Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,0758053e3b6dee932f73ad8a6b44768e3a465301bff6191584a23761ce0cae44
+Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,0758053e3b6dee932f73ad8a6b44768e3a465301bff6191584a23761ce0cae44
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,e0222d8eb1dc5e1f2d341afbf871b11209cfe113a30b9fded055508c3ceb6b25
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,333048b382b35d8c818dc69d3eb6ec1cd823cd8603f1bcd67d60e038d7519281
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,84175fe3b49f290a0ad0b9ee6cc2bc57fca7a0373f2e048d34057fe6bef40e2a
