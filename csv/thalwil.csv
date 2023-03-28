@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b2e568509ea44c20fff5baced022653361888322ad9b34bd72f2ba0013de5fd7
+"Digitales Amtsblatt Thalwil",yes,1,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b2e568509ea44c20fff5baced022653361888322ad9b34bd72f2ba0013de5fd7
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,100ddbd7027161bb0a0f5b0677015d10f234292342976ce8f08e1b8adb2f9186
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,0d34f1f6b9a3f32ffb311433df7ce42dcf6b0f88f5e1a7b082a7a6e838a76e3c
@@ -17,7 +17,7 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,0f0f7f820437db1f6bbe08b059bc716d40dfe682f93ed4c817c02f8afb761932
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,be7fa0c4b41e0afb1b16c724cdfa6e84bb6c53369f6c8c06fbaf963adbff017d
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,b1e9cf3ae7e17431a2cb5fd1e00d7ed00242c0beac3ed079a5b635e72fce1b6d
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,b04d75105a2222e67a89c89937653f380a9e56b368dd5f726148a1e8553f65ae
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,046f3b273e45008d457c86c01fad122fa58bc1ffbeb096bd46096060375d7678
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,b325b121af3b4cbc21b915f35e099d950fe0a30940eef21c599597451077af00
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
