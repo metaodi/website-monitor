@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,2a7249e1fb5cbc98a110f4bd8600f1e2251137bbebfe746b7cdf5df56a1f3e7c
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,0af823b6135ef00a99c906337378c40b664c4dc903e5097da4ef7275fd556e6a
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,765670ce1ab6e7b598775cc6720d065660dcdaa389754902bd6741beadcb21e5
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,74873d0e12f98a12182634e71718c3a6a2051a03e194bdbb16ea26a4111682ad
@@ -22,7 +22,7 @@ Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,bcd272ba
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,1f304a4fad11aab05ceebbd20d6f340fee6ed7247b0d29fd0663482507a6a171
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,569db70b5c43958614b1d08cdb58a033bae976d244142050563a7d0d52629efb
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,5259d28f014fde6ce29e15941d50af62ad53455247aa942bba69681f999e95b3
-VStA,yes,0,https://www.vsta.ch/,article,static,b15ab45e335255e548248467b326832027f90c72c5ac72616c37aaf566858cb1
+VStA,yes,1,https://www.vsta.ch/,article,static,b15ab45e335255e548248467b326832027f90c72c5ac72616c37aaf566858cb1
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,fb09c8cef2ef10e362b7248665a7481a943087c59f6933207fd5cedcd687f85d
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,b325b121af3b4cbc21b915f35e099d950fe0a30940eef21c599597451077af00
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
