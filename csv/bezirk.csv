@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,0af823b6135ef00a99c906337378c40b664c4dc903e5097da4ef7275fd556e6a
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,18b8454b1583dea42a0f317abde25b52d07c187206efb5140406b9100d75935f
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,765670ce1ab6e7b598775cc6720d065660dcdaa389754902bd6741beadcb21e5
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,74873d0e12f98a12182634e71718c3a6a2051a03e194bdbb16ea26a4111682ad
@@ -8,7 +8,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,14e978bd2d1e480e360998c0513cb19bfca96ef89f1c5ee9fcde9a6041ceb85e
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,48c68e4d0e2d7e602e856cf53aab6838a161ff84321ee0b6cd17262927b4c77e
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch/aktuell,.views-row,static,f7b3b0eca27fe63bcd159a657ee8ffd215ba46c4b9f21ca8db3650480611d8a1
-"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,12fb02290dd2029a319519a564feea5fe4f72586d5a34331453db6cdfa6bad2d
+"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,0e47c73179be09b52601f791c97aeeccccdd1786b940ba61917cb66b528a62e0
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,5c21e32b0abe725bdc833292151c03ec3cf1b3dc8c82df3375226cd084f5a0c5
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,83afbe3e9979a8ac874168e6335f4205eb25782d7025b5db2a1bceec184eb413
