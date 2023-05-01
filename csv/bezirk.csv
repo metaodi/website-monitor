@@ -2,26 +2,26 @@ label,active,error_count,url,selector,type,hash
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,1ac34eed090c65e4511c390d6534047125988e5e69082aed522ce11c84c7bc19
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,765670ce1ab6e7b598775cc6720d065660dcdaa389754902bd6741beadcb21e5
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
-"EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,a27a6ce343733bb0e330df6f6afe7a80015ae18590c34b7ab245c691bfbbf0c3
+"EVP Kanton Zürich",yes,1,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,a27a6ce343733bb0e330df6f6afe7a80015ae18590c34b7ab245c691bfbbf0c3
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,89b1c858cbddc1c1b423c8461ac6a93c53dafe5daf5bda6c634bf058b9c29b10
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,9ba40efe5a62b36edd02a0400c4162dd598e80f8c0ef5501366e10b0c9d68b85
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,14e978bd2d1e480e360998c0513cb19bfca96ef89f1c5ee9fcde9a6041ceb85e
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,48c68e4d0e2d7e602e856cf53aab6838a161ff84321ee0b6cd17262927b4c77e
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch/aktuell,.views-row,static,f3e6a5ab858fd7ffbef56e451c16ff8a75ab9d7562669f1075d1722541937ffe
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,8c11cacb9548dbdc3095d5ae5824962a0164e4996211005f9d64f95563b22a17
-"Mitte Bezirk Horgen",yes,1,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
+"Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,cf7657225ae77fcd43dc2891a3dcdb971d5d6410acaa67780840ec02853ac9eb
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,83afbe3e9979a8ac874168e6335f4205eb25782d7025b5db2a1bceec184eb413
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,5a59e182bf91c49837e06bd5a8983030804f6e693b5c2929c1420c9fa11ce9d6
-syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,44fc2d3c65d72e5bb49e76e6d9a15978612a994a1fd5d0c4a430331798ae43e5
+Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,5a59e182bf91c49837e06bd5a8983030804f6e693b5c2929c1420c9fa11ce9d6
+syndicom,yes,1,https://syndicom.ch/aktuell/,.news-item,static,44fc2d3c65d72e5bb49e76e6d9a15978612a994a1fd5d0c4a430331798ae43e5
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,7d87cbeb64b82300a6f64759cf2f5372f3dde940da1ffe3c82a8ce949e775e2b
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,15a79385e3599dc19241d52ba93b007e2e503b1eb579c4e459f6633c363202e0
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,345a6c9b414179d131ee958bc8d24aff6d30838f69d1d1d390b7517d2139e322
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,569db70b5c43958614b1d08cdb58a033bae976d244142050563a7d0d52629efb
-"VPOD Zürich",yes,1,https://zuerich.vpod.ch/news/,.news-article,static,5c79e80e1f8fc914c18f7ba5213e58687a6cc2646d8a452d18d5857fbbf7032b
+"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,5c79e80e1f8fc914c18f7ba5213e58687a6cc2646d8a452d18d5857fbbf7032b
 VStA,yes,0,https://www.vsta.ch/,article,static,d73288f4e7cac842108c1a8efc74efb5bc7518c760d3e52b29c3d8441836610b
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,09a417491c25f94e6f0f1a7c6c257a90783be8acef4e6d80e82bd334c7cb27c9
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5f6bc4a76cf582c1bc1d4f4f1a5c1283d05554cd14f98053fb69e956a20076c9
