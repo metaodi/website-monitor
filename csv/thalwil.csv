@@ -11,8 +11,8 @@ label,active,error_count,url,selector,type,hash
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,065026d6f1e6619d72e5b4e740780dd714d10b7706eb945ea0834a4593cec3f0
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,d1982b9df76e8c0a434c2438248f4eb92f919ee6747c6608d2d715c07d6dca65
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,89961755c1ee0711d791d6ddc6e1b26f29dfaab20cf1d5f1bbed9ad2061e7b85
-"Mitte Bezirk Horgen",yes,14,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
-"Mitte Thalwil",yes,14,https://thalwil.die-mitte.ch/,main,static,9671c262a6b22a057b710fdc4a67ed96f82ffaf5c994ed131f4f4be84a9e3f98
+"Mitte Bezirk Horgen",yes,15,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
+"Mitte Thalwil",yes,15,https://thalwil.die-mitte.ch/,main,static,9671c262a6b22a057b710fdc4a67ed96f82ffaf5c994ed131f4f4be84a9e3f98
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,cf7657225ae77fcd43dc2891a3dcdb971d5d6410acaa67780840ec02853ac9eb
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,e480b75b0be942b46fc4a2d6c139c55de55c0c0c58506ba4f32e408c2014cd51
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
