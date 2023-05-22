@@ -11,10 +11,10 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,074e5705203d0f90fa63d5cfb499ffe752e9c065052459a0eabc7d27cfce70a8
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,dbf20acd0d42522c272c7d6fde67081d20f9fc3da82151c06251e313f0cef4ae
-"SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,84019e9a146fe2c1ef73a53ec2cc9d84fac98e178b1dc6f4a02824c9f574d5e3
+"SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,85c3174bfa57b50d5d332235235cc63f27daf5c41bd6df709b3efaab8bff3e6b
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
+Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,ded3d4630f93776619d959d99b5c4797d74fecfe9850587be106576f81164b2a
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,67f63478df3caedb2a8a19c526a503139418594d20c511ed1d4d4822fc1e6043
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,ecf033a6e383449fc82ba0dc46cb9c06fd4ec7b9d6a6d97e7293b062a2f433b1
