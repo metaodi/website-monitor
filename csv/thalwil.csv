@@ -13,8 +13,8 @@ label,active,error_count,url,selector,type,hash
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,89961755c1ee0711d791d6ddc6e1b26f29dfaab20cf1d5f1bbed9ad2061e7b85
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,c2978ad3a997fb4ba1468b9d8a22b8b3cb1f5553e0c37c8cbec70b3d4941a856
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,808310ea6d9783571f3f4ca738121786c39b8feb000f0ac3becab25cba8001cf
-"SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,d961b84d65119e862c9be285b3031689e46b96839deb6158849689d770aae8e3
-"SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,19c2ad15a01bc7d0deab9d0bbd9cfab7c957acfc10bd1a70a67685c4faee7083
+"SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,dbf20acd0d42522c272c7d6fde67081d20f9fc3da82151c06251e313f0cef4ae
+"SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,0e5f7e009866966113e3fa8623a62ad2187d191c6cf85f221cc5fa7b68b4c2f3
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,321ad7faa16b34dc9ecdd2cae5719e4f4ea70a18d14b2b182d01f42a2519e1a8
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,c8b04e2b80950f72c7d4624222622b4d9578a36b3c53941d0c609a33fe183fc8
