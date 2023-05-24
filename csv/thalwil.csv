@@ -6,7 +6,7 @@ label,active,error_count,url,selector,type,hash
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,737813277992e2f9eaf362f4a58d144fdb0a64ece94d344f04d221be8b0b7118
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,14e978bd2d1e480e360998c0513cb19bfca96ef89f1c5ee9fcde9a6041ceb85e
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,c9567ca0c8d08e72344eff59ec58a56cbd1e9a0dd440e594199afbd6bedaa2b9
-"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,48c68e4d0e2d7e602e856cf53aab6838a161ff84321ee0b6cd17262927b4c77e
+"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,c8e174dc3767fa384e9a7071d6ed4792b3ad0f7b3d49080811347a72b7f1116e
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch/aktuell,.views-row,static,367bf87dd6dc17e85b86ca6f592ea9b833d3383d9ac536be536fcbd69ec9c318
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,065026d6f1e6619d72e5b4e740780dd714d10b7706eb945ea0834a4593cec3f0
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,d1982b9df76e8c0a434c2438248f4eb92f919ee6747c6608d2d715c07d6dca65
