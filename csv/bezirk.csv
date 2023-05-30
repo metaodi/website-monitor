@@ -19,10 +19,10 @@ syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,f00b29f6ec9e56fb25
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,f2dc83093f82f927c63ebc85a646365498fe19224f2657edce99802fa489fb7b
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,ecf033a6e383449fc82ba0dc46cb9c06fd4ec7b9d6a6d97e7293b062a2f433b1
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
-VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,3f0253288f6f70f81e6bc1840ab5bd8b5a9c6d9c35ea1aa59e0c8e4214b47097
+VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,f9e92866a019c849ff9a9663bc1e7edc35bab379555d8ec1b7d95547ab905b71
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,569db70b5c43958614b1d08cdb58a033bae976d244142050563a7d0d52629efb
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,.news-article,static,542cc73d0faa3f980230174ce0fdc59ba3b22a9bfdef22bc50d6120c6de9e891
 VStA,yes,0,https://www.vsta.ch/,article,static,8d5dbaabcf061a3152a890049ec92896932162e49d0df9411c8912bbbb85e8ec
-"Wahlarchiv Kanton Zürich",yes,1,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,d88982ce9f5fe77dee45893a977825aca8697be6b0b16a4b867a08030668bacc
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,d88982ce9f5fe77dee45893a977825aca8697be6b0b16a4b867a08030668bacc
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5f6bc4a76cf582c1bc1d4f4f1a5c1283d05554cd14f98053fb69e956a20076c9
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
