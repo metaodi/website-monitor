@@ -25,4 +25,4 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,7f30c207e7d8b15bdce
 VStA,yes,0,https://www.vsta.ch/,article,static,61eb1de0f7dd2413d018dd1b134270b9106e88d4b27517e338854ff43eeab28f
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,95a63a4292086eba89f6d9435d1c6f495ba67e1625438450d2a476fcd1ba8d0b
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5f6bc4a76cf582c1bc1d4f4f1a5c1283d05554cd14f98053fb69e956a20076c9
-"ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
+"ZPZ News",yes,1,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
