@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,03052ed8823e7b55f21061983d1018d858ce6e50e87c736b00716e1840c5d7d5
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,71d19172e8d384448966a0c5b286f8e76206a53461527dc06bd4227e4b09d03b
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,9fbbf45656a44184551945c4f67ef40a02eed86a16313cbd29e90eac292bdad5
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a40d1dab193df9219541847ed9e4e91b9e449738944b8bea42d65bc1e3510100
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,af8da330ccaea04cda1bf36b430ea6a74f4a9dd3f36007ebb53cc986cff1abd5
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,14e978bd2d1e480e360998c0513cb19bfca96ef89f1c5ee9fcde9a6041ceb85e
@@ -17,7 +17,7 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,3e9a86fb74d71c84161e3bb3f41b674ca3f699ede9a71d875aedb2d16364901a
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,59c6e93c6e0b2daa64fe3d4b3b572d0dad6a215dac32fa9f69719a476d4c0117
-"Thalwil informiert",yes,84,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,4f2183f0e2da80e8233b4abd824b6dc6bce3746c1c9b6c6b2aadc5c252a43dca
+"Thalwil informiert",yes,85,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,4f2183f0e2da80e8233b4abd824b6dc6bce3746c1c9b6c6b2aadc5c252a43dca
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,df0ea0d2bede9e7d5920864a6af530218ddf9dc85a13c911f0d82f3434973049
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5f6bc4a76cf582c1bc1d4f4f1a5c1283d05554cd14f98053fb69e956a20076c9
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
