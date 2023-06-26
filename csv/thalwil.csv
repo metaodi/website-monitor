@@ -2,8 +2,8 @@ label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,f94892d6dde01d7c599ce4eff49ebf9bc03e64c7f44eb2db7f1c8d09b1fde91b
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,ced0c9498f7877e409db53786010d2a34539907c5dcea4713860c8bb2d370b0c
-"FDP Bezirk Horgen",yes,6,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a40d1dab193df9219541847ed9e4e91b9e449738944b8bea42d65bc1e3510100
-"FDP Thalwil",yes,7,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,af8da330ccaea04cda1bf36b430ea6a74f4a9dd3f36007ebb53cc986cff1abd5
+"FDP Bezirk Horgen",yes,7,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a40d1dab193df9219541847ed9e4e91b9e449738944b8bea42d65bc1e3510100
+"FDP Thalwil",yes,8,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,af8da330ccaea04cda1bf36b430ea6a74f4a9dd3f36007ebb53cc986cff1abd5
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,c52da94ce81d06b32ee069493d9343afbf3871326c1b5ad02199edd437cfe5b7
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,c9567ca0c8d08e72344eff59ec58a56cbd1e9a0dd440e594199afbd6bedaa2b9
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,c8e174dc3767fa384e9a7071d6ed4792b3ad0f7b3d49080811347a72b7f1116e
