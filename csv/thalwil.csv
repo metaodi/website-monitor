@@ -1,9 +1,9 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,2,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,fe9cdceedd3d6e5903c0614ad87e8bca5a970448f54aef84f8fec30d2ac9b1ed
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,fe9cdceedd3d6e5903c0614ad87e8bca5a970448f54aef84f8fec30d2ac9b1ed
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,d4e0e42e7d53f9e7ed8397dd4ea83dbca88d643cb18bf6081abf3e80ec79f092
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,09aa474a475ba2ea5c18083b1c1a05a80638310d05e2263d438878334d4ab79a
-"FDP Bezirk Horgen",yes,32,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a40d1dab193df9219541847ed9e4e91b9e449738944b8bea42d65bc1e3510100
-"FDP Thalwil",yes,33,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,af8da330ccaea04cda1bf36b430ea6a74f4a9dd3f36007ebb53cc986cff1abd5
+"FDP Bezirk Horgen",yes,33,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a40d1dab193df9219541847ed9e4e91b9e449738944b8bea42d65bc1e3510100
+"FDP Thalwil",yes,34,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,af8da330ccaea04cda1bf36b430ea6a74f4a9dd3f36007ebb53cc986cff1abd5
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,c52da94ce81d06b32ee069493d9343afbf3871326c1b5ad02199edd437cfe5b7
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,c9567ca0c8d08e72344eff59ec58a56cbd1e9a0dd440e594199afbd6bedaa2b9
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,c8e174dc3767fa384e9a7071d6ed4792b3ad0f7b3d49080811347a72b7f1116e
@@ -17,7 +17,7 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,461ee630bcf3fecd7b28589d52039e4a62fec95d8a8c29e536e589e17231ffff
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,6e2ceb6d0d377e98319ef7c2949e999286799173149b3f0b7c0349fffcf2701b
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,59c6e93c6e0b2daa64fe3d4b3b572d0dad6a215dac32fa9f69719a476d4c0117
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,7feb917857f93e4cc2eef84ba0858e684e0a3a8dc1d5e2b732ec2424929f613c
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,902f1cc6023f75c8c370c4e36991451ac3b8a204c49d57a7ec6662c1afed9dd1
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,df0ea0d2bede9e7d5920864a6af530218ddf9dc85a13c911f0d82f3434973049
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5f6bc4a76cf582c1bc1d4f4f1a5c1283d05554cd14f98053fb69e956a20076c9
 "ZPZ News",yes,0,https://www.zpz.ch/news-index,.news-container,static,ec02fc83e61769afdfbe54d5d88191500c14abe42c77de4c1583be2d618fad57
