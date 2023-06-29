@@ -166,7 +166,7 @@ jobs:
         id: changes
          
       - name: Commit and push to repo
-        if: steps.changes.outputs.changed == 1 # only try to commit if there are actually changes
+        if: steps.changes.outputs.changed == 1 # only try to commit if there are actually changes and this is run on main
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
