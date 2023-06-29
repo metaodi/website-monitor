@@ -170,7 +170,7 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: main
+          push-branch: ${{ github.ref_name }}
           name: GitHub Action Bot
           email: website-monitor@metaodi.ch
           commit-message: Update ${{ inputs.csv-path }} with updated hashes
