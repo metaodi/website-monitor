@@ -45,7 +45,7 @@ def get_website_hash(url, selector, verify, dl_type='static'):
         
     source_list = []
     for elem in as_list:
-        text = elem.get_text()
+        text = elem.get_text(strip=True)
         text = text.replace("\n\n", "\n")
         text = text.replace("\n", " ")
         text = text.replace("  ", " ")
