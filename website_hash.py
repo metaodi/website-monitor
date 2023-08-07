@@ -52,9 +52,13 @@ def get_website_hash(url, selector, verify, dl_type='static'):
             source_list.append(text)
 
     unique_source_list = list(set(source_list))
+    log.debug("Unsorted:")
     log.debug(pformat(unique_source_list))
-    
+  
     unique_source_list.sort()
+    log.debug("Sorted:")
+    log.debug(pformat(unique_source_list))
+  
     source_text = " ".join(unique_source_list)
     new_hash = hashlib.sha256(source_text.encode('utf-8')).hexdigest()
     return new_hash
