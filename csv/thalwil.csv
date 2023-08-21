@@ -20,5 +20,5 @@ label,active,error_count,url,selector,type,hash
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,bf8e6e49cd72a9cf029c7c4cc5c401861fc47cd4654d47a28634154683514179
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,16086ad23fb08d1e94792eda641061236ba2bd65f9fb4debfab47c257e279607
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6e21b78112881ec34fc72166406d2f4e942f9b1b005b81fc345452d381f43db8
-"ZPZ News",yes,2,https://www.zpz.ch/news-index,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
+"ZPZ News",yes,3,https://www.zpz.ch/news-index,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
