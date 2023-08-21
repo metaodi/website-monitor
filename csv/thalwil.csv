@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,386c49fb37b24258f1c3040c6008a97aafa3b93a68f998a87ac17a6c379726b0
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,52b9352c0a48deca9aa08ce0a5df29eeda7a94a0407856004dd5cda704153ae9
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,996785c010cf929151e183c59aac104a706563443e6d7ed100d1d5559331f694
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,1d61b2a08ec78f02c48d8e47a67bc066cc46eb4693376ff4658c5cc93efeda1f
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,19227661e856e0dd319eef1c7757e5575e0cb2f2270729a4f8c817ad725ac286
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,fee64c7cfb325e5f83c6c9ead26647b6bf7ff58d65bf7665f2cd6ba6c45873ff
@@ -20,5 +20,5 @@ label,active,error_count,url,selector,type,hash
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,bf8e6e49cd72a9cf029c7c4cc5c401861fc47cd4654d47a28634154683514179
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,16086ad23fb08d1e94792eda641061236ba2bd65f9fb4debfab47c257e279607
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6e21b78112881ec34fc72166406d2f4e942f9b1b005b81fc345452d381f43db8
-"ZPZ News",yes,4,https://www.zpz.ch/news-index,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
+"ZPZ News",yes,5,https://www.zpz.ch/news-index,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
