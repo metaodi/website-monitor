@@ -22,3 +22,4 @@ label,active,error_count,url,selector,type,hash
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6e21b78112881ec34fc72166406d2f4e942f9b1b005b81fc345452d381f43db8
 "ZPZ News",yes,37,https://www.zpz.ch/news-index,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
+"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,body,static,00abca
