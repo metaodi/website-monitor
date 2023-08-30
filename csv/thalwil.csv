@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,8d8b3736e6668a1c11d064bbd93b8a8c6ce473bec5de7961ffa922dcdc2c6069
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b98832cbbb052ef6f13f58ab7124c63035bb62e84950083e2b78913883bc37e6
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,d8482b325c5da738f72f35ce3e346212aa19dccaab89a849f2c0133f52cc772e
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,1d61b2a08ec78f02c48d8e47a67bc066cc46eb4693376ff4658c5cc93efeda1f
