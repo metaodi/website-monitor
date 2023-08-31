@@ -3,7 +3,7 @@ website-monitor
 
 ## GitHub Action to monitor a list of websites
 
-This repository contains a CSVs in the `csv` directory, which are used to define a list of websites to monitor.
+This repository contains CSVs in the `csv` directory, which are used to define a list of websites to monitor.
 The files is parsed on a regular basis (see the workflow file for details) and a notification is sent via Telegram if a change has been detected.
 
 ### CSV format
