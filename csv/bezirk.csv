@@ -22,7 +22,7 @@ Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,bc93ed98
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,7ebd6890aeadbaa6884bc8d356083e8aa6c28fd5533430477a27ed9180f3f9e9
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,dd8ede755574eacf1d2d59506718c8be063105461ea2ec1fd69e7e3a4c858fb1
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,75908a2b192bd008ea1bf9fae45df592d8a7e9a074982d39ee5e23b9a922b03f
-VStA,yes,0,https://www.vsta.ch/,article,static,a32626f63ae52faa327a2ccbeee6423e4861fe0206f7c049d2807d84f1d0e2e6
+VStA,yes,0,https://www.vsta.ch/,article,static,c414db0352111dd99ac1b8164ee7e39f24ad94c20b43b51d24223bbb7987a065
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,792e59681a8774dcd891407369b87ac71ff83c4ed3f179bcd282ed71165434eb
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6e21b78112881ec34fc72166406d2f4e942f9b1b005b81fc345452d381f43db8
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
