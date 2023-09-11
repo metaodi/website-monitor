@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,0b2f72c8a7402eb54fb5a6f2efc2ab09585ec94d6c7cffdf7cb2e68f32ccb80f
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,7614d2780fd9e494724e7d78d3438d03be46efc06d237948d8fcb6dda7f9d2c9
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,19c17b314f42917dfe0880c380f24fc2b5dd9717ca5ddf6f1d3a93a0849c1466
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,52ca0d014b2c714b36d5840bf250aea83c831381972fbb08824e2d6357e6aa5d
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,69021913dd4b471146fefb8838ac7c75b597f4f5d8324deb4bf0268f2aa59d69
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6e21b78112881ec34fc72166406d2f4e942f9b1b005b81fc345452d381f43db8
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,87e41245625dd0a48239b3d0aa5ae7157a79442f5f22373b42daf2183dec2166
