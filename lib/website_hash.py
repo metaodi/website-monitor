@@ -27,7 +27,7 @@ from pprint import pformat
 from bs4 import BeautifulSoup
 from docopt import docopt
 import urllib3
-from lib import download as dl
+import download as dl
 
 log = logging.getLogger(__name__)
 
