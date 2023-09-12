@@ -71,7 +71,7 @@ jobs:
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
           mkdir text
           mkdir hashes
-          new_hash=$(./website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${{ matrix.hash }}.txt --verbose)
+          new_hash=$(./lib/website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${{ matrix.hash }}.txt --verbose)
           echo $new_hash
           echo $new_hash > hashes/${{ matrix.hash }}.txt
           echo "new_hash=$new_hash" >> $GITHUB_OUTPUT
