@@ -20,7 +20,7 @@ Options:
 import time
 import logging
 from docopt import docopt
-import website_hash as wh
+from lib import website_hash as wh
 
 
 arguments = docopt(__doc__, version='Monitor changes on a website 1.0')
