@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,600116a1dd4abef1c75a8599aee4e99f20b6bcc7c5d11fe51a55578e7cbb9898
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,8747d5a52b8a3393c487d66a15f62ea0e56594aa9b640af06516322367359b9b
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,95f51416254b4e662a353d5b43199d5ea8a2b86e8bea62eb59533d42eb69232f
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,bc76afb86b4469493f20853cb79d3308ce830cdc1bd98696c0aa47ac1921b6f2
@@ -22,7 +22,7 @@ Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,32d13be5
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,861bf7d3663783ae681454ad589f753f9b93dab364e8dfe6218d69bb5904742f
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,dd8ede755574eacf1d2d59506718c8be063105461ea2ec1fd69e7e3a4c858fb1
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,332c18fff60182b70dab4e74573feb91bec98d22837d7beabc21c89277dbcda7
-VStA,yes,0,https://www.vsta.ch/,article,static,c414db0352111dd99ac1b8164ee7e39f24ad94c20b43b51d24223bbb7987a065
+VStA,yes,0,https://www.vsta.ch/,article,static,efacba2679eff565e38adc6cab439fabf5fe9d4d38e1d3efd526db2215ddb2ac
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,792e59681a8774dcd891407369b87ac71ff83c4ed3f179bcd282ed71165434eb
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6e21b78112881ec34fc72166406d2f4e942f9b1b005b81fc345452d381f43db8
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
