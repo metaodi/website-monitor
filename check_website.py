@@ -27,7 +27,7 @@ import requests
 from docopt import docopt
 from dotenv import load_dotenv, find_dotenv
 
-import website_hash as wh
+from lib import website_hash as wh
 
 
 load_dotenv(find_dotenv())
