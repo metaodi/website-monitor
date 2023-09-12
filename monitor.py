@@ -20,39 +20,39 @@ Options:
 import time
 import logging
 from docopt import docopt
+import urllib3
 from lib import website_hash as wh
 
 
-arguments = docopt(__doc__, version='Monitor changes on a website 1.0')
+arguments = docopt(__doc__, version="Monitor changes on a website 1.0")
 
 loglevel = logging.INFO
-if arguments['--verbose']:
+if arguments["--verbose"]:
     loglevel = logging.DEBUG
 
 logging.basicConfig(
-    format='%(asctime)s %(levelname)-8s %(message)s',
+    format="%(asctime)s %(levelname)-8s %(message)s",
     level=loglevel,
-    datefmt='%Y-%m-%d %H:%M:%S'
+    datefmt="%Y-%m-%d %H:%M:%S",
 )
 logging.captureWarnings(True)
 log = logging.getLogger(__name__)
 
-url = arguments['--url']
-selector = arguments['--selector']
-verify = not arguments['--no-verify']
+url = arguments["--url"]
+selector = arguments["--selector"]
+verify = not arguments["--no-verify"]
 
 if not verify:
-    import urllib3
     urllib3.disable_warnings()
-    
 
-wait = int(arguments['--wait'])
-old_hash = ''
+
+wait = int(arguments["--wait"])
+old_hash = ""
 while True:
     new_hash = wh.get_website_hash(url, selector, verify)
     log.info(f"Hash: {new_hash}")
     if old_hash != new_hash:
-        log.info(f"Hash changed!")
+        log.info("Hash changed!")
     old_hash = new_hash
     log.debug(f"Wait for {wait} seconds...")
     time.sleep(wait)

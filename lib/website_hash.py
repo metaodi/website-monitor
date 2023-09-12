@@ -20,79 +20,79 @@ Options:
 
 
 import hashlib
-import time
 import logging
 import re
 import sys
 from pprint import pformat
 from bs4 import BeautifulSoup
 from docopt import docopt
-import download as dl
+import urllib3
+from . import download as dl
 
 log = logging.getLogger(__name__)
 
-def get_website_hash(url, selector, verify, dl_type='static'):
-    if dl_type == 'static':
+
+def get_website_hash(url, selector, verify, dl_type="static", output=None):
+    if dl_type == "static":
         content = dl.download_content(url, verify=verify)
-    elif dl_type == 'dynamic':
+    elif dl_type == "dynamic":
         content = dl.download_with_selenium(url, selector)
     else:
         raise Exception(f"Invalid type: {dl_type}")
-    soup = BeautifulSoup(content, 'html.parser')
+    soup = BeautifulSoup(content, "html.parser")
     as_list = soup.select(selector)
     if not as_list:
         log.error(f"Selector {selector} not found in {url}")
         sys.exit(1)
-        
+
     source_list = []
     for elem in as_list:
         text = elem.get_text(strip=True)
         text = text.replace("\n\n", "\n")
         text = text.replace("\n", " ")
         text = text.replace("  ", " ")
-        if re.search(r'\w', text):
+        if re.search(r"\w", text):
             source_list.append(text)
 
     unique_source_list = list(set(source_list))
     log.debug("Unsorted:")
     log.debug(pformat(unique_source_list))
-  
+
     unique_source_list.sort()
     log.debug("Sorted:")
     log.debug(pformat(unique_source_list))
-  
+
     source_text = " ".join(unique_source_list)
-    if arguments['--output']:
-        with open(arguments['--output'], 'w') as f:
+    if output:
+        with open(output, "w") as f:
             f.write(source_text)
-    new_hash = hashlib.sha256(source_text.encode('utf-8')).hexdigest()
+    new_hash = hashlib.sha256(source_text.encode("utf-8")).hexdigest()
     return new_hash
 
 
 if __name__ == "__main__":
-    arguments = docopt(__doc__, version='Get hash of website 1.0')
+    arguments = docopt(__doc__, version="Get hash of website 1.0")
 
     loglevel = logging.INFO
-    if arguments['--verbose']:
+    if arguments["--verbose"]:
         loglevel = logging.DEBUG
 
     logging.basicConfig(
-        format='%(asctime)s %(levelname)-8s %(message)s',
+        format="%(asctime)s %(levelname)-8s %(message)s",
         level=loglevel,
-        datefmt='%Y-%m-%d %H:%M:%S'
+        datefmt="%Y-%m-%d %H:%M:%S",
     )
     logging.captureWarnings(True)
 
-
-    url = arguments['--url']
-    selector = arguments['--selector']
-    dl_type = arguments['--type']
-    verify = not arguments['--no-verify']
+    url = arguments["--url"]
+    selector = arguments["--selector"]
+    dl_type = arguments["--type"]
+    verify = not arguments["--no-verify"]
+    output = arguments["--output"]
 
     if not verify:
-        import urllib3
         urllib3.disable_warnings()
 
-    new_hash = get_website_hash(url, selector, verify, dl_type)
+    new_hash = get_website_hash(url, selector, verify, dl_type, output)
     log.info(f"Hash: {new_hash}")
     print(new_hash)
