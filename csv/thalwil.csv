@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,64107743019937793cb64c884a73b18b8770ae0ad5ac8dd040026f02596b618a
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,f55b1d15cbf7919523c0dcab131c3436316080282e17ed7afc43ed27abbe5e7c
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,39b81b3479637875069da637e7d2141b4afec36acab56382ceedf64b9a44e43a
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,4d7810ccd6714d85ba647274172c3c2a90f59bfaf29d3ff42e6f35b05f273f67
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,9867a99e39c20d4575786627c0574068abd5eb00694fd3887eb257b6e50fb614
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,b098102e0e258c9efc6657c4b39e63569476fdb656fa0fd3859da9df610a9cba
