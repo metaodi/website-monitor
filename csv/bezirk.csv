@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,07a7ec053152488a10c418529c77c8cb33f64110faeb9a320422795b9216f3e8
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,c80cdba84b463ca9bb923e6f79a57f7bfeaf6e1bee494260859aa7321526e9e3
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,95f51416254b4e662a353d5b43199d5ea8a2b86e8bea62eb59533d42eb69232f
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,4616bd96d1f598831a93257a694c6cedc0984f8154c3068685e89548b433a173
@@ -7,7 +7,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,7249a593d366a617d95f86900fe8ff9a7cc4f6b6f46f1c60b905d0d9d58c0404
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,fee64c7cfb325e5f83c6c9ead26647b6bf7ff58d65bf7665f2cd6ba6c45873ff
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,1ec3eb0c0b0ad50ada955d80ffc2a843ce932e0e04dafaa21e41b7c0dddd36aa
-"Grüne Kanton Zürich",yes,10,https://gruene-zh.ch,.front__article,static,0b0aab1da1da6a6a5be8f6069a3c67f7a94023a92bc76553f6ccbb43c1268a7a
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,0b0aab1da1da6a6a5be8f6069a3c67f7a94023a92bc76553f6ccbb43c1268a7a
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,c537b298b4efd73972c12e899b60296525d1f8c1ae9d9b376dc3d42488eabff8
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,6c1cbd720f3ed5d09eaedbd0627ea70b3717a7bd31092b1d7054b42ef4b612a1
