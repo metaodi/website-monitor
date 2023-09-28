@@ -22,5 +22,5 @@ label,active,error_count,url,selector,type,hash
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,dc428bc3e781253da0a3abf1c795fd0c4f76516a7ace7c6f7bdc3a9bd45867f5
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,2b662a7e18ed429f8453d236107dcdd198701c0bcfd890a092464f108f5c7515
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,87e41245625dd0a48239b3d0aa5ae7157a79442f5f22373b42daf2183dec2166
-"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
+"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,a6d0462cb9ae8f91c62efe89ae5c46cf3c69deb6058874dfd0d9ecea85df78e1
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
