@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,aa95a92d7da8ab0e2c0a6e800a17657b0ad1fbf585fe854775bc9901d93612e6
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,b758e1b7543db73286b53987da83420ea8f1af23f5b99489f225b6feea16e305
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,95f51416254b4e662a353d5b43199d5ea8a2b86e8bea62eb59533d42eb69232f
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,6300c1c4ddf011708fbc261bab9a376999ff211eb318cfdb1c5dcf4db04a7df6
@@ -17,7 +17,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,249313642e2e4a2d8ba7fb87495a4472a9dd8681992d29ae985133819adbcbed
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,91dbe92f92e852439f8252eb549dd1960de8369dcf0ba72b0449347105588f6a
-Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,797acee348d3bb9d13f84a4642933105d58c5e59cb7fde6416ecf1382f809f4d
+Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,4c08b2043c0a12eeb7637ace6269e8e78c38853070d9a6ff2a8db2a5e84db855
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,08bb7528250c0a53e525c7ac60a0281dc4d90872f512b63ba27a435dbf9a536f
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,911c5c4d39bb5fbb3c51b82b09f81ffa2b42ac0f6b7ff4e8a7b36c899cea47a3
