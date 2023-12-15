@@ -1,12 +1,12 @@
 label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,77cee9ec4e82b6ff90fb6638ce3e37e2c8623ffae295612d449e326d45beb4b8
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,156408942f93b00d244c8857756bec98865c8b67e673618a4d383178af0ba942
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,2721cedbceb1c037523af0cb9b5297995761d9e04081cd172c22ac8dc48e5021
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,8a040b28c9f27fa28476ee7598bf74bc596820238019d4aa229913a17e907266
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,7cef55a4ee0e71e421eeb7d62585cd6ce527c65a004bc754c57468a0bafcae80
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,38bf169e9e87404f970685698e70673020442c0706b6d1f32b8aa15395a3025e
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,165a7790cae3ca1f81bb6c3509c7e09b0dc608e0033077948aaf9ff2a6c863cb
-"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,1ec3eb0c0b0ad50ada955d80ffc2a843ce932e0e04dafaa21e41b7c0dddd36aa
+"Grüne Bezirk Horgen",yes,1,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,1ec3eb0c0b0ad50ada955d80ffc2a843ce932e0e04dafaa21e41b7c0dddd36aa
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,546212500246f02b70e0fd7e2e0e3505970aea1c1ad89fa72869aa3ebc6e88fb
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,5300e708814f29411b2ae58716f7c938aa90e8c6e3406a305e89f6ff689e44c5
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,8ccc064ba3153de3cd6cf365df5aa2790bc2360a6ec95a30bb25bbbd7d8dd374
