@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,7678054b1161ba2ec24186928c878e2156a78a3d357f9aa126db2125146a583b
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,b1c7268b5ac914f3f7b02bbb4848d35c790254c1c4166872345c1feb042ecffe
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,bb64d22d0ef1a90973a8d1846af01990a7544bb2d1db27de4157c8c827c569f7
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,699fae25439d4601958df7c7abdb27cc60b42fcceea69493f620514421659f66
