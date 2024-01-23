@@ -2,5 +2,5 @@ requests
 beautifulsoup4
 docopts
 python-dotenv
-selenium
+selenium==4.16.0
 Selenium-Screenshot
