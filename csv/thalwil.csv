@@ -20,7 +20,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,62c22c1e751908292264d00a5d46da078476a8d1f2cc19bdf76943071a5beb84
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,4f83cabf91ff55d19c2d2f1ce20f008ea119de7039db57ecbf7a096d1832680e
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,dc428bc3e781253da0a3abf1c795fd0c4f76516a7ace7c6f7bdc3a9bd45867f5
-"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,fb49ff17f0d0e5a096989fe191065adf96bac6e92761b58489b570d330ea05c2
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,c66561646fc716b8be5e96ff3e98907cb40e4bba5e7624d8e9be9b54db3459f9
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d685fd351f01e411130569f6275e45aa3e6746c0b733b87c5920bc62d8b8c7d3
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
