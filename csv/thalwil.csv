@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b84a981ede06f256a604713750090b75176a1072624f650b163a280830847cba
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b2487c2d4100e2525990f3e2ff383386546fb444ac0e0d577e7646b00e052afd
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,18ef39517457010abf5a0b5f12f0d8b431efc9a69e64c706628a69095716a46c
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,8a040b28c9f27fa28476ee7598bf74bc596820238019d4aa229913a17e907266
@@ -14,8 +14,8 @@ label,active,error_count,url,selector,type,hash
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,b098102e0e258c9efc6657c4b39e63569476fdb656fa0fd3859da9df610a9cba
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,3ecbc5fa8330074650ccbf690ff8bb6ee3e673a77a1717aae1d31b9f41af407f
-"SP Bezirk Horgen",yes,1,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,64b7faa1b0463e3a633493738b9fb2521382f8de9e2f6062414e3ccd0ab07396
-"SP Thalwil",yes,1,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,344f7d5b6504bde6c0763bcab34e588381a8a61764f6fb88b552570a9a281e25
+"SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,64b7faa1b0463e3a633493738b9fb2521382f8de9e2f6062414e3ccd0ab07396
+"SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,344f7d5b6504bde6c0763bcab34e588381a8a61764f6fb88b552570a9a281e25
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,62c22c1e751908292264d00a5d46da078476a8d1f2cc19bdf76943071a5beb84
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,cc76b837e04b01cac49b8923305443899c7a14fa604ea9bcd82e089732996358
