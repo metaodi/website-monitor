@@ -15,13 +15,13 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
-syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,ba432e847b5bd66a33954a0a74c25fcd1e3fe7d71972a2a8610a2109500d9318
+syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,4428131fcc210916fe2418b9d168f8552488ff57dbdd9d9ff7e4f69aa99c1e99
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,4f677695a9d39db7d4bdbb070c72e8f5181b52025f17f97fdd94b8dba530752f
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,075f94167f6ff1d50b17776cc369146436e6e3091c61f11672a5e4904eb2b479
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,fca027de666e730063f9e08893eccf12f6ea9e0f1d4accdd224260e5d0e07510
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,1fe28b997f534717fa174f51756a2e27d059481f41b484359325b132ac780059
-"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,741e395d9c2597bfaac20da41479dd44273d0a901cc88e0bd361dcc7a849c12b
+"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,ea9ecb74eddf8e87960420131bdbabad70929d33b2a17449352d2d3a3fd886cb
 VStA,yes,0,https://www.vsta.ch/,article,static,14c15d8545def93e8e156bdd05ea6e77c1ae8f3122170724710937a61c4ac2a6
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,c5cf9f260b262ca3e514ecfdff0eb279b100e86e7ac68dc5702db157483aa394
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,c66561646fc716b8be5e96ff3e98907cb40e4bba5e7624d8e9be9b54db3459f9
