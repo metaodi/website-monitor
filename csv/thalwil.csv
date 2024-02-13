@@ -6,7 +6,7 @@ label,active,error_count,url,selector,type,hash
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,73c5e57d2da71f723ffabe8842a3b7bad047e13a684d386fbfbafb32fce5d721
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,6668a13829ad5bc58bda884bd2df36f67bb31a659beb5d0fc88838e00ba9dfee
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,ffc6031cb0e63a8c0ad0068fb14015c3e0b8be3b6524175972842859120c0c3a
-"Grüne Bezirk Horgen",yes,1,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,1ec3eb0c0b0ad50ada955d80ffc2a843ce932e0e04dafaa21e41b7c0dddd36aa
+"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,1ec3eb0c0b0ad50ada955d80ffc2a843ce932e0e04dafaa21e41b7c0dddd36aa
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,017064c923290833b0120e025a1cad1388e77f4aee81ef881984dda37cc49759
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,5300e708814f29411b2ae58716f7c938aa90e8c6e3406a305e89f6ff689e44c5
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,bf73a19e45097ad18ec338476c73c1c9ba17a5ad7cce4d76c9c6ff311f32d30d
@@ -21,6 +21,6 @@ label,active,error_count,url,selector,type,hash
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,38b1c8d0eae7d640f88b425085f1dcc129c276c2a16a11fd95d213a7d75cde2d
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,2b0f65f808cf083d3da3a0c5c0d41e29703f3d846a79b4804b7dad637a74a3f5
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,c66561646fc716b8be5e96ff3e98907cb40e4bba5e7624d8e9be9b54db3459f9
-"ZPZ Amtliche Publikation",yes,1,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
+"ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
