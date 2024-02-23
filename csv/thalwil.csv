@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,133a09e07ab4f0d121f9b71b65f7e620fba087d7eb620a06cfa570025baddadc
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,f2e95e4c1f3fa4caecb81487cb580b86783112ad1a948d3ced965baad2b778f6
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,61ef4cb680d5e553548f2fbad0f298ffe764ced0e4d31b5cede39939ea41841d
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,8a040b28c9f27fa28476ee7598bf74bc596820238019d4aa229913a17e907266
@@ -15,10 +15,10 @@ label,active,error_count,url,selector,type,hash
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,38668c095a6ad522ccac2e96e82f0649b4a09ce367e9fd395a73bc3fae4167df
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,15167f335bff7651330cec3dd9ba8f8f5c3be50a2a3da197a4d452d81b45467e
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,64b7faa1b0463e3a633493738b9fb2521382f8de9e2f6062414e3ccd0ab07396
-"SP Thalwil",yes,1,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,344f7d5b6504bde6c0763bcab34e588381a8a61764f6fb88b552570a9a281e25
+"SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,344f7d5b6504bde6c0763bcab34e588381a8a61764f6fb88b552570a9a281e25
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,198245a87e295c14c72e9f2def8b097ff11467160114aa27ec0cbfdbfa626149
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,47301e0d831f7e51f64c4cefba76590b0764decc1d353b5666f13116fc272fa0
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,bd980331870f093ee2ec9a634096461a2d5307a3473f063ba1caa6e227b75b50
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,2b0f65f808cf083d3da3a0c5c0d41e29703f3d846a79b4804b7dad637a74a3f5
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,c66561646fc716b8be5e96ff3e98907cb40e4bba5e7624d8e9be9b54db3459f9
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
