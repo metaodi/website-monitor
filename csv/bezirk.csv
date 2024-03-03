@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,8fe597ccdfc16defbbb105a5ef0b6b46817537bce67f91dbfa042eeecb895189
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,865a35ef903a56ac12afa22f18f6d4336807425fd9bdfeecf8a5f637fab072b4
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,bb64d22d0ef1a90973a8d1846af01990a7544bb2d1db27de4157c8c827c569f7
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,e5fcad961a8fdc5ca52b02e57fde3377ae783cd2a5682e8995129f8ae5a741e0
@@ -17,7 +17,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,391322ccad57dc8d49727ac60300cdcf2f55a7a7d914b7b7e2487d6c254674c9
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,d70f20106f3e3dc393208f7aba439fc60653acbe27b31e1689307d6910121b52
-Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,06a66e08966903a9446d5d3d415519a8cbfe99a77bc587f7dd3a1a8156b3eac8
+Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,bfa0b8736d2c564507b89bebff83a92fed9545940b669290013f5deca929fe9d
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,3648d63ec9b7919d2d3f292606407ec92eee39e226b1dad88a583372e66bedd7
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,1fe28b997f534717fa174f51756a2e27d059481f41b484359325b132ac780059
