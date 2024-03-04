@@ -11,8 +11,8 @@ label,active,error_count,url,selector,type,hash
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,49024a1f50a9fc653eb658e085e5801d76735f7b6f1f899d23c118b606cab591
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,7a49c111ade4f5819e2fc763971d30bc67326081f749dee61f5861783fbcba2d
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
-"Mitte Bezirk Horgen",yes,2,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
-"Mitte Thalwil",yes,2,https://thalwil.die-mitte.ch/,main,static,38668c095a6ad522ccac2e96e82f0649b4a09ce367e9fd395a73bc3fae4167df
+"Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
+"Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,38668c095a6ad522ccac2e96e82f0649b4a09ce367e9fd395a73bc3fae4167df
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,3a7e9b72344860bfcfaca151e57b08b095a6760f7928af9718a4692cf9085f69
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,64b7faa1b0463e3a633493738b9fb2521382f8de9e2f6062414e3ccd0ab07396
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,344f7d5b6504bde6c0763bcab34e588381a8a61764f6fb88b552570a9a281e25
