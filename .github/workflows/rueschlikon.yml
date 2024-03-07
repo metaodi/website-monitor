@@ -1,0 +1,17 @@
+name: Check Rüschlikon websites
+
+on:
+  schedule:
+    - cron:  '*/30 5-21 * * *' # every 30min
+  workflow_dispatch:
+
+jobs:
+  notify_thalwil_websites:
+    uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
+    with:
+      csv-path: csv/rueschlikon.csv
+    secrets:
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_RUESCHLIKON_CHAT_ID }}
+      TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
+
