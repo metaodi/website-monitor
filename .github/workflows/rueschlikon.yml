@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  notify_thalwil_websites:
+  notify_rueschlikon_websites:
     uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
     with:
       csv-path: csv/rueschlikon.csv
