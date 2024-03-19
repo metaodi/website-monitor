@@ -26,3 +26,5 @@ label,active,error_count,url,selector,type,hash
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,cccc123aaa
+"Elena Michel - Veranstaltungen",yes,0,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,aaaa123aaa
+"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,bbb23aaa
