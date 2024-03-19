@@ -4,7 +4,7 @@ label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,8730ea6a7908ab3b6626abdc08a15f7645584596c4da2f7a05659e6cc51d22b5
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,d17d87beccb9f28c18e2b5b1d5563bccbb0911e136f9700257fecf9cdb2cd672
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,fb2e9d921c12433211a5094d2af83320706582feb918c14d967ad65f6f7f9295
-"Elena Michel - Veranstaltungen",yes,3,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
+"Elena Michel - Veranstaltungen",yes,4,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
 "EVP Rüschlikon",yes,0,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,8a040b28c9f27fa28476ee7598bf74bc596820238019d4aa229913a17e907266
