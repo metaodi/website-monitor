@@ -11,13 +11,13 @@ label,active,error_count,url,selector,type,hash
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,de9a17ad5495bc7a7a11e94294724754b5b7bde55b0531c4378e5760483f96ca
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,3bccc3ad7c02fdd733ffd25aa6f3c83f83b6b0a50b9f4c8d14fa0a6495d7eda2
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,64107743019937793cb64c884a73b18b8770ae0ad5ac8dd040026f02596b618a
-"Grüne Kanton Zürich",yes,21,https://gruene-zh.ch,.front__article,static,f98fa48c4c756ee11ba9d2988fe85e0044531e5b7d77be93453db9357770b27b
+"Grüne Kanton Zürich",yes,22,https://gruene-zh.ch,.front__article,static,f98fa48c4c756ee11ba9d2988fe85e0044531e5b7d77be93453db9357770b27b
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,fa835c8980da76af73dce663aba456c6127c2187332a4b0cf7d7ec6986d4bae5
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,89b6aa797e061987d37e2e0787efe0bdc99ce4ee34162153480ed1fe093f4422
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
-"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,c7524195c46db7a06015b8b6b6ed22a4f7d7e385f5053c62dd33e7cbbe0bd5fa
+"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,41ac4727fec215a290d897ab427f951ecbd2cdcc05eeaacd6ef243319f26ba74
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,e609fd8359590e3d207fbb7c7ebc1f98799b0b3422965088ed069e39e3b47483
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,8ca45abb237beab2ad4dd6650d529e51a58bd57695142e1fb3e98771bf5438f3
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,8ca45abb237beab2ad4dd6650d529e51a58bd57695142e1fb3e98771bf5438f3
