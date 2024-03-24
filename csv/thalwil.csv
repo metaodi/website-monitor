@@ -1,14 +1,14 @@
 label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,83461cf690e11247ed312d5c197c7d9a18fba750f6b012f6187986ba39a86f32
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,2e424556facec21ac4573133b26e6b172ebd5a5f08b12df3dff8155168d0127b
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,18861b210e8ef12a8496467400e8833669d0f89e96025b1e6cbe7a6bd9fc1f15
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,291567dcc18ba7305aef5cacf4016d1c101cdb00aa70561d434d08f0345a4545
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,8a040b28c9f27fa28476ee7598bf74bc596820238019d4aa229913a17e907266
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,c17f69c88115c1fada39417aa2c96ef9370e19bbd06b402fda8783f24a180971
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,3bccc3ad7c02fdd733ffd25aa6f3c83f83b6b0a50b9f4c8d14fa0a6495d7eda2
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,ffc6031cb0e63a8c0ad0068fb14015c3e0b8be3b6524175972842859120c0c3a
-"Grüne Bezirk Horgen",yes,41,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,64107743019937793cb64c884a73b18b8770ae0ad5ac8dd040026f02596b618a
-"Grüne Kanton Zürich",yes,41,https://gruene-zh.ch,.front__article,static,f98fa48c4c756ee11ba9d2988fe85e0044531e5b7d77be93453db9357770b27b
-"Grüne Thalwil",yes,41,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,97d26605ee7a160516052094c1c8e8e00a6c44d1c14a66f85be06c5054e4b5b0
+"Grüne Bezirk Horgen",yes,42,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,64107743019937793cb64c884a73b18b8770ae0ad5ac8dd040026f02596b618a
+"Grüne Kanton Zürich",yes,42,https://gruene-zh.ch,.front__article,static,f98fa48c4c756ee11ba9d2988fe85e0044531e5b7d77be93453db9357770b27b
+"Grüne Thalwil",yes,42,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,97d26605ee7a160516052094c1c8e8e00a6c44d1c14a66f85be06c5054e4b5b0
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,89b6aa797e061987d37e2e0787efe0bdc99ce4ee34162153480ed1fe093f4422
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,9ace8db38279088f3612326505f1ae926176e71e3df34807bb9ee3d60077ba93
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,198245a87e295c14c72e9f2def8b097ff11467160114aa27ec0cbfdbfa626149
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,8c08e0d4eb306e718a4cfaca1e1eff5cea1ec09cd3d05b75726cbd8b0bc5c0c4
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,7c4c41cf66363f3f94056338c39ce07a891843c075adc9da448790ccde79a273
 "Verein Pro Badi Bürger 1",yes,0,https://www.vereinprobadibuerger1.ch/,"#page .content",static,2b0f65f808cf083d3da3a0c5c0d41e29703f3d846a79b4804b7dad637a74a3f5
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,c66561646fc716b8be5e96ff3e98907cb40e4bba5e7624d8e9be9b54db3459f9
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
