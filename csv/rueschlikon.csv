@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Aktuell",yes,0,https://beat-klingelfuss.ch/aktuell/,#news-section,static,d3747b2a7878e0650f518ec49821270ec3a82b54807be6b47e709e36e6f9585b
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,9c76cbe550ff42a7f72b68ea47734feddf358a7e815a48ca5aa96937f5cba52a
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b92568de5bf529c24b57db317e24295e5e1b71e40ef607dc0121c2e80fa8803e
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,d17d87beccb9f28c18e2b5b1d5563bccbb0911e136f9700257fecf9cdb2cd672
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,cfb6e97492dedecb69162f2336c31cfbf6e23f090a07ef032cee3dbd971a923b
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
