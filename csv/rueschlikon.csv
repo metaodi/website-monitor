@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Aktuell",yes,0,https://beat-klingelfuss.ch/aktuell/,#news-section,static,d3747b2a7878e0650f518ec49821270ec3a82b54807be6b47e709e36e6f9585b
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,a6906d83a03841dfa4ca62862e2d04e19e155526d17d0534fb788292d878cf6d
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,36f78103defa76b3db546c4905e98620fa83b759c7cc63c55501b1292bc656f7
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,d17d87beccb9f28c18e2b5b1d5563bccbb0911e136f9700257fecf9cdb2cd672
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,cfb6e97492dedecb69162f2336c31cfbf6e23f090a07ef032cee3dbd971a923b
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
@@ -11,7 +11,7 @@ label,active,error_count,url,selector,type,hash
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,0d4750111c4e6d23b4620c9e62b1444eab828c1fff73e33306efe0741d0946bd
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,dd2f64a9d6830c9f033fdeaef1dbd31e23c828b4d3eee0b5c8dbbd5933706ed5
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,64107743019937793cb64c884a73b18b8770ae0ad5ac8dd040026f02596b618a
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,5ea69afed419e3d2410462bf1fa3a74288ac7b03a77ccfb1c251adcd57177390
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,d5a9c5dc768845bf835676270c399909fa50605af76f3b36d833e487e5c03af6
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,fa835c8980da76af73dce663aba456c6127c2187332a4b0cf7d7ec6986d4bae5
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,0724536c51a69c1913a460d8f797018ead078635973674c40601bb0f2beeed3b
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
