@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,41ac4727fec215a290d897ab427f951ecbd2cdcc05eeaacd6ef243319f26ba74
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,c46288c6a540e6810d26d5583a3e301145e7dfabaf28302b6398f85528b0e362
+"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,a252d9c08e20c86b87e10ad8ee1f9ba61c51e60bed3dbd8144a31c1463ee19ee
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,8ca45abb237beab2ad4dd6650d529e51a58bd57695142e1fb3e98771bf5438f3
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,8ca45abb237beab2ad4dd6650d529e51a58bd57695142e1fb3e98771bf5438f3
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
