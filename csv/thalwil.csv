@@ -20,7 +20,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,198245a87e295c14c72e9f2def8b097ff11467160114aa27ec0cbfdbfa626149
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,2131e38488db85c851a769b282121838be12d940689560be1bc76fe1f4756106
 "Verein Pro Badi Bürger 1",no,11,https://www.vereinprobadibuerger1.ch/,"#page .content",static,2b0f65f808cf083d3da3a0c5c0d41e29703f3d846a79b4804b7dad637a74a3f5
-"ZPZ Agenda",yes,1,https://www.zpz.ch/aktuell/agenda,"main section p",static,dc2ea215cd537095737ae62912c02d38440dce6470aa33fab15873ab28f1e55f
-"ZPZ Amtliche Publikation",yes,1,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
-"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,dc2ea215cd537095737ae62912c02d38440dce6470aa33fab15873ab28f1e55f
+"ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
+"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
