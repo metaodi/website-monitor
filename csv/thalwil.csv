@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,e896b45cb53ff65ca263ae5507cfb682cd1ef4eca2e96e25e5a7bffac46e56b5
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,59091f61a947732cd792f100149f6437d6ff4314240169200b154b1154b10c75
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,b195826dd427498336f6dcb08ade70f65d5274ac25ab149ebd3e8390dc409d85
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,8a040b28c9f27fa28476ee7598bf74bc596820238019d4aa229913a17e907266
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,8d3b87a5be7ca0284f799d8d3c66d78aa51723f58697377b51bb7d92e1e7b93a
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,dd2f64a9d6830c9f033fdeaef1dbd31e23c828b4d3eee0b5c8dbbd5933706ed5
@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,64107743019937793cb64c884a73b18b8770ae0ad5ac8dd040026f02596b618a
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,73c724abcd4f0b32d6fd15b180c2d0d4dbf51fe7bfc502859adf4bc7a584bbc5
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,00a40a2436ef2196802040d610fc32da7dc4e7c9365252e95069aad09602070a
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,45d08a26721a14e5a675a208ac9f392079f923ba87a1ccdc5dace194d5568548
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,94cd5e56df9902396924852cd420998cd6bb8d8680407b53ace9ed7a716bcdfa
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,38668c095a6ad522ccac2e96e82f0649b4a09ce367e9fd395a73bc3fae4167df
