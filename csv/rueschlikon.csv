@@ -3,7 +3,7 @@ label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,f74b679105cab3f54e18c6a76017abc23916890d912d719d05ab2331ef1dfc50
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,508fe826e0d740bde75a5e838b89ee67f07b6097c7bcece100180f3eb9206d77
-"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,a7031799e377d4c05a8dc19c9bc1c4c63e83390eabe6b5ab53b123671f6ef48d
+"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,c90537284851e7ca5ca8f8f79c2a1f47fb0f37d3773bd0cd67e62ada76ab3fdf
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Rüschlikon",yes,0,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
