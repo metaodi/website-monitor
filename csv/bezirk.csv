@@ -16,13 +16,13 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,fe8cc2a0976619ebe6b83351a263f075cc95156011c7567670a347fcf74019b7
-"TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,1f096220d632eb3a8eb91f5ff76308e4f4c4611235617cfd6b4bf05ed7b8ff22
+"TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,cd7760ef6498f4ca21e1f7669cfd87eeec214f95e8a26a4a4dfae71da3fb8929
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,5b43a219bcd01a28ebf8e113d7bd0aef7616d4657400e8ac936a3d30b4771173
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,04d34d2a8cc01a66d7466dc430f2558c3f7660c1f862837ed2438990694cb783
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,14915f7051245979a6ecb09dd91ed5112bd661a2e7ed9f39961820a26926bda5
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,15c45f3619f6614627054c8a81c14be5706bec1eeecb16f13462c4c103be3b90
-VStA,yes,0,https://www.vsta.ch/,article,static,d15354c95dcd1439e35c77d968062789f72bb129b72e863a4c8f1f2b794ecc57
+VStA,yes,0,https://www.vsta.ch/,article,static,6484304c50335a8164234eb7e502fc7f8f95217a166952d5fdabead281151515
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,23ae83db5ce32848800d7af6298436cd9f523c2021260aee270b0e25870fe310
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,dc2ea215cd537095737ae62912c02d38440dce6470aa33fab15873ab28f1e55f
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
