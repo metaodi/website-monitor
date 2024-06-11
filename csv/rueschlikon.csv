@@ -3,7 +3,7 @@ label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b7de2ee9159fc59e5c853f05120e1c58911620f91446cfa6d174179bb96453c3
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,508fe826e0d740bde75a5e838b89ee67f07b6097c7bcece100180f3eb9206d77
-"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,72a26a3a864e5405f1ea2b1a5aeac32a9e2fa77a67a3a87a7bacb3f296fb4bc0
+"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,9fe62e2ffcf7bd83f104f89791cccfdfa36cfc06c435b89bfe938bc7045cfb4e
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Rüschlikon",yes,0,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
@@ -11,7 +11,7 @@ label,active,error_count,url,selector,type,hash
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,551f1a119b56074083db25576519cfe58b7c0819a9a143b26b4ed27ac8e8efaa
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,dd2f64a9d6830c9f033fdeaef1dbd31e23c828b4d3eee0b5c8dbbd5933706ed5
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,697c348fb9dfa1c6f83a9343c4e27a831f220ee1509bfe8ad9cb8693dece52a3
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,dd8d0434f4f8f7721fbb32a1243a454c90ed271146eea022d226f939b7300f36
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,fa835c8980da76af73dce663aba456c6127c2187332a4b0cf7d7ec6986d4bae5
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,52af6b7eeebbf15bb702d2705d0b838963293edb8c70fe4754b0abee76081064
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
