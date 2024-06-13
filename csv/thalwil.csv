@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,8ae3863b969527736a5aed6780de705698c6f9f6c7eed5bc43d516dcf273b490
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,267e1e252306d6b33a93dfdc87693c0a42465e30b4178f5a2ada239053028fd2
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,5d8a61d0f1ac37870475b9ddb3ec378fb3ce13ec26514390f8301c20d2a6874a
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,975ebc5586b4af1f4da36c086b8977e791b8098c4bbb053e0a9b7f400175c17c
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,38668c095a6ad522ccac2e96e82f0649b4a09ce367e9fd395a73bc3fae4167df
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,6e9a5c729ce0679a0a1cd27d2fa8ef785b2c712e9448ef7fa59c63969d68fe15
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,5c7b3c0c0233cc87de45a64946251fee48c05f13f714986758c3c6a19ff933e9
-"Thalwil informiert",yes,1,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,d81fb1dd18bdf0dc7ed30e17df2cd441be389436c36077be3c57816188fa420f
+"Thalwil informiert",yes,2,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,d81fb1dd18bdf0dc7ed30e17df2cd441be389436c36077be3c57816188fa420f
 "Verein Pro Badi Bürger 1",no,11,https://www.vereinprobadibuerger1.ch/,"#page .content",static,2b0f65f808cf083d3da3a0c5c0d41e29703f3d846a79b4804b7dad637a74a3f5
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,dc2ea215cd537095737ae62912c02d38440dce6470aa33fab15873ab28f1e55f
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
