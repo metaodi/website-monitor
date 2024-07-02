@@ -3,7 +3,7 @@ label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,0d420408738d2bd14b8b92e62d45970b3716b11352a31518e993d62daea92c46
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,c57a80093f0557d3882dec5756a3590ca62ad1df2e6669d3f2572f8765eed126
-"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,00f8822b1e18a00a5f2302128ad9aa8b1c577771b56500bde618520d2db26979
+"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,4b78d5da2e827093f10be672582564605a93c338f9c1ea55bf4ee8e8d491d4cf
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Rüschlikon",yes,0,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
@@ -23,8 +23,8 @@ label,active,error_count,url,selector,type,hash
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,5d129bf0a11586114d76850cf57baa62a35df90502475541976e3887675f7591
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
-"Unternehmer Vereinigung Bezirk Horgen",yes,12,https://uvh.ch/,article,static,0b4bfde765f6656aef3059edcfd7865eaceae1115615a8c4fc937b2c3a6ab0e3
-"Unternehmervereinigung Rüschlikon",yes,15,https://uvr-rueschlikon.ch/,article,static,fc321327ab60fcf8b2caf05941f57ca087f0afcaeff1f82a4dfc81086a583146
+"Unternehmer Vereinigung Bezirk Horgen",yes,13,https://uvh.ch/,article,static,0b4bfde765f6656aef3059edcfd7865eaceae1115615a8c4fc937b2c3a6ab0e3
+"Unternehmervereinigung Rüschlikon",yes,16,https://uvr-rueschlikon.ch/,article,static,fc321327ab60fcf8b2caf05941f57ca087f0afcaeff1f82a4dfc81086a583146
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,dc2ea215cd537095737ae62912c02d38440dce6470aa33fab15873ab28f1e55f
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
