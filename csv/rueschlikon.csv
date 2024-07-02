@@ -23,8 +23,8 @@ label,active,error_count,url,selector,type,hash
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,5d129bf0a11586114d76850cf57baa62a35df90502475541976e3887675f7591
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
-"Unternehmer Vereinigung Bezirk Horgen",yes,7,https://uvh.ch/,article,static,0b4bfde765f6656aef3059edcfd7865eaceae1115615a8c4fc937b2c3a6ab0e3
-"Unternehmervereinigung Rüschlikon",yes,10,https://uvr-rueschlikon.ch/,article,static,fc321327ab60fcf8b2caf05941f57ca087f0afcaeff1f82a4dfc81086a583146
+"Unternehmer Vereinigung Bezirk Horgen",yes,8,https://uvh.ch/,article,static,0b4bfde765f6656aef3059edcfd7865eaceae1115615a8c4fc937b2c3a6ab0e3
+"Unternehmervereinigung Rüschlikon",yes,11,https://uvr-rueschlikon.ch/,article,static,fc321327ab60fcf8b2caf05941f57ca087f0afcaeff1f82a4dfc81086a583146
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,dc2ea215cd537095737ae62912c02d38440dce6470aa33fab15873ab28f1e55f
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
