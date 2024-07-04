@@ -7,7 +7,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,d04c5f77474dc9be5f73b924b9368106bc773a9ca07e3b77b56c5e9582fe801e
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,dd2f64a9d6830c9f033fdeaef1dbd31e23c828b4d3eee0b5c8dbbd5933706ed5
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,a576fea6f0a8a08028e3a7b8eb5b0c279dea2b0af7f41ba403e4279160afb7e2
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,8bc3e5b99d2023fdf609550a3de0183b0931501a66825c72e2d1cf3b993b120e
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,01f223822fee211e0bb2c67bcecd3d399d8db47ef26c80016c9fddfd12f2ef68
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,5d129bf0a11586114d76850cf57baa62a35df90502475541976e3887675f7591
@@ -24,5 +24,5 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,0b10ed4425646187618
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,1c64bf91c235f648b2f8fc5b9173ffafce32bc1f8bf06214d29b3e1dbdfbda5f
 VStA,yes,0,https://www.vsta.ch/,article,static,e4f2a078a440d8c8b718b98aedbda7f644f216c80699c05354e8cd2df3b9d48a
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,a872cda92940d946b0423f91f687d1ad46ed003dae38aca8484cb6cdaf2eda07
-"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,d9d663ecd04a285ff415fbd794dba3efec019ae6daa675b62009083e520ca9fe
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,ae978c601643eb37e57fe8f39c1e33e7e82e3f92a204ec8be3a4915e95aefcce
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
