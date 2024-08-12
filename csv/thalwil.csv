@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,516c955126f5070d75b021c54d8cc02c717804343a548659b95499cdb7038316
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,ffbb2591da6e22deddc43cfa38fa69b826a935a31368a75fe8139f3e41d560e4
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,9f788e51b25c37e7d6f449ad8021c6396e38d6ad3d89bf839da33737cf2da122
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,a6bf2378efb85f68eb2d55466504fd49e44eb6b45ac2c25b591b320dbb86da9b
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,5c7b3c0c0233cc87de45a64946251fee48c05f13f714986758c3c6a19ff933e9
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,f75a095d3e22328a4690030dbd71f04b7d81086596e8cb98d4ac494e8849fda9
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,dafd9860e02565df68c111be2c3f304f085318a9891397680133033a0ae1a501
 "Verein Pro Badi Bürger 1",no,11,https://www.vereinprobadibuerger1.ch/,"#page .content",static,2b0f65f808cf083d3da3a0c5c0d41e29703f3d846a79b4804b7dad637a74a3f5
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,ae978c601643eb37e57fe8f39c1e33e7e82e3f92a204ec8be3a4915e95aefcce
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8632f664d18d47215080925e0179d3ceca228910f2b7790ad44a49fe91ab1613
