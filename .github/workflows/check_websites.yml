@@ -108,10 +108,10 @@ jobs:
             🔴 [Website-Check für «${{ matrix.label }}» fehlgeschlagen](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
       
       - name: Upload hash as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         if: ${{ always() }}
         with:
-          name: hashes
+          name: output-${{ matrix.hash }}
           path: |
             hashes
             text
@@ -140,11 +140,12 @@ jobs:
            CSV_PATH: ${{ inputs.csv-path }}
         run: ./workflow/populate_database.sh $CSV_PATH
 
-      - name: Download hashes
-        uses: actions/download-artifact@v3
+      - name: Download outputs
+        uses: actions/download-artifact@v4
         with:
-          name: hashes
-          path: hashes
+          pattern: output-*
+          path: output
+          merge-multiple: true
 
       - name: Update hashes and error counts
         run: ./workflow/update_from_artifacts.sh
