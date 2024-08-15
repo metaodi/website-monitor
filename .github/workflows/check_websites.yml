@@ -111,7 +111,7 @@ jobs:
         uses: actions/upload-artifact@v4
         if: ${{ always() }}
         with:
-          name: output-${{ matrix.hash }}
+          name: output-${{ hashFiles('hashes/**', 'text/**', 'error_counts/**') }}
           path: |
             hashes
             text
