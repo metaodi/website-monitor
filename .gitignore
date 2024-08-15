@@ -4,3 +4,4 @@ __pycache__
 website.db
 geckodriver.log
 hashes
+output
