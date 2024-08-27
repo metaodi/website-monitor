@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,46703433e4d2b905299ec53b23a42a8220abd7588864f36928d6afd2bd71aeca
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,a7d69468eaef6deb6cde31566baee73e1b6c6ca1462937c73518634cda98b57e
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,e2f3f7978b7dfba6808ea190a01efa8d594368fc1921bd8ece204ef4be189d10
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,a44d0e82946b1ed0ed574a8349bb8266cb66cea08af9d69ac1674d215c5ea7c0
@@ -23,6 +23,6 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,88cd47e34be26f8be58
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,1a64c605098958b802f5006711016f13ecccf9e4770565711fa1efbf910832a5
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,83133b5d7a190dd0b480b26f4240d7c37b6454472abb6b7e03fa5339b42bca81
 VStA,yes,0,https://www.vsta.ch/,article,static,c0046546a7e39458a749e0b3cedc9b9dae430c897b681a78633adc10f19acfce
-"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,1a645551446a95c7d5cb3e47097c304d54955be03e478ab2a3f4cad9b788715b
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,e741047b76ff00151245d1fe39e26372e4096dc4770a97756782bbf80de87de5
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,ae978c601643eb37e57fe8f39c1e33e7e82e3f92a204ec8be3a4915e95aefcce
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
