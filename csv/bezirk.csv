@@ -17,9 +17,9 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,b1866f57054612aa68dd8ef454a9dd0e153cb7c40318768c861b615eac58f689
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,920c06f3b0201a57e8a2f532a09800ca8c29cbaaa9abdd16f806d416995f0801
-Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,01c33f225a6544cc5c82c062d080b604c772694e943cd1ddf9d60ba33f573fa8
+Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,725cefbcc3e58327061e61b92f9cecab3a741c92db0fb2d5817c78dfe75b0da6
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
-VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,88cd47e34be26f8be58fa11fa391228aec6a50ec08818e48ec023048a859ebbd
+VCS,yes,1,https://www.verkehrsclub.ch/medien,.article,static,88cd47e34be26f8be58fa11fa391228aec6a50ec08818e48ec023048a859ebbd
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,dff7a7b447e36a6cc99f28e764ea4b7abc2518bdab5bf291cad4ca5668861fdd
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,4e229871435e528690495616314fef406e3844bbca93e801128ce0ac3a94eed3
 VStA,yes,0,https://www.vsta.ch/,article,static,352a6507d022fd601a0f28915abe03d13bb9f29748062690b299bfa904070c88
