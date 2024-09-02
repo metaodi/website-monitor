@@ -11,7 +11,7 @@ label,active,error_count,url,selector,type,hash
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,792912d6b7a366a60cc3d312b5a914a0a5b3606be4190e8644753de7918ec51d
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,61f66b3caddc68385d48fb3f1bbe854b852bd672049db7f38210d3c2353d1a64
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,c01d650044f9f55562760cdfcd830fd2a5dd9921f3f3c294b70f7ee2e8031303
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,19f53f35c38cf43ebc1d441ded438804fa143da903c892b57ca6d9dd68706aa9
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,fa835c8980da76af73dce663aba456c6127c2187332a4b0cf7d7ec6986d4bae5
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,75d525fb16b5f6d68a9073a54c3db2ea14bb14cfa5a114ccb327836c26cbacdc
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
