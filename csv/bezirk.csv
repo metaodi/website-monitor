@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,65ba3f5633a290d9f993f9b6fa96f415a1c22f33b6a4541daeff9c239cb2e210
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,7c3f21a0917f00d24ea14001a60240b634bd00978bb5fb5174b12a2671b90ac5
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,e2f3f7978b7dfba6808ea190a01efa8d594368fc1921bd8ece204ef4be189d10
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,2cea62c476894aab50f227a04cdbe70a30def8b56480318d27842b456517fd24
@@ -19,7 +19,7 @@ syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,b1866f57054612aa68
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,920c06f3b0201a57e8a2f532a09800ca8c29cbaaa9abdd16f806d416995f0801
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,725cefbcc3e58327061e61b92f9cecab3a741c92db0fb2d5817c78dfe75b0da6
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
-VCS,yes,63,https://www.verkehrsclub.ch/medien,.article,static,88cd47e34be26f8be58fa11fa391228aec6a50ec08818e48ec023048a859ebbd
+VCS,yes,64,https://www.verkehrsclub.ch/medien,.article,static,88cd47e34be26f8be58fa11fa391228aec6a50ec08818e48ec023048a859ebbd
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,dff7a7b447e36a6cc99f28e764ea4b7abc2518bdab5bf291cad4ca5668861fdd
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,79dbf150a3cec261d4deb5c42f32da1952f4af69c8b55de8a8add157c1d2026b
 VStA,yes,0,https://www.vsta.ch/,article,static,c25e4838ff7a57d63a2718a88260b3c455ae06f2e0186f74a6753b3a201edd78
