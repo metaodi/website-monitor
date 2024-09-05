@@ -21,7 +21,7 @@ Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,812052c8
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.article,static,7a57615b96da22ee677e2119da0a03391068b24b90f1fec4d680cba962d6465d
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,dff7a7b447e36a6cc99f28e764ea4b7abc2518bdab5bf291cad4ca5668861fdd
-"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,8428205eef0477b158846621d81586b19d29c5f5bc3f99e2dc9ee9c84ee0d754
+"VPOD Zürich",yes,1,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,8428205eef0477b158846621d81586b19d29c5f5bc3f99e2dc9ee9c84ee0d754
 VStA,yes,0,https://www.vsta.ch/,article,static,c25e4838ff7a57d63a2718a88260b3c455ae06f2e0186f74a6753b3a201edd78
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,1a645551446a95c7d5cb3e47097c304d54955be03e478ab2a3f4cad9b788715b
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,ae978c601643eb37e57fe8f39c1e33e7e82e3f92a204ec8be3a4915e95aefcce
