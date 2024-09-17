@@ -15,11 +15,11 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
-syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,5b7c063368df8b185b3d905053c6082b44ad1ec04c63c7e6cdb26133fc4735a5
+syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,85e378f2c5b82b498a9eb0fd6416a9e581d8aa4cd1400f1ed09a25f696cb572c
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,ef9757ea5ab4ada53b5f93966fd99b13b433503dac104eb6da1e34a88839de49
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,1b6d5ae40f950dfd09a7039aa8c17902d198c640fd9cd8c7e7cbdb427c8d7917
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
-VCS,yes,204,https://www.verkehrsclub.ch/medien,.article,static,7a57615b96da22ee677e2119da0a03391068b24b90f1fec4d680cba962d6465d
+VCS,yes,205,https://www.verkehrsclub.ch/medien,.article,static,7a57615b96da22ee677e2119da0a03391068b24b90f1fec4d680cba962d6465d
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,dff7a7b447e36a6cc99f28e764ea4b7abc2518bdab5bf291cad4ca5668861fdd
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,2843d2903deb7832c09af0d8ddee30bee4d40d44f0435fb524b8950b233d79a2
 VStA,yes,0,https://www.vsta.ch/,article,static,c25e4838ff7a57d63a2718a88260b3c455ae06f2e0186f74a6753b3a201edd78
