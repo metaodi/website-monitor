@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,a017c38fd6427921db46f7968837b612ea700d6324263be5c0e05af8fcfc1338
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,8cf25e8528cea3a925575af558b50fd99a32cc15b98cd1c3f805a861910f9d8f
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,e00299a9b1de0e39159f2dc1aa44ea8eeafc41890b18589e7b7b08640b060c63
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,715d57fe7093aeaca8bc28c472744059132eedf6a2f8b3432d482781e2a4fa45
@@ -13,7 +13,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,c1ef88e6667c52786cd3a17dc77cb1db3d72368955573f6d5f3f41feb58fb0fb
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,b7ebd20c598ab05e870d094bff6c814ad4fae6a63297d8df9224357e19f3cba6
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
-"SVP Bezirk Horgen",yes,8,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
+"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/aktuell/,.news-item,static,85e378f2c5b82b498a9eb0fd6416a9e581d8aa4cd1400f1ed09a25f696cb572c
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,be2c696304a1ca471370f5f54db6d69c66fbe4c3af36393e53687fcfe0754c71
