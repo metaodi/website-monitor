@@ -15,9 +15,9 @@ label,active,error_count,url,selector,type,hash
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,main,static,38668c095a6ad522ccac2e96e82f0649b4a09ce367e9fd395a73bc3fae4167df
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,67a59570634a9b74d4aecec47301e78ecae878268caa33c13a38ae497862d413
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,d56433393556b31c5a243f307bfd31109933e4ec3e67df61acb3a9c96d6f017f
-"SVP Bezirk Horgen",yes,1,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
+"SVP Bezirk Horgen",yes,2,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,#page-zones__main,static,653069f021957eadf48a66604226ccb75b3053dcb90d443c77c3aed4d6e1ce63
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,5d37dafbe4f2cb8599e4d5a82386e648c9c302f47a8e3770bdf33a851bff525f
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,8d708a5eec03362b4e0a8a8c5e36a846cb7e79d5653802164f233e515bde9e0c
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,d0e4c17250892e731d008c9d8f1a392251091f889861b2a929ca9c0b61e14ba1
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,84b15d9d56c497a5c9a97cb78daccc9538584a3ef422f9b189efd656a87d2b78
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
