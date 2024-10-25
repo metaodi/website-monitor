@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Aktuell",yes,0,https://beat-klingelfuss.ch/aktuell/,#news-section,static,34bbcbc278a7557b9d3108b0495a8068486560bf764fcb136fcb211e103cc786
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,a35b5ef97f08f21fceebd1c580706839988681c926802f9544810d0fd944900d
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,a76aa4f0dfe2ac182aab5f9a40960a901b8c18bd36679e894f28ef77a67e491c
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,7d81dbae6d52ccc9d973908dd63846005687913ccc28201ec9b86ded51e003e2
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,main,static,0a4ef48a1f352c8e730fb3428f52060901722e2c10055459f790f033bf7218d8
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
@@ -13,7 +13,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,9ba9bc74b491ccfdf0cba9a4a383c94e10b3d7a49c37840898c226f24edce0b9
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,2a16ebbc01f9bfb59e268e465066f8548e9fb0edf371b299a68043ddb1117f58
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,7efee1670fa32a7e9e6e67a06d5e14c6402e5899a920038994b8a820ccd5894e
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,3ff3b61868f30ad32b155b82f469ed3001e2c9ee21f2e7a46540222593136a53
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
