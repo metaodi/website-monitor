@@ -19,9 +19,9 @@ label,active,error_count,url,selector,type,hash
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,a982843d777148fc8f64092130a891ea792585a4300e9d0ab5c85ea428d5c934
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,dc50fe1beb8c15f4ab430590b0c75867f5838de09ce05cad58e4ebd736e9cb12
-"SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,fb8808cbdc6a0bd46e087612e7b6e5608fa456cba90e2f1e5019b82b4dc96dc6
+"SP Rüschlikon",yes,1,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,fb8808cbdc6a0bd46e087612e7b6e5608fa456cba90e2f1e5019b82b4dc96dc6
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
-"SVP Rüschlikon",yes,1,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
+"SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,e987568fa23f99a33b16809b1c892aa0ead712c399400e26aba4bbd11d19ca93
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,d0e4c17250892e731d008c9d8f1a392251091f889861b2a929ca9c0b61e14ba1
