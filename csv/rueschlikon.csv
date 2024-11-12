@@ -13,7 +13,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,1bbdcf906e4d9e5d0ce11677908b49f796283573832d13767ca6d34088d4e154
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,2a16ebbc01f9bfb59e268e465066f8548e9fb0edf371b299a68043ddb1117f58
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,b813226106edc92b4be7f6bc738084cf3cb55012616d7ce2a985ed06ab03d2e2
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,9717b81d4a3832cf92a4c9bb582554fc9833d14f98d7d2e78d341e72179653e1
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
@@ -23,7 +23,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
-"Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,e987568fa23f99a33b16809b1c892aa0ead712c399400e26aba4bbd11d19ca93
+"Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,4a93d63e55ac80881eb308b1a7c0d36be505b241c7b3ba5b0a5cb757903beb96
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,d0e4c17250892e731d008c9d8f1a392251091f889861b2a929ca9c0b61e14ba1
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,84b15d9d56c497a5c9a97cb78daccc9538584a3ef422f9b189efd656a87d2b78
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
