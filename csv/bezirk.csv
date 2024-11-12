@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,6468c87e4b7593bad05b81c115551ae3c5915916c227e0a070ea2fe3d3b7c6f2
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,d236c2d0ed6b76e8893a7be8ef65674518e21a5c0383f71b7e398a2842a4cbe2
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,6b66e9301b877bf146a6b8691cf10da50ee856401c3e6fefd57f5f31ca112342
@@ -8,7 +8,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,ff91847f21c5c49411f4f2f4cf4ee1c6aebb6763cf649ceedac3ae5df732fb95
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,1bbdcf906e4d9e5d0ce11677908b49f796283573832d13767ca6d34088d4e154
-"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,3543d6c06d029b46bc37a3b2ea893870dda85b3fe6b5e9d4cbd0496a41b78485
+"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,14aa1943eae4f371b5f2c5c2515679b0a273e0d8e916504e4c18f675838a1242
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,a2ff55f3102fcdd527bf337b03713a6a4e24c60851a1cca5549a899d6305b143
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,b7ebd20c598ab05e870d094bff6c814ad4fae6a63297d8df9224357e19f3cba6
