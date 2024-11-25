@@ -1,12 +1,12 @@
 label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,d785dac9691e0941e0225ccedf89e6fe1f0a953e06ca4585abbae48ffcbf97de
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,2fdace63074fd0a93be769f1470a13dc425c8ce21eedf0f8dd0868f7ae9067f2
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,2e4d33d30e7d1aca56e715f37740160ede7bdbebc0e4dae4030f5a622ec3147a
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,d6b50b9d7789186a6200e5b1f1854d68228246aebebe02eb8c135e11a8810218
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,ff91847f21c5c49411f4f2f4cf4ee1c6aebb6763cf649ceedac3ae5df732fb95
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,b073dfbf5c9f20dbb936bea4df2f4d652381163a5f325246f0730a677b07814d
-"Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
+"Grüne Bezirk Horgen",yes,1,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,a011cea3c343739fe6bfeb8bb91bb00e595dcf1d4e5079d1b9a484c7a5edcf15
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,1c84725eaa9de0f4653504a19b81637ad93e17c3a1f2644749b626df41d79fac
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,bfa333a8ddd3108c8f3e1b7ce85a98cdb942acf3bcea68217c5884f9fa44e045
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,fd8ac770cbff9c475639ff149ebf00709eac6835a4a311f0733ea3493d34c223
