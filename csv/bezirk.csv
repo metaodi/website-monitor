@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,132a4e9d2b4a551627e259607667967c5e5593a1889609fb8f07d7b984dfe677
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,90ec5710a2a0833c56c72bb48bcb4db8a0d3fb3d32d60e3976fdc16a4420d12c
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,a8aa8ec6d8b0b84d65eb9a70145eee531c1aabc75e23e7e33362a678479b5c75
@@ -15,7 +15,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
-syndicom,yes,979,https://syndicom.ch/aktuell/,.news-item,static,8f9b4e0d0b00d0ff4098984c05d77fde3d54257ded559c1f1599a4ce960bec3e
+syndicom,yes,980,https://syndicom.ch/aktuell/,.news-item,static,8f9b4e0d0b00d0ff4098984c05d77fde3d54257ded559c1f1599a4ce960bec3e
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,fa26e714c094277464d56ff22392220cbf2587d7e7d0f26bc89284a5a8968a2f
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,4b0d85561fe75e8ca11253a61d207ea819f932fe0ebfb29951ce9e0f58fb386b
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
