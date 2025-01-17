@@ -17,12 +17,12 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,b77e10094828771231b562af685c3593cc220533cf96904e0f21b02cbb28c205
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,37796bb2cfb3265c09e02ed1099a47b919fa64bbafe6bc0ed37f095993545f65
-Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,9388de107a76242b2021d58fb121030fb9dd345cc506521918f607e5a229b324
+Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,81d3a25310adb55548e0a758f4933fd1a9aa3b79795b244a36812a86f05f77a0
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,c0353cc7ec2f999e7fd434388b6b47ca51052dec2ece22c8f45ea08b585b7818
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,030fb996dbe5c106fd7ccea3010bd0c51580c90b4e55f84f8dc18ef14fd17765
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,b36a22b117ef6003cbfa01683ba55e1a721f5dfc3c25c525130a5712d9a88a1a
 VStA,yes,0,https://www.vsta.ch/,article,static,51a0722277fbfeda9f6f718947a13a9da8e027e97cae25ce5979e1624e3503fc
-"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,b6108d5b3b8baee77fd32e1dc1fc3e09240b38457194736e52f08fbb6df1ed88
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,d06561e00394b1e4e0013a7f379c90e7a685bd311389bae9a9ac4cf65e37d774
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,95fe781c757c45c520b31ae0bc81bf40d05102294b551a7e2c975775e155153f
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
