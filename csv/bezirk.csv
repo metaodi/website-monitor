@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,fcf643a8673af03b2991a75764030dd54fbf200ecca54faf67fa600af62d6631
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,0e775db08a4b61538adb9e1385b7564e889127abd25bd7ecc2330dadb0d5f8aa
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,09690945821dd2ed35d3a84a155fb0a33bae2e54595f8cbd91b0a2e06ebd62e1
@@ -9,7 +9,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,3d41a0b635ee1bcbf060f823013782ff389d11d58f097bf29975e6d5c644ae20
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,b9ae958cfb3f503a85204740c001b8eaa06d8e44b599b845372acced9eb6e930
-"Mitte Bezirk Horgen",yes,14,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
+"Mitte Bezirk Horgen",yes,15,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,a2ff55f3102fcdd527bf337b03713a6a4e24c60851a1cca5549a899d6305b143
 "SP Kanton Zürich",yes,0,https://www.spkantonzh.ch/aktuell/artikel/,.article-box,static,b7ebd20c598ab05e870d094bff6c814ad4fae6a63297d8df9224357e19f3cba6
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
@@ -20,7 +20,7 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,b77e100948
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,69dafeea0d6785827e3baad97152e1be82cb02cdbe8559aee47951a9d0df6138
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,c0353cc7ec2f999e7fd434388b6b47ca51052dec2ece22c8f45ea08b585b7818
-"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,030fb996dbe5c106fd7ccea3010bd0c51580c90b4e55f84f8dc18ef14fd17765
+"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,232818e20a93c48181ffc6d87973c4ab42ad1ae1da4ad404979526c6ba7589e9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,b36a22b117ef6003cbfa01683ba55e1a721f5dfc3c25c525130a5712d9a88a1a
 VStA,yes,0,https://www.vsta.ch/,article,static,6266d37755c1e92d4d9d613382f1342779aa1dff8a75814e56cf8808ec29635d
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,a78348a9c6e32b24aff58e6d7808952ec017bcbbd1efede68387630e0ace2628
