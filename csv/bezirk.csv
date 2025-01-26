@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,hash
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,247b4ec5e39501d27634244f9ae3b1ee2759e0fecb124098d3f7a84a76b69cd1
-Energiestadt,yes,64,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
+Energiestadt,yes,65,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,bddd05436c8981e9fb05829e0924a461d01eb9166a37e24961e134c2a26cf811
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
@@ -23,6 +23,6 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,c0353cc7ec2f999
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,232818e20a93c48181ffc6d87973c4ab42ad1ae1da4ad404979526c6ba7589e9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,b36a22b117ef6003cbfa01683ba55e1a721f5dfc3c25c525130a5712d9a88a1a
 VStA,yes,0,https://www.vsta.ch/,article,static,0592b38c9a31998a40948a6fc2eadab9b20af85de0ffc183663b10a208009d43
-"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,70e0c2619d555c209e11e751bf57481ff700e5d25b4bcfec30e1a7f457abe38d
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,a78348a9c6e32b24aff58e6d7808952ec017bcbbd1efede68387630e0ace2628
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,95fe781c757c45c520b31ae0bc81bf40d05102294b551a7e2c975775e155153f
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
