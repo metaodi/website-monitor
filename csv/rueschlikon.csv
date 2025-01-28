@@ -15,7 +15,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,2ad0a8ed9d3d934677883c2b7aedcdb7ef7bb2ddb2abb0dd19751c0ec5763c40
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,56803c9572f2075c24bc343508f8568d0149106cfabcaed268c1ea663ccb4fd4
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
-"Mitte Bezirk Horgen",yes,201,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
+"Mitte Bezirk Horgen",yes,202,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,8e34a0819b2febd97bfbfbe7ac754d1004960ce4b8ffbe5603ea0285d8ed4338
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,b1e7991e9fd82d2ec6d86271841d4d9d3de0d1ef1d61febc7856f7e6c4f13c25
