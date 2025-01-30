@@ -15,7 +15,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,2ad0a8ed9d3d934677883c2b7aedcdb7ef7bb2ddb2abb0dd19751c0ec5763c40
 "HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,221f9c78753f368a827ecf7705d03cc232c157c34d6629260c3bd94b36ec237b
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
-"Mitte Bezirk Horgen",yes,8,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
+"Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,8e34a0819b2febd97bfbfbe7ac754d1004960ce4b8ffbe5603ea0285d8ed4338
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,99c771baf25c06a8ee56cf86cfcaa49d41fc7661471e8d99c6e6855888823712
@@ -24,6 +24,6 @@ label,active,error_count,url,selector,type,hash
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,11ead3371252403611cd9e8200b4b3f8e0d030163c0a39392011e92cbe48a6c0
-"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,95fe781c757c45c520b31ae0bc81bf40d05102294b551a7e2c975775e155153f
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,f8d44c8a97b6208de08de9200091152d7a607294b101b2bbd4cf7cb92ece0f91
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,84b15d9d56c497a5c9a97cb78daccc9538584a3ef422f9b189efd656a87d2b78
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
