@@ -20,9 +20,9 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,0140c52a75
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,3188ba3bdac1e0afb189583d1e163e75267b94e0e647686e20cb6ebfde5d5ae9
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,4c7b866012a8b2b696e4bff16c30d68f986a6e9a98bd2befa0dac5c84512b661
-"Verband der Gemeindepräsidien",yes,171,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,649b6ca6f0fd13268181494a2f9e99ca684fc44cdb9f14a74107f9f8698603fa
-"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,42dfc1f2f90cc92ec774bf22b4e8834f491ef8cda8b5116e66ee7eb505a0ae2c
+"Verband der Gemeindepräsidien",yes,172,https://www.gpvzh.ch/de/vorstellung/newsmedienmitteilungen/,#contentboxsub,static,649b6ca6f0fd13268181494a2f9e99ca684fc44cdb9f14a74107f9f8698603fa
+"VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,7fbadc6e85e94f34a6cdcaf3e8c8b1992d0f40bc6c17d0ae2046d3f4e653b36e
 VStA,yes,0,https://www.vsta.ch/,article,static,878044da2932176ebc69fc1752770a8ffc3fce4df18475160da2a7f4aa9d46cc
-"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,6786a831c461530eef8d1a7871c7b72bb4ea42f6c1174575981bf7fe68a9db93
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,3cb9d7b8fc54c8b947269ad332b4a4b98c93040f74db263f20b320894ba4e30f
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,f8d44c8a97b6208de08de9200091152d7a607294b101b2bbd4cf7cb92ece0f91
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
