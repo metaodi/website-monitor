@@ -13,9 +13,9 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,947903830a3183aadb170a54a9a058d13b0ccc7ece4c98c5fe0800cdd98e5782
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,d1f28ad02536533d3242151a0ba7a422301c04cde86af61e34187b8bac2f29b9
-"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,1f861f943fa3fb6b7f8c10198e4322062df6983685da0c5b78f2ed18853e6142
+"HEV TRO",yes,0,https://www.hev-tro.ch/,div.news,static,28cb1d56c2a9859c1cc434e1ad60ef759d485f4029d55c368c8c2b7ea9c4c103
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
-"Mitte Bezirk Horgen",yes,817,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
+"Mitte Bezirk Horgen",yes,818,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,8e34a0819b2febd97bfbfbe7ac754d1004960ce4b8ffbe5603ea0285d8ed4338
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,9d4f5cfce40d2f7f590b028423358c41e33175056e5444eeb160d7e4e33dc729
