@@ -2,13 +2,13 @@ label,active,error_count,url,selector,type,hash
 "AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,b71e44ea95967b95ed244e3a0c0eeb7b3b6565a94c16b62b2ecf5c2d60353f39
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
-"EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,510c2198addf4bb6490eac343374822d9e29b9ab070e397595bbe8a731b1b3ae
+"EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,2582c9a273faf0c8e1fe8d894436f62ff20710e57c1c6f17d029f6a6f2d2bbf8
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,d199853a47f724a749e62370917b1d2d508da6d087f753d92c52deda2ac6d44c
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,f8179254e5ca57a57706e36c9f86082f647f5c1fab5b8933373b3ec87bbe6e87
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,b64d07f1ca36887167977037f39df82d1429c7e8757509338e903d7ff0b567bc
-"HEV Kanton Zürich",yes,1,https://www.hev-zh.ch/,.article-listing,static,e82ae3631acaf8658c8eb687620945c537c2a47022d639c31b590bcf9546e1ab
+"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,e82ae3631acaf8658c8eb687620945c537c2a47022d639c31b590bcf9546e1ab
 "Mitte Bezirk Horgen",no,431,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,a2ff55f3102fcdd527bf337b03713a6a4e24c60851a1cca5549a899d6305b143
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,6a8c4a96e58d1a6583e1762b706aa598a2142606c4fc80830f04c0fe77aa57d6
