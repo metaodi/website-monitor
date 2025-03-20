@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,afb6c9195a5a36224da504c0d66d131886e36a097025cc308c2d01051e45a92a
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,38db2c8b118baef903f2f9cb23ce8ac0d415d4f1c23d0f5d26e30da9b13aafdf
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,3b8cc0943372c9462e7f48e2d8a3a0e9954c192291039fb55e2df3e40719b4d7
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
@@ -10,7 +10,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,02b00e64d6aa2b1b5f82955cce3572de3ff200fe7b1b1850a9569f32de18fcc0
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,f5a44dd4d35c15b4d8010ffb2342d20fc950a0e732701b3a5b63195031ea8cea
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,0b7f04942f5419d0b282ec1e1015c3292ad81efcb5d7e1a3341e038df3d6e423
-"HGV Thalwil",yes,1,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
+"HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",no,716,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "Mitte Thalwil",no,21,https://thalwil.die-mitte.ch/,.content,static,bec37803c5d9b1848f61409858c0f718fe03bf3f18c6e9859f21e1e15d795792
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,ea79a7699d23517a228fde721dd4b81bcee23c3c8c5e0a8cc5b79ddf94d73db5
