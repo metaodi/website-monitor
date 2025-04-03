@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Aktuell",yes,0,https://beat-klingelfuss.ch/aktuell/,#news-section,static,34bbcbc278a7557b9d3108b0495a8068486560bf764fcb136fcb211e103cc786
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,eaa25d81219dfd6680d58dff7892ba2335878a51a2706f829441cf75ad4650ac
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,50dc5aa5cecd1e80e7d4c8dea755de79efead4fa100ef2265333455963a4aacc
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,7d81dbae6d52ccc9d973908dd63846005687913ccc28201ec9b86ded51e003e2
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,.m-campaign-desc,static,c3fe4e893fea2dd9ec803dae03118f3417565795e31b9568debe70eac9da54b2
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "Mitte Bezirk Horgen",no,827,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,a8e59e8902a3bc0fbf0d3ceeaea73914dc8080f222a60e64d4395fb3d9370018
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,d6b2c56bbb054ba8749270a93754576451efd50df472a0cff09cee23f5276b41
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,187dcaee765f4022f521bc7b2cb4c8b2c422e30e35303a9b649a1358c380c6de
+"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,cd7586cac5ee08162a546ae2eb057054b516f2e0fde5ae8d606c79c740beedca
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,66fff4dd550d26c4b033b6eb2f9064caa3b3b8c58a81537cf54d7b09de35ee7f
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,ffa83eb20b059a5b70872eb2c938d9d0690b7ed034f974852e3902f1f2bb9d7c
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
@@ -27,4 +27,4 @@ label,active,error_count,url,selector,type,hash
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,article,static,0381beb1b6748c671dc430647cc73ba72d29192a7ba1a20713d284428e015ec4
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,f8d44c8a97b6208de08de9200091152d7a607294b101b2bbd4cf7cb92ece0f91
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
-"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
+"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
