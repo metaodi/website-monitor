@@ -25,5 +25,5 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,ea1e7449973bfbd
 VStA,yes,0,https://www.vsta.ch/,article,static,548c55ca1ee7292eee4be14f5001e8d0e5cc3f815fa1d9f4f17209acd78481eb
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,3234c7ead1e1730e1e199c0273e3a2f6397c21aaf988483001c55fc87d82c99d
 "Zimmerberg Online",no,0,https://zimmerberg.online/?post_type=post,article,static,4f30b0137518aaf35d275a6f061342dcc3e905a82027651b658d6d8ee10dfc3a
-"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,f8d44c8a97b6208de08de9200091152d7a607294b101b2bbd4cf7cb92ece0f91
+"ZPZ Agenda",yes,1,https://www.zpz.ch/aktuell/agenda,"main section p",static,f8d44c8a97b6208de08de9200091152d7a607294b101b2bbd4cf7cb92ece0f91
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
