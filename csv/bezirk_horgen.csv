@@ -8,7 +8,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,f8179254e5ca57a57706e36c9f86082f647f5c1fab5b8933373b3ec87bbe6e87
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,1134ff9da5355260905112c430457d36a91e00d24b0abe907b90e37f170af8f5
-"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,545e567fc6f42ee931cbceef557254626141371c1399585389a2e0e3ecd4a930
+"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,c2c02d2a20964ef4e980a1a23889e7d22793951cb189ed30b59b2651026ff4fa
 "Mitte Bezirk Horgen",no,431,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,a2ff55f3102fcdd527bf337b03713a6a4e24c60851a1cca5549a899d6305b143
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,299c2e1a9930e0092763ebf86edb43407710cd4e06a646b39b8fd718763bb637
@@ -19,7 +19,7 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,5901d4ee07
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,621eb207f53ca6eecaa500e25450714c71f48e69ebecdeabf8c3d330af56848b
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,991fe857c94a0b2d06adec07cde69b440be549ad1eda2b03e7c3a27bf6d9bf1c
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
-VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,ea1e7449973bfbd8a25bb4d44a5dd6b51ebb42210ad725c29c219df280396735
+VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,a099e1c50bcf6e229744b79a74204e0116a6cb63da4a1215e6d07bfd98cf22fd
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,fb1b55085809929927358d7d751044615499ab9ce747b3896ed3978297d657a9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,cdb5d0d47deef73dd9faa7601c20ff59bc7f5a0c43535a657d7141875a6a3aab
 VStA,yes,0,https://www.vsta.ch/,article,static,b3923076860cfef47465aa545b3f23185df505d2b696f445ea5998946ab52300
