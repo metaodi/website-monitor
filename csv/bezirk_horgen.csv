@@ -19,7 +19,7 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,b47afdd979
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,532adca4b7c167f6a898d419a7e35b936259cf93477c1015229daa945bbb6c7d
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,9986ffad5d70e4bc069b1aa4d053174ce2b38304c033dcd59037f6ee5bb5064b
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
-VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,59292259f30279391975cf0f32d8d762ccd4a7c73b938259ac936171134afb8b
+VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,dae308fda572e7199001f5a1b2841db0d1f1a8e660e92d8dd95e94258fd2ba38
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,fb1b55085809929927358d7d751044615499ab9ce747b3896ed3978297d657a9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,3c0d268d7b611a9378c8e2943d75350c3accef554d7f8ba84612bf7bc66cc6d6
 VStA,yes,0,https://www.vsta.ch/,article,static,b3923076860cfef47465aa545b3f23185df505d2b696f445ea5998946ab52300
