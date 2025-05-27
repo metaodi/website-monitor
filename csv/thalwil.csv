@@ -7,7 +7,7 @@ label,active,error_count,url,selector,type,hash
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,f8179254e5ca57a57706e36c9f86082f647f5c1fab5b8933373b3ec87bbe6e87
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,3a2563c7954ec300019ffabb0429b615804ca59a7024a8e687d130b622a827fd
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,627bd0fd8f444d4ae18f37dc31eb98678a2ba408a9c142c0bfbbb4aa01e0e40b
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,9e1da5a0377d5c26d569d38fa43df5a8b78cb12f014dcba0e79c858e0c185579
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,f5a44dd4d35c15b4d8010ffb2342d20fc950a0e732701b3a5b63195031ea8cea
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,32a0b7437aa572ab82d118dac842e136a08ef14d581a16451cceeb42c558ec12
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
