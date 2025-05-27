@@ -8,7 +8,7 @@ label,active,error_count,url,selector,type,hash
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Rüschlikon",yes,0,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
-"FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,3317a98d0853fe03b17afc88a21e634cad5842bc3ade17b7d53c49c1c8e5ca9a
+"FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,223a7ad6764a61fe9939258cb7a0f2fd0e7a5617c300afbfb71a1e3ce9b2ec24
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,f8179254e5ca57a57706e36c9f86082f647f5c1fab5b8933373b3ec87bbe6e87
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,627bd0fd8f444d4ae18f37dc31eb98678a2ba408a9c142c0bfbbb4aa01e0e40b
