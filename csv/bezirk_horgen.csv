@@ -17,13 +17,13 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,0636eb42505b12f5ce938e1d589453c470eb26a0f1c96a3df3467aa1b6085826
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,306e7f4d89997e9111b342ae411bd02061fab5b8ef992293f871f33d53774fd3
-Unia,yes,242,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,12a899034ec0df74aef379dd705d5b50d4b432dafe3f432f228644f210970020
+Unia,yes,243,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,12a899034ec0df74aef379dd705d5b50d4b432dafe3f432f228644f210970020
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,e663642dae3f1a9804e2519ba3f449852d52e4a20c1b8103dabcf2b19a741e08
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,fb1b55085809929927358d7d751044615499ab9ce747b3896ed3978297d657a9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,f9977785c6a4901f16324a0f125a3f47342cfbe8b137dd4ec59c3581282635c7
 VStA,yes,0,https://www.vsta.ch/,article,static,7c63ebfdfa4e7ba0ea6bca931e464541db95b9d3086ddc5065756c68b2f2185f
-"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,c082d2f25c433bac43353964172c568a46f677cca19baf7c7356ee7f5909492c
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,4160e33c3e41f3f3129ce45a1183e39bb499d1a726b0a8dd2bfdef9086231c6f
 "Zimmerberg Online",no,0,https://zimmerberg.online/?post_type=post,article,static,4f30b0137518aaf35d275a6f061342dcc3e905a82027651b658d6d8ee10dfc3a
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6a92f1d81da9377e9bd51e36274ae8610b14ada4e0af0d8ea0e6ecfef6d1849d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
