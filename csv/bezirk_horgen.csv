@@ -17,13 +17,13 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,97d5d109a11551ba9f842230ecf20aaddb1eba35c01bb3650b20f215f1c3a839
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,33161e4e77ec4e2109ab1e96da35c0f86b2389c1f951bf5428e9554554a0083b
-Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,295825f75ab7aab0a2d40b37775c68b8da77438741c5a78184fc97c82e32537c
+Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,34b14bbdfd83f6890ed8ec3dcba3855f2ed53cfead3c6b06b5f6c850f555ebb8
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,562d7e5db5f37b3c12ba59ad8fe9bccef4953fb93f72a949719bd3d2a2dc8489
-"Verband der Gemeindepräsidien",yes,1,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,fb1b55085809929927358d7d751044615499ab9ce747b3896ed3978297d657a9
+"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,fb1b55085809929927358d7d751044615499ab9ce747b3896ed3978297d657a9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,f9977785c6a4901f16324a0f125a3f47342cfbe8b137dd4ec59c3581282635c7
 VStA,yes,0,https://www.vsta.ch/,article,static,7c63ebfdfa4e7ba0ea6bca931e464541db95b9d3086ddc5065756c68b2f2185f
-"Wahlarchiv Kanton Zürich",yes,15,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,0012f28fe12f1f28ed3bc870c0da207fdc77c2d4540a81aff02652b238aac1a9
+"Wahlarchiv Kanton Zürich",yes,16,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,0012f28fe12f1f28ed3bc870c0da207fdc77c2d4540a81aff02652b238aac1a9
 "Zimmerberg Online",no,0,https://zimmerberg.online/?post_type=post,article,static,4f30b0137518aaf35d275a6f061342dcc3e905a82027651b658d6d8ee10dfc3a
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6a92f1d81da9377e9bd51e36274ae8610b14ada4e0af0d8ea0e6ecfef6d1849d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
