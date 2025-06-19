@@ -23,7 +23,7 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,3034597c0bc2b77
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,fb1b55085809929927358d7d751044615499ab9ce747b3896ed3978297d657a9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,ed134737801c9e83b09fe00963487776553a37cb305d646ba7e30bf61f73ba1d
 VStA,yes,0,https://www.vsta.ch/,article,static,7c63ebfdfa4e7ba0ea6bca931e464541db95b9d3086ddc5065756c68b2f2185f
-"Wahlarchiv Kanton Zürich",yes,20,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,0012f28fe12f1f28ed3bc870c0da207fdc77c2d4540a81aff02652b238aac1a9
+"Wahlarchiv Kanton Zürich",yes,21,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,0012f28fe12f1f28ed3bc870c0da207fdc77c2d4540a81aff02652b238aac1a9
 "Zimmerberg Online",no,0,https://zimmerberg.online/?post_type=post,article,static,4f30b0137518aaf35d275a6f061342dcc3e905a82027651b658d6d8ee10dfc3a
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,6a92f1d81da9377e9bd51e36274ae8610b14ada4e0af0d8ea0e6ecfef6d1849d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
