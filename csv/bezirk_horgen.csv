@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,bfa879a0aeed8384cd3bd1b4e649623a2031e9b3e7057d25cab1b0bb32401857
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,b9b84e3d03160b2f2405e451f1dc3f82d95dfda9defde74033aaf7b24b29209e
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,fbe37687b02f146d527aa84194771bf2e69eaa7df10c673df85c3e5e416e0ca8
@@ -8,7 +8,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,f8179254e5ca57a57706e36c9f86082f647f5c1fab5b8933373b3ec87bbe6e87
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,5e1f12c9145d1232901e44856722c52648f8cfed8334fcfd0b1f49d694378a6f
-"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,4f044ede20abdd9ca2f4f43845cdefc1c232450236b8d866d54f7b3231ce7bf7
+"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,7f42df2d17e950f805e71658df1e863cd66faff3a4dc00f886d70c1988c5a9b4
 "Mitte Bezirk Horgen",no,431,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "SP Bezirk Horgen",yes,0,https://bezirk-horgen.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,a2ff55f3102fcdd527bf337b03713a6a4e24c60851a1cca5549a899d6305b143
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,2dff8ad0a16e039c65b04c9b1461b6014119557d3c827cc394c17d0fb3e7749b
