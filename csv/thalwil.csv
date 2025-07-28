@@ -7,7 +7,7 @@ label,active,error_count,url,selector,type,hash
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,f1a8effe516e31fad612b86a3714d379061489621388511a43e3e3e265dcf9d8
 "GLP Thalwil",yes,0,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,3a2563c7954ec300019ffabb0429b615804ca59a7024a8e687d130b622a827fd
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,f2b34c584543e96b61871425a2a92c19c5848dd38b9cddba3dbbc9c7c4480c03
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,6982c1e3466379291c63838b582f859309bfa3ff99d8eebf4b712147d4498b50
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,f5a44dd4d35c15b4d8010ffb2342d20fc950a0e732701b3a5b63195031ea8cea
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,23152ff15e7caf743ae297c6a3ed81c7a6184d5ed72db7fa505d481708fb0054
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,9d208d6675c6018e1bc7053cff0839e05435aa7ebec96ccef751b5dc405cb010
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,f845b7ad819f7f90fa51192c17a0aa67b6ec42f6aae43b3d00690e809f51ad32
-"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,70b6187a10a7b2e3a8f427083adf8ccfa39bc24b3bb4e77422fb5a6adc0b416c
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,ce9342b86966224065917e03313c2a70691662cb69733e4070163ce70b9585f1
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,28b4abf24ea39fe3063baf9c0e24db9443c26aadfbc075c31733dc618de9f9f3
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
