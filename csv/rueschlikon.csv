@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Aktuell",yes,0,https://beat-klingelfuss.ch/aktuell/,#news-section,static,34bbcbc278a7557b9d3108b0495a8068486560bf764fcb136fcb211e103cc786
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,bcf16bdde682cb782ae7127c6ae742f4966df420159d2f8eacdaa32659a5865d
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,7cd84ab37cf884bcf50bb1ba00893fd29009b1e84de79d7a5864d7368d4217cf
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,7d81dbae6d52ccc9d973908dd63846005687913ccc28201ec9b86ded51e003e2
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,.m-campaign-desc,static,c3fe4e893fea2dd9ec803dae03118f3417565795e31b9568debe70eac9da54b2
 "Elena Michel - Veranstaltungen",no,8,https://elenamichel.ch/?post_type=tribe_events,.page__list-article,static,2e350bedf91ea20ac8cf9efcf03a07f3ce17646cfca02f24d8add38d80e77623
@@ -27,4 +27,4 @@ label,active,error_count,url,selector,type,hash
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,article,static,6982df82dfbc2a89a027d0b3d054e03954f2f2d0bd928882f9eeeafb6ccf470a
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,28b4abf24ea39fe3063baf9c0e24db9443c26aadfbc075c31733dc618de9f9f3
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
-"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
+"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
