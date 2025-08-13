@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,10a8e7555b9ed1bfbefb91e06be48e74ac467c5559f5b5e77889d2fc205ce933
-"EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
+"EVP Bezirk Horgen",yes,1,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,54e97fa9870acf5fa8db422b7c00cbecfb16e14eb7bf95c25e46e44472a9819d
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,2ef655a01c714352dddfbd4e725cb57cab5afc5c246c2c8873aed00ec5e99f96
@@ -16,7 +16,7 @@ label,active,error_count,url,selector,type,hash
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,961832b94795b0199b1b0e7860ee138784f515427df5a16bd7604e80111848c0
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,e6c4cd062d7022f1fc82d74cccd2131817f7a143c08f031ccae9bc24f245700f
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
-"SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,5fea18ac23e357a2c6d24804ed223435d279ad91deac2dd7bd9ce5a723f65da2
+"SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,9d208d6675c6018e1bc7053cff0839e05435aa7ebec96ccef751b5dc405cb010
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,f52b786b47898d83a0b382c0c4a84465e8e2590983e2212a9f627ac4ce4db31e
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,63ace1985170775ce00ac354420553ba9a76626f6522884d3db92ce47b6956f2
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,28b4abf24ea39fe3063baf9c0e24db9443c26aadfbc075c31733dc618de9f9f3
