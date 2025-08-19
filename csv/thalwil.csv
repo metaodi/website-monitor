@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,5aefdd2a49798f5b0d016778fa13b411a15acb0c651819de42b10b22878965a7
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,e4754a11a8ff9cee609d7bc85a372590355be939d7b826915d0f11fbb75f95ee
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,eeb9be38e70e4d276a93f197d22115d514f55eed6366024ff8e5ac33e81ae72f
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,9d208d6675c6018e1bc7053cff0839e05435aa7ebec96ccef751b5dc405cb010
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,38d65c3de33b15660b77d07403cf05a9acd45a82f6c8a6d63c225e358880b2f5
-"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,703dd533a2ee266c0902cd70b97c779e91e1ec842e7f415ca5e43724bdc73871
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,3719a0df4514fecf4d31803c47bc79a7374b364ec4f5051b34ed1d086f5f2d2d
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,28b4abf24ea39fe3063baf9c0e24db9443c26aadfbc075c31733dc618de9f9f3
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
