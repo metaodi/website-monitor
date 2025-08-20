@@ -10,7 +10,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,7f4facc079ebdba57fca71a3dd0faa2be4f8abd62bff1db8b413cd645470c394
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,f5a44dd4d35c15b4d8010ffb2342d20fc950a0e732701b3a5b63195031ea8cea
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,3cf648b762c78173d7af093aeac1011a7b53fcf90b9067364c1c7eebb0d2cab8
-"HGV Thalwil",yes,1,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
+"HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",no,716,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "Mitte Thalwil",no,21,https://thalwil.die-mitte.ch/,.content,static,bec37803c5d9b1848f61409858c0f718fe03bf3f18c6e9859f21e1e15d795792
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,961832b94795b0199b1b0e7860ee138784f515427df5a16bd7604e80111848c0
@@ -19,7 +19,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,9d208d6675c6018e1bc7053cff0839e05435aa7ebec96ccef751b5dc405cb010
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,5deaad7959632ec2f40f677cb55d6578729a378246de3132f29c189abbb4cab3
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,b5e466af725a20ae94a68dbbdfcd3e864608c35b88e77ae2248e709f005afd6f
-"ZPZ Agenda",yes,1,https://www.zpz.ch/aktuell/agenda,"main section p",static,28b4abf24ea39fe3063baf9c0e24db9443c26aadfbc075c31733dc618de9f9f3
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,28b4abf24ea39fe3063baf9c0e24db9443c26aadfbc075c31733dc618de9f9f3
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,.lovecraft-widget-list,static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
