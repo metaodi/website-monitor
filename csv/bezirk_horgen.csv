@@ -20,7 +20,7 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,6690e0ae6d
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,a19aa97158aecf13dfa21f633884f59a9f3a2c066e68e8ee9b2e7371f3f8b48a
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,88a3a5a3c357d2e186f9df478069bfd05b3a36d1da7f7df0195041067cc8d59a
-"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,0d4ec92f7017f41216c718f5bc94e99a25a344bba85f07ecabeced4ad3e15893
+"Verband der Gemeindepräsidien",yes,1,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,0d4ec92f7017f41216c718f5bc94e99a25a344bba85f07ecabeced4ad3e15893
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,756061ff55b6b84738df57b5192128b1b1095925969c9e9d4209a55bc0e4b76d
 VStA,yes,0,https://www.vsta.ch/,article,static,9cef0621e36dd884252cbf306cfca2b24f621ca9547d7c7216c8c941310e3a1b
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,f6eb8ea5512601183460b3a3210f01b2dc2eb32bcaad5590aef1f3ea6dd41d6d
