@@ -13,11 +13,11 @@ label,active,error_count,url,selector,type,hash
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",no,716,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "Mitte Thalwil",no,21,https://thalwil.die-mitte.ch/,.content,static,bec37803c5d9b1848f61409858c0f718fe03bf3f18c6e9859f21e1e15d795792
-"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,96f76d553e6d7cd168a22632935c3ad992330fe5efb4a40b853697347742d778
+"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/Gruppen/walhalla/,"[data-id='59fa882']",static,735d426cc2dd01900c146085d22263f8b99f08ac5c87266553e8c0650535be39
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,55b1750a7d4b95a249707451a82db1a30b64151db4ce2cccec0799bf36035e5a
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,8793bb34f4b46cbffae758754fd76d7d16905a77d98c1c97d29752ab96e80752
-"Thalwil informiert",yes,1,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,77acb5b5faa9421dcb9c63a09f9c66c49fc5bbaeb3df358c5a983631a97dd334
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,77acb5b5faa9421dcb9c63a09f9c66c49fc5bbaeb3df358c5a983631a97dd334
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,1042f9353181b93da0bcbc77d4dc751ecbee0b66fcd14bcb6a8ffbe48ea20a2d
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,28b4abf24ea39fe3063baf9c0e24db9443c26aadfbc075c31733dc618de9f9f3
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
