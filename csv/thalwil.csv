@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,e77d7ce1b0a37c8535e45fa64510ee503b38570b76f55b1446ffeb67160880bf
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,0d17b8172b7fac215789569273148d5bab3a24d88c80dbca1f9bb77cb8f30768
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
-"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,e7e854788054425881aa0fcdb36d701f306141dda778e10e0d1ec8ae7ab54e8c
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,8ac6ae655d7860e83cedcba353095a7b400ffba774e705b0b923b361caeee36a
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,3d78b9e3b246957d27d830341d7823adb38bd3cd5f7b3252aec39311e2a5b304
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,97a688ad007e405a7d6fd0f520558f2abb7cabc8b31e3426aca67d74e6bd61c4
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,f5a44dd4d35c15b4d8010ffb2342d20fc950a0e732701b3a5b63195031ea8cea
-"HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,a7fa158100ca8ee5ea2ae694e9cd14cb27d6ae7145f5f82ea6b244b3ff966271
+"HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,27fc245ee52bf4fa6e412255956d4557b7f77a36c9178a729425b8df26247257
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",no,716,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "Mitte Thalwil",no,21,https://thalwil.die-mitte.ch/,.content,static,bec37803c5d9b1848f61409858c0f718fe03bf3f18c6e9859f21e1e15d795792
