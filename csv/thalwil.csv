@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,0d17b8172b7fac215789569273148d5bab3a24d88c80dbca1f9bb77cb8f30768
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,c65e95c6eca421005b8656aea74d9b573c777cac5a748274a005521526bc1e9f
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,a01d2761f4a65a93fa7b094159693aae137dec13d8e3aefe0a3338a203dfe180
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
@@ -17,8 +17,8 @@ label,active,error_count,url,selector,type,hash
 "SP Thalwil",yes,0,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,55b1750a7d4b95a249707451a82db1a30b64151db4ce2cccec0799bf36035e5a
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,8793bb34f4b46cbffae758754fd76d7d16905a77d98c1c97d29752ab96e80752
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,9512ac5fecaea55ffa007c128d257e834ed6e4ba0954f2f0dd984ece8e1b156d
-"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,62d7d9e8257f84ca338efdb7b90358aa565822ee58e6378f5af1ac8563751f2c
+"Thalwil informiert",yes,1,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,9512ac5fecaea55ffa007c128d257e834ed6e4ba0954f2f0dd984ece8e1b156d
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,adc2b22c77862551a6d08253b05ea9abf3d392d7add0b8d73fac4abab0ab8197
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,c4e5af5222205ee2180810e151d95a7874cf36d29f05ed793176bc9c66dc68a6
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
