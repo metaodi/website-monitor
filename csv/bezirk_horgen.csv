@@ -1,11 +1,11 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,27e063214bb256a0c16cd57121ae01b4b7c5c19cfab6e688d167036a02369cd3
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,a76b98939f1ea58625df76a3b019ecfe58969adc2ed98a833281801738d5d317
 Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-1205.html,section.asset-section,static,ae70cdf49275b3c5be8baf3fcde44d73fd895a0ef4a1c5ef943efe36b8c651c9
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,ab3b6273d541045f7145e8104b63c142df2f422848a0797bfe088a5406f26dd2
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,ad0c4054680a93a7eac2f2265c369691576fbbbf595e385ecec1ea74850fd8bf
-"GLP Bezirk Horgen",yes,366,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
+"GLP Bezirk Horgen",yes,367,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,f27e0751a4b0af6cf54f53f41b0013e5b3d4076e1fc16dcea8547442691e9b2e
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,37ac4efb049756b0fa24bde450fdc84604f61412edbd2f707f62ba8af21e7668
