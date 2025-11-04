@@ -5,7 +5,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 "EVP Kanton Zürich",yes,0,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,ae2955076de6d516d790b14be359763ea72bc7ced73b6fce5ae0f0eb6f700ad9
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,ad0c4054680a93a7eac2f2265c369691576fbbbf595e385ecec1ea74850fd8bf
-"GLP Bezirk Horgen",yes,637,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
+"GLP Bezirk Horgen",yes,638,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,b8895717246d3e55fc936accc716d34fea79e00ff5c412852404c0419807787a
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,676776fd4070dfc5e385351c9c62906e576984bd6d3821acb28352d0540d7715
@@ -17,7 +17,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/de/aktuell/medienmitteilungen-120
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,76079ae7e702ef0bd60155517b9929c37b40a325fc97cac1122bda77c0d9caea
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,e18da15652bb78a2880ce6d17642004940905da333251fac9af82d4b43ab3305
-Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,9785d693a031955a2ca59351f23639036508b63f2bd69d344bb7d8835bb3bb0e
+Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,72c82b2b62697da028e3d81510c86bd403dd418a386f0f1eb9609ca7f11966ab
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,0add67c7f9351e2c0f11b56ea122376a32fdf248e526b76edf3eacb8dcd10d6b
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,98b8fec322af910c34f6febc72bb14af04945b2e73d4a778335aac05c24831df
