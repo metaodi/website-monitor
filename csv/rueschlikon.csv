@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,hash
 "EVP Rüschlikon",yes,0,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,f80fa630b296b1a399a71ac1856fd87526c850dfc2858f96d03ca604c1c9383a
-"GLP Bezirk Horgen",yes,1346,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
+"GLP Bezirk Horgen",yes,1347,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
 "Grüne Bezirk Horgen",yes,0,https://sektionen.gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,93d1999235b1001c38e6455301bf52eb2aee4b34edd6ac683e4042895455848b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,477ffe4f75371e61819a61f84d897768ad02e89ab107cc686f1e75b21e204b70
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,d1f28ad02536533d3242151a0ba7a422301c04cde86af61e34187b8bac2f29b9
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "Mitte Bezirk Horgen",no,827,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",yes,0,"http://www.cvp-rüschlikon.ch/",body,static,bf15ec7e3d23f6f9bf5235ecf7317231a1fffff4ed9baa4caa0f46e71829b8e4
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,457afd6a0e8c17cbac332b7107b7d6ea9f19db75a5022dacef6c3d95bf0ade75
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,d222ad95a6b74656d0d6db8595c47c20f69c018c992271d7a422648292ea1abc
+"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,e86866939b62efdf24d691943f9abc29b5e0ae38786a1ba26c5f27567689f93c
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,66fff4dd550d26c4b033b6eb2f9064caa3b3b8c58a81537cf54d7b09de35ee7f
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
