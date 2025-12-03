@@ -1,11 +1,11 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,5358788db3202236723cec342cd78adb1ec086752a865df81ee67bea9cda3659
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,88468ac86470b1101da33fc32fd32297b177b1b73de739991459104618c960e7
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,eefb2334bbf3acd2c0067247725e4e29a70513de8b008ef9ab52c8b6f81c0eb5
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,85bfe8f51508d89407e963203f0f410b5349c6ca829b5c1104264bc819d9b9f9
 "GLP Bezirk Horgen",yes,1097,https://bezirkhorgen.grunliberale.ch/aktuell.html,#contentPage,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
-"GLP Thalwil",yes,520,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,f4561d610b1748e080e8aa3ba8ed05849bed8d4d4a51c1ff1d76ebe62c549c30
+"GLP Thalwil",yes,521,https://thalwil.grunliberale.ch/aktuell.html,#contentPage,static,f4561d610b1748e080e8aa3ba8ed05849bed8d4d4a51c1ff1d76ebe62c549c30
 "Grüne Bezirk Horgen",yes,0,https://gruene-zh.ch/gr%C3%BCne-bezirk-horgen,#content,static,d35f78925e423f32908217beabb60e244d9caaedd9d235cb0fb25db28cc49f1b
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,c0a030b40f5a51676c2fc2097802c6c19e3cce75b9c16e5307240ca6f916b38f
 "Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,546d42ccb2f441c0e21dd6d5fb9cbe048c502f137f11e94f1a86d3a6413af904
@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/wahlen2023/,#main,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,8793bb34f4b46cbffae758754fd76d7d16905a77d98c1c97d29752ab96e80752
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,8cc106ff53adf33b0b403288d54b726bb76c7f4bec59ff82adde6cdc2ac7ec44
-"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,13361271433ff200676fca63af46217d35656ad3f6eda2ce4e61cdbcdcd6909c
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,5e353e1195f3adb67953d3ce812038895b6499bfaa1c06773530947367fa0bf4
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5a110baa867fa13efe1e7bb9d307ab111219bf9b9a74ffdfe82635188ee6deba
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
