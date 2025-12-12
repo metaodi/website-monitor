@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Aktuell",yes,3,https://beat-klingelfuss.ch/aktuell/,#news-section,static,34bbcbc278a7557b9d3108b0495a8068486560bf764fcb136fcb211e103cc786
-"Beat Klingelfuss - Startseite",yes,5,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
+"Beat Klingelfuss - Startseite",yes,6,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,0f2a187442aa7465ceb501602a488e93cf2c229b29de2f14078006d9e95d64ed
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,8ec2b2cf6fc1bb3b7b7e09b11ef0c92db9100eb7c82a28d86a37c370d4eae2fc
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,.m-campaign-desc,static,f04f8ccbcd002596b2f9089299879ed24b21efc5c6e130e766aa29b15cf37e09
@@ -24,7 +24,7 @@ label,active,error_count,url,selector,type,hash
 "SVP Rüschlikon",yes,25,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,3b8bbbb8505ebf581540d4a68240446d79f6f8da96a72b1f9e9a3b2f15557fb3
-"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,article,static,7957c970155216eb70947890928332e2b5d7217be7db14b5b52c9a13cc2e5509
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,article,static,87197d4920e16cd4b735bd615c91cfb00700c6a225bcd298f9a0686dde6504fb
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5a110baa867fa13efe1e7bb9d307ab111219bf9b9a74ffdfe82635188ee6deba
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
