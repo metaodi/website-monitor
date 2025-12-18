@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,hash
-"Beat Klingelfuss - Aktuell",yes,103,https://beat-klingelfuss.ch/aktuell/,#news-section,static,34bbcbc278a7557b9d3108b0495a8068486560bf764fcb136fcb211e103cc786
+"Beat Klingelfuss - Aktuell",yes,104,https://beat-klingelfuss.ch/aktuell/,#news-section,static,34bbcbc278a7557b9d3108b0495a8068486560bf764fcb136fcb211e103cc786
 "Beat Klingelfuss - Startseite",yes,97,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,b40ab1710903e38e15242613024a78bf5592a61235333b27a41efc272693621b
 "Elena Michel - Aktuelles",yes,0,https://elenamichel.ch/aktuelles,.m-front-article,static,8ec2b2cf6fc1bb3b7b7e09b11ef0c92db9100eb7c82a28d86a37c370d4eae2fc
