@@ -14,7 +14,7 @@ label,active,error_count,url,selector,type,hash
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,da6ae8d6103ceab66654c3f5f072bd901da95873f08b5ad9b3e2f08ae104b632
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
 "Mitte Bezirk Horgen",no,828,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
-"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,body,static,f2d662ade2ed6be75b4e5ef2d24af74654661b7c4fa2ac227f67ce3bdb039601
+"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,f2d662ade2ed6be75b4e5ef2d24af74654661b7c4fa2ac227f67ce3bdb039601
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,8c07a03fd0ebd5660c5057c3cd43a3438f390dff181ab2476fcf5c2b4a84e6e0
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,833b7bf6deec5af57887d0fe4563ef67e6e468cadea1d606cd9d1993bed2e6a7
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,66fff4dd550d26c4b033b6eb2f9064caa3b3b8c58a81537cf54d7b09de35ee7f
