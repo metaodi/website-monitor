@@ -2,23 +2,23 @@ label,active,error_count,url,selector,type,hash
 "Beat Klingelfuss - Aktuell",no,214,https://beat-klingelfuss.ch/aktuell/,#news-section,static,34bbcbc278a7557b9d3108b0495a8068486560bf764fcb136fcb211e103cc786
 "Beat Klingelfuss - Startseite",no,199,https://beat-klingelfuss.ch/,.simpletext-block,static,0a3479680df818c939e6133024ff24ce2bb195f73a4a513933dacec49c016b19
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,aa08f07a93e578aa56171d1fa719769d1aed95cbfd8768f59e9eea42454674d9
-"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,f04f8ccbcd002596b2f9089299879ed24b21efc5c6e130e766aa29b15cf37e09
+"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,900d3a6af28a10d0520e394b6cff594c5969f0b89d076d0231e9b99b384b4170
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Rüschlikon",yes,0,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,62d53bf2e6eccae26d55d4404db83f224744d3dcb7512313332e3a760d8e6818
-"GLP Bezirk Horgen",yes,1938,	https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,d0ffd496bf224408ed4139234dc8d5ccf2f2831c3091ae6c52f4c6de5abc676e
-"Grüne Bezirk Horgen",yes,102,https://gruene-bezirk-horgen.ch,article,static,d35f78925e423f32908217beabb60e244d9caaedd9d235cb0fb25db28cc49f1b
+"GLP Bezirk Horgen",yes,0,"	https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/",.jet-listing-grid__item,static,304ef9ae72764630f10bc5491bcafdefc6de75699f65fdddb888f5410d1676c9
+"Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch,article,static,a48dc6437a1c290103d5d4bdcb4ae0fd809ac36e3abaf3c2257fbbe2f570b2e7
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,1dbed4c661d258d4cefe4a8d59364d112cd61003520e4c1a19a4f6c2c8a1871c
 "Grüne Rüschlikon",yes,0,https://sektionen.gruene-zh.ch/gruene-rueschlikon,#content,static,d1f28ad02536533d3242151a0ba7a422301c04cde86af61e34187b8bac2f29b9
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,da6ae8d6103ceab66654c3f5f072bd901da95873f08b5ad9b3e2f08ae104b632
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
-"Mitte Bezirk Horgen",yes,827,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
-"Mitte Rüschlikon",yes,0,"https://rueschlikon.die-mitte.ch/",body,static,f2d662ade2ed6be75b4e5ef2d24af74654661b7c4fa2ac227f67ce3bdb039601
+"Mitte Bezirk Horgen",yes,828,https://zh.die-mitte.ch/bezirk-horgen/,main,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
+"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,body,static,f2d662ade2ed6be75b4e5ef2d24af74654661b7c4fa2ac227f67ce3bdb039601
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,8c07a03fd0ebd5660c5057c3cd43a3438f390dff181ab2476fcf5c2b4a84e6e0
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,833b7bf6deec5af57887d0fe4563ef67e6e468cadea1d606cd9d1993bed2e6a7
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,66fff4dd550d26c4b033b6eb2f9064caa3b3b8c58a81537cf54d7b09de35ee7f
-"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,296a94a2da320139bc25ed18863ad8a8cd595916f70fbf896ae1b610b95956a6
+"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 "SVP Rüschlikon",yes,25,https://www.svp-rueschlikon.ch/blog,#page-zones__main,static,d305b0cdd214171021faf6cbe58c537c29e2417473b1c45144445ab546cee8f1
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,3b8bbbb8505ebf581540d4a68240446d79f6f8da96a72b1f9e9a3b2f15557fb3
