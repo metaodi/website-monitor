@@ -16,7 +16,7 @@ label,active,error_count,url,selector,type,hash
 "Mitte Bezirk Horgen",no,828,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",no,1,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,f2d662ade2ed6be75b4e5ef2d24af74654661b7c4fa2ac227f67ce3bdb039601
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,8c07a03fd0ebd5660c5057c3cd43a3438f390dff181ab2476fcf5c2b4a84e6e0
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,833b7bf6deec5af57887d0fe4563ef67e6e468cadea1d606cd9d1993bed2e6a7
+"Rüschlikon - News",yes,1,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,833b7bf6deec5af57887d0fe4563ef67e6e468cadea1d606cd9d1993bed2e6a7
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,66fff4dd550d26c4b033b6eb2f9064caa3b3b8c58a81537cf54d7b09de35ee7f
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
