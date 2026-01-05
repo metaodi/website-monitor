@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,02974263f2e09d99b0451f4ba30fcf4a47aac30d61bb084e843dfc5f1f4f9c36
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,80f1a193b43280534510e72f96aeeea6d19c3e068a4a7d2105843384839ead4b
 "EVP Bezirk Horgen",yes,0,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
-"EVP Thalwil",yes,1,https://evp-thalwil.ch/home,#main,static,eb887163e016d0947be6685cf5f2a09d06a81be8d753c8b2bd7dc749d07e382c
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,eb887163e016d0947be6685cf5f2a09d06a81be8d753c8b2bd7dc749d07e382c
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,85bfe8f51508d89407e963203f0f410b5349c6ca829b5c1104264bc819d9b9f9
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,304ef9ae72764630f10bc5491bcafdefc6de75699f65fdddb888f5410d1676c9
@@ -21,5 +21,5 @@ label,active,error_count,url,selector,type,hash
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,19301e59b7b62e04bb8be7d2d29fb8d7cb42ac928a605d91dedffb6430656e98
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5a110baa867fa13efe1e7bb9d307ab111219bf9b9a74ffdfe82635188ee6deba
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,d4a318b449bc73858a90c418752ffdae7d0d7074ad07b7ccdc80108f4d90fb6b
-"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
+"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
