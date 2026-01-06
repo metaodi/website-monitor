@@ -21,5 +21,5 @@ label,active,error_count,url,selector,type,hash
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,5e48526bd1bef762bc6c4ff8bfa02576cd1f8280ba9a56ed95a625238576fa7f
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,5a110baa867fa13efe1e7bb9d307ab111219bf9b9a74ffdfe82635188ee6deba
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8cce85f92cc7e5fc65757951905d7c7f04ff48e6373055a4c177dd66e6b65fa6
-"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
+"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
