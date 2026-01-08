@@ -20,6 +20,6 @@ label,active,error_count,url,selector,type,hash
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,e43ca545bef93e8fb21ba1fb15d042444247d86602180a3afa504308c38637bb
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,ad9e64ebdcff0a59ae803b2326c8790c77ae3e15583fd218bb4a91648e4a2a88
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e74820d4a428e5e24af035cfecb8db6b51853649537bcec3505a5949b2e15966
-"ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,8cce85f92cc7e5fc65757951905d7c7f04ff48e6373055a4c177dd66e6b65fa6
+"ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,81ce4ce67acb6f6acaf3ac6241484c63240af730ec72a9f7f04ec0bed307572d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
