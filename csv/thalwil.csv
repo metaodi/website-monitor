@@ -8,7 +8,7 @@ label,active,error_count,url,selector,type,hash
 "GLP Thalwil",no,785,https://thalwil.grunliberale.ch/aktuell.html,.jet-listing-grid__item,static,f4561d610b1748e080e8aa3ba8ed05849bed8d4d4a51c1ff1d76ebe62c549c30
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,static,a48dc6437a1c290103d5d4bdcb4ae0fd809ac36e3abaf3c2257fbbe2f570b2e7
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,a06963adfa2262b96efeadcb0f91bc21ac4823237b2eb87a3d1743839646f8e4
-"Grüne Thalwil",yes,0,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,546d42ccb2f441c0e21dd6d5fb9cbe048c502f137f11e94f1a86d3a6413af904
+"Grüne Thalwil",yes,1,https://gruene-zh.ch/gr%C3%BCne-thalwil,#content,static,546d42ccb2f441c0e21dd6d5fb9cbe048c502f137f11e94f1a86d3a6413af904
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,024888d7305b5197008ab4a01674d162c8dd5ea0ad5a67353108a8d01ccc017a
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",no,716,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
@@ -20,6 +20,6 @@ label,active,error_count,url,selector,type,hash
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,66ebc9bb9174e35783ca436b076bacb0390479132f155242f5ab28aa6ddd5073
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,article,static,dda6020441defab5268487fbeee1ab40a99401f2e8449ff3782314dcde396745
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,e74820d4a428e5e24af035cfecb8db6b51853649537bcec3505a5949b2e15966
-"ZPZ Amtliche Publikation",yes,1,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,81ce4ce67acb6f6acaf3ac6241484c63240af730ec72a9f7f04ec0bed307572d
+"ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,81ce4ce67acb6f6acaf3ac6241484c63240af730ec72a9f7f04ec0bed307572d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,5be8ceb6524b8b4547cf3466dd0d202c3af349b7b6774cd7ffd324b4466ad4fb
 "Ökopolis",no,14,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,08f6ebf6829b2e23bdc27c4ae2f5ff07da908f6a785763d23fad89991d87c83b
