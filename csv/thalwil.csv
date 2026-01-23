@@ -4,7 +4,7 @@ label,active,error_count,url,selector,type,hash
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,38724825d651527a9290af9377edd966f453a45ec08ad6ec879b9340f760981f
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,85bfe8f51508d89407e963203f0f410b5349c6ca829b5c1104264bc819d9b9f9
-"GLP Bezirk Horgen",yes,1,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,304ef9ae72764630f10bc5491bcafdefc6de75699f65fdddb888f5410d1676c9
+"GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,304ef9ae72764630f10bc5491bcafdefc6de75699f65fdddb888f5410d1676c9
 "GLP Thalwil",no,785,https://thalwil.grunliberale.ch/aktuell.html,.jet-listing-grid__item,static,f4561d610b1748e080e8aa3ba8ed05849bed8d4d4a51c1ff1d76ebe62c549c30
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,static,a48dc6437a1c290103d5d4bdcb4ae0fd809ac36e3abaf3c2257fbbe2f570b2e7
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,static,4af8e258df25fbedab11c6e0f76088777e5bae19fee13529b3ec20e98b7417c7
@@ -13,7 +13,7 @@ label,active,error_count,url,selector,type,hash
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,be3fd4c782db0a390f6bdf8b22f6339db534dd40321066db386b3d4d5d1a0475
 "Mitte Bezirk Horgen",no,716,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "Mitte Thalwil",no,21,https://thalwil.die-mitte.ch/,.content,static,bec37803c5d9b1848f61409858c0f718fe03bf3f18c6e9859f21e1e15d795792
-"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,6655a5ef208add5ec8cf17f280658cba6748753ef7c098d11049ab03f57bb783
+"Pfadi Thala Wölfli Walhalla",yes,1,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,6655a5ef208add5ec8cf17f280658cba6748753ef7c098d11049ab03f57bb783
 "SP Thalwil",yes,108,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,55b1750a7d4b95a249707451a82db1a30b64151db4ce2cccec0799bf36035e5a
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,785372d6901be7db7e344dec4705b9e4b34bcdc478556fcd27d075a0c4394cc4
