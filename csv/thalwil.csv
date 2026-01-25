@@ -14,7 +14,7 @@ label,active,error_count,url,selector,type,hash
 "Mitte Bezirk Horgen",no,716,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,96600030d9ee80d4421c6e322b842f5b1b5f0f0cf32616061d1ae149afa4c955
 "Mitte Thalwil",no,21,https://thalwil.die-mitte.ch/,.content,static,bec37803c5d9b1848f61409858c0f718fe03bf3f18c6e9859f21e1e15d795792
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,6655a5ef208add5ec8cf17f280658cba6748753ef7c098d11049ab03f57bb783
-"SP Thalwil",yes,166,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,55b1750a7d4b95a249707451a82db1a30b64151db4ce2cccec0799bf36035e5a
+"SP Thalwil",yes,167,https://thalwil.spkantonzh.ch/aktuell/medienmitteilungen/,"#main .list-item",static,55b1750a7d4b95a249707451a82db1a30b64151db4ce2cccec0799bf36035e5a
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,785372d6901be7db7e344dec4705b9e4b34bcdc478556fcd27d075a0c4394cc4
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,8d8adb65eadb2388194793579e35880cac0dc307894adfd3649e7f8db938ea9c
