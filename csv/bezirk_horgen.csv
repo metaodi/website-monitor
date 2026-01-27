@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,df1c1e1b0779bf55aa3aa936f862064fa187ad78e25952691d0bc4cf27159daf
+"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,e2d7bb6345b65f66faa548f8a3aa9f7970d43b89933f3fccd354dc5e2c3803eb
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,02cea78874929fee77c57770686d55097abb4baef6deee1f3eba3666c6b47193
-"EVP Bezirk Horgen",yes,20,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
+"EVP Bezirk Horgen",yes,21,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,17,https://evpzh.ch/aktuelles/news-evp-zh,#main,static,928f8366b0166b8a28a8c0b56bc30d40a5fa9daaa672764fca5480374d1a19aa
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,d438470a66578cba5c8353285d321d6bf0a91ee76efafa64732a65c0b02e5b5b
@@ -15,7 +15,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,02cea788749
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
-syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,6b2fe8ceecd262513f400c0f609e5290a7ca98ca63d9c39b7a3fe8cd76394c96
+syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,529de14aa5cb8421f51c7d13d53532d779e2d1657a8c0cb4d6ea7aa68279e8a1
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,b0a599d2a4f7e1423c90c585d984354b8fc39e28b12f0d164c2ed992dca7f46f
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,8837ec3596aa988f246a82a0ea56ba4cc79e2f8d1d8d81a72ad0e5b52ec45880
 "Unternehmer-Vereinigung Bezirk Horgen",no,0,https://www.uvh.ch/index.php,div.bd-container-inner,static,9e27d150601f559bce5aa40c38df83250696e2de1a1f31478253fc150abae6a8
