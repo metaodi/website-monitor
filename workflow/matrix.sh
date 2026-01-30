@@ -14,4 +14,4 @@ DIR="$(cd "$(dirname "$0")" && pwd)"
 $DIR/populate_database.sh $1
 
 # run script to check each website
-$DIR/build_matrix.py -d $DIR/website.db
+uv run $DIR/build_matrix.py -d $DIR/website.db
