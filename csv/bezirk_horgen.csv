@@ -13,7 +13,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,571474b263a
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,1038c53869b1da57835db77462c2d815c26ba4b48e7ce4907f2f7057e570e009
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,595ebb62405600b674d75ad68a6cab276c4db9fd036f2dbfc6aff69f1077a2f6
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,90i8sahdsdlkdhakjh
-"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
+"SVP Bezirk Horgen",yes,1,https://svp-bezirk-horgen.ch/,article,static,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 Syna,no,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,1427c67ca69406f5f9e8239b0d49be386e553dc6b331e2a6423f6a17f2c50534
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,529de14aa5cb8421f51c7d13d53532d779e2d1657a8c0cb4d6ea7aa68279e8a1
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,b0a599d2a4f7e1423c90c585d984354b8fc39e28b12f0d164c2ed992dca7f46f
