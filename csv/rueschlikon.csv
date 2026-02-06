@@ -12,7 +12,7 @@ label,active,error_count,url,selector,type,hash
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,article,static,5d026057dd786915ca50804ba6169f5694973be1184615c70b33114687fcc3b4
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,static,9603af6df6940ee53e81cd3a195ffc636162e910e5c2b71dcf4748348fd3a1a9
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,63d23d8a9227b9d851d81f5832324aa0ec9a735af8fd6c19f2c05f8bc5cb23f9
-"Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
+"Matteo Pintonello - Startseite",yes,1,https://pintonello.ch/,#page-zones__main,static,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
 "Mitte Bezirk Horgen",no,828,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,9fe8c5e767022391350f85508c2fcb84f71cff7b2c100f3901358640ffeb904a
 "Mitte Rüschlikon",no,1,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,f2d662ade2ed6be75b4e5ef2d24af74654661b7c4fa2ac227f67ce3bdb039601
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,8c07a03fd0ebd5660c5057c3cd43a3438f390dff181ab2476fcf5c2b4a84e6e0
