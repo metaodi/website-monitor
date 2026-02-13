@@ -6,6 +6,10 @@ on:
       csv-path:
         required: true
         type: string
+      openvpn-config:
+        required: false
+        type: string
+        description: 'Optional OpenVPN configuration content (base64 encoded)'
     secrets:
       TELEGRAM_CHAT_ID:
         required: true
@@ -13,6 +17,12 @@ on:
         required: true
       TELEGRAM_ERROR_CHAT_ID:
         required: true
+      OPENVPN_CONFIG:
+        required: false
+      OPENVPN_USERNAME:
+        required: false
+      OPENVPN_PASSWORD:
+        required: false
 jobs:
   build-matrix:
     runs-on: ubuntu-latest
@@ -70,6 +80,54 @@ jobs:
                 sudo apt-get install chromium-browser
           fi
       
+      - name: Setup OpenVPN
+        if: secrets.OPENVPN_CONFIG != ''
+        run: |
+          echo "Setting up OpenVPN..."
+          sudo apt-get update
+          sudo apt-get install -y openvpn
+          
+          # Decode and save the OpenVPN config file
+          echo "${{ secrets.OPENVPN_CONFIG }}" | base64 -d > config.ovpn
+          
+          # Create auth file if credentials are provided
+          if [ -n "${{ secrets.OPENVPN_USERNAME }}" ] && [ -n "${{ secrets.OPENVPN_PASSWORD }}" ]; then
+            echo "${{ secrets.OPENVPN_USERNAME }}" > auth.txt
+            echo "${{ secrets.OPENVPN_PASSWORD }}" >> auth.txt
+            chmod 600 auth.txt
+            
+            # Add auth-user-pass to config if not already present
+            if ! grep -q "auth-user-pass" config.ovpn; then
+              echo "auth-user-pass auth.txt" >> config.ovpn
+            else
+              # Update existing auth-user-pass line
+              sed -i 's|auth-user-pass.*|auth-user-pass auth.txt|' config.ovpn
+            fi
+          fi
+          
+          # Start OpenVPN in the background
+          sudo openvpn --config config.ovpn --daemon --log /tmp/openvpn.log
+          
+          # Wait for VPN connection to establish
+          echo "Waiting for VPN connection..."
+          for i in {1..30}; do
+            if ip addr show tun0 2>/dev/null | grep -q "inet"; then
+              echo "VPN connected successfully"
+              ip addr show tun0
+              break
+            fi
+            if [ $i -eq 30 ]; then
+              echo "VPN connection timeout"
+              sudo cat /tmp/openvpn.log
+              exit 1
+            fi
+            sleep 2
+          done
+          
+          # Verify connection by checking IP
+          echo "Current IP address:"
+          curl -s https://api.ipify.org || echo "Could not fetch IP"
+      
       - name: Check website
         id: website
         run: |
@@ -86,6 +144,13 @@ jobs:
         run: |
           echo "Old hash: ${{ matrix.hash }}"
           echo "New hash: ${{ steps.website.outputs.new_hash }}"
+      
+      - name: Stop OpenVPN
+        if: always() && secrets.OPENVPN_CONFIG != ''
+        run: |
+          echo "Stopping OpenVPN..."
+          sudo killall openvpn || true
+          rm -f config.ovpn auth.txt
 
       - name: Notify telegram about website changes
         if: steps.website.outputs.new_hash != matrix.hash
