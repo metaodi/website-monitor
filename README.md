@@ -50,6 +50,7 @@ label,active,error_count,url,selector,type,hash
 * `url`: the actual URL of the website
 * `selector`: as CSS selector for elements on the website
 * `type`: determines the type of the website, use `static` for static websites or `dynamic` for websites, that load most of their contant at runtime. Dynamic websites will be parsed using Selenium. Use `static` as a default.
+* `proxy`: used to enable or disable the proxy, use values `yes` or `no`
 * `hash`: The hash of the previous run. Make sure to always provide a value (use a dummy value for new entries)
 
 Example:
