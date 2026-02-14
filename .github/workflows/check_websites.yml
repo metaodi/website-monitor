@@ -13,6 +13,8 @@ on:
         required: true
       TELEGRAM_ERROR_CHAT_ID:
         required: true
+      WIREGUARD_CONFIG:
+        required: false
 jobs:
   build-matrix:
     runs-on: ubuntu-latest
@@ -70,6 +72,43 @@ jobs:
                 sudo apt-get install chromium-browser
           fi
       
+      - name: Setup WireGuard
+        if: secrets.WIREGUARD_CONFIG != ''
+        run: |
+          echo "Setting up WireGuard..."
+          sudo apt-get update
+          sudo apt-get install -y wireguard-tools resolvconf
+          
+          # Decode and save the WireGuard config file
+          echo "${{ secrets.WIREGUARD_CONFIG }}" | base64 -d > wg0.conf
+          chmod 600 wg0.conf
+          
+          # Move config to WireGuard directory
+          sudo mv wg0.conf /etc/wireguard/wg0.conf
+          
+          # Start WireGuard
+          sudo wg-quick up wg0
+          
+          # Wait for VPN connection to establish (up to 30 seconds)
+          echo "Waiting for VPN connection..."
+          for i in {1..15}; do
+            if ip addr show wg0 2>/dev/null | grep -q "inet"; then
+              echo "WireGuard connected successfully"
+              sudo wg show wg0
+              break
+            fi
+            sleep 2
+            if [ $i -eq 15 ]; then
+              echo "WireGuard connection timeout"
+              sudo wg show
+              exit 1
+            fi
+          done
+          
+          # Verify connection (IP address is logged for debugging but may expose VPN IP)
+          echo "Verifying VPN connection..."
+          curl -s --connect-timeout 5 https://api.ipify.org > /dev/null && echo "Connection verified" || echo "Could not verify connection"
+      
       - name: Check website
         id: website
         run: |
@@ -86,6 +125,14 @@ jobs:
         run: |
           echo "Old hash: ${{ matrix.hash }}"
           echo "New hash: ${{ steps.website.outputs.new_hash }}"
+      
+      - name: Stop WireGuard
+        if: always() && secrets.WIREGUARD_CONFIG != ''
+        run: |
+          echo "Stopping WireGuard..."
+          sudo wg-quick down wg0 || true
+          # Securely delete sensitive files
+          sudo shred -u /etc/wireguard/wg0.conf 2>/dev/null || sudo rm -f /etc/wireguard/wg0.conf
 
       - name: Notify telegram about website changes
         if: steps.website.outputs.new_hash != matrix.hash

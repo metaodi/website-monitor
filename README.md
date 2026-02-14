@@ -6,6 +6,36 @@ website-monitor
 This repository contains CSVs in the `csv` directory, which are used to define a list of websites to monitor.
 The files is parsed on a regular basis (see the workflow file for details) and a notification is sent via Telegram if a change has been detected.
 
+### WireGuard VPN Support
+
+The GitHub Action supports routing requests through a WireGuard VPN connection. This is useful for monitoring websites that are only accessible from specific geographic regions (e.g., geo-restricted content).
+
+To use WireGuard with the website monitor:
+
+1. **Prepare your WireGuard configuration file** (`.conf` file from your VPN provider, e.g., ProtonVPN)
+2. **Encode the configuration file to base64**:
+   ```bash
+   base64 -w 0 your-config.conf
+   ```
+3. **Add the following secret to your repository**:
+   - `WIREGUARD_CONFIG`: The base64-encoded WireGuard configuration file
+
+4. **Pass the secret to the workflow**:
+   ```yaml
+   jobs:
+     notify_websites:
+       uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
+       with:
+         csv-path: csv/your-sites.csv
+       secrets:
+         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_TO }}
+         TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
+         WIREGUARD_CONFIG: ${{ secrets.WIREGUARD_CONFIG }}
+   ```
+
+The VPN connection will be established before checking websites and terminated after all checks are complete.
+
 ### CSV format
 
 The CSV must have the following structure:
