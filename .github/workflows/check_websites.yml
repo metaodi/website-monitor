@@ -73,7 +73,7 @@ jobs:
           fi
       
       - name: Setup WireGuard
-        if: ${{ matrix.type == 'proxy' }}
+        if: ${{ matrix.proxy == 'yes' }}
         run: |
           echo "Setting up WireGuard..."
           sudo apt-get update
@@ -127,7 +127,7 @@ jobs:
           echo "New hash: ${{ steps.website.outputs.new_hash }}"
       
       - name: Stop WireGuard
-        if: ${{ always() && matrix.type == 'proxy' }}
+        if: ${{ always() && matrix.proxy == 'yes' }}
         run: |
           echo "Stopping WireGuard..."
           sudo wg-quick down wg0 || true
