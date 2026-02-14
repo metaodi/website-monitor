@@ -41,7 +41,7 @@ The VPN connection will be established before checking websites and terminated a
 The CSV must have the following structure:
 
 ```
-label,active,error_count,url,selector,type,hash
+label,active,error_count,url,selector,type,proxy,hash
 ```
 
 * `label`: a label or title of the website
