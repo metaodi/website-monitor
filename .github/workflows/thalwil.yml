@@ -14,4 +14,5 @@ jobs:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_TO }}
       TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
+      WIREGUARD_CONFIG: ${{ secrets.WIREGUARD_CONFIG }}
 
