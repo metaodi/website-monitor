@@ -1,6 +1,6 @@
 name: Check Switzerland-only websites
 
-# This is an example workflow showing how to use OpenVPN
+# This is an example workflow showing how to use WireGuard VPN
 # to access geo-restricted websites (e.g., Swiss-only content)
 
 on:
@@ -17,8 +17,5 @@ jobs:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_TO }}
       TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
-      # OpenVPN configuration (base64 encoded .ovpn file)
-      OPENVPN_CONFIG: ${{ secrets.OPENVPN_CONFIG }}
-      # OpenVPN credentials (if required by your VPN provider)
-      OPENVPN_USERNAME: ${{ secrets.OPENVPN_USERNAME }}
-      OPENVPN_PASSWORD: ${{ secrets.OPENVPN_PASSWORD }}
+      # WireGuard configuration (base64 encoded .conf file)
+      WIREGUARD_CONFIG: ${{ secrets.WIREGUARD_CONFIG }}

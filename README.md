@@ -6,23 +6,21 @@ website-monitor
 This repository contains CSVs in the `csv` directory, which are used to define a list of websites to monitor.
 The files is parsed on a regular basis (see the workflow file for details) and a notification is sent via Telegram if a change has been detected.
 
-### OpenVPN Support
+### WireGuard VPN Support
 
-The GitHub Action supports routing requests through an OpenVPN connection. This is useful for monitoring websites that are only accessible from specific geographic regions (e.g., geo-restricted content).
+The GitHub Action supports routing requests through a WireGuard VPN connection. This is useful for monitoring websites that are only accessible from specific geographic regions (e.g., geo-restricted content).
 
-To use OpenVPN with the website monitor:
+To use WireGuard with the website monitor:
 
-1. **Prepare your OpenVPN configuration file** (`.ovpn` file from your VPN provider, e.g., ProtonVPN)
+1. **Prepare your WireGuard configuration file** (`.conf` file from your VPN provider, e.g., ProtonVPN)
 2. **Encode the configuration file to base64**:
    ```bash
-   base64 -w 0 your-config.ovpn
+   base64 -w 0 your-config.conf
    ```
-3. **Add the following secrets to your repository**:
-   - `OPENVPN_CONFIG`: The base64-encoded OpenVPN configuration file
-   - `OPENVPN_USERNAME`: Your VPN username (if required)
-   - `OPENVPN_PASSWORD`: Your VPN password (if required)
+3. **Add the following secret to your repository**:
+   - `WIREGUARD_CONFIG`: The base64-encoded WireGuard configuration file
 
-4. **Pass the secrets to the workflow**:
+4. **Pass the secret to the workflow**:
    ```yaml
    jobs:
      notify_websites:
@@ -33,9 +31,7 @@ To use OpenVPN with the website monitor:
          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_TO }}
          TELEGRAM_ERROR_CHAT_ID: ${{ secrets.TELEGRAM_ERROR_CHAT_ID }}
-         OPENVPN_CONFIG: ${{ secrets.OPENVPN_CONFIG }}
-         OPENVPN_USERNAME: ${{ secrets.OPENVPN_USERNAME }}
-         OPENVPN_PASSWORD: ${{ secrets.OPENVPN_PASSWORD }}
+         WIREGUARD_CONFIG: ${{ secrets.WIREGUARD_CONFIG }}
    ```
 
 The VPN connection will be established before checking websites and terminated after all checks are complete.

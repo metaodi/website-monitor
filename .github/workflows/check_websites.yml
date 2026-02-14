@@ -13,11 +13,7 @@ on:
         required: true
       TELEGRAM_ERROR_CHAT_ID:
         required: true
-      OPENVPN_CONFIG:
-        required: false
-      OPENVPN_USERNAME:
-        required: false
-      OPENVPN_PASSWORD:
+      WIREGUARD_CONFIG:
         required: false
 jobs:
   build-matrix:
@@ -76,46 +72,35 @@ jobs:
                 sudo apt-get install chromium-browser
           fi
       
-      - name: Setup OpenVPN
-        if: secrets.OPENVPN_CONFIG != ''
+      - name: Setup WireGuard
+        if: secrets.WIREGUARD_CONFIG != ''
         run: |
-          echo "Setting up OpenVPN..."
+          echo "Setting up WireGuard..."
           sudo apt-get update
-          sudo apt-get install -y openvpn
+          sudo apt-get install -y wireguard-tools resolvconf
           
-          # Decode and save the OpenVPN config file
-          echo "${{ secrets.OPENVPN_CONFIG }}" | base64 -d > config.ovpn
+          # Decode and save the WireGuard config file
+          echo "${{ secrets.WIREGUARD_CONFIG }}" | base64 -d > wg0.conf
+          chmod 600 wg0.conf
           
-          # Create auth file if credentials are provided
-          if [ -n "${{ secrets.OPENVPN_USERNAME }}" ] && [ -n "${{ secrets.OPENVPN_PASSWORD }}" ]; then
-            echo "${{ secrets.OPENVPN_USERNAME }}" > auth.txt
-            echo "${{ secrets.OPENVPN_PASSWORD }}" >> auth.txt
-            chmod 600 auth.txt
-            
-            # Add auth-user-pass to config if not already present
-            if ! grep -q "auth-user-pass" config.ovpn; then
-              echo "auth-user-pass auth.txt" >> config.ovpn
-            else
-              # Update existing auth-user-pass line
-              sed -i 's|auth-user-pass.*|auth-user-pass auth.txt|' config.ovpn
-            fi
-          fi
+          # Move config to WireGuard directory
+          sudo mv wg0.conf /etc/wireguard/wg0.conf
           
-          # Start OpenVPN in the background
-          sudo openvpn --config config.ovpn --daemon --log /tmp/openvpn.log
+          # Start WireGuard
+          sudo wg-quick up wg0
           
-          # Wait for VPN connection to establish (up to 60 seconds)
+          # Wait for VPN connection to establish (up to 30 seconds)
           echo "Waiting for VPN connection..."
-          for i in {1..30}; do
-            if ip addr show tun0 2>/dev/null | grep -q "inet"; then
-              echo "VPN connected successfully"
-              ip addr show tun0
+          for i in {1..15}; do
+            if ip addr show wg0 2>/dev/null | grep -q "inet"; then
+              echo "WireGuard connected successfully"
+              sudo wg show wg0
               break
             fi
             sleep 2
-            if [ $i -eq 30 ]; then
-              echo "VPN connection timeout"
-              sudo cat /tmp/openvpn.log
+            if [ $i -eq 15 ]; then
+              echo "WireGuard connection timeout"
+              sudo wg show
               exit 1
             fi
           done
@@ -141,13 +126,13 @@ jobs:
           echo "Old hash: ${{ matrix.hash }}"
           echo "New hash: ${{ steps.website.outputs.new_hash }}"
       
-      - name: Stop OpenVPN
-        if: always() && secrets.OPENVPN_CONFIG != ''
+      - name: Stop WireGuard
+        if: always() && secrets.WIREGUARD_CONFIG != ''
         run: |
-          echo "Stopping OpenVPN..."
-          sudo killall openvpn || true
+          echo "Stopping WireGuard..."
+          sudo wg-quick down wg0 || true
           # Securely delete sensitive files
-          shred -u config.ovpn auth.txt 2>/dev/null || rm -f config.ovpn auth.txt
+          sudo shred -u /etc/wireguard/wg0.conf 2>/dev/null || sudo rm -f /etc/wireguard/wg0.conf
 
       - name: Notify telegram about website changes
         if: steps.website.outputs.new_hash != matrix.hash
