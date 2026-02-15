@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/aktuell/,article,static,no,69d96cf2faf2eb527ce5d003cefa4c8bc81b143d573db5b67ea90057d490a868
+"AL Zürich",yes,1,https://al-zh.ch/aktuell/,article,static,no,69d96cf2faf2eb527ce5d003cefa4c8bc81b143d573db5b67ea90057d490a868
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,no,571474b263af2ea4333e4937d5c1673e5c3cac9fd4c6f9f9d2c64a9a9eb8b5c5
 "EVP Bezirk Horgen",no,31,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,no,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,8d8b52d47bfed194707c10435a4b1fd8f7b4d7164740597b0f26169c6df20e16
@@ -20,7 +20,7 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,3dea48
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,no,38ac3bb43e2f6b2461403e45b5809071da75c51cd16c676e668c1fcfd9da886c
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,6c99499cd3268829d5389f39db6839669b462c8461408e64be3655790108e12b
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,0963f016f7fa3511f193eeb34e6162fb837c6bd37d36f4f93c9c4e8026b4c593
-"Verband der Gemeindepräsidien",yes,1,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,f825ebb932304b8fee966ddf12c4775dbbcb232890fb865d4bcc314bb0d17dfc
+"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,f825ebb932304b8fee966ddf12c4775dbbcb232890fb865d4bcc314bb0d17dfc
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,5169b4c5f8286824ad52d87690de221bbe02fe0c71bb81ba1d9e33cf748c77c5
 VStA,yes,0,https://www.vsta.ch/,article,static,no,5d43ca5d8c5b4f3b3eb6aa3d95f71e82284859fcebc20817ba397a751f341bda
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,6b4291d57fbe47801b90bee15fa56df658b96e9955cab56a41e5edd895e0d9bb
