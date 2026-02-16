@@ -17,7 +17,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,e9e065978916e06268fe59d307254f82afd31bcd732d6d079c93c5ea8e951977
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,fb3a93c61cdbc241617ca25a0e307112e38ae23262ba671c747a14d6237c7908
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,no,66fff4dd550d26c4b033b6eb2f9064caa3b3b8c58a81537cf54d7b09de35ee7f
-"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,no,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
+"SVP Bezirk Horgen",yes,1,https://svp-bezirk-horgen.ch/,article,static,no,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,no,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,7bed91393d2114ffcb711406e92a28dd6d323a1310fc7bbeb93736d9871d1746
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,d771df2444a634a57823a93e40b6d4340a0490c565c579c5a38db36deb3d56a9
