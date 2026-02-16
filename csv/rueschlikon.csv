@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "GLP Bezirk Horgen",yes,0,"	https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/",.jet-listing-grid__item,static,yes,304ef9ae72764630f10bc5491bcafdefc6de75699f65fdddb888f5410d1676c9
 "Grüne Bezirk Horgen",yes,1,https://gruene-bezirk-horgen.ch,article,dynamic,no,a48dc6437a1c290103d5d4bdcb4ae0fd809ac36e3abaf3c2257fbbe2f570b2e7
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,article,dynamic,no,e8e552b875bf4c5ee7d6376074475f0b5bc85c74a0487e45cee4ac374c6175f9
-"Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,9603af6df6940ee53e81cd3a195ffc636162e910e5c2b71dcf4748348fd3a1a9
+"Grüne Rüschlikon",yes,1,https://gruene-rueschlikon.ch,article,dynamic,no,9603af6df6940ee53e81cd3a195ffc636162e910e5c2b71dcf4748348fd3a1a9
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,83ab2fdf77937f413eda1013b4526aae5cdf5ffa6f9e5c37ff289790f570962e
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,3c33187a54cb0998a1c106342a5c211cc3f42c4623f720d99976d43839533e26
