@@ -112,14 +112,36 @@ jobs:
       - name: Check website
         id: website
         run: |
-          echo "Old hash: ${{ matrix.hash }}"
+          echo "Label: ${{ matrix.label }}"
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
-          mkdir text
-          mkdir hashes
-          new_hash=$(uv run ./lib/website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${{ matrix.hash }}.txt --verbose)
-          echo $new_hash
+          
+          # Create a safe filename from the label
+          safe_label=$(echo "${{ matrix.label }}" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9_-]/_/g' | sed 's/__*/_/g')
+          echo "Filename: ${safe_label}.txt"
+          
+          # Get new text from website
+          mkdir -p text
+          mkdir -p hashes
+          new_hash=$(uv run ./lib/website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${safe_label}.txt --verbose)
+          echo "New hash: $new_hash"
           echo $new_hash > hashes/${{ matrix.hash }}.txt
           echo "new_hash=$new_hash" >> $GITHUB_OUTPUT
+          echo "filename=${safe_label}.txt" >> $GITHUB_OUTPUT
+          
+          # Compare with existing text file if it exists
+          if [ -f "texts/${safe_label}.txt" ]; then
+            echo "Comparing with existing text file..."
+            if cmp -s "text/${safe_label}.txt" "texts/${safe_label}.txt"; then
+              echo "text_changed=false" >> $GITHUB_OUTPUT
+              echo "Text unchanged"
+            else
+              echo "text_changed=true" >> $GITHUB_OUTPUT
+              echo "Text changed!"
+            fi
+          else
+            echo "No previous text file found, treating as changed"
+            echo "text_changed=true" >> $GITHUB_OUTPUT
+          fi
           
       - name: Has the hash changed?
         run: |
@@ -135,7 +157,7 @@ jobs:
           sudo shred -u /etc/wireguard/wg0.conf 2>/dev/null || sudo rm -f /etc/wireguard/wg0.conf
 
       - name: Notify telegram about website changes
-        if: steps.website.outputs.new_hash != matrix.hash
+        if: steps.website.outputs.text_changed == 'true'
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -205,6 +227,15 @@ jobs:
 
       - name: Update hashes and error counts
         run: ./workflow/update_from_artifacts.sh
+      
+      - name: Update text files
+        run: |
+          # Copy new text files from artifacts to texts directory
+          if [ -d "output/text" ]; then
+            echo "Copying text files to texts directory..."
+            mkdir -p texts
+            cp -v output/text/*.txt texts/ || true
+          fi
       
       - name: Export database
         env:

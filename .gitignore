@@ -6,3 +6,5 @@ geckodriver.log
 wireguard_switzerland.conf
 hashes
 output
+text
+error_counts
