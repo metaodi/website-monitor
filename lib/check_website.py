@@ -109,7 +109,7 @@ try:
             # Read old text if it exists
             old_text = ""
             if text_file.exists():
-                with open(text_file, "r") as f:
+                with open(text_file, "r", encoding="utf-8") as f:
                     old_text = f.read()
                 log.debug(f"  Old text length: {len(old_text)}")
             else:
@@ -124,7 +124,7 @@ try:
             log.info("  ***Text changed!***")
             
             # Save new text
-            with open(text_file, "w") as f:
+            with open(text_file, "w", encoding="utf-8") as f:
                 f.write(new_text)
             
             msg = f"🟢 Website changed: [{row['label']}]({row['url']})"

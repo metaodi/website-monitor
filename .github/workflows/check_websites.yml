@@ -115,8 +115,8 @@ jobs:
           echo "Label: ${{ matrix.label }}"
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
           
-          # Create a safe filename from the label
-          safe_label=$(echo "${{ matrix.label }}" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9_-]/_/g' | sed 's/__*/_/g')
+          # Create a safe filename from the label using Python script
+          safe_label=$(uv run ./workflow/sanitize_label.py "${{ matrix.label }}")
           echo "Filename: ${safe_label}.txt"
           
           # Get new text from website

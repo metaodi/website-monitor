@@ -92,7 +92,7 @@ def get_website_hash(url, selector, verify, dl_type="static", output=None):
     """
     source_text = get_website_text(url, selector, verify, dl_type)
     if output:
-        with open(output, "w") as f:
+        with open(output, "w", encoding="utf-8") as f:
             f.write(source_text)
     new_hash = hashlib.sha256(source_text.encode("utf-8")).hexdigest()
     return new_hash
