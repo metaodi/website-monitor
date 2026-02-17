@@ -78,10 +78,10 @@ try:
     cur = conn.cursor()
     cur.execute("SELECT * FROM website")
     rows = cur.fetchall()
-    
+
     # Ensure texts directory exists
     TEXTS_DIR.mkdir(exist_ok=True)
-    
+
     for row in rows:
         try:
             r = dict(row)
@@ -89,15 +89,15 @@ try:
 
             error_count = int(r["error_count"])
             label = r["label"]
-            
+
             # Get the text file path for this website
             filename = sanitize_label_for_filename(label) + ".txt"
             text_file = TEXTS_DIR / filename
-            
+
             # Get new text from website
             new_text = wh.get_website_text(r["url"], r["selector"], verify, r["type"])
             log.debug(f"  New text length: {len(new_text)}")
-            
+
             # Read old text if it exists
             old_text = ""
             if text_file.exists():
@@ -106,22 +106,22 @@ try:
                 log.debug(f"  Old text length: {len(old_text)}")
             else:
                 log.info(f"  No previous text found for {label}, creating new file")
-            
+
             # Compare texts
             if old_text == new_text:
                 # nothing changed
                 log.info("  Text unchanged. Continue...")
                 continue
-            
+
             log.info("  ***Text changed!***")
-            
+
             # Save new text
             with open(text_file, "w", encoding="utf-8") as f:
                 f.write(new_text)
-            
+
             msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
             send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
-            
+
             # Update hash in database for backward compatibility
             new_hash = hashlib.sha256(new_text.encode("utf-8")).hexdigest()
             update_sql = "UPDATE website set hash = ?, error_count = 0 WHERE selector = ? AND url = ?"
