@@ -11,16 +11,13 @@ Options:
 """
 
 import sys
+import os
+
+# Add parent directory to path to import utils
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'lib'))
+
 from docopt import docopt
-
-
-def sanitize_label_for_filename(label):
-    """Convert a label to a safe filename."""
-    # Replace spaces and special characters with underscores
-    safe_name = "".join(c if c.isalnum() or c in ("-", "_") else "_" for c in label)
-    # Remove consecutive underscores
-    safe_name = "_".join(filter(None, safe_name.split("_")))
-    return safe_name.lower()
+from utils import sanitize_label_for_filename
 
 
 if __name__ == "__main__":

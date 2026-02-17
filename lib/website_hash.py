@@ -34,13 +34,13 @@ log = logging.getLogger(__name__)
 
 def get_website_text(url, selector, verify, dl_type="static"):
     """Extract text from a website selector.
-    
+
     Args:
         url: URL of the website to check
         selector: CSS selector to extract text from
         verify: Whether to verify SSL certificates
         dl_type: Type of download (static or dynamic)
-    
+
     Returns:
         Extracted and normalized text as a string
     """
@@ -79,14 +79,14 @@ def get_website_text(url, selector, verify, dl_type="static"):
 
 def get_website_hash(url, selector, verify, dl_type="static", output=None):
     """Get hash of text extracted from a website selector.
-    
+
     Args:
         url: URL of the website to check
         selector: CSS selector to extract text from
         verify: Whether to verify SSL certificates
         dl_type: Type of download (static or dynamic)
         output: Optional file path to save the extracted text
-    
+
     Returns:
         SHA256 hash of the extracted text
     """

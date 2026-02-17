@@ -30,6 +30,7 @@ from docopt import docopt
 from dotenv import load_dotenv, find_dotenv
 
 from . import website_hash as wh
+from .utils import sanitize_label_for_filename
 
 
 load_dotenv(find_dotenv())
@@ -50,15 +51,6 @@ def send_telegram_message(token, chat_id, message):
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     r = requests.post(url, data=json.dumps(params), headers=headers)
     r.raise_for_status()
-
-
-def sanitize_label_for_filename(label):
-    """Convert a label to a safe filename."""
-    # Replace spaces and special characters with underscores
-    safe_name = "".join(c if c.isalnum() or c in ("-", "_") else "_" for c in label)
-    # Remove consecutive underscores
-    safe_name = "_".join(filter(None, safe_name.split("_")))
-    return safe_name.lower()
 
 
 loglevel = logging.INFO
