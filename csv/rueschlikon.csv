@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,6d0b83fedd32344747f154ec61e379013730e731505f7c39bef74acdd1504582
-"Digitales Amtsblatt Rüschlikon",yes,1,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,aa8f369dd32c459693db630f02ade510ac2dd0f24c9632834ee9f93430595c1d
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,aa8f369dd32c459693db630f02ade510ac2dd0f24c9632834ee9f93430595c1d
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,61e403a95e9f9ec936afeaf10ba075b28d238871bc1e4e4910bafa261fc5eaa3
 "EVP Bezirk Horgen",no,32,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,no,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Rüschlikon",no,17,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
