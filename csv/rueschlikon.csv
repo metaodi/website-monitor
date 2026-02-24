@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,6d0b83fedd32344747f154ec61e379013730e731505f7c39bef74acdd1504582
-"Digitales Amtsblatt Rüschlikon",yes,1,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,c1785f4d73ab32dd0a9f0a73d3dd6709b59b927366f279b9acbfe56503e76aab
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,c1785f4d73ab32dd0a9f0a73d3dd6709b59b927366f279b9acbfe56503e76aab
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,61e403a95e9f9ec936afeaf10ba075b28d238871bc1e4e4910bafa261fc5eaa3
 "EVP Bezirk Horgen",no,32,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,no,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Rüschlikon",no,17,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
@@ -23,4 +23,4 @@ label,active,error_count,url,selector,type,proxy,hash
 "Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,938e1d220504e379e6bce590226e99ce95d7a8b13cca8d4f9c21938a2e9b4a1e
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,088a2d6b6210085e2cd03b163f81dfa81ac55159b5eaf5b70ee4b11713bc860e
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,81ce4ce67acb6f6acaf3ac6241484c63240af730ec72a9f7f04ec0bed307572d
-"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,48357ac2c04bd988120d076388af1e4a3e65f1e3f40dce633bb04be95a35f6b0
+"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,no,48357ac2c04bd988120d076388af1e4a3e65f1e3f40dce633bb04be95a35f6b0
