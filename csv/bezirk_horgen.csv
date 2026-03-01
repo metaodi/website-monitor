@@ -5,7 +5,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,no,571474b2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,2e794656476431187fe790e38ec1d3ff5c4f7d52e743442165a07ef7ce6525f1
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,no,a2eafc1ae268975e910baded4a2347576033c85b90b4c76b5c255de2b146808c
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,b7a64d36777cd3b7ea688de85e59f116b80fd429de1900071e2f2e1368535aea
-"GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,665da7fdc3493184f350251224678e11433b46f5547fd23afe87ed00fb3d1eeb
+"GLP Bezirk Horgen",yes,1,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,665da7fdc3493184f350251224678e11433b46f5547fd23afe87ed00fb3d1eeb
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,32d51f17afb4cdad44f9d9ff1be2b486392d2868e8d3924c5bd07dd5517e9d27
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,dynamic,no,f4bcc25ea17c127278ac75c6b3ea45c7016a2e24f782da9c04f888460e4ccb58
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,1e071be7196f6a067d0b9c6e302fdbf13014c1d0fe1b60a5946e6f5c01f4bf52
