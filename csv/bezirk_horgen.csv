@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,449,https://al-zh.ch/aktuell/,article,static,no,72b003efd860807eef95ee321dec31e99eeaab76c98fb1e367f823aa7ee98f4a
+"AL Zürich",yes,450,https://al-zh.ch/aktuell/,article,static,no,72b003efd860807eef95ee321dec31e99eeaab76c98fb1e367f823aa7ee98f4a
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,no,571474b263af2ea4333e4937d5c1673e5c3cac9fd4c6f9f9d2c64a9a9eb8b5c5
 "EVP Bezirk Horgen",no,31,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,no,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,132e893040be56db94f03c071ec03e5a09f30ec1d08d15d3b0ebe95c6444535b
@@ -24,6 +24,6 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,0963f016f7fa
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,af78a12696a1305793329fc59f97da938a4eae5a4a70fad2891a7acb71cf2875
 VStA,yes,0,https://www.vsta.ch/,article,static,no,f6328b7dc442df0331e5b0479bb02881e51c759036dbffa9d8d8cb1c3a202206
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,6b4291d57fbe47801b90bee15fa56df658b96e9955cab56a41e5edd895e0d9bb
-"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,72fa9352653f629eba2d049fde6758c185ea619058667ab64caaaa5a29e7bbd1
+"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,040dc838d3030b049307f47b5f3ba2642ef6505e1c0173e94c74b3c6d01448ec
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,088a2d6b6210085e2cd03b163f81dfa81ac55159b5eaf5b70ee4b11713bc860e
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,48357ac2c04bd988120d076388af1e4a3e65f1e3f40dce633bb04be95a35f6b0
