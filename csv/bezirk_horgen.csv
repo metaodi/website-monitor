@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,435,https://al-zh.ch/aktuell/,article,static,no,72b003efd860807eef95ee321dec31e99eeaab76c98fb1e367f823aa7ee98f4a
+"AL Zürich",yes,436,https://al-zh.ch/aktuell/,article,static,no,72b003efd860807eef95ee321dec31e99eeaab76c98fb1e367f823aa7ee98f4a
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,no,571474b263af2ea4333e4937d5c1673e5c3cac9fd4c6f9f9d2c64a9a9eb8b5c5
 "EVP Bezirk Horgen",no,31,https://evpzh.ch/sektionen/bezirke/bezirk-horgen,#main,static,no,61aec0dac34422e3e91f974a14e4d66804cf3824937d4a23e43c965c1b0b82e6
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,132e893040be56db94f03c071ec03e5a09f30ec1d08d15d3b0ebe95c6444535b
@@ -15,7 +15,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card-news,static,no,571474b2
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,no,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,yes,1114042f5b46900d6174055b0e6576709df58ed7776e7a835bce0ad274a77c14
-syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,3bd3bf6e1e27a5576d8a16d31b9955695f04c74d13445dfb9b244d872b5474a6
+syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,14eeaf86ea2ec137b34ef9f2da668aea32a3cdde3b39981a5eaa5bdcf7136b5a
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,9394a2a37fb01ca14bcc2df9a2210f194f7e0c7c429ce0febec57b94fe776631
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,no,1461f06f79d03b28f0fe9df1dd91a05aeb0fa7d6bc1f6b6dc9616c3c35ee8da6
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,6c99499cd3268829d5389f39db6839669b462c8461408e64be3655790108e12b
