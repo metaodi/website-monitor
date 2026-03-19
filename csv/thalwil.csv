@@ -18,7 +18,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,no,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,fc2164e2c621132a4d102bbe8926a7af82cc5d0d0c351ea05fca7330525474a0
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,2f845c17e2c2dfb6e10d5c6b4e5a846f72114d20c01abf6f6bbbd77709e14318
-"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,"article h2",static,no,c78acd50faeb075b3918bd11f10a485adeb248f2f135e8e5e41365ef7d7cd7c4
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/thalwil/,"article h2",static,no,9f65d6774b635b6bf1a6d30254deaf8336b05949bcd20868629d3edad5b76553
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,088a2d6b6210085e2cd03b163f81dfa81ac55159b5eaf5b70ee4b11713bc860e
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,81ce4ce67acb6f6acaf3ac6241484c63240af730ec72a9f7f04ec0bed307572d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,48357ac2c04bd988120d076388af1e4a3e65f1e3f40dce633bb04be95a35f6b0
