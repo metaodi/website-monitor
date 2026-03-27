@@ -8,7 +8,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,no,ed13499368c614e330c32b40d02ce58c7052a24c987a9d8ecf71b9c8c3b2cfe4
 "GLP Bezirk Horgen",yes,0,"	https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/",.jet-listing-grid__item,static,yes,82f3b549164d25d395b50141a6c4af1a6e698dbc6a0f240c9aadb9c4d15755b2
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch,article,dynamic,no,32d51f17afb4cdad44f9d9ff1be2b486392d2868e8d3924c5bd07dd5517e9d27
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,article,dynamic,no,970dd816ea4cc5c579cc0bc22120e8910423e84bd838a1bae56d42ea20f32fb9
+"Grüne Kanton Zürich",yes,1,https://gruene-zh.ch,article,dynamic,no,970dd816ea4cc5c579cc0bc22120e8910423e84bd838a1bae56d42ea20f32fb9
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,69175f69f8c46dd0543f982f66fbfd143e9c2418c8fc9a9e7473ca4e52360144
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,dee27b3c0a83178f2427a8e6efc6b1229aa80287ab0737eaa56eb0938d32c82a
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
@@ -20,7 +20,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,no,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
 "Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,no,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,cbcd24a17e13ee9e50b4752b0c21817dcfa9d6f86976202bab7e6e931a533917
-"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,196a986ae861deb7a3fed7065aece8d76447bf54c8f8fda506ddb84d2f6f043d
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,ffa5554cd24e193da256c30fb9674f61d4c9ae2588557e30350238d4f68b5bc8
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,088a2d6b6210085e2cd03b163f81dfa81ac55159b5eaf5b70ee4b11713bc860e
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,81ce4ce67acb6f6acaf3ac6241484c63240af730ec72a9f7f04ec0bed307572d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,48357ac2c04bd988120d076388af1e4a3e65f1e3f40dce633bb04be95a35f6b0
