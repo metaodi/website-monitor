@@ -18,9 +18,9 @@ label,active,error_count,url,selector,type,proxy,hash
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,21ec5c7663a63a0ae93702a2d9f6aacd313cfae4077ed1a024f026d7e7bbb1e4
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,no,2375669ab31f7aff79c7ce04019b385e937bce2dcfe27ee8c98ba01343558c6a
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,no,152d820fe4ee266518028c053d8d4b774ec9a1afd573a50c07e8073e21ebc1fa
-"Unternehmer Vereinigung Bezirk Horgen",yes,0,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,no,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
+"Unternehmer Vereinigung Bezirk Horgen",yes,1,https://uvh.ch/politik/,.elementor-widget-theme-post-content,static,no,4de800bbaa4cb7739c1e3e75443dfd20ae4675398c52afecd61ccbe3170bb44c
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,cbcd24a17e13ee9e50b4752b0c21817dcfa9d6f86976202bab7e6e931a533917
-"Zimmerberg Online",yes,1,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,ffa5554cd24e193da256c30fb9674f61d4c9ae2588557e30350238d4f68b5bc8
+"Zimmerberg Online",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,ffa5554cd24e193da256c30fb9674f61d4c9ae2588557e30350238d4f68b5bc8
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,088a2d6b6210085e2cd03b163f81dfa81ac55159b5eaf5b70ee4b11713bc860e
 "ZPZ Amtliche Publikation",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,81ce4ce67acb6f6acaf3ac6241484c63240af730ec72a9f7f04ec0bed307572d
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,48357ac2c04bd988120d076388af1e4a3e65f1e3f40dce633bb04be95a35f6b0
