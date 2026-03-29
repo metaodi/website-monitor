@@ -162,7 +162,7 @@ jobs:
             old_file="texts/${safe_label}.txt"
             new_file="text/${safe_label}.txt"
             if [ -f "$old_file" ]; then
-              full_diff=$(diff -u "$old_file" "$new_file" | tail -n +3 || true)
+              full_diff=$(diff -u "$old_file" "$new_file" | grep '^\+')
               preview=$(echo "$full_diff" | head -c 500)
               if [ ${#full_diff} -gt 500 ]; then
                 preview="${preview}$(printf '\n...')"
