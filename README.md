@@ -6,6 +6,14 @@ website-monitor
 This repository contains CSVs in the `csv` directory, which are used to define a list of websites to monitor.
 The files is parsed on a regular basis (see the workflow file for details) and a notification is sent via Telegram if a change has been detected.
 
+### How it works
+
+The monitor extracts text from specified CSS selectors on websites and saves them to the `texts` directory. Each website's extracted text is saved to a file named after its label (e.g., `texts/my_website.txt`). When the text changes, a notification is sent via Telegram. This approach allows you to:
+
+- **Track exact changes**: The `texts` directory is committed to the repository, allowing you to see the complete history of changes via Git diffs
+- **Review what changed**: You can compare text files to see exactly what content was added or removed
+- **Debug easily**: Extracted text is human-readable, making it easy to understand what the monitor is tracking
+
 ### WireGuard VPN Support
 
 The GitHub Action supports routing requests through a WireGuard VPN connection. This is useful for monitoring websites that are only accessible from specific geographic regions (e.g., geo-restricted content).
@@ -51,7 +59,7 @@ label,active,error_count,url,selector,type,proxy,hash
 * `selector`: as CSS selector for elements on the website
 * `type`: determines the type of the website, use `static` for static websites or `dynamic` for websites, that load most of their contant at runtime. Dynamic websites will be parsed using Selenium. Use `static` as a default.
 * `proxy`: used to enable or disable the proxy, use values `yes` or `no`
-* `hash`: The hash of the previous run. Make sure to always provide a value (use a dummy value for new entries)
+* `hash`: The hash of the previous run. This is kept for backward compatibility but the actual comparison is now done using text files in the `texts` directory. Make sure to always provide a value (use a dummy value for new entries)
 
 Example:
 
