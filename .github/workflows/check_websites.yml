@@ -247,7 +247,7 @@ jobs:
         run: ./workflow/populate_database.sh $CSV_PATH
 
       - name: Download outputs
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           pattern: output-*
           path: output
