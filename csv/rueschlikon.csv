@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,8571fcba41add486cb9f12644b6a940e86f41d1a5a7e160198bb27f47fac6191
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,9f07bf89d626c35738ff6e67bfa83660c0644428bc3c351bffccf5d0f8fb4d9b
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,21ec5c7663a63a0ae93702a2d9f6aacd313cfae4077ed1a024f026d7e7bbb1e4
+"Rüschlikon - News",yes,1,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,21ec5c7663a63a0ae93702a2d9f6aacd313cfae4077ed1a024f026d7e7bbb1e4
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,no,2375669ab31f7aff79c7ce04019b385e937bce2dcfe27ee8c98ba01343558c6a
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,cbcd24a17e13ee9e50b4752b0c21817dcfa9d6f86976202bab7e6e931a533917
 "Zimmerberg Online Rüschlikon",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,ffa5554cd24e193da256c30fb9674f61d4c9ae2588557e30350238d4f68b5bc8
