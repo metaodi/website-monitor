@@ -157,6 +157,26 @@ jobs:
           # Securely delete sensitive files
           sudo shred -u /etc/wireguard/wg0.conf 2>/dev/null || sudo rm -f /etc/wireguard/wg0.conf
 
+      - name: Get text preview
+        if: steps.website.outputs.text_changed == 'true'
+        id: preview
+        run: |
+          safe_label="${{ steps.website.outputs.safe_label }}"
+          preview=""
+          if [ -f "text/${safe_label}.txt" ]; then
+            preview=$(head -c 200 "text/${safe_label}.txt")
+            if [ $(wc -c < "text/${safe_label}.txt") -gt 200 ]; then
+              preview="${preview}..."
+            fi
+            # Escape markdown special characters
+            preview=$(echo "$preview" | sed 's/[_*`\[]/\\&/g')
+          fi
+          {
+            echo "text<<ENDOFPREVIEW"
+            echo "$preview"
+            echo "ENDOFPREVIEW"
+          } >> $GITHUB_OUTPUT
+
       - name: Notify telegram about website changes
         if: steps.website.outputs.text_changed == 'true'
         uses: appleboy/telegram-action@master
@@ -166,6 +186,8 @@ jobs:
           format: markdown
           message: |
             🟢 Website hat Änderungen: [${{matrix.label }}](${{ matrix.url }})
+
+            ${{ steps.preview.outputs.text }}
 
       - name: Note error for later
         if: ${{ failure() }}

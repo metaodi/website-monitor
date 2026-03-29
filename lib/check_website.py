@@ -41,6 +41,19 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_TO")
 TEXTS_DIR = Path(__file__).parent.parent / "texts"
 
 
+def escape_markdown_v2(text):
+    """Escape special characters for Telegram MarkdownV2 format."""
+    special_chars = r"_*[]()~`>#+-=|{}.!"
+    return "".join(f"\\{c}" if c in special_chars else c for c in text)
+
+
+def text_preview(text, max_len=200):
+    """Return a truncated preview of the text."""
+    if len(text) <= max_len:
+        return text
+    return text[:max_len] + "..."
+
+
 def send_telegram_message(token, chat_id, message):
     params = {
         "chat_id": chat_id,
@@ -119,7 +132,8 @@ try:
             with open(text_file, "w", encoding="utf-8") as f:
                 f.write(new_text)
 
-            msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
+            preview = escape_markdown_v2(text_preview(new_text))
+            msg = f"🟢 Website changed: [{row['label']}]({row['url']})\n\n{preview}"
             send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
 
             # Update hash in database for backward compatibility
