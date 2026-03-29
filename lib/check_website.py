@@ -60,6 +60,8 @@ def diff_preview(old_text, new_text, max_len=500):
     diff = difflib.unified_diff(old_lines, new_lines, n=1)
     # Skip the --- and +++ header lines
     diff_lines = list(diff)[2:]
+    # only show new text
+    diff_lines = [d for d in diff_lines if d.startswith("+")]
     if not diff_lines:
         return ""
     result = "".join(diff_lines)
