@@ -143,11 +143,6 @@ jobs:
             echo "No previous text file found, treating as changed"
             echo "text_changed=true" >> $GITHUB_OUTPUT
           fi
-          
-      - name: Has the hash changed?
-        run: |
-          echo "Old hash: ${{ matrix.hash }}"
-          echo "New hash: ${{ steps.website.outputs.new_hash }}"
       
       - name: Stop WireGuard
         if: ${{ always() && matrix.proxy == 'yes' }}
