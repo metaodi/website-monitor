@@ -23,6 +23,7 @@ import sqlite3
 import traceback
 import json
 import hashlib
+import difflib
 import requests
 import urllib3
 from pathlib import Path
@@ -39,6 +40,32 @@ arguments = docopt(__doc__, version="Check websites for changes 1.0")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_TO")
 TEXTS_DIR = Path(__file__).parent.parent / "texts"
+
+
+def escape_markdown_v2(text):
+    """Escape special characters for Telegram MarkdownV2 format."""
+    special_chars = r"_*[]()~`>#+-=|{}.!"
+    return "".join(f"\\{c}" if c in special_chars else c for c in text)
+
+
+def escape_markdown_v2_code(text):
+    """Escape characters for Telegram MarkdownV2 code blocks (only ` and \\)."""
+    return text.replace("\\", "\\\\").replace("`", "\\`")
+
+
+def diff_preview(old_text, new_text, max_len=500):
+    """Return a truncated unified diff preview of text changes."""
+    old_lines = old_text.splitlines(keepends=True)
+    new_lines = new_text.splitlines(keepends=True)
+    diff = difflib.unified_diff(old_lines, new_lines, n=1)
+    # Skip the --- and +++ header lines
+    diff_lines = list(diff)[2:]
+    if not diff_lines:
+        return ""
+    result = "".join(diff_lines)
+    if len(result) > max_len:
+        result = result[:max_len] + "\n..."
+    return result.strip()
 
 
 def send_telegram_message(token, chat_id, message):
@@ -119,7 +146,11 @@ try:
             with open(text_file, "w", encoding="utf-8") as f:
                 f.write(new_text)
 
+            diff = diff_preview(old_text, new_text)
             msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
+            if diff:
+                escaped_diff = escape_markdown_v2_code(diff)
+                msg += f"\n\n```\n{escaped_diff}\n```"
             send_telegram_message(TELEGRAM_TOKEN, TELEGRAM_CHAT_ID, msg)
 
             # Update hash in database for backward compatibility
