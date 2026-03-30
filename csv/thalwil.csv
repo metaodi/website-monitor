@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,ecc22101a161c23fedb216c88d2ac33aeaceb499eedabea64a9a654a211ac234
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,d0d2544cfebb4e24653ccada03c8ad71a45d17772cab620609e7276a1da79edc
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,7dcab10b58ffd17e77fefb6b1a354d52e05374202c56461886f1f3d48b48b477
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,117acf49512491d5851c9708f294465b03acd7de639e4daa7bed991e1c3c6b71
 "GLP Thalwil",yes,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,1b1c026632d7c01e53c947cbd432832e0ab9e49b4f8c77f656acf3620c7b2487
