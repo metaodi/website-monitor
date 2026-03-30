@@ -73,7 +73,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
     log.debug("Sorted:")
     log.debug(pformat(unique_source_list))
 
-    source_text = " ".join(unique_source_list)
+    source_text = "\n".join(unique_source_list)
     return source_text
 
 
