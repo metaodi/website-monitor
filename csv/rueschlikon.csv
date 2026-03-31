@@ -7,7 +7,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,12f072a079191c2acff26b3700135d5a8dfff9c54a8e39ba5fe224c3deceb2ef
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,3b1c654b337c49c3f39e44a90f9077d3d8ba2c467a3405f207693372eaba8b75
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,613101b31a2fc19865f7b3fff4bb128fa99717dfe33968213b87268966182273
-"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,5fc1ea04fc35ca46ec08ff9cf0c4261626e258adb545b3cf7f742cc5d7600f6d
+"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,081ab6fea778ad3b434c832e4e8c9b72cb66b5f5643849c68aa8c397dcf40791
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,b69687c44209fad0da6ef20864a64aece26aad0d154e8aec25c10d29d05758e8
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,21ec5c7663a63a0ae93702a2d9f6aacd313cfae4077ed1a024f026d7e7bbb1e4
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,no,2375669ab31f7aff79c7ce04019b385e937bce2dcfe27ee8c98ba01343558c6a
