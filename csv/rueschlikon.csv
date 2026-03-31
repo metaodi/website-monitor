@@ -1,18 +1,18 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,8f3c30cd32233edfd33e967917b8dbdfedca784c057ab2494e9182ac2038da87
-"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,45c100ab4bd5090c44f4551327a5c50c9c1f5a9b44b751c989d6e617ff471baf
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,257af54484dbef9cf130ce024040fb249bdd17dec36a1f8fff6125e36669f225
+"Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,058657cdfdcc690e93df2633d0dc3cd80c9db3c6172f284aca7d20ddd731c870
 "EVP Rüschlikon",no,17,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
-"FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,4e038177161c8cc1c1cb946eded8a7d619cf8cbab49248f38effc3aa210d1b43
-"Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,9ea377de68d1600001d221b95749e571023496245eafbb616efe010c4a38eb0d
-"HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,57699d42ea9f8051e149215dac081f6065ef4a19b061975ec3f12ac923ef89e4
-"Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,9a549b4ab22239e817270ebb1bd38ecfb0ab6c495788b397edf1fb7b023373f3
-"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,bd6dccfec466123d9d60f9490e108dd2380f1b9db794bcf05a49baa010980dae
-"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,91f8e72f3e649155a8b67e45e2ee6afe62e5de3568623636316f9be24e3273db
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,b3629c2f5ae81b90905f0fe14820f33f6c37694d5d65eadbf58ae5cf8449ccd7
-"SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,no,956c1ccf65656e9e5834c6f0530b487e747afea5632b935e4a03b0b18a3eb83b
-"Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,84602277f350859b1d0006dce9f96da257fe2e8e5b8e3d662d7b1d8927658f3f
+"FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,49577a8ffa1baebebe550a466adf690b84ab5e6eef99225a6ca786543a54c144
+"Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,c3e17de1e6bc8f117462cd1adfed6e2791b2fa44b74a50a469649d65b230a856
+"HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,d3ae826ec0bfb57f9d9bf8d4573c7389f23087d8cc0701b60011d22dca37481b
+"Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,bc005fb46881f05ea06873ab673d00d9ceec1d4c20b1c20cb2e6990d526e0949
+"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,e2c4dc696ff78811d3e1cfc8b3e9e197d9a85e0313cadcceec2df5ec983655f7
+"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,18e5daa7308e758565bd688964aea291f18a18c20e25da7acf32a5ba5d35cfc9
+"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,47f12b5cf64363f67429328caa78103057f2d2d65980810982332a4c8c804a79
+"SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,no,1e5ecd10db0a1a6bd252e2108acc0582fefcb37366ba9f0fc2300715b84ebffd
+"Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,71c3d17741222758a69dcd1ef2ab9741b37f0e30d0ebb50a2b27cd1c0eed6ab3
 "Zimmerberg Online Rüschlikon",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,e7d54a635540a88b94aebff4dbc149f3bf824d010d37aa0ff6624040f0b5081d
-"ZPZ Agenda Rüschlikon",yes,1,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,1632181478ca67b26a4c7401662737ecc622dd5e21b72965f290d994f9df1f3b
-"ZPZ Amtliche Publikation Rüschlikon",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,44315ba894f47ebab99239bbe3bbf3102cc7fe67d694c3b09b49b04747dbbefa
-"ZPZ News Rüschlikon",yes,0,https://www.zpz.ch/news,.news-container,static,no,5c4af239049b5ccde3d49633345835dd6b4bd87b5e8c84b2b26d347a6b95fef2
+"ZPZ Agenda Rüschlikon",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,42ec1cdd7c73ca604680adada7f2090c8244936ab703360ad25ee1d6d0e4394c
+"ZPZ Amtliche Publikation Rüschlikon",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,f9acd57c5f2c0c9543a6eb1f79320a05b6a4f232458f909c64f8c53d49f3fc37
+"ZPZ News Rüschlikon",yes,0,https://www.zpz.ch/news,.news-container,static,no,c0b3e0a9a89dff880e16eb78550d31a6b59cd24c10bbf411cea814e7a17113e6
