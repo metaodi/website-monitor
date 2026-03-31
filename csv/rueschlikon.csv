@@ -13,6 +13,6 @@ label,active,error_count,url,selector,type,proxy,hash
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,static,no,956c1ccf65656e9e5834c6f0530b487e747afea5632b935e4a03b0b18a3eb83b
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,84602277f350859b1d0006dce9f96da257fe2e8e5b8e3d662d7b1d8927658f3f
 "Zimmerberg Online Rüschlikon",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,e7d54a635540a88b94aebff4dbc149f3bf824d010d37aa0ff6624040f0b5081d
-"ZPZ Agenda Rüschlikon",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,1632181478ca67b26a4c7401662737ecc622dd5e21b72965f290d994f9df1f3b
+"ZPZ Agenda Rüschlikon",yes,1,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,1632181478ca67b26a4c7401662737ecc622dd5e21b72965f290d994f9df1f3b
 "ZPZ Amtliche Publikation Rüschlikon",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,44315ba894f47ebab99239bbe3bbf3102cc7fe67d694c3b09b49b04747dbbefa
 "ZPZ News Rüschlikon",yes,0,https://www.zpz.ch/news,.news-container,static,no,5c4af239049b5ccde3d49633345835dd6b4bd87b5e8c84b2b26d347a6b95fef2
