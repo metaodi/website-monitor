@@ -17,3 +17,4 @@ label,active,error_count,url,selector,type,proxy,hash
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,48357ac2c04bd988120d076388af1e4a3e65f1e3f40dce633bb04be95a35f6b0
 "Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,8e38a18c02dd266639b9b5f106e7da1af7c10500e7af032c4cc4b884de2d6352
 "Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,2d0353466a8217ec2556bdf9e65cb05cd157a38ce29c914cfbcdf2a06f021450
+"Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,aaabbbccddd
