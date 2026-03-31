@@ -1,3 +1,4 @@
+Bauprojekt: Im Stieg 3a.1, Adliswil
 Bauprojekt: Leimbachstrasse 23, Adliswil
 Bauprojekt: Lettenstrasse 69, Kat.-Nr. 8183, dreigeschossige Wohnzone (W3), Adliswil
 Bauprojekt: Rudishaldenstrasse 23, Thalwil
@@ -9,15 +10,24 @@ Einstellung des Konkursverfahrens Phönix Management GmbH in Liquidation
 Erteilte Arbeitszeitbewilligung TDC Technisches Dienstleistungscenter AG
 Kollokationsplan ALBIS Trans GmbH
 Kollokationsplan und Inventar Juan Adolfo Silva Via
+Mutation "Wohnchetti" Thalwil, Thalwil
 Mutation Allgeier (Schweiz) AG, Thalwil
-Mutation Argotec AG, Oberentfelden
+Mutation Alte Säge und Mühle Thalwil, Thalwil
 Mutation Baker Tilly OBT AG, Zürich
+Mutation Bau Arbeit AG, Zürich
 Mutation CONMED Switzerland GmbH, Zug
+Mutation CPM Switzerland AG, Thalwil
 Mutation Dr. Ernst Th. Jucker-Stiftung, Thalwil
+Mutation Enbio Group AG, Oensingen
 Mutation Fisch Asset Management AG, Zürich
+Mutation GE Energy Switzerland GmbH, Baden
+Mutation GE Vernova (Switzerland) GmbH, Baden
+Mutation GE Vernova Global Services GmbH, Baden
+Mutation GE Vernova Parts & Products GmbH, Baden
+Mutation Gastrocircus AG, Rüschlikon
 Mutation Gewerkschaft Unia, Bern
-Mutation Güxi Schweiz AG, Cham
 Mutation Hermann HM AG, Flawil
+Mutation Koellmann AG, Thalwil
 Mutation Linth Automobil Ali Makki, Thalwil, neu Zürich
 Mutation MOORE Zürich AG, Zürich
 Mutation Makoto-T GmbH in Liquidation, Thalwil
@@ -31,26 +41,24 @@ Mutation Osterwalder, Lehmann - Ingenieure und Geometer AG, Thalwil
 Mutation Process Engineering Specialists GmbH, Zug
 Mutation Q36.5 AG, Zürich
 Mutation QUALIS evaluation GmbH, Zürich
-Mutation RepRisk AG, Zürich
 Mutation Robertson Associates AG, Zürich
 Mutation SOS Management GmbH, Arni (AG), neu SOS Management GmbH in Liquidation
+Mutation Sandoz Pharmaceuticals AG, Risch
 Mutation Siemens Healthineers International AG, Steinhausen
-Mutation Singenberger AG, Adliswil
 Mutation Sonova AG, Stäfa
 Mutation Sonova Holding AG, Stäfa
 Mutation Stiftung Gruppenschule Thalwil, Thalwil
+Mutation Swiss Rotors AG, Oensingen
 Mutation TRILOGOS Stiftung, Küsnacht (ZH)
+Mutation UBS Business Solutions AG, Zürich
 Mutation VITO Schweiz AG, Basel
-Mutation VPS Verlag Personalvorsorge und Sozialversicherung AG, Kriens
-Mutation Werder Viganò AG, Zürich
 Mutation Zebrabox Ministorage AG, Zürich
 Mutation Zürcher Kantonalbank, Zürich
+Mutation ecus. AG, Thalwil
 Neueintragung Core5 Events KlG, Ebnat-Kappel
-Neueintragung M.Bednar - Ganzheitliche Beratung, Transformations- und Prozessarbeit, Obfelden
 Neueintragung Restaurant Grundstein GmbH, Thalwil
 Neueintragung SONART - Musikschaffende Schweiz, Zürich
 Neueintragung Vitotech GmbH, Kilchberg (ZH)
 Todesanzeige – Fritz Albert Aeberli, Thalwil
 Todesanzeige – Hans Viktor Boesch, Thalwil
-Todesanzeige – Nikolaus Rechsteiner, Thalwil
 Vertrag über die laufende Nachführung der amtlichen Vermessung, Öffentliche Auflage, Rüschlikon
