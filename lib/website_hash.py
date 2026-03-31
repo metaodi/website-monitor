@@ -58,7 +58,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
 
     source_list = []
     for elem in as_list:
-        text = elem.get_text(strip=False)
+        text = " ".join(elem.stripped_strings)
         text = text.replace("\n\n", "\n")
         text = text.replace("\n", " ")
         text = text.replace("  ", " ")
