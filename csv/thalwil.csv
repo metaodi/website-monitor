@@ -8,7 +8,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,25943a4223cc9566cfb0e646994694a0f721f0a3b1ced82de2f795c518b037d4
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,4ff782030cf7385db0d5fbd137030a212fc0e989c97283dc142e986ba00ea5c0
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,8c427da9877aecec97070b3136516b9897a7b089175c84450a2f7a32e658dd77
-"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,cc25a67b9ec9f9edbc3405455b86e14349f80666b4d6fc90ca342c13748ced73
+"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,d49f8088679a3e31181e7b9d8cfc85e3abac36ecf19af76c0f091c34351729b4
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,977c7a1ebcb372b24511772b37cf992e7801f62500add127ab9e3a1fd435e0ea
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,155f60fccb72e1b7954c9a41cfece4d9a22b4cb37e447680738ebf56f9fcbe05
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,0eeb7f689eab9b0488e824ffcb1a7c516f6c5cb32c837cd077dea297d4bec1b1
