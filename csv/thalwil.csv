@@ -17,4 +17,4 @@ label,active,error_count,url,selector,type,proxy,hash
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,f9acd57c5f2c0c9543a6eb1f79320a05b6a4f232458f909c64f8c53d49f3fc37
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,c0b3e0a9a89dff880e16eb78550d31a6b59cd24c10bbf411cea814e7a17113e6
 "Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,36fd02fef8bde5e74e87a723f3a49d359cd31898bfff5bedfdc219d8f97563cf
-"Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,3887a16235817b1a92d1470c7578ad4d7f440c1f338043a0d381a8b7ca55b1f7
+"Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,f10c0eac637942ff5796ef0b412cf3771cd34c1d5970a0f3d18cd27f974dafac
