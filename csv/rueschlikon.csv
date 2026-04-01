@@ -4,7 +4,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,058657cdfdcc690e93df2633d0dc3cd80c9db3c6172f284aca7d20ddd731c870
 "EVP Rüschlikon",no,17,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,49577a8ffa1baebebe550a466adf690b84ab5e6eef99225a6ca786543a54c144
-"Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,c3e17de1e6bc8f117462cd1adfed6e2791b2fa44b74a50a469649d65b230a856
+"Grüne Rüschlikon",yes,1,https://gruene-rueschlikon.ch,article,dynamic,no,c3e17de1e6bc8f117462cd1adfed6e2791b2fa44b74a50a469649d65b230a856
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,ce8447f522126bfc37b2c878a8713adbccfec1d501f930cc7f0a1ec6b3e9422e
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,bc005fb46881f05ea06873ab673d00d9ceec1d4c20b1c20cb2e6990d526e0949
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,e2c4dc696ff78811d3e1cfc8b3e9e197d9a85e0313cadcceec2df5ec983655f7
