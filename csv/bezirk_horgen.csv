@@ -14,7 +14,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,22af6fea1ba8b
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,f5184030ef6b2aeae03e461002f12170805b82c722d739f641b60f6cad8956d3
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,90i8sahdsdlkdhakjh
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,38974ea637ae9473242868fdf0f4e29d7b78272843681366eadfad9969c57765
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,yes,4ffd2ef1a7629830de959eab1502d4f888bf39462a63825b8aec5976e621b44a
+Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3",static,yes,4ffd2ef1a7629830de959eab1502d4f888bf39462a63825b8aec5976e621b44a
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,179f511af6415807c6353345752f8b540374f0310a90849e88881cef2e18656b
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,f841e918a9f5058a80dff9fa811fb746f4d770d4ae0c6dfab3f2216236fe02b8
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,no,bf3003ce514aaf9c390bfbaf9e07b0ce3b8b9391b475b159dc72c99baf08ba9f
@@ -24,6 +24,6 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,43dcffc1910f
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,33e516f8561ddbfcc2ab90170697284d50fef591fc2e0787865a06d39dcb7fde
 VStA,yes,0,https://www.vsta.ch/,article,static,no,8f5eeac0f0ac34b54d9a2d3edee519198a843f572552e5211a96f1ba1bcca316
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,808210435caccc30e24c252bf9a4db75cff5b13473a3e052a92741a499d23bdb
-"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,b7994c16c1b608f7a69d8fede642abd5e1609ff40ecbc6f2703472f5b00808e6
+"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,b2f87ffbe2374150b29c8be70db06e0e3708d8c00c904d058e7e00f549723dce
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,42ec1cdd7c73ca604680adada7f2090c8244936ab703360ad25ee1d6d0e4394c
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,c0b3e0a9a89dff880e16eb78550d31a6b59cd24c10bbf411cea814e7a17113e6
