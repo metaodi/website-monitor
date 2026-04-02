@@ -2,6 +2,7 @@ Bauprojekt: Im Stieg 3a.1, Adliswil
 Bauprojekt: Rudishaldenstrasse 23, Thalwil
 Bauprojekt: Sonnenrainstrasse 9 + 11, Adliswil
 Beschluss – Datenschutzkonzept, Thalwil
+Einstellung des Konkursverfahrens Georgiana-Sorana Burcea
 Einstellung des Konkursverfahrens Ljuljzime Shabani-Mustafa, ausgeschlagene Erbschaft
 Einstellung des Konkursverfahrens Makoto-T GmbH
 Einstellung des Konkursverfahrens Phönix Management GmbH in Liquidation
@@ -9,14 +10,17 @@ Erteilte Arbeitszeitbewilligung TDC Technisches Dienstleistungscenter AG
 Kollokationsplan ALBIS Trans GmbH
 Kollokationsplan und Inventar Juan Adolfo Silva Via
 Mutation "Wohnchetti" Thalwil, Thalwil
+Mutation AMINA Bank AG, Zug
 Mutation APK - Ausbildung in Prozessorientierung, Kunsttherapie & KomplementärTherapie GmbH, Thalwil, neu APK - Ausbildung in Prozessorientierung, Kunsttherapie & KomplementärTherapie GmbH in Liquidation
 Mutation Advanced Bionics AG, Stäfa
-Mutation Allgeier (Schweiz) AG, Thalwil
 Mutation Alte Säge und Mühle Thalwil, Thalwil
 Mutation August Weidmann Fürsorge-Stiftung, Thalwil
+Mutation Axperience AG, Thalwil
 Mutation Baker Tilly OBT AG, Zürich
 Mutation Bau Arbeit AG, Zürich
 Mutation CPM Switzerland AG, Thalwil
+Mutation Clariness AG, Baar, neu Zug
+Mutation Comet Photoshopping GmbH, Weisslingen, neu Comet Photoshopping GmbH in Liquidation
 Mutation Dr. Ernst Th. Jucker-Stiftung, Thalwil
 Mutation Enbio Group AG, Oensingen
 Mutation Fisch Asset Management AG, Zürich
@@ -27,10 +31,15 @@ Mutation GE Vernova Global Services GmbH, Baden
 Mutation GE Vernova Parts & Products GmbH, Baden
 Mutation Gastrocircus AG, Rüschlikon
 Mutation Hermann HM AG, Flawil
+Mutation IST Investmentstiftung, Zürich
+Mutation IST2 Investmentstiftung, Zürich
+Mutation IST3 Investmentstiftung, Zürich
+Mutation KOLOKI GmbH, Dürnten, neu Brascon Treuhand GmbH, Thalwil
 Mutation Koellmann AG, Thalwil
+Mutation LOY SOLUTIONS AG, Wollerau, neu Eco & Petrol AG, Thalwil
+Mutation LOY SOLUTIONS AG, Wollerau, neu Thalwil
 Mutation Linth Automobil Ali Makki, Thalwil, neu Zürich
 Mutation MOORE Zürich AG, Zürich
-Mutation Makoto-T GmbH in Liquidation, Thalwil
 Mutation Metron Architektur AG, Brugg
 Mutation Myant Swiss AG, Thalwil
 Mutation OASE SERVICE AG, Zweigniederlassung Wetzikon Lindenhof, Wetzikon (ZH)
@@ -38,27 +47,30 @@ Mutation Oase Service AG, Zweigniederlassung Effretikon, Illnau-Effretikon
 Mutation Oase Service AG, Zweigniederlassung Oetwil am See, Oetwil am See
 Mutation Oase Service AG, Zweigniederlassung Wetzikon, Wetzikon (ZH)
 Mutation Osterwalder, Lehmann - Ingenieure und Geometer AG, Thalwil
+Mutation Pensionskasse der politischen Gemeinde Thalwil, Thalwil
 Mutation Process Engineering Specialists GmbH, Zug
 Mutation Q36.5 AG, Zürich
-Mutation QUALIS evaluation GmbH, Zürich
 Mutation Robertson Associates AG, Zürich
 Mutation SOS Management GmbH, Arni (AG), neu SOS Management GmbH in Liquidation
 Mutation Sandoz Pharmaceuticals AG, Risch
 Mutation Schroder & Co Bank AG, Zürich
-Mutation Siemens Healthineers International AG, Steinhausen
 Mutation Sonova AG, Stäfa
 Mutation Sonova Holding AG, Stäfa
 Mutation Stiftung Gruppenschule Thalwil, Thalwil
+Mutation Stiftung Kinderhaus Thalwil (KHT), Thalwil
+Mutation Stiftung Kindertagesstätten Thalwil, Thalwil
 Mutation Swiss Rotors AG, Oensingen
+Mutation SwissLakeHouse GmbH, Mendrisio
 Mutation TRILOGOS Stiftung, Küsnacht (ZH)
 Mutation UBS Business Solutions AG, Zürich
 Mutation Verein Weiterbildungsfonds der Vertragsparteien des Gesamtarbeitsvertrags der Maschinen-, Elektro- und Metallindustrie, Zürich
 Mutation Walser Vorsorge AG, Rüschlikon
 Mutation Wohlfahrtsfonds der Hunziker AG Thalwil, Thalwil
-Mutation Zebrabox Ministorage AG, Zürich
 Mutation Zebrabox Self Storage AG, Allschwil
 Mutation ecus. AG, Thalwil
 Neueintragung Core5 Events KlG, Ebnat-Kappel
+Neueintragung Elevate Boutique GmbH, Thalwil
+Neueintragung PJM Swiss GmbH, Thalwil
 Neueintragung Restaurant Grundstein GmbH, Thalwil
 Neueintragung SONART - Musikschaffende Schweiz, Zürich
 Neueintragung Vitotech GmbH, Kilchberg (ZH)
