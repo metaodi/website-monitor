@@ -7,7 +7,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,22af6fea1ba8b
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,4b2cfac136dd9203c59a7fff49be967fcbef9dc4e5e8599492563d3d4a408558
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,f7fa375d9e74c2655edf81bb5b8c9cf9ee6ab78cc3d500aed4dd852172e36d87
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,cdf2e41581ed435b5b4b2829d52a044a763fa9b9a20d1b107f604a0e58d03243
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,dynamic,no,db0153f2191653f6c96755d37ff3a350defaec9560c9a86521dc2801a5479609
+"Grüne Kanton Zürich",yes,1,https://gruene-zh.ch,.front__article,dynamic,no,db0153f2191653f6c96755d37ff3a350defaec9560c9a86521dc2801a5479609
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,ce8447f522126bfc37b2c878a8713adbccfec1d501f930cc7f0a1ec6b3e9422e
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,ded78beeec06c409fed03eacea269400f7640cc8c86fccc7c9d9dbab85f16496
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,ae0534828bd234df641806d3508e5782b8451ddb41e48a6912ca438c156edcaa
@@ -24,6 +24,6 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,43dcffc1910f
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,33e516f8561ddbfcc2ab90170697284d50fef591fc2e0787865a06d39dcb7fde
 VStA,yes,0,https://www.vsta.ch/,article,static,no,8f5eeac0f0ac34b54d9a2d3edee519198a843f572552e5211a96f1ba1bcca316
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,808210435caccc30e24c252bf9a4db75cff5b13473a3e052a92741a499d23bdb
-"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,a7ca426726dc5716239456e59e722e05d845b72b0883764bbddcffc08dc2176e
+"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,f2825871bb854f9536a9509aa2b07c31c1cd5294af4c9986092f7f0ab06e7a37
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,42ec1cdd7c73ca604680adada7f2090c8244936ab703360ad25ee1d6d0e4394c
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,c0b3e0a9a89dff880e16eb78550d31a6b59cd24c10bbf411cea814e7a17113e6
