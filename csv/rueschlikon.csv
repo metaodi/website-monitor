@@ -8,7 +8,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,04504d7eb478ff855ec6e082a404d7dddfa4e05c0bf24d6e4c63a6846990d0a1
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,a5586aeb6083de888f23094a7796ab9468af53db6f23c4863491a1698f6691c3
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,99332cc06281be1e81434d628eb9c4e8fb0cef101d2e7e59dc92f32b41f88ae5
-"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,1d7238ddd6e6dbc87af03c9acc10788743f6684ca7830862286b5988e83ae61e
+"Ortsmuseum Rüschlikon",yes,1,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,1d7238ddd6e6dbc87af03c9acc10788743f6684ca7830862286b5988e83ae61e
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,#informationList_wrapper,dynamic,no,ab4d7f3d7000568bd14611b293a5ee1a51c7efd284988e954ab0df1c845df15e
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,425d6b708bb8f9213fe0e3e4ebf20ab988f3232bebebb2d5e1620519ac59d2af
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,57b3c6a523cff074fdf7b64358e5b332622af8b6cb5789c8d2fa7b4e81a61f74
