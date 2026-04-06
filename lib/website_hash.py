@@ -46,7 +46,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
         Extracted and normalized text as a string
     """
     if dl_type == "static":
-        content = dl.download_content(url, verify=verify)
+        content = dl.download(url, verify=verify)
     elif dl_type == "dynamic":
         content = dl.download_with_selenium(url, selector)
     else:
