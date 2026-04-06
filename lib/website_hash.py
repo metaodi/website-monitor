@@ -25,7 +25,6 @@ import re
 import sys
 from pprint import pformat
 from bs4 import BeautifulSoup
-from bs4.dammit import EncodingDetector
 from docopt import docopt
 import urllib3
 import download as dl
@@ -52,9 +51,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
     else:
         raise Exception(f"Invalid type: {dl_type}")
 
-    html_encoding = EncodingDetector.find_declared_encoding(content, is_html=True)
-    encoding = html_encoding or "latin1"
-    soup = BeautifulSoup(content, "html.parser", from_encoding=encoding)
+    soup = BeautifulSoup(content, "html.parser")
     as_list = soup.select(selector)
     if not as_list:
         log.error(f"Selector {selector} not found in {url}")
