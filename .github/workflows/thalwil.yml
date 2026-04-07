@@ -3,6 +3,7 @@ name: Check Thalwil websites
 on:
   schedule:
     - cron:  '16 5-21 * * *' # every 30min
+    - cron:  '10 3 * * 0' # weekly on Sunday at 3:10am (check all entries)
   workflow_dispatch:
 
 jobs:
@@ -10,6 +11,7 @@ jobs:
     uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
     with:
       csv-path: csv/thalwil.csv
+      check-all: ${{ github.event.schedule == '10 3 * * 0' }}
     secrets:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_TO }}
