@@ -6,6 +6,10 @@ on:
       csv-path:
         required: true
         type: string
+      check-all:
+        required: false
+        type: boolean
+        default: false
     secrets:
       TELEGRAM_CHAT_ID:
         required: true
@@ -37,6 +41,7 @@ jobs:
       - id: set-matrix
         env:
            CSV_PATH: ${{ inputs.csv-path }}
+           BUILD_MATRIX_ARGS: ${{ inputs.check-all && '--all' || '' }}
         run: |
           matrix=$(./workflow/matrix.sh $CSV_PATH | jq -c '.')
           echo $matrix
