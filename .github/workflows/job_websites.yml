@@ -6,13 +6,19 @@ on:
   schedule:
     - cron:  '30 3 * * 0' # weekly on Sunday at 3:30am (check all entries)
   workflow_dispatch:
+    inputs:
+      check-all:
+        description: 'Check all entries (including disabled)'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   notify_jobs_websites:
     uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
     with:
       csv-path: csv/jobs.csv
-      check-all: ${{ github.event.schedule == '30 3 * * 0' }}
+      check-all: ${{ github.event.schedule == '30 3 * * 0' || inputs.check-all == true }}
     secrets:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_JOBS_CHAT_ID }}
