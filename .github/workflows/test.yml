@@ -2,12 +2,19 @@ name: Check Test websites
 
 on:
   workflow_dispatch:
+    inputs:
+      check-all:
+        description: 'Check all entries (including disabled)'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   notify_test_websites:
     uses: metaodi/website-monitor/.github/workflows/check_websites.yml@main
     with:
       csv-path: csv/test.csv
+      check-all: ${{ inputs.check-all == true }}
     secrets:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_TO }}
