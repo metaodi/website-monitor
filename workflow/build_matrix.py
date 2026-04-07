@@ -3,7 +3,7 @@
 """Check websites for changes
 
 Usage:
-  build_matrix.py --db <path-to-db-file>
+  build_matrix.py --db <path-to-db-file> [--all]
   build_matrix.py (-h | --help)
   build_matrix.py --version
 
