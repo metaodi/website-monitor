@@ -11,6 +11,7 @@ Options:
   -h, --help                    Show this screen.
   --version                     Show version.
   -d, --db <path-to-db-file>    URL of the website to monitor.
+  -a, --all                     Build matrix for all entries.
 """
 
 
@@ -33,7 +34,10 @@ try:
     conn.row_factory = sqlite3.Row
 
     cur = conn.cursor()
-    cur.execute("SELECT * FROM website where active = 'yes'")
+    if arguments["--all"]:
+      cur.execute("SELECT * FROM website")
+    else:
+        cur.execute("SELECT * FROM website where active = 'yes'")
     rows = cur.fetchall()
     config = [dict(r) for r in rows]
     matrix = {'include': config}
