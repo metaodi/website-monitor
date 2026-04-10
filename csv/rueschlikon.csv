@@ -5,11 +5,11 @@ label,active,error_count,url,selector,type,proxy,hash
 "EVP Rüschlikon",no,17,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,93462c0778e7b400366cfc681d6931f72c2adbd23ef3af9ef260c1906f1489b9
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,c6b6b0d02ffdcd01143252c3b0091f792b1c9f1e4f78ba7a64c74529e1770b85
-"HEV TRO Rüschlikon",yes,1,https://www.hev-tro.ch/,.article-listing,static,no,04504d7eb478ff855ec6e082a404d7dddfa4e05c0bf24d6e4c63a6846990d0a1
+"HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,04504d7eb478ff855ec6e082a404d7dddfa4e05c0bf24d6e4c63a6846990d0a1
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,a5586aeb6083de888f23094a7796ab9468af53db6f23c4863491a1698f6691c3
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,99332cc06281be1e81434d628eb9c4e8fb0cef101d2e7e59dc92f32b41f88ae5
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,1d7238ddd6e6dbc87af03c9acc10788743f6684ca7830862286b5988e83ae61e
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,8ab91caed7bb82244d31c582f938f328567a378b14cc64d008e8e06e9259a278
+"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,a9e3050479a5badaa5ac392f53ff47e8b318f6a848ad92e5ae3f8aeb8837ab88
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,425d6b708bb8f9213fe0e3e4ebf20ab988f3232bebebb2d5e1620519ac59d2af
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,57b3c6a523cff074fdf7b64358e5b332622af8b6cb5789c8d2fa7b4e81a61f74
 "Zimmerberg Online Rüschlikon",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,c4919348958a1b3d9f62d2d096ce15a8df4302eecc3b87d6938e3869abdbce26
