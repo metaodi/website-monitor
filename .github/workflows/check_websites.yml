@@ -113,16 +113,21 @@ jobs:
           # Verify connection (IP address is logged for debugging but may expose VPN IP)
           echo "Verifying VPN connection..."
           curl -s --connect-timeout 5 https://api.ipify.org > /dev/null && echo "Connection verified" || echo "Could not verify connection"
-      
+
+      - name: Safe label
+        id: label
+        run: |
+          echo "Label: ${{ matrix.label }}"
+          # Create a safe filename from the label using Python script
+          safe_label=$(uv run ./workflow/sanitize_label.py "${{ matrix.label }}")
+          echo "Filename: ${safe_label}.txt"
+          echo "safe_label=${safe_label}" >> $GITHUB_OUTPUT
+
       - name: Check website
         id: website
         run: |
           echo "Label: ${{ matrix.label }}"
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
-          
-          # Create a safe filename from the label using Python script
-          safe_label=$(uv run ./workflow/sanitize_label.py "${{ matrix.label }}")
-          echo "Filename: ${safe_label}.txt"
           
           # Get new text from website
           mkdir -p text
@@ -131,8 +136,7 @@ jobs:
           echo "New hash: $new_hash"
           echo $new_hash > hashes/${{ matrix.hash }}.txt
           echo "new_hash=$new_hash" >> $GITHUB_OUTPUT
-          echo "safe_label=${safe_label}" >> $GITHUB_OUTPUT
-          echo "filename=${safe_label}.txt" >> $GITHUB_OUTPUT
+          safe_label="${{ steps.label.outputs.safe_label }}"
           
           # Compare with existing text file if it exists
           if [ -f "texts/${safe_label}.txt" ]; then
@@ -161,7 +165,7 @@ jobs:
         if: steps.website.outputs.text_changed == 'true'
         id: preview
         run: |
-          safe_label="${{ steps.website.outputs.safe_label }}"
+          safe_label="${{ steps.label.outputs.safe_label }}"
           preview=""
           if [ -f "text/${safe_label}.txt" ]; then
             old_file="texts/${safe_label}.txt"
@@ -216,9 +220,10 @@ jobs:
             🔴 [Website-Check für «${{ matrix.label }}» fehlgeschlagen](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
       
       - name: Upload hash as artifact
+        if: ${{ always() && steps.label.outputs.safe_label != '' }}
         uses: actions/upload-artifact@v6
         with:
-          name: output-${{ steps.website.outputs.safe_label }}
+          name: output-${{ steps.label.outputs.safe_label }}
           path: |
             hashes
             text
