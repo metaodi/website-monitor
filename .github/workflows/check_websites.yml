@@ -217,7 +217,6 @@ jobs:
       
       - name: Upload hash as artifact
         uses: actions/upload-artifact@v6
-        if: ${{ always() }}
         with:
           name: output-${{ steps.website.outputs.safe_label }}
           path: |
