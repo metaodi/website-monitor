@@ -2,7 +2,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,d220826ce75606c9ceb424cc8a7f212d5973e8727e670e25a8997fd96b737ca9
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,51aefe8ae2cca87e1fc4f53d9985b42be7dea08a4175b43b16ed180cd939e667
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,200d80b12eaf8258dc0bf84908e4e17567ee5fd6785f06a34cf239916315bbf3
-"EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,c9c1c4b501468a17d727812c70a5ee87c9c86c2141e7d0b661b8b5866e57246d
+"EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,51d65202c623054f35191c299345144ef7090d7bc1d87746c3a1b77877d7845d
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,yes,c25a006309bc3f8b16a8508a3071b525d62c518a87149f7ee5b4b4776991f5b2
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,007b4ff968311f84490ce3a072e0e2459b0289d164c8f51b05fbfe9182f9f5ff
 "GLP Bezirk Horgen",no,16,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,1e130d812faa91e058cd58872cf26ad1b665f1684fce512c74c6c98c7f92f3ef
@@ -14,7 +14,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,51aefe8ae2cca
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,e63ff9fc43b1c168e43a8e4a6360cdddcc452b7ba712e6b6995b6195eb804d86
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,9a2bccd508e5c24927a3ec08e02c934d317c6b399d7c96549e475df3e1023188
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,4cd8c45203ad3b0a74baad062401774eba86f257a5ad1bde7152a5475769bd2c
-Syna,yes,10,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,yes,4ffd2ef1a7629830de959eab1502d4f888bf39462a63825b8aec5976e621b44a
+Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,article,static,yes,6c17b60e38df2636ec1e162ea08ce0a129c0af51c7dbfb79dd8c4af9bd26fe2a
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,81c4a69885a00115d45dfd874162844cc93555f6ee004621e8a3f67983d2016f
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,e73aacd23af5d64caec310cde9ce5849d60f887a5ae512d0e99d3bfd264ee01a
 Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,no,a8284cd53b61adfc171dff1417729e7302d58b11f06bcf1a1f4a0a297800a9c8
