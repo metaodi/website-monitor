@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-"Digitales Amtsblatt Rüschlikon",yes,1,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,552f2e4de89dbe6b78ecee389ee32ea52bf86609afbe82c62325bf324d61b6ec
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,552f2e4de89dbe6b78ecee389ee32ea52bf86609afbe82c62325bf324d61b6ec
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,262e41f3d92e47bb4e3f6fd29f0209fe86e836eb56a8bb7b966f64d7dcd8ab1f
 "EVP Rüschlikon",no,17,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,93462c0778e7b400366cfc681d6931f72c2adbd23ef3af9ef260c1906f1489b9
@@ -12,7 +12,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,a9e3050479a5badaa5ac392f53ff47e8b318f6a848ad92e5ae3f8aeb8837ab88
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,425d6b708bb8f9213fe0e3e4ebf20ab988f3232bebebb2d5e1620519ac59d2af
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,57b3c6a523cff074fdf7b64358e5b332622af8b6cb5789c8d2fa7b4e81a61f74
-"Zimmerberg Online Rüschlikon",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,c4919348958a1b3d9f62d2d096ce15a8df4302eecc3b87d6938e3869abdbce26
+"Zimmerberg Online Rüschlikon",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,363efaf6920f9f1ad5f9d415997252d1795e03c236fff1e63064d0a0a299092c
 "ZPZ Agenda Rüschlikon",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,a057fc008b87441fc52bb5ab98839534045128fab690646fc3408401a6d02799
 "ZPZ Amtliche Publikation Rüschlikon",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,0697201ae438f604ec58d5800cfff22b35b3b582a2b4d3b62094d6b80bfd6e51
 "ZPZ News Rüschlikon",yes,0,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
