@@ -12,9 +12,9 @@ label,active,error_count,url,selector,type,proxy,hash
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,88442122749a2992a39f0eb0ee1bbb955da4228de5b8f50e67aa413c1af343b8
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,6175ed9e984cedcf5d121b9a9b7c06f24d1d64d7291045846f7c1181098db442
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,9fba90c123763ca9f61f766665a85949649b18926567b825c2b20f96b189eb28
-"Zimmerberg Online Thalwil",yes,1,https://zimmerberg.online/rubrik/thalwil/,"article h2",static,no,4714b6d0a3e99ce02a426232891e7ecf8ecf9fbd20d5b2b047eb024a27064575
+"Zimmerberg Online Thalwil",yes,0,https://zimmerberg.online/rubrik/thalwil/,"article h2",static,no,4714b6d0a3e99ce02a426232891e7ecf8ecf9fbd20d5b2b047eb024a27064575
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,a057fc008b87441fc52bb5ab98839534045128fab690646fc3408401a6d02799
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,0697201ae438f604ec58d5800cfff22b35b3b582a2b4d3b62094d6b80bfd6e51
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
-"Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,963fd5772be135db5fed08f728be9301bfa0b43cbfddf879fe40fc955a9367b1
+"Ökopolis",yes,1,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,963fd5772be135db5fed08f728be9301bfa0b43cbfddf879fe40fc955a9367b1
 "Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,0811318dcbd6d2df4c58c83bbab93c000c14300fc9c5a66eea8ca52be7bacb99
