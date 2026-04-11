@@ -8,11 +8,11 @@ label,active,error_count,url,selector,type,proxy,hash
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,04504d7eb478ff855ec6e082a404d7dddfa4e05c0bf24d6e4c63a6846990d0a1
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,a5586aeb6083de888f23094a7796ab9468af53db6f23c4863491a1698f6691c3
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,99332cc06281be1e81434d628eb9c4e8fb0cef101d2e7e59dc92f32b41f88ae5
-"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,1d7238ddd6e6dbc87af03c9acc10788743f6684ca7830862286b5988e83ae61e
+"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,89a821a3dc48b3941a552716bc4f92f7f25f7ba0f4996ffa3d8159b7c5cf4383
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,a9e3050479a5badaa5ac392f53ff47e8b318f6a848ad92e5ae3f8aeb8837ab88
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,425d6b708bb8f9213fe0e3e4ebf20ab988f3232bebebb2d5e1620519ac59d2af
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,57b3c6a523cff074fdf7b64358e5b332622af8b6cb5789c8d2fa7b4e81a61f74
-"Zimmerberg Online Rüschlikon",yes,1,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,c4919348958a1b3d9f62d2d096ce15a8df4302eecc3b87d6938e3869abdbce26
-"ZPZ Agenda Rüschlikon",yes,1,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,a057fc008b87441fc52bb5ab98839534045128fab690646fc3408401a6d02799
+"Zimmerberg Online Rüschlikon",yes,0,https://zimmerberg.online/rubrik/rueschlikon/,"article h2",static,no,c4919348958a1b3d9f62d2d096ce15a8df4302eecc3b87d6938e3869abdbce26
+"ZPZ Agenda Rüschlikon",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,a057fc008b87441fc52bb5ab98839534045128fab690646fc3408401a6d02799
 "ZPZ Amtliche Publikation Rüschlikon",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,0697201ae438f604ec58d5800cfff22b35b3b582a2b4d3b62094d6b80bfd6e51
 "ZPZ News Rüschlikon",yes,0,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
