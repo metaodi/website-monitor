@@ -8,11 +8,11 @@ label,active,error_count,url,selector,type,proxy,hash
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,6ef79861df05af0ffbea8709847e1ef9f07391d6d520b3addb35e9c325d70fe6
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,01cbb8c09c31b939651d6874b3a08c0367764792e3d123f0eba7c33beab4c96f
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,7a655f5df9ba9cec025e1fa72ef47b30da9769f514fd17ddeb7159ba4e0e2564
-"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,1bd0b76cf170e2d568d3538a545687bdc551d39a380284ea8ae98272a93f75a7
+"Pfadi Thala Wölfli Walhalla",yes,1,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,1bd0b76cf170e2d568d3538a545687bdc551d39a380284ea8ae98272a93f75a7
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,88442122749a2992a39f0eb0ee1bbb955da4228de5b8f50e67aa413c1af343b8
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,6175ed9e984cedcf5d121b9a9b7c06f24d1d64d7291045846f7c1181098db442
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,9fba90c123763ca9f61f766665a85949649b18926567b825c2b20f96b189eb28
-"Zimmerberg Online Thalwil",yes,0,https://zimmerberg.online/rubrik/thalwil/,"article h2",static,no,e4502886e466e67ef7253e37d430a3f284a5eafa49d89e110326f059d02e2aad
+"Zimmerberg Online Thalwil",yes,0,https://zimmerberg.online/rubrik/thalwil/,"article h2",static,no,4714b6d0a3e99ce02a426232891e7ecf8ecf9fbd20d5b2b047eb024a27064575
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,a057fc008b87441fc52bb5ab98839534045128fab690646fc3408401a6d02799
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,0697201ae438f604ec58d5800cfff22b35b3b582a2b4d3b62094d6b80bfd6e51
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
