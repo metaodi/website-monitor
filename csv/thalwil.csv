@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
-"Bezirk.ch Liveticker Thalwil",yes,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,075544e255b8e9213d46df085dc136546f982f2565f046d4d6233170a3811089
-"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,article,dynamic,no,fc4ae959f5a9927c4b136bad58c7068c24c2c613a06ae97de677c91ebcc39021
+"Bezirk.ch Liveticker Thalwil",yes,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,4445cb280de6ff9e42e998275e3affa21380e40c83128bb0cb90d9e01c14874c
+"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,article,dynamic,no,5ac64fa65c318a9af2e132824aeb220d1110b043db844eb377f7b5b8072c734b
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,4a60033c738d5c871ef9202eeb2ddbd11083ffc50f2a3b26400ee6d632a3b64e
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,607d4f384d5adce51e7df518cde3fab13f85746ebabfbaac1c18bedc31314b01
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,b118b140d3306a3f3d28b3e388d5b58bad1d35132812a5f39f08a0994cb3dec3
@@ -17,6 +17,6 @@ label,active,error_count,url,selector,type,proxy,hash
 "Zimmerberg Online Thalwil",yes,0,https://zimmerberg.online/rubrik/thalwil/,"article h2",static,no,c32eaca52aec65d14009bacfba88a81ad18171c06d44d02b2f472ba4006a0829
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,a057fc008b87441fc52bb5ab98839534045128fab690646fc3408401a6d02799
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,0697201ae438f604ec58d5800cfff22b35b3b582a2b4d3b62094d6b80bfd6e51
-"ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
+"ZPZ News Thalwil",yes,1,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
 "Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,963fd5772be135db5fed08f728be9301bfa0b43cbfddf879fe40fc955a9367b1
 "Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,0811318dcbd6d2df4c58c83bbab93c000c14300fc9c5a66eea8ca52be7bacb99
