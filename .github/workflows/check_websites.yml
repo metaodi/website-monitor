@@ -128,6 +128,7 @@ jobs:
         run: |
           echo "Label: ${{ matrix.label }}"
           echo "URL: ${{ matrix.url }}, selector: ${{ matrix.selector }}"
+          safe_label="${{ steps.label.outputs.safe_label }}"
           
           # Get new text from website
           mkdir -p text
@@ -136,7 +137,6 @@ jobs:
           echo "New hash: $new_hash"
           echo $new_hash > hashes/${{ matrix.hash }}.txt
           echo "new_hash=$new_hash" >> $GITHUB_OUTPUT
-          safe_label="${{ steps.label.outputs.safe_label }}"
           
           # Compare with existing text file if it exists
           if [ -f "texts/${safe_label}.txt" ]; then
