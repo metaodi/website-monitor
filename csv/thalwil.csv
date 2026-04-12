@@ -1,14 +1,16 @@
 label,active,error_count,url,selector,type,proxy,hash
+"Bezirk.ch Liveticker Thalwil",yes,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,075544e255b8e9213d46df085dc136546f982f2565f046d4d6233170a3811089
+"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,article,dynamic,no,bd4e715137a2993278177a23138728923a05b70e6b91ac2d95a1a1e741c928d8
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,4a60033c738d5c871ef9202eeb2ddbd11083ffc50f2a3b26400ee6d632a3b64e
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,607d4f384d5adce51e7df518cde3fab13f85746ebabfbaac1c18bedc31314b01
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,b118b140d3306a3f3d28b3e388d5b58bad1d35132812a5f39f08a0994cb3dec3
 "GLP Thalwil",no,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,d6ee083f891e7778352d2c29420fe214534a0690a6f8e961371945958b5f54c1
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,5f029738c76fe88657c136655fd82d79873494b9bf62c7616c6f043fbff7d844
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,04504d7eb478ff855ec6e082a404d7dddfa4e05c0bf24d6e4c63a6846990d0a1
-"HGV Thalwil",yes,1,https://hgv-thalwil.ch/news/,.el-item,static,no,6ef79861df05af0ffbea8709847e1ef9f07391d6d520b3addb35e9c325d70fe6
+"HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,6ef79861df05af0ffbea8709847e1ef9f07391d6d520b3addb35e9c325d70fe6
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,01cbb8c09c31b939651d6874b3a08c0367764792e3d123f0eba7c33beab4c96f
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,7a655f5df9ba9cec025e1fa72ef47b30da9769f514fd17ddeb7159ba4e0e2564
-"Pfadi Thala Wölfli Walhalla",yes,1,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,1bd0b76cf170e2d568d3538a545687bdc551d39a380284ea8ae98272a93f75a7
+"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,1bd0b76cf170e2d568d3538a545687bdc551d39a380284ea8ae98272a93f75a7
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,88442122749a2992a39f0eb0ee1bbb955da4228de5b8f50e67aa413c1af343b8
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,6175ed9e984cedcf5d121b9a9b7c06f24d1d64d7291045846f7c1181098db442
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,9fba90c123763ca9f61f766665a85949649b18926567b825c2b20f96b189eb28
@@ -18,5 +20,3 @@ label,active,error_count,url,selector,type,proxy,hash
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
 "Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,963fd5772be135db5fed08f728be9301bfa0b43cbfddf879fe40fc955a9367b1
 "Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,0811318dcbd6d2df4c58c83bbab93c000c14300fc9c5a66eea8ca52be7bacb99
-"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,article,dynamic,no,bbaa3232
-"Bezirk.ch Liveticker Thalwil",yes,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,aabb222
