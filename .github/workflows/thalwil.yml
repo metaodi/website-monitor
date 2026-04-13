@@ -2,7 +2,7 @@ name: Check Thalwil websites
 
 on:
   schedule:
-    - cron:  '1 5-21 * * *' # every hour 5-21 UTC
+    - cron:  '21 5-21 * * *' # every hour 5-21 UTC
     - cron:  '10 3 * * 0' # weekly on Sunday at 3:10am (check all entries)
   workflow_dispatch:
     inputs:
