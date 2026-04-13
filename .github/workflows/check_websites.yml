@@ -303,11 +303,8 @@ jobs:
             for f in output/notifications/*.jsonl; do
               if [ -f "$f" ]; then
                 cat "$f" >> notifications.jsonl
-                echo "" >> notifications.jsonl
               fi
             done
-            # Remove any blank lines
-            sed -i '/^$/d' notifications.jsonl
           fi
       
       - name: Export database

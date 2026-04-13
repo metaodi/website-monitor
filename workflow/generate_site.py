@@ -17,6 +17,7 @@ import json
 import csv
 import os
 import html
+import hashlib
 from datetime import datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
@@ -196,6 +197,9 @@ def generate_rss(entries, output_dir, base_url, max_items):
             description += f"\n\n{diff}"
         description = xml_escape(description)
 
+        guid_input = f"{entry.get('timestamp', '')}|{entry.get('label', '')}|{entry.get('url', '')}"
+        guid_hash = hashlib.sha256(guid_input.encode("utf-8")).hexdigest()[:16]
+
         items.append(
             f"""    <item>
       <title>🟢 {title}</title>
@@ -203,7 +207,7 @@ def generate_rss(entries, output_dir, base_url, max_items):
       <description>{description}</description>
       <pubDate>{pub_date}</pubDate>
       <category>{source}</category>
-      <guid isPermaLink="false">{xml_escape(entry.get('timestamp', '') + '-' + entry.get('label', ''))}</guid>
+      <guid isPermaLink="false">{guid_hash}</guid>
     </item>"""
         )
 
