@@ -44,6 +44,17 @@ To use WireGuard with the website monitor:
 
 The VPN connection will be established before checking websites and terminated after all checks are complete.
 
+### Static Website & RSS Feed
+
+In addition to Telegram notifications, the monitor publishes a static website and RSS feed via GitHub Pages. This allows you to check recent website changes from any browser or subscribe using a feed reader.
+
+- **Website**: [https://metaodi.github.io/website-monitor](https://metaodi.github.io/website-monitor)
+- **RSS Feed**: [https://metaodi.github.io/website-monitor/feed.xml](https://metaodi.github.io/website-monitor/feed.xml)
+
+The site is automatically regenerated whenever new changes are detected. Notifications are stored in `notifications.jsonl` and the site is built and deployed using GitHub Pages.
+
+You can also filter notifications by source (e.g., Thalwil, Bezirk Horgen) using the navigation links on the site.
+
 ### CSV format
 
 The CSV must have the following structure:
