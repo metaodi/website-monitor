@@ -219,6 +219,26 @@ jobs:
           message: |
             🔴 [Website-Check für «${{ matrix.label }}» fehlgeschlagen](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
       
+      - name: Log notification
+        if: steps.website.outputs.text_changed == 'true'
+        run: |
+          mkdir -p notifications
+          safe_label="${{ steps.label.outputs.safe_label }}"
+          csv_source=$(basename "${{ inputs.csv-path }}" .csv)
+          # Write notification entry as JSON
+          python3 -c "
+          import json, sys
+          from datetime import datetime, timezone
+          entry = {
+              'timestamp': datetime.now(timezone.utc).isoformat(),
+              'label': sys.argv[1],
+              'url': sys.argv[2],
+              'csv_source': sys.argv[3],
+              'diff_preview': sys.argv[4]
+          }
+          print(json.dumps(entry, ensure_ascii=False))
+          " "${{ matrix.label }}" "${{ matrix.url }}" "$csv_source" "${{ steps.preview.outputs.text }}" > "notifications/${safe_label}.jsonl"
+
       - name: Upload hash as artifact
         if: ${{ always() && steps.label.outputs.safe_label != '' }}
         uses: actions/upload-artifact@v6
@@ -228,6 +248,7 @@ jobs:
             hashes
             text
             error_counts
+            notifications
   
   update_hashes:
     needs: notify
@@ -272,6 +293,18 @@ jobs:
             echo "Copying text files to texts directory..."
             mkdir -p texts
             cp -v output/text/*.txt texts/ || true
+          fi
+
+      - name: Append notifications
+        run: |
+          # Append notification entries from artifacts to notifications.jsonl
+          if [ -d "output/notifications" ]; then
+            echo "Appending notification entries..."
+            for f in output/notifications/*.jsonl; do
+              if [ -f "$f" ]; then
+                cat "$f" >> notifications.jsonl
+              fi
+            done
           fi
       
       - name: Export database
