@@ -336,6 +336,12 @@ jobs:
           commit-message: Update ${{ inputs.csv-path }} with updated hashes
           rebase: 'true'
 
+      - name: Trigger page rebuild
+        if: steps.changes.outputs.changed == 1
+        run: gh workflow run pages.yml --ref ${{ github.ref_name }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Notify telegram failure
         if: ${{ failure()  || cancelled() }}
         uses: appleboy/telegram-action@master
