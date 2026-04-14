@@ -32,6 +32,13 @@ import download as dl
 log = logging.getLogger(__name__)
 
 
+def _normalize_text(text):
+    """Normalize whitespace in extracted text."""
+    text = text.replace("\n\n", "\n")
+    text = text.replace("  ", " ")
+    return text
+
+
 def _get_rss_text(url, selector, verify):
     """Extract text from an RSS/Atom feed.
 
@@ -65,9 +72,7 @@ def _get_rss_text(url, selector, verify):
             value = entry.get(field, "")
             if value:
                 parts.append(str(value))
-        text = " ".join(parts)
-        text = text.replace("\n\n", "\n")
-        text = text.replace("  ", " ")
+        text = _normalize_text(" ".join(parts))
         if re.search(r"\w", text):
             source_list.append(text)
 
@@ -105,9 +110,7 @@ def _get_html_text(url, selector, verify, dl_type):
 
     source_list = []
     for elem in as_list:
-        text = "\n".join(elem.stripped_strings)
-        text = text.replace("\n\n", "\n")
-        text = text.replace("  ", " ")
+        text = _normalize_text("\n".join(elem.stripped_strings))
         if re.search(r"\w", text):
             source_list.append(text)
 
