@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,d220826ce75606c9ceb424cc8a7f212d5973e8727e670e25a8997fd96b737ca9
-Bezirk.ch,yes,0,https://www.bezirk.ch/,article,dynamic,no,4a1810b95917800a7ec5257ef254bc3463b2ce0eadf223e44dff7c84e8652b6c
+Bezirk.ch,yes,0,https://www.bezirk.ch/,article,dynamic,no,808d31289c96ff2e90cdb7bee3ed9c5d1c421c261edffbffbbe25c2c95329e3d
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,c4e985cb8c09d7698282e2a03e06777d26dec9d665b2c9667016f3b04c3eb9c0
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,200d80b12eaf8258dc0bf84908e4e17567ee5fd6785f06a34cf239916315bbf3
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,81760a34edbecdc140af5103046705392abcbcfa6baa73baa2f198261a72a370
@@ -18,13 +18,13 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,c4e985cb8c09d
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,81c4a69885a00115d45dfd874162844cc93555f6ee004621e8a3f67983d2016f
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,e73aacd23af5d64caec310cde9ce5849d60f887a5ae512d0e99d3bfd264ee01a
-Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,no,a8284cd53b61adfc171dff1417729e7302d58b11f06bcf1a1f4a0a297800a9c8
+Unia,yes,0,https://www.unia.ch/de/aktuell?currentPage=1,.article,static,no,ae52b958687f4ce2a50dbd2de6eafa12f2aff05df9152ed648edfaf31ebaa0e2
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,89f8af9b7240dd29dc721c60cc3d57b96c6f217f554249d69f56014dc6efd473
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,61d102cb2a1a7dc1d20dfe2be0592156f4bbe5872abe6a745655236847b3b829
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,1ce883f8f40aab623973d3d70ab906734e5b239f07fea75e08a209dd2b1689cc
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,6bb6d19a7d01b2ba1e214dec99d83db4226b62080a7295c37f683ddfe74c1a95
 VStA,yes,0,https://www.vsta.ch/,article,static,no,bc62ab1595f41f85f4fe0e2fcd1fd2fb100af0ca4a4baff7b551ec06bd878cf4
-"Wahlarchiv Kanton Zürich",yes,1,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,fa817d88cd302f075a6d8fa9166fa65f9b8310d8ca5c4afcabb116e245d68961
-"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,e9d7a674e7e58bda02c8fe66413cf9b288b06f9fd673fd5cc5b0bcd37bcee6e1
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,fa817d88cd302f075a6d8fa9166fa65f9b8310d8ca5c4afcabb116e245d68961
+"Zimmerberg Online",yes,0,https://zimmerberg.online/?post_type=post,"article h2",static,no,f3d2a0f53ef3c66774dd6a977375656dfe59d97d97d551c9e442a6ec8828484d
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,a057fc008b87441fc52bb5ab98839534045128fab690646fc3408401a6d02799
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,02e437b374b5d4f114fd394de657cd6355981d5fb7d07c4c7f10a951a67515b3
