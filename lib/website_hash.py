@@ -31,6 +31,8 @@ import download as dl
 
 log = logging.getLogger(__name__)
 
+_WORD_RE = re.compile(r"\w")
+
 
 def _normalize_text(text):
     """Normalize whitespace in extracted text."""
@@ -73,7 +75,7 @@ def _get_rss_text(url, selector, verify):
             if value:
                 parts.append(str(value))
         text = _normalize_text(" ".join(parts))
-        if re.search(r"\w", text):
+        if _WORD_RE.search(text):
             source_list.append(text)
 
     if not source_list:
@@ -111,7 +113,7 @@ def _get_html_text(url, selector, verify, dl_type):
     source_list = []
     for elem in as_list:
         text = _normalize_text("\n".join(elem.stripped_strings))
-        if re.search(r"\w", text):
+        if _WORD_RE.search(text):
             source_list.append(text)
 
     return source_list
