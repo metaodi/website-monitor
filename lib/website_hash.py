@@ -60,12 +60,9 @@ def _get_rss_text(url, selector, verify):
         sys.exit(1)
 
     # Determine which fields to extract from each entry
-    default_fields = ["title"]
-    html_selectors = {"body", "html", "*"}
-    if selector.strip().lower() in html_selectors:
-        fields = default_fields
-    else:
-        fields = [f.strip() for f in selector.split(",")]
+    fields = [f.strip() for f in selector.split(",")]
+    if not fields:
+        fields = ["title", "description"]
 
     source_list = []
     for entry in feed.entries:
