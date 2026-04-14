@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import logging
+import feedparser
 import requests
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
@@ -53,6 +54,11 @@ def download_file(url, path, verify=True):
     with open(path, 'wb') as f:
         for chunk in r.iter_content(1024):
             f.write(chunk)
+
+
+def download_rss(url, verify=True):
+    r = _download_request(url, verify=verify)
+    return feedparser.parse(r.content)
 
 
 def download_with_selenium(url, selector):

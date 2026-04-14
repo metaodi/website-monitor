@@ -12,7 +12,7 @@ Options:
   --version                     Show version.
   -u, --url <url-of-website>    URL of the website to monitor.
   -s, --selector <css-selector> CSS selector to check for changes [default: body].
-  -t, --type <type>             Type of website, one [default: static].
+  -t, --type <type>             Type of website, one of: static, dynamic, rss [default: static].
   -o, --output <path>           Save the selector output to a file.
   --verbose                     Option to enable more verbose output.
   --no-verify                   Option to disable SSL verification for requests.
@@ -31,9 +31,62 @@ import download as dl
 
 log = logging.getLogger(__name__)
 
+_WORD_RE = re.compile(r"\w")
 
-def get_website_text(url, selector, verify, dl_type="static"):
-    """Extract text from a website selector.
+
+def _normalize_text(text):
+    """Normalize whitespace in extracted text."""
+    text = text.replace("\n\n", "\n")
+    text = text.replace("  ", " ")
+    return text
+
+
+def _get_rss_text(url, selector, verify):
+    """Extract text from an RSS/Atom feed.
+
+    Args:
+        url: URL of the RSS/Atom feed
+        selector: Comma-separated list of entry fields to extract (e.g. 'title,link').
+                  Falls back to 'title' if set to a generic HTML selector like 'body'.
+        verify: Whether to verify SSL certificates
+
+    Returns:
+        Extracted and normalized text as a string
+    """
+    feed = dl.download_rss(url, verify=verify)
+
+    if feed.bozo and not feed.entries:
+        log.error(f"Failed to parse feed at {url}: {feed.bozo_exception}")
+        sys.exit(1)
+
+    # Determine which fields to extract from each entry
+    default_fields = ["title"]
+    html_selectors = {"body", "html", "*"}
+    if selector.strip().lower() in html_selectors:
+        fields = default_fields
+    else:
+        fields = [f.strip() for f in selector.split(",")]
+
+    source_list = []
+    for entry in feed.entries:
+        parts = []
+        for field in fields:
+            value = entry.get(field, "")
+            if value:
+                parts.append(str(value))
+        text = _normalize_text(" ".join(parts))
+        if _WORD_RE.search(text):
+            source_list.append(text)
+
+    if not source_list:
+        log.error(f"No entries found in feed at {url}")
+        sys.exit(1)
+
+    return source_list
+
+
+def _get_html_text(url, selector, verify, dl_type):
+    """Extract text from an HTML page using a CSS selector.
 
     Args:
         url: URL of the website to check
@@ -42,7 +95,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
         dl_type: Type of download (static or dynamic)
 
     Returns:
-        Extracted and normalized text as a string
+        List of extracted text strings
     """
     if dl_type == "static":
         content = dl.download(url, verify=verify)
@@ -59,11 +112,29 @@ def get_website_text(url, selector, verify, dl_type="static"):
 
     source_list = []
     for elem in as_list:
-        text = "\n".join(elem.stripped_strings)
-        text = text.replace("\n\n", "\n")
-        text = text.replace("  ", " ")
-        if re.search(r"\w", text):
+        text = _normalize_text("\n".join(elem.stripped_strings))
+        if _WORD_RE.search(text):
             source_list.append(text)
+
+    return source_list
+
+
+def get_website_text(url, selector, verify, dl_type="static"):
+    """Extract text from a website selector or RSS feed.
+
+    Args:
+        url: URL of the website or feed to check
+        selector: CSS selector for HTML pages, or comma-separated field names for RSS feeds
+        verify: Whether to verify SSL certificates
+        dl_type: Type of download (static, dynamic, or rss)
+
+    Returns:
+        Extracted and normalized text as a string
+    """
+    if dl_type == "rss":
+        source_list = _get_rss_text(url, selector, verify)
+    else:
+        source_list = _get_html_text(url, selector, verify, dl_type)
 
     unique_source_list = list(set(source_list))
     log.debug("Unsorted:")
