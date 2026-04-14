@@ -124,7 +124,7 @@ try:
             text_file = TEXTS_DIR / filename
 
             # Get new text from website
-            new_text = wh.get_website_text(r["url"], r["selector"], verify, r["type"])
+            new_text, notification_url = wh.get_website_text(r["url"], r["selector"], verify, r["type"])
             log.debug(f"  New text length: {len(new_text)}")
 
             # Read old text if it exists
@@ -149,7 +149,7 @@ try:
                 f.write(new_text)
 
             diff = diff_preview(old_text, new_text)
-            msg = f"🟢 Website changed: [{row['label']}]({row['url']})"
+            msg = f"🟢 Website changed: [{row['label']}]({notification_url})"
             if diff:
                 escaped_diff = escape_markdown_v2_code(diff)
                 msg += f"\n\n```\n{escaped_diff}\n```"

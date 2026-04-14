@@ -49,7 +49,7 @@ if not verify:
 wait = int(arguments["--wait"])
 old_hash = ""
 while True:
-    new_hash = wh.get_website_hash(url, selector, verify)
+    new_hash, _ = wh.get_website_hash(url, selector, verify)
     log.info(f"Hash: {new_hash}")
     if old_hash != new_hash:
         log.info("Hash changed!")
