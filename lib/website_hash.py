@@ -3,19 +3,20 @@
 """Hash of a website selector
 
 Usage:
-  website_hash.py --url <url-of-website> [--selector <css-selector>] [--output <path>] [--type <type>] [--verbose] [--no-verify]
+  website_hash.py --url <url-of-website> [--selector <css-selector>] [--output <path>] [--type <type>] [--notify-url-output <path>] [--verbose] [--no-verify]
   website_hash.py (-h | --help)
   website_hash.py --version
 
 Options:
-  -h, --help                    Show this screen.
-  --version                     Show version.
-  -u, --url <url-of-website>    URL of the website to monitor.
-  -s, --selector <css-selector> CSS selector to check for changes [default: body].
-  -t, --type <type>             Type of website, one of: static, dynamic, rss [default: static].
-  -o, --output <path>           Save the selector output to a file.
-  --verbose                     Option to enable more verbose output.
-  --no-verify                   Option to disable SSL verification for requests.
+  -h, --help                              Show this screen.
+  --version                               Show version.
+  -u, --url <url-of-website>              URL of the website to monitor.
+  -s, --selector <css-selector>           CSS selector to check for changes [default: body].
+  -t, --type <type>                       Type of website, one of: static, dynamic, rss [default: static].
+  -o, --output <path>                     Save the selector output to a file.
+  -n, --notify-url-output <path>          Save the notification URL to a file.
+  --verbose                               Option to enable more verbose output.
+  --no-verify                             Option to disable SSL verification for requests.
 """
 
 
@@ -51,13 +52,20 @@ def _get_rss_text(url, selector, verify):
         verify: Whether to verify SSL certificates
 
     Returns:
-        Extracted and normalized text as a string
+        Tuple of (source_list, entry_link) where source_list is a list of
+        extracted text strings and entry_link is the link from the first
+        RSS entry (or the feed URL if no entry link is available).
     """
     feed = dl.download_rss(url, verify=verify)
 
     if feed.bozo and not feed.entries:
         log.error(f"Failed to parse feed at {url}: {feed.bozo_exception}")
         sys.exit(1)
+
+    # Extract the link from the first (newest) entry for notifications
+    entry_link = url
+    if feed.entries:
+        entry_link = feed.entries[0].get("link", url)
 
     # Determine which fields to extract from each entry
     fields = [f.strip() for f in selector.split(",")]
@@ -79,7 +87,7 @@ def _get_rss_text(url, selector, verify):
         log.error(f"No entries found in feed at {url}")
         sys.exit(1)
 
-    return source_list
+    return source_list, entry_link
 
 
 def _get_html_text(url, selector, verify, dl_type):
@@ -126,10 +134,14 @@ def get_website_text(url, selector, verify, dl_type="static"):
         dl_type: Type of download (static, dynamic, or rss)
 
     Returns:
-        Extracted and normalized text as a string
+        Tuple of (source_text, notification_url) where source_text is the
+        extracted and normalized text, and notification_url is the URL to use
+        in notifications (for RSS feeds, this is the first entry's link;
+        for other types, this is the original URL).
     """
+    notification_url = url
     if dl_type == "rss":
-        source_list = _get_rss_text(url, selector, verify)
+        source_list, notification_url = _get_rss_text(url, selector, verify)
     else:
         source_list = _get_html_text(url, selector, verify, dl_type)
 
@@ -142,7 +154,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
     log.debug(pformat(unique_source_list))
 
     source_text = "\n".join(unique_source_list)
-    return source_text
+    return source_text, notification_url
 
 
 def get_website_hash(url, selector, verify, dl_type="static", output=None):
@@ -156,14 +168,17 @@ def get_website_hash(url, selector, verify, dl_type="static", output=None):
         output: Optional file path to save the extracted text
 
     Returns:
-        SHA256 hash of the extracted text
+        Tuple of (hash, notification_url) where hash is the SHA256 hash of
+        the extracted text, and notification_url is the URL to use in
+        notifications (for RSS feeds, this is the first entry's link;
+        for other types, this is the original URL).
     """
-    source_text = get_website_text(url, selector, verify, dl_type)
+    source_text, notification_url = get_website_text(url, selector, verify, dl_type)
     if output:
         with open(output, "w", encoding="utf-8") as f:
             f.write(source_text)
     new_hash = hashlib.sha256(source_text.encode("utf-8")).hexdigest()
-    return new_hash
+    return new_hash, notification_url
 
 
 if __name__ == "__main__":
@@ -185,10 +200,15 @@ if __name__ == "__main__":
     dl_type = arguments["--type"]
     verify = not arguments["--no-verify"]
     output = arguments["--output"]
+    notify_url_output = arguments["--notify-url-output"]
 
     if not verify:
         urllib3.disable_warnings()
 
-    new_hash = get_website_hash(url, selector, verify, dl_type, output)
+    new_hash, notification_url = get_website_hash(url, selector, verify, dl_type, output)
     log.info(f"Hash: {new_hash}")
+    log.info(f"Notification URL: {notification_url}")
+    if notify_url_output:
+        with open(notify_url_output, "w", encoding="utf-8") as f:
+            f.write(notification_url)
     print(new_hash)

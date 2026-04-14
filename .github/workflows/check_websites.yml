@@ -133,10 +133,19 @@ jobs:
           # Get new text from website
           mkdir -p text
           mkdir -p hashes
-          new_hash=$(uv run ./lib/website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${safe_label}.txt --verbose)
+          new_hash=$(uv run ./lib/website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${safe_label}.txt -n text/${safe_label}_notify_url.txt --verbose)
           echo "New hash: $new_hash"
           echo $new_hash > hashes/${{ matrix.hash }}.txt
           echo "new_hash=$new_hash" >> $GITHUB_OUTPUT
+          
+          # Read the notification URL (falls back to matrix URL if file doesn't exist)
+          if [ -f "text/${safe_label}_notify_url.txt" ]; then
+            notify_url=$(cat "text/${safe_label}_notify_url.txt")
+          else
+            notify_url="${{ matrix.url }}"
+          fi
+          echo "Notification URL: $notify_url"
+          echo "notify_url=$notify_url" >> $GITHUB_OUTPUT
           
           # Compare with existing text file if it exists
           if [ -f "texts/${safe_label}.txt" ]; then
@@ -197,7 +206,7 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           format: markdown
           message: |
-            🟢 Website hat Änderungen: [${{matrix.label }}](${{ matrix.url }})
+            🟢 Website hat Änderungen: [${{matrix.label }}](${{ steps.website.outputs.notify_url }})
 
             ```
             ${{ steps.preview.outputs.text }}
@@ -237,7 +246,7 @@ jobs:
               'diff_preview': sys.argv[4]
           }
           print(json.dumps(entry, ensure_ascii=False))
-          " "${{ matrix.label }}" "${{ matrix.url }}" "$csv_source" "${{ steps.preview.outputs.text }}" > "notifications/${safe_label}.jsonl"
+          " "${{ matrix.label }}" "${{ steps.website.outputs.notify_url }}" "$csv_source" "${{ steps.preview.outputs.text }}" > "notifications/${safe_label}.jsonl"
 
       - name: Upload hash as artifact
         if: ${{ always() && steps.label.outputs.safe_label != '' }}
