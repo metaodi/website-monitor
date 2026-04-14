@@ -52,9 +52,10 @@ def _get_rss_text(url, selector, verify):
         verify: Whether to verify SSL certificates
 
     Returns:
-        Tuple of (source_list, entry_link) where source_list is a list of
-        extracted text strings and entry_link is the link from the first
-        RSS entry (or the feed URL if no entry link is available).
+        Tuple of (source_list, notification_link) where source_list is a list of
+        extracted text strings and notification_link is the channel link from the
+        feed (or the first entry's link if no channel link is available, or the
+        feed URL as a last resort).
     """
     feed = dl.download_rss(url, verify=verify)
 
@@ -62,10 +63,12 @@ def _get_rss_text(url, selector, verify):
         log.error(f"Failed to parse feed at {url}: {feed.bozo_exception}")
         sys.exit(1)
 
-    # Extract the link from the first (newest) entry for notifications
-    entry_link = url
-    if feed.entries:
-        entry_link = feed.entries[0].get("link", url)
+    # Prefer the channel-level link; fall back to the first entry's link
+    notification_link = feed.feed.get("link", "")
+    if not notification_link and feed.entries:
+        notification_link = feed.entries[0].get("link", "")
+    if not notification_link:
+        notification_link = url
 
     # Determine which fields to extract from each entry
     fields = [f.strip() for f in selector.split(",")]
@@ -87,7 +90,7 @@ def _get_rss_text(url, selector, verify):
         log.error(f"No entries found in feed at {url}")
         sys.exit(1)
 
-    return source_list, entry_link
+    return source_list, notification_link
 
 
 def _get_html_text(url, selector, verify, dl_type):
@@ -136,7 +139,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
     Returns:
         Tuple of (source_text, notification_url) where source_text is the
         extracted and normalized text, and notification_url is the URL to use
-        in notifications (for RSS feeds, this is the first entry's link;
+        in notifications (for RSS feeds, this is the channel link;
         for other types, this is the original URL).
     """
     notification_url = url
@@ -170,7 +173,7 @@ def get_website_hash(url, selector, verify, dl_type="static", output=None):
     Returns:
         Tuple of (hash, notification_url) where hash is the SHA256 hash of
         the extracted text, and notification_url is the URL to use in
-        notifications (for RSS feeds, this is the first entry's link;
+        notifications (for RSS feeds, this is the channel link;
         for other types, this is the original URL).
     """
     source_text, notification_url = get_website_text(url, selector, verify, dl_type)
