@@ -77,6 +77,7 @@ def _get_rss_text(url, selector, verify):
 
     source_list = []
     for entry in feed.entries:
+        log.debug(entry)
         parts = []
         for field in fields:
             value = entry.get(field, "")
