@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 "Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,1ccf6e3d32b6b3d01aca8af091a7821ad8064221946d75f8b3948bb98feff1e4
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,992afb9eb9408e8628e1bbcc521f7d0bc797e15461b656b7075161a070e4f3c8
+"Digitales Amtsblatt Rüschlikon",yes,1,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,992afb9eb9408e8628e1bbcc521f7d0bc797e15461b656b7075161a070e4f3c8
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,262e41f3d92e47bb4e3f6fd29f0209fe86e836eb56a8bb7b966f64d7dcd8ab1f
 "EVP Rüschlikon",no,18,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,93462c0778e7b400366cfc681d6931f72c2adbd23ef3af9ef260c1906f1489b9
