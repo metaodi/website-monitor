@@ -34,26 +34,33 @@ class TestGetHtmlTextStatic:
     def test_body_selector(self, mock_download, static_simple_html):
         mock_download(static_html=static_simple_html)
         result = wh._get_html_text("https://example.com", "body", True, "static")
-        assert len(result) == 1
-        assert "Hello World" in result[0]
-        assert "test paragraph" in result[0]
+        # Each stripped string is a separate entry
+        assert len(result) == 3
+        assert "Hello World" in result
+        assert "This is a test paragraph." in result
+        assert "Sidebar content" in result
 
     def test_css_selector(self, mock_download, static_simple_html):
         mock_download(static_html=static_simple_html)
         result = wh._get_html_text("https://example.com", ".content", True, "static")
-        assert len(result) == 1
-        assert "Hello World" in result[0]
+        # Each stripped string is a separate entry
+        assert len(result) == 2
+        assert "Hello World" in result
+        assert "This is a test paragraph." in result
         # Sidebar content should not be included
-        assert "Sidebar" not in result[0]
+        assert "Sidebar content" not in result
 
     def test_multiple_matches(self, mock_download, static_multi_html):
         mock_download(static_html=static_multi_html)
         result = wh._get_html_text("https://example.com", "article", True, "static")
-        assert len(result) == 3
-        texts = " ".join(result)
-        assert "Article 1" in texts
-        assert "Article 2" in texts
-        assert "Article 3" in texts
+        # Each stripped string from each article is a separate entry
+        assert len(result) == 6
+        assert "Article 1" in result
+        assert "First article content." in result
+        assert "Article 2" in result
+        assert "Second article content." in result
+        assert "Article 3" in result
+        assert "Third article content." in result
 
     def test_selector_not_found_exits(self, mock_download, static_simple_html):
         mock_download(static_html=static_simple_html)
@@ -74,8 +81,9 @@ class TestGetHtmlTextDynamic:
     def test_dynamic_uses_selenium_mock(self, mock_download, static_simple_html):
         mock_download(static_html=static_simple_html)
         result = wh._get_html_text("https://example.com", "body", True, "dynamic")
-        assert len(result) == 1
-        assert "Hello World" in result[0]
+        # Each stripped string is a separate entry, same as static
+        assert len(result) == 3
+        assert "Hello World" in result
 
 
 # ---------------------------------------------------------------------------
