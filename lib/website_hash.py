@@ -71,9 +71,9 @@ def _get_rss_text(url, selector, verify):
         notification_link = url
 
     # Determine which fields to extract from each entry
-    fields = [f.strip() for f in selector.split(",")]
-    if not fields:
-        fields = ["title", "description"]
+    fields = ["title", "summary"]
+    if selector:
+        fields = [f.strip() for f in selector.split(",")]
 
     source_list = []
     for entry in feed.entries:
