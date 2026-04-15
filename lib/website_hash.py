@@ -128,7 +128,9 @@ def _get_html_text(url, selector, verify, dl_type):
     source_list = []
     for elem in as_list:
         parts = [_normalize_text(t) for t in elem.stripped_strings]
-        source_list.extend(parts)
+        text = " ".join(parts)
+        if text:
+            source_list.append(text)
 
     return source_list
 
