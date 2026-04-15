@@ -42,6 +42,12 @@ def _normalize_text(text):
     return text
 
 
+def _strip_html(text):
+    """Strip HTML tags from text using BeautifulSoup, returning cleaned text."""
+    soup = BeautifulSoup(text, "html.parser")
+    return soup.stripped_strings
+
+
 def _get_rss_text(url, selector, verify):
     """Extract text from an RSS/Atom feed.
 
@@ -82,7 +88,7 @@ def _get_rss_text(url, selector, verify):
         for field in fields:
             value = entry.get(field, "")
             if value:
-                parts.append(str(value))
+                parts.extend(_strip_html(str(value)))
         text = _normalize_text(" ".join(parts))
         if _WORD_RE.search(text):
             source_list.append(text)
@@ -121,9 +127,8 @@ def _get_html_text(url, selector, verify, dl_type):
 
     source_list = []
     for elem in as_list:
-        text = _normalize_text("\n".join(elem.stripped_strings))
-        if _WORD_RE.search(text):
-            source_list.append(text)
+        parts = [_normalize_text(t) for t in elem.stripped_strings]
+        source_list.extend(parts)
 
     return source_list
 
