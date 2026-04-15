@@ -10,7 +10,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Matteo Pintonello - Startseite",yes,0,https://pintonello.ch/,#page-zones__main,static,no,194931904a5d16eb9ec3a6fdf6f078bd4a7847a3378d5b832a96f1d9b00796c4
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,23f82b6c69567648236265afe09243f928e651a88d9334b0473702276a13f8e0
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,e35ad2c646d9d0ceb86ecf74196799b73b8b9b247b62f7ab31172e5ec206afd8
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,f78bcb947d860bf5de36586a8db8aa3dabab0e178bfcb80d050c90b3a6c9c9f2
+"Rüschlikon - News",yes,1,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,f78bcb947d860bf5de36586a8db8aa3dabab0e178bfcb80d050c90b3a6c9c9f2
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,91bca4b014aaa8d93b3c627089f536601035bae1553ba1c4ea06f60f771c07ec
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/,"nav, .content",static,no,6a824377abfda4b579bc9cbb090422bd6487b19ee89af870e182dfe3cb07bd40
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,4cad3c8cf958b4bb6678957b6309efaf47a17f1e7170a2c7ce320b420138a1e9
