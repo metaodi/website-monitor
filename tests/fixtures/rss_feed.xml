@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test Blog</title>
+    <link>https://example.com/blog</link>
+    <description>A test blog feed</description>
+    <item>
+      <title>First Post</title>
+      <link>https://example.com/blog/first-post</link>
+      <description>This is the &lt;b&gt;first&lt;/b&gt; post.</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>https://example.com/blog/second-post</link>
+      <description>This is the second post.</description>
+    </item>
+  </channel>
+</rss>
