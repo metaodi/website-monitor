@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>No Link Blog</title>
+    <description>A feed without a channel link</description>
+    <item>
+      <title>Only Post</title>
+      <link>https://example.com/blog/only-post</link>
+      <description>This is the only post.</description>
+    </item>
+  </channel>
+</rss>

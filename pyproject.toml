@@ -13,3 +13,12 @@ dependencies = [
     "selenium>=4.27.1",
     "selenium-screenshot>=3.0.0",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.5",
+    "responses>=0.25.7",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
