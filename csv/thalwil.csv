@@ -1,19 +1,19 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Liveticker Thalwil",no,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,651dca37521891f894a3808ae9ac2508b473b5b47932e7d36a6da9303909a2eb
-"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,cdfb6e819858e219142735c43fe9dac8d1614f31e2856a5db54da961f8b769c9
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,7df9354cbae0792307d7fb5ac867a177826a466ff0f6243a2d2a117af3d42266
+"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,edc313cc37cb77b24610a1a13d714e4df7eb0fdd911de169f569e69d58821d45
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,5caf57e93f5924920c25ffae4bc57ba9c747b0e1f74587dc661f46390b7126d8
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,4e6dd5d3cc7f27ab96aa0bfda961d210674337b6647c01daca693011485c5f2b
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,f15bce150aace756b3ba5b643403e84615343e852a1f3f30a52ea6c32bb165b3
 "GLP Thalwil",no,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,d6ee083f891e7778352d2c29420fe214534a0690a6f8e961371945958b5f54c1
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,a25f344a62a62e589430104160eb51fc90bf59b37d9c7b1246eed9d5857fdeab
-"HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,02c5e61263798805706e5758f8be6e1ada478a02895d15783228d5e36b725bf3
+"HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,90b01c590b8ab694d1e127f9289d09351a910098404f131320c64a7b6137ba57
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,c82a67295d44bae50f893784f29ca9e3c7235a2aadcf461f17bd4a34c5fad1ee
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,c63c7b1688fbb0a43397a3a60212e890f4adc332b1e4b07b162c889ae3ed52c6
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,8b6407b947b98e895822aeac311c598ce3f17172f383fe8c280daa833c8d5837
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,3efa5b2fd67fcce8521118419c6696013b2b98690d98fd97672d689bf9e9e25a
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,11f510af8816f524bfd7c33709826de17ca5a7a9e24797ac9f62d8461d4ca625
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,19672bb847606a880bd5b0d2766c193b99d0ca886dd0505badd979840c8bb5af
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,060e1d6ac5ad439dfb40421a009b98d8fab1e28c033f6def9113581f89ae4bea
 "Zimmerberg Online Thalwil",yes,0,https://zimmerberg.online/rubrik/thalwil/feed/,"",rss,no,45545a45253823a6daa48f44132b6a3bbcaac842cec09920b42dfa585b65ddbe
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,f93d59f1366b81c414ec2f038d70004ede3fc3c54031e0ec75349757055f2c45
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,bbf00a9653e9f7c0a1c65a0b0950df289672ce08a13558a258fd43318be09263
