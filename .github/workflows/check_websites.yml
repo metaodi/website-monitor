@@ -199,7 +199,7 @@ jobs:
           } >> $GITHUB_OUTPUT
 
       - name: Notify telegram about website changes
-        if: steps.website.outputs.text_changed == 'true'
+        if: steps.website.outputs.text_changed == 'true' && steps.preview.outputs.text != ''
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -229,7 +229,7 @@ jobs:
             🔴 [Website-Check für «${{ matrix.label }}» fehlgeschlagen](https://github.com/metaodi/website-monitor/actions/runs/${{ github.run_id }}?check_suite_focus=true)
       
       - name: Log notification
-        if: steps.website.outputs.text_changed == 'true'
+        if: steps.website.outputs.text_changed == 'true' && steps.preview.outputs.text != ''
         run: |
           mkdir -p notifications
           safe_label="${{ steps.label.outputs.safe_label }}"
