@@ -10,11 +10,11 @@ label,active,error_count,url,selector,type,proxy,hash
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,c82a67295d44bae50f893784f29ca9e3c7235a2aadcf461f17bd4a34c5fad1ee
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,c63c7b1688fbb0a43397a3a60212e890f4adc332b1e4b07b162c889ae3ed52c6
-"Pfadi Thala Wölfli Walhalla",yes,2,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,8b6407b947b98e895822aeac311c598ce3f17172f383fe8c280daa833c8d5837
+"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,8b6407b947b98e895822aeac311c598ce3f17172f383fe8c280daa833c8d5837
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,3efa5b2fd67fcce8521118419c6696013b2b98690d98fd97672d689bf9e9e25a
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,11f510af8816f524bfd7c33709826de17ca5a7a9e24797ac9f62d8461d4ca625
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,c0cf87bd1e5e5f24c36a684ba152ed1235d3ec445fe412ae70fc19328ea91374
-"Zimmerberg Online Thalwil",yes,0,https://zimmerberg.online/rubrik/thalwil/feed/,"",rss,no,05ff59291b896327d42796b4175cdca7c30bf1d9c6b48d4e076f9584510236ea
+"Zimmerberg Online Thalwil",yes,0,https://zimmerberg.online/rubrik/thalwil/feed/,"",rss,no,1515b8b0cf9875ddb17d5da30edbf5ea14e15652f8c889e016027437373b09ad
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,f93d59f1366b81c414ec2f038d70004ede3fc3c54031e0ec75349757055f2c45
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,bbf00a9653e9f7c0a1c65a0b0950df289672ce08a13558a258fd43318be09263
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
