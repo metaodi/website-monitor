@@ -24,7 +24,7 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,9abb5a626f98
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,1ce883f8f40aab623973d3d70ab906734e5b239f07fea75e08a209dd2b1689cc
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,6bb6d19a7d01b2ba1e214dec99d83db4226b62080a7295c37f683ddfe74c1a95
 VStA,yes,0,https://www.vsta.ch/,article,static,no,2972a1f53fab655c961e47f6e831cfaec1faa2f94d86fae13457f53c410afe14
-"Wahlarchiv Kanton Zürich",yes,1,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,b59ae7f46309f87febed2df5a5d0e7d55c479a260053356954af1fa9a09c3b82
-"Zimmerberg Online",yes,0,https://zimmerberg.online/feed/,"",rss,no,5022d8593af40e7896bc8c0a85407d1b689c990fcf18b5ea938695970581b408
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,b59ae7f46309f87febed2df5a5d0e7d55c479a260053356954af1fa9a09c3b82
+"Zimmerberg Online",yes,0,https://zimmerberg.online/feed/,"",rss,no,d8bcbc3dec9da51cec55d8e5d5b926a42221024275febc33244cd0349480cf73
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,f93d59f1366b81c414ec2f038d70004ede3fc3c54031e0ec75349757055f2c45
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
