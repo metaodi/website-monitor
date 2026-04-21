@@ -2,7 +2,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Liveticker Thalwil",no,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,26da7b9a9cd0db4b700e95e6103de32ac6bf9b9ceba42855b57f81e78cb98733
 "Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,b2b60154f28d22dc4e5588b4f6f2e24d226b83d965cf9c0af9591c2631837fd3
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,dc5011f22d89237556295b967bdb8c60c63bb9440702bd365f3ab357d08528aa
-"EVP Thalwil",yes,1,https://evp-thalwil.ch/home,#main,static,no,2cf60b7eeb9bafad108c0ffb11e5697e898db8188a9e28763750938e2a31194e
+"EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,2cf60b7eeb9bafad108c0ffb11e5697e898db8188a9e28763750938e2a31194e
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,f15bce150aace756b3ba5b643403e84615343e852a1f3f30a52ea6c32bb165b3
 "GLP Thalwil",no,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,b9b1721e6ff03cbca7930f178ede6f900f91d0c6f614e9787bc9f242d2d722a8
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,a25f344a62a62e589430104160eb51fc90bf59b37d9c7b1246eed9d5857fdeab
