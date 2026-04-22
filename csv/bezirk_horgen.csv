@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,b14c64cda351d4575c97364fc2fef399326b82ee06d72647365c7fa1d422ba91
+"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,f08cad9ec9eceba70a590b1edc4a38c8ae454bce58c4c879cc5d9c2481f4b945
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,17c7b57a1902de7be09ba319c0f5d5b23d762b27ea787e94fdade519247f6939
-Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,f139f4944065fa1d96facbe6b7e482267c17cde867a4d0bda156b28c9e454f38
+Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,73577316467ff58ed96b391c3d1325b3af34eb1e5128888efff5fdc55a752bfd
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,12b892734118833b9352006261abb72759782cd3d1e9252a720f6f2a95506152
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,yes,f8628549895d5f857f455b67433fe10d703fa3fccbddcc0d769ef6781dc4663f
