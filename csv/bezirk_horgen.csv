@@ -25,6 +25,6 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,9abb5a626f98
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,ea8951fb61af040e9b2e218750130547fb6eff03c2794041cd34e8f86bd29c96
 VStA,yes,0,https://www.vsta.ch/,article,static,no,2972a1f53fab655c961e47f6e831cfaec1faa2f94d86fae13457f53c410afe14
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,b59ae7f46309f87febed2df5a5d0e7d55c479a260053356954af1fa9a09c3b82
-"Zimmerberg Online",yes,4,https://zimmerberg.online/feed/,"",rss,no,6846dc217feb660863512a53994d48a94fd8a2d02d5419596527f2248a6e54c2
+"Zimmerberg Online",yes,5,https://zimmerberg.online/feed/,"",rss,no,6846dc217feb660863512a53994d48a94fd8a2d02d5419596527f2248a6e54c2
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
