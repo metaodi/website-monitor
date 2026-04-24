@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,a719a27afa3cc62c435d43cb29ffffb36f4c8bcf90807eb4434216ec0352778d
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,f8028d1e1259f317babc43809ef3dc87fc29792f32e8de61be4b214e0622d47c
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,3e08050733149b227c32a7ee6bf1cf41e33195fcaa2ec5b6ba58c59e1e515844
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,73577316467ff58ed96b391c3d1325b3af34eb1e5128888efff5fdc55a752bfd
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,12b892734118833b9352006261abb72759782cd3d1e9252a720f6f2a95506152
@@ -25,6 +25,6 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,9abb5a626f98
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,ea8951fb61af040e9b2e218750130547fb6eff03c2794041cd34e8f86bd29c96
 VStA,yes,0,https://www.vsta.ch/,article,static,no,2972a1f53fab655c961e47f6e831cfaec1faa2f94d86fae13457f53c410afe14
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,b59ae7f46309f87febed2df5a5d0e7d55c479a260053356954af1fa9a09c3b82
-"Zimmerberg Online",yes,5,https://zimmerberg.online/feed/,"",rss,no,6846dc217feb660863512a53994d48a94fd8a2d02d5419596527f2248a6e54c2
+"Zimmerberg Online",yes,6,https://zimmerberg.online/feed/,"",rss,no,6846dc217feb660863512a53994d48a94fd8a2d02d5419596527f2248a6e54c2
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
