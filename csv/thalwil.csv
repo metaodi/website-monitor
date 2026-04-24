@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Liveticker Thalwil",no,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,26da7b9a9cd0db4b700e95e6103de32ac6bf9b9ceba42855b57f81e78cb98733
-"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,4163d57a9c806c7f55decf02c40dd0dd8ef050b4a58e0893b94eace73c1b51db
+"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,d3ade44074ceb58b75b799c646cc0a5f1b6aca44d0b4a30fb016343895c28684
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,aca40d964db2142f1e7b16e3a858c909a4eb51ef976d0815e73788666b572e0a
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,2cf60b7eeb9bafad108c0ffb11e5697e898db8188a9e28763750938e2a31194e
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,f15bce150aace756b3ba5b643403e84615343e852a1f3f30a52ea6c32bb165b3
@@ -14,7 +14,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,3efa5b2fd67fcce8521118419c6696013b2b98690d98fd97672d689bf9e9e25a
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,11f510af8816f524bfd7c33709826de17ca5a7a9e24797ac9f62d8461d4ca625
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,b44b587b109b1cdcae97e0b003e0bf6dc3caa6b88b732d9816d98711f77ec63e
-"Zimmerberg Online Thalwil",yes,13,https://zimmerberg.online/rubrik/thalwil/feed/,"",rss,no,03e15f2ecd71bcf2f36a31bbae5b1493a8259cbc6d53ea59981c60ad8dcc4877
+"Zimmerberg Online Thalwil",yes,14,https://zimmerberg.online/rubrik/thalwil/feed/,"",rss,no,03e15f2ecd71bcf2f36a31bbae5b1493a8259cbc6d53ea59981c60ad8dcc4877
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,bbf00a9653e9f7c0a1c65a0b0950df289672ce08a13558a258fd43318be09263
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
