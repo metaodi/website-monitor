@@ -12,7 +12,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,e35ad2c646d9d0ceb86ecf74196799b73b8b9b247b62f7ab31172e5ec206afd8
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,7bbbf584ce5a04b895332548c62991e4ebf51529caaa3e5a6cc6d6b7eb141654
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,91bca4b014aaa8d93b3c627089f536601035bae1553ba1c4ea06f60f771c07ec
-"SVP Rüschlikon",yes,1,https://www.svp-rueschlikon.ch/,"nav, .content",static,no,6a824377abfda4b579bc9cbb090422bd6487b19ee89af870e182dfe3cb07bd40
+"SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/,"nav, .content",static,no,6a824377abfda4b579bc9cbb090422bd6487b19ee89af870e182dfe3cb07bd40
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,4cad3c8cf958b4bb6678957b6309efaf47a17f1e7170a2c7ce320b420138a1e9
 "Zimmerberg Online Rüschlikon",no,0,https://zimmerberg.online/rubrik/rueschlikon/feed/,"",rss,no,b20ab8de8e471f5b2ad405c75d1dfa557a528b5b758dad65126312f52ccb1887
 "ZPZ Agenda Rüschlikon",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
