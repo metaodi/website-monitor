@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,24f34b974e01739895fa44eff65147f9236ad4256aa1a37388bedb29809365aa
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,21c8cf495a6548b27cf161544555baab1df1e0df1b01ff1af1af6f2810add32f
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,8f9ac466c7cb3e750f2a35e5ae369753d8ffb701ce4bb25c076f6962c5b25fa6
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,73577316467ff58ed96b391c3d1325b3af34eb1e5128888efff5fdc55a752bfd
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,9be492271a5bc76fa90395b1a5672647192c9bafd6098fc51e75f8cfd6b8a027
@@ -17,7 +17,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,73577316467ff
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,4cc560f095bdf8ee648064e606ff3a2feeddd64f7d2776b297ba07b403f937fe
-"TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,5ac2004457287614c0653f5cbc69322bebbf3e18518005266b6becc6e254fc57
+"TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,bce0875afba0b77e1957446724d96d0932050d2c22075e40a251fffc0c7e7752
 Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,8e1959cf98098989d378bd2e408d441c610459b9a534fb4e78cef164c28c22b0
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,db4b7ec3a2a4b38e9de583e08e655a83348d912cbcbdf4802684dcb6812e404b
