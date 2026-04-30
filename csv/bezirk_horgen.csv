@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,24f34b974e01739895fa44eff65147f9236ad4256aa1a37388bedb29809365aa
+"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,970af368ea5fbb6f540e6b4f9abf7ecb2150a4a6ca625de5533e2522035205bf
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,cb412c1ba21900b60f0ba056e6a7b11d4e1e938d324dfac541592bb4edb3791e
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,73577316467ff58ed96b391c3d1325b3af34eb1e5128888efff5fdc55a752bfd
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
@@ -8,7 +8,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,73577316467ff
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,9a50e9c26db6242d3ea45b2d327ba6bbd463506f4a205dd538b7f118f45f6773
 "GLP Bezirk Horgen",no,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,c0e044c0dcf70954994fb02b895fa62b3bb805b693752dda1faefd92b12d5256
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,cb3cb28578fb6a77b94073fe29193766731584746f0b47fa116c680f3143e87c
-"Grüne Kanton Zürich",yes,1,https://gruene-zh.ch,.front__article,dynamic,no,1e2429169f222890eaea6a3a05e12470db9145dff431c8c4eec399a8d7f7aac2
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,dynamic,no,1e2429169f222890eaea6a3a05e12470db9145dff431c8c4eec399a8d7f7aac2
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,a68b63a9750233091159bd88633caad5bac1acf458a03f0781edcb2efc549ade
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,b5190f1bc7fdc7b853a559ab7aed70931712fb4a4160608a032d21da66505167
