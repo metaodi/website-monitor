@@ -65,7 +65,9 @@
 8090 Zürich
 Abmelden
 Adresse
+Adresse konnte nicht kopiert werden
 Adresse kopieren
+Adresse wurde kopiert
 Aktiver Chat
 Alle anzeigen
 Anmelden
@@ -79,6 +81,7 @@ Ausgeblendete Navigationsebenen
 BG Hinwil - Erneuerungswahl Bezirksgericht Hinwil, Amtsdauer 2014–2020, Ergebnis
 BG Hinwil - Ersatzwahl Mitglied Bezirksgericht Hinwil, Vollamt, 2008–2014
 BG Zürich - Erneuerungswahl Bezirksgericht Zürich, Amtsdauer 2014–2020, Ergebnis 1. Wahlgang
+Beim Laden der Daten ist ein Fehler aufgetreten!
 Bez. Affoltern - Erneuerungswahlen Bezirksbehörden 2013–2017, Ersatzmitglied Bezirksrat, 2. Wahlgang, Ergebnis
 Bezirk Affoltern - Bezirksrat, zwei Mitglieder, ein Ersatzmitglied, Amtsdauer 2013–2017, Erneuerungswahl, Ergebnis 1. Wahlgang
 Bezirk Andelfingen - Bezirksrat, zwei Mitglieder, Amtsdauer 2013–2017, Erneuerungswahl, Ergebnis 1. Wahlgang
