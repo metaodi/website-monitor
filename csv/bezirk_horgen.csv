@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,1e609e81117b0f26eb4b0865d9b5fe315dc61bdc2baf8ac605f2dc1d8c9d98ee
+"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,1116f77dae0aa5596bd1f8f8fe865ad5353668ab64e3dea9c4649b4c01eb1993
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,d82f652cdea9c997d414534ff70ffd3bf249a2f4ae0f6fe36c843b58f62bc9b9
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,b5339c831a420e484bc6c3324edf5f8c5b1b62950f5be80388ba81d83276985c
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
@@ -12,13 +12,13 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,b5339c831a420
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,a68b63a9750233091159bd88633caad5bac1acf458a03f0781edcb2efc549ade
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,b5190f1bc7fdc7b853a559ab7aed70931712fb4a4160608a032d21da66505167
-"SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,80d83de07d0164e8b2ae103234ebcf74072d1af2059e73fba599969a5f0531be
+"SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,dbc80bfa17589e92543679bac61e40667e9e20865a872b81ae7763a40a9e60bf
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,4127a93a4dcd298853de8b838c2620f8d2035cfd9562abe397183428607da6ea
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,e5a4fe2e8f9035edad0b6e986315bc1dc781fb56a5263f0ef86f87f4a9b20133
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,bce0875afba0b77e1957446724d96d0932050d2c22075e40a251fffc0c7e7752
-Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,0f6e59d2615526f27e29894a5a2e4e71ba4221fb76de113fc2c413c344bd18fa
+Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,bf94bba82376c2cef1fc69ecc42ce596bf1de8055e1226b0405d15fa98b37a71
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,5f9bb3c30d727f9d632e9256d1516e435888e9fb7c9f099cff04153c8e17edd1
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,1ce883f8f40aab623973d3d70ab906734e5b239f07fea75e08a209dd2b1689cc
