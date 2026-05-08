@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,12f1bb7c718f6c33603a01c13b0ebedb991ec2732382c180251510ec1b06400f
+"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,ba00d6cecf169166a93f732afb49c9698f50bda8bee7a8f40bc1ee8f77d90e0e
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,d571fa6f98209348f91b5e01b7a7fe80cb85e5fa44fcdbe742f1041c1a9d8434
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,b5339c831a420e484bc6c3324edf5f8c5b1b62950f5be80388ba81d83276985c
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
