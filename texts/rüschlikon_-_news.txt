@@ -9,10 +9,10 @@
 12.05.2026
 13.04.2026
 15.04.2026
+15.05.2026
 16.04.2026
 21.04.2026
 22.04.2026
-24.03.2026
 24.04.2026
 27.04.2026
 28.04.2026
@@ -22,6 +22,7 @@ Datum
 GRB 2026-045 Bahnhof Nord, Teilprojekt Bahnhofplatz und -strasse – Projektfestsetzung
 GRB 2026-058 Anschlussvertrag «Bildung Betreibungskreis Thalwil»
 GRB 2026-059 Gesamterneuerungswahlen der Gemeindebehörden für die Amtsdauer 2026-2030, Feststellung der Rechtskraft (Erwahrungsbeschluss)
+GRB 2026-074 Parkhalle Pilgerweg: Ertüchtigungsmassnahmen Statik und Brandschutz, Kostenfreigabe als gebundene Ausgabe
 Informationsveranstaltung Digitale Kriminalität und Telefonbetrug am 27. April
 KV-Schnuppernachmittag am 27. Mai
 Kostenloses Angebot: Neophytensack
@@ -35,7 +36,6 @@ Sprechstunde Gemeindepräsident am 7. Mai 2026
 Wechsel beim Amt des Gemeindeschreibers von Rüschlikon
 Zeitgenössischer Klang in historischem Haus
 Zürcher Zukunftspreis 2027
-Öffnungszeiten / Pikettdienste über Ostern
 Öffnungszeiten am Sechseläuten
 Öffnungszeiten am Tag der Arbeit
 Öffnungszeiten über Auffahrt
