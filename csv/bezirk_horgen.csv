@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,e821555ca67e2231f4cc88f6d9a28596c35b2a40768bcac374d6698ad06b70c2
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,437616de6355a13c3c39ab5cffb75c01474ce5975000f08cb0aa303da7ef111c
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,57dc70628aa3c06d17a7f9a80fb9182a79b2bef4f15f618cfc5740e2c7a4253c
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f62752feb5b39c0f535d04837a92eeb6aef50a4e0a811cf12ac8
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,cd60e8fc42c8fc26dc79ee381134161d3807a75707199eaa0e24a4982516556b
@@ -16,7 +16,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,ef59128df3025107a96992406f40f0a80666a68f602c6be8fabf21fae61a4f2c
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
-syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,45b76cdbc232ca7a82600691c6a8c5a596ab0026579cd79e27fa2830648def7c
+syndicom,yes,1,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,45b76cdbc232ca7a82600691c6a8c5a596ab0026579cd79e27fa2830648def7c
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,a9763b05ac504a3c693d1e3f88dc65496765451a88817335182ee5774a90c4d9
 Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,6efaeaa1e202200cc62edc1014523049c10bf351aad6fe3914b2e992122e99fb
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
