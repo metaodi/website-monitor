@@ -1,14 +1,14 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,e821555ca67e2231f4cc88f6d9a28596c35b2a40768bcac374d6698ad06b70c2
+"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,77b9f465893f6f71a84a3b760c119e1393d204106a49ed9e2c866c6a941d4584
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,c3c03af1f2a1a69ac5794a139c5fe1972f96ad054c64d1770339625559951a6b
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f62752feb5b39c0f535d04837a92eeb6aef50a4e0a811cf12ac8
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
-"EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,e161444858f7be8ca72de0cb281242901e48d58c0780f2a50c88271fafc86193
+"EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,0ba4de53a6f04a0915d2fac3bd073d20f7343a311056f64d4751a2b3593885c8
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,yes,f8628549895d5f857f455b67433fe10d703fa3fccbddcc0d769ef6781dc4663f
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,d3ca78d875d8ac1c413761e07fd45bf13546575723597cdbb8172cdbb23669a4
 "GLP Bezirk Horgen",no,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,c0e044c0dcf70954994fb02b895fa62b3bb805b693752dda1faefd92b12d5256
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,cb3cb28578fb6a77b94073fe29193766731584746f0b47fa116c680f3143e87c
-"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,dynamic,no,e499d9abcad8b2843223545f24453f7102e7d1872c8f52807c80a4f7064fa596
+"Grüne Kanton Zürich",yes,1,https://gruene-zh.ch,.front__article,dynamic,no,e499d9abcad8b2843223545f24453f7102e7d1872c8f52807c80a4f7064fa596
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,335f535386e2a5933f2d81870b662da528d611a59e5e85beaed85059331f50ca
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,b5190f1bc7fdc7b853a559ab7aed70931712fb4a4160608a032d21da66505167
