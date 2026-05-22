@@ -1,14 +1,14 @@
-Bauprojekt: , Herbstweg anstelle 68, 70, Zürich
+Bauprojekt: Bahnhofstrasse 43, Rüschlikon
 Bauprojekt: Geerenweg 4, Bassersdorf
 Kraftloserklärung Papier-Inhaberschuldbrief, lastend auf Grundbuchamt Thalwil Gemeinde Rüschlikon, Grundbuchblatt 3488, EGRID CH234077257002, Schlossstrasse 25, 3. Pfandstelle, Maximalzins von 10%
+Mutation ASFG Ausserschwyzer Fluggemeinschaft Wangen, Wangen (SZ)
 Mutation Agentura AG, Kilchberg (ZH)
 Mutation BWM AG, Freienbach
-Mutation Bank Julius Bär & Co. AG, Zürich
-Mutation Brönnimann Hoch- & Tiefbau AG, Rüschlikon
 Mutation Gherzi Textil Organisation AG, Zürich
 Mutation ISP Securities AG, Zürich
-Mutation Pensionsstiftung der Stiftung Zürcher Blutspendedienst SRK, Zürich
+Mutation Kirmes Software GmbH, Rüschlikon, neu TerraSol Bau GmbH, Affoltern am Albis
 Mutation Sharp Electronics (Schweiz) AG, Rüschlikon
+Mutation Starr International Foundation, Zug
 Mutation Swiss Life AG, Zürich
 Mutation UBS Switzerland AG, Zürich
 Mutation WÜST RELLSTAB SCHMID AG, dipl. Bauingenieure ETH/SIA, Schaffhausen
