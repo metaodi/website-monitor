@@ -5,7 +5,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,2659a2f4bb00159df46f118288a88d6031146650963de387bbb1a1ea79463a4f
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,c3a6cdb530bb6c7ef7f3e0f88d3dfbe842579233f4934a3acb73bf2fc6c06243
 "GLP Thalwil",no,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,b9b1721e6ff03cbca7930f178ede6f900f91d0c6f614e9787bc9f242d2d722a8
-"Grüne Thalwil",yes,1,https://gruene-thalwil.ch,article,dynamic,no,a25f344a62a62e589430104160eb51fc90bf59b37d9c7b1246eed9d5857fdeab
+"Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,a25f344a62a62e589430104160eb51fc90bf59b37d9c7b1246eed9d5857fdeab
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,f9161167f29f463bbda9aa5d99b0d464de90f66fb200fa18cac07088828a62e5
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,08d91c76408795a4c4d482568868759fdfe16f7f8839f54cafeb3e97e5469aaf
