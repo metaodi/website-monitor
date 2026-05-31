@@ -3,7 +3,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,08fdfae0b87a1b948dec9f96d2f08ba0e7b67c31c76c9d4b5a5465bb3525c70a
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,8ef9ee1cf68c4938b65259709b4afe3107c871345371c6f88661021d035df7f1
 "EVP Thalwil",yes,0,https://evp-thalwil.ch/home,#main,static,no,2659a2f4bb00159df46f118288a88d6031146650963de387bbb1a1ea79463a4f
-"FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,c3a6cdb530bb6c7ef7f3e0f88d3dfbe842579233f4934a3acb73bf2fc6c06243
+"FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,e571f67249aaecc1c867fa2da5c0ac2ef600828de3613ff971d3ce2a1a92c0a0
 "GLP Thalwil",no,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,b9b1721e6ff03cbca7930f178ede6f900f91d0c6f614e9787bc9f242d2d722a8
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,a25f344a62a62e589430104160eb51fc90bf59b37d9c7b1246eed9d5857fdeab
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,f9161167f29f463bbda9aa5d99b0d464de90f66fb200fa18cac07088828a62e5
