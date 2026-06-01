@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,b8a0c08a3c3d5c66dc9caee1727dedfe67399a26310073c695155fc6eeb360f8
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,e204492eacd51495a63076786c4230530d7bcd76eb01e0e98e9f7302ff4d491a
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,b64585a45a27e298d42fa6447ee9f6f203f3f8e6ee5061e1f6cb495d1d441fa7
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f62752feb5b39c0f535d04837a92eeb6aef50a4e0a811cf12ac8
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,1c63e35c99796b29c58ef669c50d44998cce58bcd1c9602435170bb531051216
@@ -18,7 +18,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,a4b2003dfee9876108d04a5e70043ccf6caba50605dc1ca05c8fb744ae414a2a
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,c2e6a916835c574e3a2be8e614d83070b5fa6344f83c0a837a2527629c9da13a
-Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,5d33ab2e234585295f72c238d443607eb9fcc4c1e421fb661b5abe37daa4eaeb
+Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,98786c540865cc1879cb67ac9c7b0d0d47e12189b34a0b7bcdfa1b6919c1ad69
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,b8bb7ddf9cc47cb8b3b245331a16c13996e54d707ede0ddef0e8a84245b47e51
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,a35f1c8e8a7b83f4db15e69a7ad63344c869181af1fa167b6afbac7fdac23ef9
