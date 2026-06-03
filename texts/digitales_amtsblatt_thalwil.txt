@@ -1,12 +1,8 @@
+Aufforderung nach Art. 152a Abs. 3 HRegV i.V.m. Art. 939 Abs. 1 OR, Handelsregisteramt des Kantons Zürich
+Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuch Thalwil Stockwerkeigentumseinheit Grundbuchblatt 1614, EGRID CH692077732416, und Grundbuchblatt 1653, EGRID CH412474207778, 8135 Langnau a.A., 1. Pfandstelle, Maximalzins von 7.5%, Miteigentumsanteil
 Bauprojekt: Bönistrasse 24, Thalwil
 Bauprojekt: Volkmarstrasse 5, Zürich
-Beschluss – Geschäftsreglement Sozialkommission – Änderungen per 1. Juli 2026, Thalwil
-Beschluss – Reglement Unterbringung von Personen aus dem Asylbereich und Personen ohne Aufenthaltsrecht per 1. Juli 2026, Thalwil
-Beschluss – Totalrevision Reglement Not- und Asylunterkünfte per 1. Juli 2026, Thalwil
-Beschluss – Totalrevision Reglement über das gemeinderechtliche Ordnungsbussenverfahren in der Gemeinde Thalwil per 1. Juli 2026, Thalwil
-Beurteilung der Eintragungsfähigkeit einer im Ausland erfolgten Ehescheidung gemäss Art. 32 IPRG
 Einladung Versammlung – Delegiertenversammlung 2/2026, mehrere Gemeinden
-Einstellung des Konkursverfahrens Radu Margoses, ausgeschlagene Erbschaft
 Konkursandrohung italy.co Di Santo & family GmbH
 Löschung Andreas Fritschy, Umwelt-Informatik, Thalwil
 Löschung Macandreas Rutishauser Consulting, Thalwil
@@ -31,14 +27,16 @@ Mutation Outhentic GmbH, Thalwil, neu Hitzkirch
 Mutation PaLü Partner AG, Zug
 Mutation Pomereta Ventures GmbH, Thalwil
 Mutation Tsugu AG, Zug
+Mutation UBS AG, Basel
+Mutation UBS AG, Zürich
 Mutation UBS Asset Management Switzerland AG, Zürich
 Mutation VIENNOBLE AG, Zürich, neu Zug
 Mutation VZ VersicherungsPool AG, Zürich
 Mutation Verein Sharkproject Switzerland, Affoltern am Albis, neu Verein SHARKPROJECT Switzerland, Oberglatt
 Mutation Whanake AG, Freienbach, neu Whanake AG in Liquidation
+Neueintragung Balou Coaching bei Frei, Thalwil
 Neueintragung Boat Company AG, Hergiswil (NW)
 Neueintragung Horgen Lädeli Rahimi, Horgen
-Neueintragung LA FONCIERE URBAN DEVELOPMENT SA, Lausanne
 Neueintragung YUVIS Augenpraxis Wädenswil AG, Wädenswil
 Neueintragung YUVIS Tagesklinik Wädenswil AG, Wädenswil
 Schluss des Konkursverfahrens Juan Adolfo Silva Via
@@ -47,3 +45,4 @@ Schluss des Konkursverfahrens PBAG - Patrik Bau AG
 Todesanzeige – Erika Muntwyler, Thalwil
 Vorläufige Konkursanzeige Rolf Staub
 Wahlvorschlag
+Zahlungsbefehl Quentin Imer
