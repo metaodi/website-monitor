@@ -1,15 +1,14 @@
 Bauprojekt: Alpenstrasse 1a, Rüschlikon
-Einladung Versammlung – Delegiertenversammlung 2/2026, mehrere Gemeinden
 Gerichtlicher Entscheid Leopold Bachmann Stiftung und Terrana AG Rüschlikon gegen Alain Merki
 Liquidationsschuldenruf Lakeside Cultivation GmbH in Liquidation
 Liquidationsschuldenruf Personal-Fürsorge-Stiftung der Astor AG in Liquidation
 Löschung Beta Cars - Milicevic, Rüschlikon
 Löschung Onzite AG in Liquidation, Rüschlikon
 Mutation Aerztehaus Wiese AG, Nesslau
+Mutation Bramen Immobilien AG, Zumikon
 Mutation Canada Goose International AG, Zug
 Mutation HOK Advisory AG, Zürich
 Mutation JARD&Co. AG, Zug, neu Zürich
-Mutation M. Attenhofer, Aktiengesellschaft Zurzach, Zurzach
 Mutation Remedium Advisory AG, Zug
 Mutation Suiza Hispano Patrimonial GmbH, Zürich
 Mutation THE PROJECT 11 GmbH, Zug, neu Zürich
@@ -17,4 +16,5 @@ Mutation UBS AG, Basel
 Mutation UBS AG, Zürich
 Mutation Verein Schweizer Laser und Photonik Netz, Wollerau, neu Swissphotonics
 Mutation Zürich Versicherungs-Gesellschaft AG, Zürich
+Neueintragung Samsa Labs AG, Luzern
 Neueintragung Zuka Immobilien AG, Würenlos
