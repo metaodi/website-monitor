@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,aa731a4b1e2726dd7b3272b6f3fe9a1d93500fcda80dab97130c10bbf6c4ed3c
+"AL Zürich",yes,1,https://al-zh.ch/blog/,.post,static,no,aa731a4b1e2726dd7b3272b6f3fe9a1d93500fcda80dab97130c10bbf6c4ed3c
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,ca52e7621a443084bf95428fb48e03fb3c6fdadd54b45f22aa7eb8ee5023b674
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f62752feb5b39c0f535d04837a92eeb6aef50a4e0a811cf12ac8
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
@@ -21,7 +21,7 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,a4b200
 Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,891462499eaf53ef9d22f7357c83856249d30d147523b7eaed5ecb17aa16bf3e
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,86970fbdf234b27d398278884f98c4e86d69748ec15ae21621b4a24a74dd6680
-"Verband der Gemeindepräsidien",yes,1,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,a35f1c8e8a7b83f4db15e69a7ad63344c869181af1fa167b6afbac7fdac23ef9
+"Verband der Gemeindepräsidien",yes,2,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,a35f1c8e8a7b83f4db15e69a7ad63344c869181af1fa167b6afbac7fdac23ef9
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,8f5db42bbfaa5507fe18d04f8d4fe9b950e630ca9ffcd9fcb64c78ec4542e0e6
 VStA,yes,0,https://www.vsta.ch/,article,static,no,8426aa618b9e78fc8655d1b01b1b0b0b91527c12c81d3ac7418f882f7e8b4afd
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,ad09867523e408456003c4fa58b67e6d7f56d4aeed8617351241fbaeadc72241
