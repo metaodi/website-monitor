@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"Beat Klingelfuss - Startseite",yes,1,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+"Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 "Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,9eff2e786eadd2222905dac68c8fe6aa89da5831f8c728ed7bfa62826d0838a9
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,2af4fa8466cc1e74137be892d54d971ccd050c9ed815cc248b6b08e85eaac09d
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,b4ae829dbc78c6a558993f615129e064e9b0d1676fd90eaec9f658e2b9427746
@@ -16,5 +16,5 @@ label,active,error_count,url,selector,type,proxy,hash
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,4cad3c8cf958b4bb6678957b6309efaf47a17f1e7170a2c7ce320b420138a1e9
 "Zimmerberg Online Rüschlikon",no,0,https://zimmerberg.online/rubrik/rueschlikon/feed/,"",rss,no,5372497ad69bc54aa8eab7ae5098c7fda7930cb163e6584b4d36c04e7867a0ca
 "ZPZ Agenda Rüschlikon",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
-"ZPZ Amtliche Publikation Rüschlikon",yes,1,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,bbf00a9653e9f7c0a1c65a0b0950df289672ce08a13558a258fd43318be09263
+"ZPZ Amtliche Publikation Rüschlikon",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,bbf00a9653e9f7c0a1c65a0b0950df289672ce08a13558a258fd43318be09263
 "ZPZ News Rüschlikon",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
