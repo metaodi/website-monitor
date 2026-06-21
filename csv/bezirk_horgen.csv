@@ -1,5 +1,5 @@
 label,active,error_count,url,selector,type,proxy,hash
-"AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,926895c6ca097f745ec1ee861c5b44d99d7206c8acc704c25fa48fbccc5dcfe1
+"AL Zürich",yes,1,https://al-zh.ch/blog/,.post,static,no,926895c6ca097f745ec1ee861c5b44d99d7206c8acc704c25fa48fbccc5dcfe1
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,551509c03680f9106662c7a4c5a18e4eaa1e51f3af471b192bc26c64052ae7a0
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f62752feb5b39c0f535d04837a92eeb6aef50a4e0a811cf12ac8
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
@@ -7,7 +7,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,d159c897ea07f
 "FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,yes,f8628549895d5f857f455b67433fe10d703fa3fccbddcc0d769ef6781dc4663f
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,c665c145c273c0b462f2284e96e21388e55cd4d4bfbfff823713c7d58eb88ea3
 "GLP Bezirk Horgen",no,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,464b5ab2954129e3d89ca0c7fca63804f866ec3104b73c82e6490c4dd9fb13bb
-"Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,cb3cb28578fb6a77b94073fe29193766731584746f0b47fa116c680f3143e87c
+"Grüne Bezirk Horgen",yes,1,https://gruene-bezirk-horgen.ch/,article,dynamic,no,cb3cb28578fb6a77b94073fe29193766731584746f0b47fa116c680f3143e87c
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,dynamic,no,07048be2d802cde1e676a131e6b420c0d4550ecafaebd509e822fe2cfc396ff8
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,2e02ca18a9e367f9b7b96ddf9062ba4377c29d2207fa1d8818c82c6103ba4be7
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
@@ -21,10 +21,10 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,91952b
 Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,05d2c21b8cd0b159ddbde2d3d47c457ae35fc885e4384212de86329f5b8ae7d0
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,82bb9cd92833e27179cf03e72aae0a5c1ba9414d0b65dd4f6c122601782f29a5
-"Verband der Gemeindepräsidien",yes,1,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,c02e21d0ab9fe77ed109e04ea405fbd875359189e006239fc48ba5381f7f0763
+"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,c02e21d0ab9fe77ed109e04ea405fbd875359189e006239fc48ba5381f7f0763
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,8f5db42bbfaa5507fe18d04f8d4fe9b950e630ca9ffcd9fcb64c78ec4542e0e6
 VStA,yes,0,https://www.vsta.ch/,article,static,no,cffa7ff907f6f1007ad223c4ad4d6015ef4d8f3e8f2e8e9a26e68d74db9a47ac
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,b1410026329b614318788abb632ce2da6f90d583475422ea41da7f38539134c2
 "Zimmerberg Online",no,0,https://zimmerberg.online/feed/,"",rss,no,2932a593819c2842e991584f8ec0fd93066a19d2476bf979538bdbfa20474302
-"ZPZ Agenda",yes,1,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
-"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
+"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
