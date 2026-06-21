@@ -20,3 +20,4 @@ label,active,error_count,url,selector,type,proxy,hash
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
 "Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,685ae3b9c5ffa5af890d33e6c56ac96a76e6ee6cd9daf3626f144df43fe2f407
 "Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,6a1ba6626eaaae17a4ddad0e455c1cc45b2b87cf3b52df158e61c5f45da6a2b2
+"Freiwilliger Schulsport Thalwil",yes,0,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,no,aaabbcccff
