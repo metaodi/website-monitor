@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,abbbf7154e8c78c45475ced7682304c43dfb01fbd556d18ab819bdf02f0799be
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,5cc5f9f0f0858d7a41cf4c6f27408a92fcd44511e489819f16b23feffa748a4a
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
-"Ludiquartier lebt",yes,5,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,acdfb26b7bc89779a502c9b365b09a267cbac1d5be6a20e2c6884375e3e30637
+"Ludiquartier lebt",yes,6,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,acdfb26b7bc89779a502c9b365b09a267cbac1d5be6a20e2c6884375e3e30637
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,c63c7b1688fbb0a43397a3a60212e890f4adc332b1e4b07b162c889ae3ed52c6
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,"[data-id='d2b0f7d']",static,no,e684af2a55bc3857830bb51f24c644f763c38bd63b75484baa89e7a02d89c587
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,static,no,822ceb0faedfc15fc3f4afed453926e3ad01893844d3da338733567a0674e22b
