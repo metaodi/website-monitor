@@ -22,8 +22,8 @@ Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,01226f9897ce1aa0fead59c
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,17834de0779f9e69c94bd1a0858efc4c478de774167ac88269c68f766ab902e9
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,c02e21d0ab9fe77ed109e04ea405fbd875359189e006239fc48ba5381f7f0763
-"VPOD Zürich",yes,7,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,8f5db42bbfaa5507fe18d04f8d4fe9b950e630ca9ffcd9fcb64c78ec4542e0e6
-VStA,yes,1,https://www.vsta.ch/,article,static,no,cffa7ff907f6f1007ad223c4ad4d6015ef4d8f3e8f2e8e9a26e68d74db9a47ac
+"VPOD Zürich",yes,8,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,8f5db42bbfaa5507fe18d04f8d4fe9b950e630ca9ffcd9fcb64c78ec4542e0e6
+VStA,yes,0,https://www.vsta.ch/,article,static,no,cffa7ff907f6f1007ad223c4ad4d6015ef4d8f3e8f2e8e9a26e68d74db9a47ac
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,fbe09c936e58bd4a62bee9a1f7f8ea9a4e0226b4c0cd79ed89c3f2734d7ea351
 "Zimmerberg Online",no,0,https://zimmerberg.online/feed/,"",rss,no,2932a593819c2842e991584f8ec0fd93066a19d2476bf979538bdbfa20474302
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,68eb5f86bd1719d232ebb6cdaa360cadc4b9ea1af5f5d6ca12a5ed0316de358a
