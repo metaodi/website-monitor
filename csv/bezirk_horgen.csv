@@ -21,10 +21,10 @@ syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,a5722c
 Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,c69b9614fcef24d2bf3857d5b68e8cfe064b3e6cd162413592e05a8a5e4e7cd2
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,17834de0779f9e69c94bd1a0858efc4c478de774167ac88269c68f766ab902e9
-"Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,c02e21d0ab9fe77ed109e04ea405fbd875359189e006239fc48ba5381f7f0763
+"Verband der Gemeindepräsidien",yes,1,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,c02e21d0ab9fe77ed109e04ea405fbd875359189e006239fc48ba5381f7f0763
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,8f5db42bbfaa5507fe18d04f8d4fe9b950e630ca9ffcd9fcb64c78ec4542e0e6
 VStA,yes,0,https://www.vsta.ch/,article,static,no,cffa7ff907f6f1007ad223c4ad4d6015ef4d8f3e8f2e8e9a26e68d74db9a47ac
-"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,b1410026329b614318788abb632ce2da6f90d583475422ea41da7f38539134c2
+"Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,fbe09c936e58bd4a62bee9a1f7f8ea9a4e0226b4c0cd79ed89c3f2734d7ea351
 "Zimmerberg Online",no,0,https://zimmerberg.online/feed/,"",rss,no,2932a593819c2842e991584f8ec0fd93066a19d2476bf979538bdbfa20474302
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,da66a363fae4e10c1c1b467e895fb694e15f77d598e46cfee335b70b3653134c
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
