@@ -895,3 +895,4 @@
 {"timestamp": "2026-06-27T06:46:48.967059+00:00", "label": "Bezirk.ch", "url": "https://www.bezirk.ch/", "csv_source": "bezirk_horgen", "diff_preview": "+Thalwil entscheidet erst 2027 über neue Abfallverordnung"}
 {"timestamp": "2026-06-27T06:49:27.281699+00:00", "label": "Wahlarchiv Kanton Zürich", "url": "https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996", "csv_source": "bezirk_horgen", "diff_preview": "+login"}
 {"timestamp": "2026-06-27T08:13:52.875194+00:00", "label": "Bezirk.ch Thalwil", "url": "https://www.bezirk.ch/thalwil", "csv_source": "thalwil", "diff_preview": "+Applaus ist kein Tierschutz"}
+{"timestamp": "2026-06-27T09:09:33.556042+00:00", "label": "Bezirk.ch Rüschlikon", "url": "https://www.bezirk.ch/rueschlikon", "csv_source": "rueschlikon", "diff_preview": "+Applaus ist kein Tierschutz"}
