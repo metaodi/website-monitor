@@ -295,9 +295,9 @@ Zum Seitenanfang
 Zweiter Wahlgang Erneuerungswahl von einem Mitglied des Bezirksrats Affoltern für die Amtsdauer 2025 - 2029
 adressaenderung
 formulare
-hunter_test
 jobs
 lernfahrausweis
+login
 offene stellen
 quellensteuer
 wahlen@statistik.ji.zh.ch
