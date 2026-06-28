@@ -27,4 +27,4 @@ VStA,yes,0,https://www.vsta.ch/,article,static,no,cffa7ff907f6f1007ad223c4ad4d60
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,4add5662f6a1eb7e66a08d1caab12c7a411f3bb3089ac153dd3fb1ab542765ae
 "Zimmerberg Online",no,1,https://zimmerberg.online/feed/,"",rss,no,2932a593819c2842e991584f8ec0fd93066a19d2476bf979538bdbfa20474302
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,68eb5f86bd1719d232ebb6cdaa360cadc4b9ea1af5f5d6ca12a5ed0316de358a
-"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
+"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
