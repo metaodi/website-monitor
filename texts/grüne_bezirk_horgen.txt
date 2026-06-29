@@ -2,6 +2,7 @@ Aktiv im Bezirk. Jetzt.
 Als Mitglied bei den GRÜNEN bringst du gemeinsam mit uns Klima- und Umweltschutz voran. Und du stehst ein für eine offene und solidarische Gesellschaft. Als Mitglied kannst du mitreden, mitentscheiden und tatkräftig bei Aktionen mithelfen. Und du kommst mit vielen spannenden und engagierten Menschen in Kontakt. Gemeinsam sind wir stark. Wir freuen uns auf dich!
 Andere
 Aus dem Bezirk
+Bitte leer lassen
 Bitte überprüfe die Eingaben
 Datenschutzerklärung
 Den GRÜNEN beitreten.
@@ -25,7 +26,6 @@ Mitglied werden
 Nachname
 Ort
 PLZ
-Please leave empty
 Portrait Grüne Bezirk Horgen
 Sei dabei – werde Mitglied bei den Grünen
 Strasse & Hausnummer
