@@ -1,4 +1,5 @@
 Beitreten
+Bitte leer lassen
 Bitte überprüfe die Eingaben
 Dafür stehe ich ein – zählen Sie auf mich:
 Datenschutzerklärung
@@ -21,7 +22,6 @@ Liebi Rüeschlikerinne und Rüeschliker
 Mein Name darf im Zusammenhang mit dem Unterstützungskomitee öffentlich genannt werden.
 Michel
 Nachname
-Please leave empty
 Teil von #TeamElena werden!
 Uups, etwas ist schief gelaufen!
 Vorname
