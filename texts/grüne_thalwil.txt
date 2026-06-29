@@ -5,6 +5,7 @@ Aktuelles aus Thalwil
 Alle Abstimmungsparolen der Grünen Thalwil
 Als Mitglied bei den GRÜNEN bringst du gemeinsam mit uns Klima- und Umweltschutz voran. Und du stehst ein für eine offene und solidarische Gesellschaft. Als Mitglied kannst du mitreden, mitentscheiden und tatkräftig bei Aktionen mithelfen. Und du kommst mit vielen spannenden und engagierten Menschen in Kontakt. Gemeinsam sind wir stark. Wir freuen uns auf dich!
 Andere
+Bitte leer lassen
 Bitte überprüfe die Eingaben
 Datenschutzerklärung
 Den GRÜNEN beitreten.
@@ -28,7 +29,6 @@ Nachname
 Nein
 Ort
 PLZ
-Please leave empty
 Portrait
 Privater Gestaltungsplan Traumgarten
 Prämienschock-Initiative
