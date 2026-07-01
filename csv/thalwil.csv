@@ -5,8 +5,8 @@ label,active,error_count,url,selector,type,proxy,hash
 "EVP Thalwil",no,211,https://evp-thalwil.ch/home,#main,static,no,2659a2f4bb00159df46f118288a88d6031146650963de387bbb1a1ea79463a4f
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,e571f67249aaecc1c867fa2da5c0ac2ef600828de3613ff971d3ce2a1a92c0a0
 "Freiwilliger Schulsport Thalwil",yes,0,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,yes,ed36c877146e54d02c6519ab7e680cfd46ca4fb933d688747de066fee2382f76
-"GLP Thalwil",yes,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,b9b1721e6ff03cbca7930f178ede6f900f91d0c6f614e9787bc9f242d2d722a8
-"Grüne Thalwil",yes,1,https://gruene-thalwil.ch,article,dynamic,no,644ce81c447cc203a43e570d2db5d6f7c7e4463fc7ea66f7cbc093bd8cfff8fe
+"GLP Thalwil",yes,1,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,b9b1721e6ff03cbca7930f178ede6f900f91d0c6f614e9787bc9f242d2d722a8
+"Grüne Thalwil",yes,2,https://gruene-thalwil.ch,article,dynamic,no,644ce81c447cc203a43e570d2db5d6f7c7e4463fc7ea66f7cbc093bd8cfff8fe
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,5cc5f9f0f0858d7a41cf4c6f27408a92fcd44511e489819f16b23feffa748a4a
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
 "Ludiquartier lebt",no,23,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,08d91c76408795a4c4d482568868759fdfe16f7f8839f54cafeb3e97e5469aaf
