@@ -3,6 +3,7 @@
 19. Juni 2026
 25. September 2025
 29. September 2025
+3. Juli 2026
 30. Juni 2026
 8. Dezember 2025
 ALLE
@@ -48,7 +49,7 @@ gian
 https://physioswiss.ch/kampagne/#petition
 muss man auf der Webseite erst den Kanton wählen,
 welchen man unterstützt.
-Über folgenden Link landet man direkt auf der Landingpage. Dort findet man neben wesentlichen Zusatzinformationen auch die Links für die Petition.
+Über folgenden Link landet man direkt auf der Physioswiss Website. Dort findet man neben wesentlichen Zusatzinformationen auch die Links für die Petition.
 – CSS (Rabatte nur noch für nicht pensionierte Mitglieder)
 – Concordia (Rabatte für alle Mitglieder bei Zusatzversicherungen)
 – Sanitas (Rabatte für alle Mitglieder bei Zusatzversicherungen)
