@@ -1,6 +1,4 @@
-Bauprojekt: Rainstrasse 14, Adliswil
 Beschluss des Regierungsrates – Betreibungskreis Sihltal, Aufhebung, Übernahme der Kreisgemeinden in den Betreibungskreis Thalwil, Anschlussvertrag, Genehmigung
-Dauernde Verkehrsanordnung Gotthardstrasse, Abschnitt Schulhausstrasse bis Schwandelstrasse, Thalwil
 Einladung Versammlung – Einladung Versammlung - Delegiertenversammlung der EZI Horgen, vom 09. Juli 2026, mehrere Gemeinden, mehrere Gemeinden
 Einstellung des Konkursverfahrens Hans Hellmut Schwarzenbach, ausgeschlagene Erbschaft
 Einstellung des Konkursverfahrens Mohamed Manaa
@@ -18,14 +16,13 @@ Kollokationsplan infranet.ch AG
 Kollokationsplan und Inventar Alfred Biedermann, ausgeschlagene Erbschaft
 Konkurspublikation/Schuldenruf Anna Kehl, ausgeschlagene Erbschaft
 Konkurspublikation/Schuldenruf Gertrud Elisabeth Zanola, ausgeschlagene Erbschaft
-Liquidationsschuldenruf Powergen GmbH in Liquidation
 Mutation Arn Immobilien AG, Horgen
-Mutation BANK-now AG, Horgen
+Mutation Banque Pictet & Cie SA, succursale de Zurich, Zürich
 Mutation Baumeler Leitungsbau AG, Buchrain
 Mutation Belvédère Asset Management AG, Glarus
 Mutation Brandschutz Fölmli GmbH, Sursee
+Mutation Cistec AG, Zürich
 Mutation Duvoisin-Groux SA, Bussigny
-Mutation Forol Immobilien AG, Gossau (SG), neu Koller Group AG
 Mutation Genossenschaft Chornlade, Zürich, neu Chornlade AG
 Mutation Hanseatic AG, Zug, neu Hanseatic AG in Liquidation
 Mutation Haus Friedau AG, Zürich
@@ -36,7 +33,8 @@ Mutation KOLUR Holding AG, Schwyz
 Mutation LED Lichttechnik AG, Wald (AR)
 Mutation Med. Massagepraxis Serpente, Inh. Wolfensberger, Rüschlikon, neu Gesundheitspraxis Serpente, Inh. Wolfensberger, Thalwil
 Mutation PLUG'N ROLL AG, Landquart
-Mutation SSI Wealth Management AG, Freienbach
+Mutation SWISS SIDE TECHNOLOGIES AG, Thalwil
+Mutation Schroder & Co Bank AG, Zürich
 Mutation Steiger Concept AG, Zürich
 Mutation Stiftung Renggergut, Zürich
 Mutation Swiss Life Asset Management AG, Zürich
@@ -44,14 +42,19 @@ Mutation Tammaar GmbH, Thalwil
 Mutation The Advisory House AG, Zug
 Mutation Zimmerberg Elektro AG, Thalwil
 Mutation s-tcs GmbH, Thalwil, neu Horgen
+Mutation u-blox AG, Thalwil
 Mutation u-blox Holding AG, Thalwil
 Neueintragung Allianz Risk Transfer AG, Wallisellen
+Neueintragung Hunde Mampf Rahel Fallegger, Menziken
 Neueintragung Mecerod Holz & Design, Thalwil
 Neueintragung Proteam International AG, Zug
 Neueintragung Recognis GmbH, Zürich
+Neueintragung Stubb GmbH, Zürich
 Neueintragung Studenten- und Lehrlingshaus des Rotary-Club Zürich, Zürich
 Neueintragung TRACE Resources AG, Thalwil
+Neueintragung Vollknecht GmbH, Winterthur
 Neueintragung WatterCraft AG, Thalwil
+Neueintragung XII Aviation AG, Zug
 Schluss des Konkursverfahrens ALBIS Trans GmbH
 Schuldenruf Aktiengesellschaft: Herabsetzung des Aktienkapitals CAT Wealth Management AG
 Todesanzeige – Alfred Schwarzenbach, Erlenbach (ZH)
