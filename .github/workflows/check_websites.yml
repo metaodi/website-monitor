@@ -89,6 +89,11 @@ jobs:
           echo "${{ secrets.WIREGUARD_CONFIG }}" | base64 -d > wg0.conf
           chmod 600 wg0.conf
           
+          # Override DNS to use 8.8.8.8 for reliable name resolution
+          # (the VPN config's DNS server may not be reachable from GitHub Actions)
+          sed -i '/^DNS/d' wg0.conf
+          sed -i '/^\[Interface\]/a DNS = 8.8.8.8' wg0.conf
+          
           # Move config to WireGuard directory
           sudo mv wg0.conf /etc/wireguard/wg0.conf
           
