@@ -83,7 +83,13 @@ jobs:
         run: |
           echo "Setting up WireGuard..."
           sudo apt-get update
-          sudo apt-get install -y wireguard-tools resolvconf
+          sudo apt-get install -y wireguard-tools openresolv
+          
+          # Stop systemd-resolved so resolvconf can directly manage /etc/resolv.conf
+          sudo systemctl stop systemd-resolved || true
+          sudo systemctl disable systemd-resolved || true
+          sudo rm -f /etc/resolv.conf
+          printf 'nameserver 8.8.8.8\nnameserver 8.8.4.4\n' | sudo tee /etc/resolv.conf > /dev/null
           
           # Decode and save the WireGuard config file
           echo "${{ secrets.WIREGUARD_CONFIG }}" | base64 -d > wg0.conf
@@ -93,9 +99,9 @@ jobs:
           # (the VPN config's DNS server may not be reachable from GitHub Actions)
           sed -i '/^DNS/d' wg0.conf
           if grep -q '^\[Interface\]' wg0.conf; then
-            sed -i '/^\[Interface\]/a DNS = 8.8.8.8' wg0.conf
+            sed -i '/^\[Interface\]/a DNS = 8.8.8.8, 8.8.4.4' wg0.conf
           else
-            echo -e "\n[Interface]\nDNS = 8.8.8.8" >> wg0.conf
+            echo -e "\n[Interface]\nDNS = 8.8.8.8, 8.8.4.4" >> wg0.conf
           fi
           
           # Move config to WireGuard directory
@@ -124,9 +130,10 @@ jobs:
           echo "Verifying DNS resolution..."
           if ! nslookup google.com > /dev/null 2>&1; then
             echo "DNS resolution failed, fixing /etc/resolv.conf..."
-            # Prepend public DNS servers directly to resolv.conf as fallback
-            printf 'nameserver 8.8.8.8\nnameserver 8.8.4.4\n' | sudo tee /tmp/resolv_prepend > /dev/null
-            cat /tmp/resolv_prepend /etc/resolv.conf | sudo tee /etc/resolv.conf > /dev/null
+            # Stop systemd-resolved and replace symlink with a static resolv.conf
+            sudo systemctl stop systemd-resolved || true
+            sudo rm -f /etc/resolv.conf
+            printf 'nameserver 8.8.8.8\nnameserver 8.8.4.4\n' | sudo tee /etc/resolv.conf > /dev/null
             echo "Updated /etc/resolv.conf:"
             cat /etc/resolv.conf
             # Verify fix worked
