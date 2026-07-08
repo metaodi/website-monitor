@@ -120,6 +120,23 @@ jobs:
             fi
           done
           
+          # Verify DNS resolution works through the VPN
+          echo "Verifying DNS resolution..."
+          if ! nslookup google.com > /dev/null 2>&1; then
+            echo "DNS resolution failed, fixing /etc/resolv.conf..."
+            # Prepend public DNS servers directly to resolv.conf as fallback
+            printf 'nameserver 8.8.8.8\nnameserver 8.8.4.4\n' | sudo tee /tmp/resolv_prepend > /dev/null
+            cat /tmp/resolv_prepend /etc/resolv.conf | sudo tee /etc/resolv.conf > /dev/null
+            echo "Updated /etc/resolv.conf:"
+            cat /etc/resolv.conf
+            # Verify fix worked
+            if ! nslookup google.com > /dev/null 2>&1; then
+              echo "DNS resolution still broken after fix attempt"
+              exit 1
+            fi
+          fi
+          echo "DNS resolution working"
+          
           # Verify connection (IP address is logged for debugging but may expose VPN IP)
           echo "Verifying VPN connection..."
           curl -s --connect-timeout 5 https://api.ipify.org > /dev/null && echo "Connection verified" || echo "Could not verify connection"
