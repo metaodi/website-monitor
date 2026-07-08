@@ -1,15 +1,12 @@
 Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 1. Pfandstelle, Zins 8%
 Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 2. Pfandstelle, Zins 5%
 Beschluss des Regierungsrates – Betreibungskreis Sihltal, Aufhebung, Übernahme der Kreisgemeinden in den Betreibungskreis Thalwil, Anschlussvertrag, Genehmigung
-Einladung Versammlung – Einladung Versammlung - Delegiertenversammlung der EZI Horgen, vom 09. Juli 2026, mehrere Gemeinden, mehrere Gemeinden
-Geschäftsbericht – Entsorgung Zimmerberg, mehrere Gemeinden
 Handänderung - , Freienbach
-Jahresabschluss – Entsorgung Zimmerberg, mehrere Gemeinden
 Kollokationsplan Honegger ITConsulting AG
 Kollokationsplan infranet.ch AG
+Liquidationsschuldenruf HJA Unternehmensberatung GmbH in Liquidation
 Löschung One Management Consulting AG, Zürich
 Mutation AMAG Group AG, Cham
-Mutation AMINA Bank AG, Zug
 Mutation Banque Pictet & Cie SA, succursale de Zurich, Zürich
 Mutation Ernst & Young AG, Basel
 Mutation Genossenschaft Chornlade, Zürich, neu Chornlade AG
@@ -24,5 +21,6 @@ Mutation Sigan AG, Zürich
 Mutation Stiftung "Im Grüene", Rüschlikon
 Mutation Tanovis AG, Rüschlikon
 Mutation Vidya Real Estate AG, Engelberg
+Mutation Wira Wohnform AG, Zürich
 Neueintragung Bekir Maic Garage, Kilchberg (ZH)
 Neueintragung Verestate 3 AG, Zürich
