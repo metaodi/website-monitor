@@ -88,62 +88,62 @@ jobs:
           # Decode and save the WireGuard config file
           echo "${{ secrets.WIREGUARD_CONFIG }}" | base64 -d > wg0.conf
           chmod 600 wg0.conf
-          
-          # Override DNS to use 8.8.8.8 for reliable name resolution
-          # (the VPN config's DNS server may not be reachable from GitHub Actions)
+
+          # Drop the DNS= line: wg-quick would need resolvconf for it, and DNS
+          # is routed outside the tunnel below anyway
           sed -i '/^DNS/d' wg0.conf
-          if grep -q '^\[Interface\]' wg0.conf; then
-            sed -i '/^\[Interface\]/a DNS = 8.8.8.8' wg0.conf
-          else
-            echo -e "\n[Interface]\nDNS = 8.8.8.8" >> wg0.conf
-          fi
-          
+
           # Move config to WireGuard directory
           sudo mv wg0.conf /etc/wireguard/wg0.conf
-          
+
           # Start WireGuard
           sudo wg-quick up wg0
-          
-          # Configure systemd-resolved for DNS on the WireGuard interface
-          sudo resolvectl dns wg0 8.8.8.8 8.8.4.4
-          sudo resolvectl domain wg0 '~.'
-          
-          # Wait for VPN connection to establish (up to 30 seconds)
-          echo "Waiting for VPN connection..."
+
+          # Route DNS around the tunnel: with AllowedIPs = 0.0.0.0/0 all
+          # traffic (including DNS queries) is sent into the tunnel, and the
+          # VPN server does not reliably forward them. These rules keep
+          # 8.8.8.8/8.8.4.4 on the runner's normal network (priority 100
+          # wins over wg-quick's policy rules at 32764+).
+          sudo ip rule add to 8.8.8.8/32 lookup main priority 100
+          sudo ip rule add to 8.8.4.4/32 lookup main priority 101
+
+          # Bypass the systemd-resolved stub and use these servers directly
+          sudo rm -f /etc/resolv.conf
+          printf 'nameserver 8.8.8.8\nnameserver 8.8.4.4\n' | sudo tee /etc/resolv.conf > /dev/null
+
+          # Verify DNS resolution (goes via the runner network, not the VPN)
+          echo "Verifying DNS resolution..."
+          if ! nslookup google.com > /dev/null 2>&1; then
+            echo "DNS resolution failed even outside the tunnel"
+            cat /etc/resolv.conf
+            ip rule show
+            exit 1
+          fi
+          echo "DNS resolution working"
+
+          # Wait for a WireGuard handshake (an IP on wg0 only proves the
+          # interface exists, not that the server responds). Ping through the
+          # tunnel to trigger the handshake.
+          echo "Waiting for VPN handshake..."
           for i in {1..15}; do
-            if ip addr show wg0 2>/dev/null | grep -q "inet"; then
-              echo "WireGuard connected successfully"
+            ping -c 1 -W 2 1.1.1.1 > /dev/null 2>&1 || true
+            handshake=$(sudo wg show wg0 latest-handshakes | awk '{print $2}')
+            if [ -n "$handshake" ] && [ "$handshake" -gt 0 ]; then
+              echo "WireGuard handshake established"
               sudo wg show wg0
               break
             fi
             sleep 2
             if [ $i -eq 15 ]; then
-              echo "WireGuard connection timeout"
-              sudo wg show
+              echo "No WireGuard handshake after 30s - VPN server is not responding to this runner"
+              sudo wg show wg0
               exit 1
             fi
           done
-          
-          # Verify DNS resolution works through the VPN
-          echo "Verifying DNS resolution..."
-          if ! nslookup google.com > /dev/null 2>&1; then
-            echo "DNS resolution failed, fixing /etc/resolv.conf..."
-            # Prepend public DNS servers directly to resolv.conf as fallback
-            sudo cp /etc/resolv.conf /tmp/resolv_backup
-            printf 'nameserver 8.8.8.8\nnameserver 8.8.4.4\n' | cat - /tmp/resolv_backup | sudo tee /etc/resolv.conf > /dev/null
-            echo "Updated /etc/resolv.conf:"
-            cat /etc/resolv.conf
-            # Verify fix worked
-            if ! nslookup google.com > /dev/null 2>&1; then
-              echo "DNS resolution still broken after fix attempt"
-              exit 1
-            fi
-          fi
-          echo "DNS resolution working"
-          
-          # Verify connection (IP address is logged for debugging but may expose VPN IP)
+
+          # Verify tunnel end-to-end (IP address is logged for debugging but may expose VPN IP)
           echo "Verifying VPN connection..."
-          curl -s --connect-timeout 5 https://api.ipify.org > /dev/null && echo "Connection verified" || echo "Could not verify connection"
+          curl -s --connect-timeout 10 https://api.ipify.org > /dev/null && echo "Connection verified" || echo "Could not verify connection (traffic through the tunnel may not reach the internet)"
 
       - name: Safe label
         id: label
