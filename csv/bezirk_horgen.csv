@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,6fc3ee970aa9f02ffdfcbd5bcb894add80d0dc33dfaa36441a180e5568ce462b
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,b7a7e3cb65314ba5faf0a38b70d5b08863a286a2db1e13895c9cc66518599a87
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,e8209ce0680219795bba53e61d06b24db1c8c69b83d9d9a67236bc208009737a
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,fe0f698656f3ca09c8df8beae6e25e7ce1177c95c81ea8775c6ff938159230e7
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,f730b3662d1f5d402a8f1c65fc170a405f3baa5e4d45c8dcb3c7a6906bfa77d3
@@ -14,7 +14,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,fe0f698656f3c
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,2e71032985beeac9cec78823e2c582d22fb11fdb3bd7301031ab7aa6dde6eb1d
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,f1e5f67225003076a8ac92d971901aa185a87939370ad39ed8c7b7ec7609d275
-"SVP Bezirk Horgen",yes,1,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
+"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,12a1c7152791c6c8402546066f3ab4b8b24cc28f788eac2e5fd84a876cae61ff
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,f49772bfccd5d88c2d69f6a7cca8ff7843832fe8fc99d54237f86a976aec0b97
