@@ -25,10 +25,14 @@ To use WireGuard with the website monitor:
    ```bash
    base64 -w 0 your-config.conf
    ```
-3. **Add the following secret to your repository**:
+3. **Verify that the configuration can be read with base64**:
+   ```bash
+   base64 -d <<< base64-string
+   ```
+4. **Add the following secret to your repository**:
    - `WIREGUARD_CONFIG`: The base64-encoded WireGuard configuration file
 
-4. **Pass the secret to the workflow**:
+5. **Pass the secret to the workflow**:
    ```yaml
    jobs:
      notify_websites:
