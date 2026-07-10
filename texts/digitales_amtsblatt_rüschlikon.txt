@@ -1,14 +1,11 @@
-Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 1. Pfandstelle, Zins 8%
-Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 2. Pfandstelle, Zins 5%
-Beschluss des Regierungsrates – Betreibungskreis Sihltal, Aufhebung, Übernahme der Kreisgemeinden in den Betreibungskreis Thalwil, Anschlussvertrag, Genehmigung
-Kollokationsplan Honegger ITConsulting AG
-Kollokationsplan infranet.ch AG
+Bauprojekt: , Zweiackerstrasse 55, 57, 59, Zürich
+Bauprojekt: Schönenstrasse 43, Rüschlikon
 Liquidationsschuldenruf HJA Unternehmensberatung GmbH in Liquidation
-Löschung One Management Consulting AG, Zürich
 Mutation Banque Pictet & Cie SA, succursale de Zurich, Zürich
+Mutation Beast Level Performance GmbH, Teufen (AR), neu Schlatt-Haslen
 Mutation Cape Capital AG, Zürich
-Mutation Ernst & Young AG, Basel
 Mutation KPMG Tax & Legal Services AG, Zürich
+Mutation Keytrade AG, Thalwil
 Mutation Maersk Logistics & Services Switzerland AG, Pratteln
 Mutation PTC Therapeutics Switzerland GmbH, Steinhausen
 Mutation SPEDLOGSWISS Nordwestschweiz, Basel
@@ -16,8 +13,8 @@ Mutation SPEDLOGSWISS Verband schweizerischer Speditions- und Logistikunternehme
 Mutation SafeConsult AG, Basel
 Mutation Sigan AG, Zürich
 Mutation Stiftung "Im Grüene", Rüschlikon
-Mutation Tanovis AG, Rüschlikon
 Mutation Vidya Real Estate AG, Engelberg
 Mutation Wira Wohnform AG, Zürich
 Neueintragung Bekir Maic Garage, Kilchberg (ZH)
+Neueintragung Pacific Peak Kultur Exchange Navat, Rüschlikon
 Neueintragung Verestate 3 AG, Zürich
