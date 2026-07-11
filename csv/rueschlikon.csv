@@ -9,7 +9,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,e2ea22ae4459adba24e2654a7e17176de19155837c5a85e8bf839ce7462346c3
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,b7c5c649ea9902774a4a0fc1ab35cbbdb5b1667ad178edbce4f25d1a08a7dbd0
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,6be63cb4a587c3c420561b0957affb783349f7da1d41b8e1f209b886851c181e
-"Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,8dcbdf05f07c2e29963e7b77f290fc395197bcae293d5ceef558857c4991e830
+"Rüschlikon - News",yes,1,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,8dcbdf05f07c2e29963e7b77f290fc395197bcae293d5ceef558857c4991e830
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,91bca4b014aaa8d93b3c627089f536601035bae1553ba1c4ea06f60f771c07ec
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/,"nav, .content",static,no,7b8a10b1180b5ca4cb0bfaf583337d8c055e9b24cefa17863e2ce68ac94183fb
 "Unternehmervereinigung Rüschlikon",yes,0,https://uvr-rueschlikon.ch/?s=,article,static,no,4cad3c8cf958b4bb6678957b6309efaf47a17f1e7170a2c7ce320b420138a1e9
