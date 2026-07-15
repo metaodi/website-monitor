@@ -1,15 +1,15 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,0835b74fee8b3cf44adb5a9220b69eb566c7912cc032b5ea21ff9024cb05971f
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,6283df79b2a8cd4c1db2952b4fc7f1184ef2dd818a8b4316567d67e7829051a6
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,52174ad0c49e951198973e0a40adcf11cd889f5a0a6217f9fa1c2ecb10e1fc5c
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,fe0f698656f3ca09c8df8beae6e25e7ce1177c95c81ea8775c6ff938159230e7
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,f730b3662d1f5d402a8f1c65fc170a405f3baa5e4d45c8dcb3c7a6906bfa77d3
-"FDP Bezirk Horgen",yes,3,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,yes,f8628549895d5f857f455b67433fe10d703fa3fccbddcc0d769ef6781dc4663f
+"FDP Bezirk Horgen",yes,4,https://www.fdp-bezirkhorgen.ch/aktuell/medienmitteilungen,#main-content,static,yes,f8628549895d5f857f455b67433fe10d703fa3fccbddcc0d769ef6781dc4663f
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,2402933ac6aa74bb84a60f061e9fca183ea1e4480664e7a0e3607619378fa0e0
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,464b5ab2954129e3d89ca0c7fca63804f866ec3104b73c82e6490c4dd9fb13bb
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,98fdd19895db297fd2aaee864485e16404cabffdc5ca1a57f2942878c3697aff
-"Grüne Kanton Zürich",yes,2,https://gruene-zh.ch,.front__article,dynamic,no,3d23c54ab120398394a790f1146d49a18bdc9d5df89a4b5411f5ba8a0f9866db
-"HEV Kanton Zürich",yes,1,https://www.hev-zh.ch/,.article-listing,static,no,82b62c11bfb24b19feaaa1e05b40c89554ca7fd70140fc3dbe6df010b1ece04c
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,dynamic,no,3d23c54ab120398394a790f1146d49a18bdc9d5df89a4b5411f5ba8a0f9866db
+"HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,82b62c11bfb24b19feaaa1e05b40c89554ca7fd70140fc3dbe6df010b1ece04c
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,2e71032985beeac9cec78823e2c582d22fb11fdb3bd7301031ab7aa6dde6eb1d
@@ -18,7 +18,7 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,fe0f698656f3c
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,b2cb2b8efd5a85436e20df2dcb87ca7a0adb93fb720bd45be39ba3f97dd536b7
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,f49772bfccd5d88c2d69f6a7cca8ff7843832fe8fc99d54237f86a976aec0b97
-Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,e7cd314f04386ac4b52a633fe86c56ab6b56b9ac887579708aeeb78de4db59cb
+Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,13e77df8beb4b216ce0a8bbd4f1708751ca4c05275292def82ea737e34984b55
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,05b4abfaa99eac1a501747597838c3d32eb28d326c5e70083f8faafe2f6316a4
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,83521a0f1e6898c52ba9af8ac09cbff77ddcfa50c4d1eb50e56628b4a3ad777a
