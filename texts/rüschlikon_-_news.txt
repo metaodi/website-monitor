@@ -1,6 +1,5 @@
 01.06.2026
 03.06.2026
-06.05.2026
 06.07.2026
 08.05.2026
 11.05.2026
@@ -9,6 +8,7 @@
 14.06.2026
 15.05.2026
 15.07.2026
+17.07.2026
 20.05.2026
 22.05.2026
 24.06.2026
@@ -22,6 +22,7 @@ Feuer- und Feuerwerksverbot auf dem gesamten Gemeindegebiet
 Feuerverbot im Wald und in Waldesnähe
 GRB 2026-059 Gesamterneuerungswahlen der Gemeindebehörden für die Amtsdauer 2026-2030, Feststellung der Rechtskraft (Erwahrungsbeschluss)
 GRB 2026-074 Parkhalle Pilgerweg: Ertüchtigungsmassnahmen Statik und Brandschutz, Kostenfreigabe als gebundene Ausgabe
+GRB 2026-100 Einzelinitiative Rudolf Schellenberg «Zuständigkeit der Gemeindeversammlung auch für Planungsfragen (Festsetzung und Änderung des kommunalen Richtplans, der Bau- und Zonenordnung, des Erschliessungsplans, der Sonderbauvorschriften und Gestaltungspläne)» – Gültigkeitsprüfung
 Gemeinderat Rüschlikon konstituiert sich und wählt neuen Gemeindeschreiber
 Kommissions- und Stiftungsratsmitglieder gesucht
 Mitteilungen aus den GR-Sitzungen vom Juni 2026
@@ -32,7 +33,6 @@ Neuzuzügeranlass 2026: Herzlich willkommen in Rüschlikon
 PV 2026-102 Allgemeinverfügung generelles Feuer- und Feuerwerksverbot auf dem gesamten Gemeindegebiet
 Sommeröffnungszeiten
 Startschuss für E-Tankstellen: Gemeinde Rüschlikon baut öffentliche Ladeinfrastruktur für Elektrofahrzeuge
-Wechsel beim Amt des Gemeindeschreibers von Rüschlikon
 ZVV-ActionPass: Freie Fahrt und Freizeiterlebnisse für alle ab 60 Jahren
 Zürcher Zukunftspreis 2027
 Öffnungszeiten über Auffahrt
