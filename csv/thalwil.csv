@@ -1,12 +1,12 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Liveticker Thalwil",no,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,26da7b9a9cd0db4b700e95e6103de32ac6bf9b9ceba42855b57f81e78cb98733
 "Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,3bddd40ac5093b0e5efa5e77b9770c89d6137ab2321604d2612bed8452f86be8
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,5d1ecb2093d3e6b5536b1cc7c9f4bf98383029e3c7905d0b6bf32b13d16e302e
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,60b8625f6d4cbd95a64ad118f39ef55c139f9d5325f24cd483ca51d65cc4b904
 "EVP Thalwil",yes,0,https://www.evp-thalwil.ch/aktuell,main,static,no,68a930a4f502a7fb0bf330faae056d0ddb249c0d3cba57aa3c7af890ff35f848
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,e571f67249aaecc1c867fa2da5c0ac2ef600828de3613ff971d3ce2a1a92c0a0
 "Freiwilliger Schulsport Thalwil",yes,0,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,yes,ed36c877146e54d02c6519ab7e680cfd46ca4fb933d688747de066fee2382f76
 "GLP Thalwil",yes,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,b9b1721e6ff03cbca7930f178ede6f900f91d0c6f614e9787bc9f242d2d722a8
-"Grüne Thalwil",yes,1,https://gruene-thalwil.ch,article,dynamic,no,e29f9a0e1a87a41d3a8bbe18c8bcb15669a57251976d1fdc22e00dbace5b4f3e
+"Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,e29f9a0e1a87a41d3a8bbe18c8bcb15669a57251976d1fdc22e00dbace5b4f3e
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,9a3a0af663723ef245276295044fc8b239d42124aaba3c06f608d17ba0cebf0c
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
 "Ludiquartier lebt",no,25,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,08d91c76408795a4c4d482568868759fdfe16f7f8839f54cafeb3e97e5469aaf
