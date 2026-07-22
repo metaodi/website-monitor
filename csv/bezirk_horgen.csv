@@ -23,7 +23,7 @@ Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,be565301d5a0197c0942c0a
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,05b4abfaa99eac1a501747597838c3d32eb28d326c5e70083f8faafe2f6316a4
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,83521a0f1e6898c52ba9af8ac09cbff77ddcfa50c4d1eb50e56628b4a3ad777a
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,af022bfe4ebbc234f2aac730992932f4a978cae282dbb95e0943d3ed965c919b
-VStA,yes,0,https://www.vsta.ch/,article,static,no,ac67ea79b60334c8712bf550bc5c6b25712c2fff7b50a67bdda4b0844f9e8475
+VStA,yes,1,https://www.vsta.ch/,article,static,no,ac67ea79b60334c8712bf550bc5c6b25712c2fff7b50a67bdda4b0844f9e8475
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,72a7c54549829cfef6f7a4581497e6e336309ad38bdc559cff946ec28360c95d
 "Zimmerberg Online",no,0,https://zimmerberg.online/feed/,"",rss,no,12a60b8e6ae11004164475b781041516554de22c5295d534174c1feb3442878c
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,68eb5f86bd1719d232ebb6cdaa360cadc4b9ea1af5f5d6ca12a5ed0316de358a
