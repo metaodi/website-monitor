@@ -8,13 +8,13 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,fe0f698656f3c
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,2402933ac6aa74bb84a60f061e9fca183ea1e4480664e7a0e3607619378fa0e0
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,464b5ab2954129e3d89ca0c7fca63804f866ec3104b73c82e6490c4dd9fb13bb
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,98fdd19895db297fd2aaee864485e16404cabffdc5ca1a57f2942878c3697aff
-"Grüne Kanton Zürich",yes,2,https://gruene-zh.ch,.front__article,dynamic,no,e81c026f26d11c4d3f4876b1325afa3b240aaa797cf3e450ac781fbd06497bf8
+"Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,.front__article,dynamic,no,e81c026f26d11c4d3f4876b1325afa3b240aaa797cf3e450ac781fbd06497bf8
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,9a3a0af663723ef245276295044fc8b239d42124aaba3c06f608d17ba0cebf0c
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
 "SP Kanton Zürich",yes,0,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,2e71032985beeac9cec78823e2c582d22fb11fdb3bd7301031ab7aa6dde6eb1d
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,b19e822238c3c41900c3eb3fab2598783deba97476d9f7a622ba5b8ba4cae182
-"SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
+"SVP Bezirk Horgen",yes,1,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,8b24d8c0e850bf30024c981ca5ddaf63e1220b07b9be13c38abbd2bed6c392df
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,4f2bcde7289309db5297f11311b83222d88a8934ce0d1ebd1dc337587f86f6e2
@@ -27,4 +27,4 @@ VStA,yes,0,https://www.vsta.ch/,article,static,no,ac67ea79b60334c8712bf550bc5c6b
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,72a7c54549829cfef6f7a4581497e6e336309ad38bdc559cff946ec28360c95d
 "Zimmerberg Online",no,0,https://zimmerberg.online/feed/,"",rss,no,12a60b8e6ae11004164475b781041516554de22c5295d534174c1feb3442878c
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,68eb5f86bd1719d232ebb6cdaa360cadc4b9ea1af5f5d6ca12a5ed0316de358a
-"ZPZ News",yes,1,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
+"ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
