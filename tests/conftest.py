@@ -101,3 +101,66 @@ def mock_download(monkeypatch):
             monkeypatch.setattr(website_hash.dl, "download_rss", lambda url, verify=True: rss_feed)
 
     return _setup
+
+
+# ---------------------------------------------------------------------------
+# Certificate fixtures (for AIA chain completion)
+# ---------------------------------------------------------------------------
+
+@pytest.fixture(scope="session")
+def cert_chain():
+    """Return a (leaf, intermediate, root) chain built in memory.
+
+    The leaf points at the intermediate and the intermediate at the root via
+    their AIA "CA Issuers" extension, mirroring the layout of a real chain.
+    """
+    import datetime
+
+    from cryptography import x509
+    from cryptography.hazmat.primitives import hashes
+    from cryptography.hazmat.primitives.asymmetric import ec
+    from cryptography.x509.oid import AuthorityInformationAccessOID, NameOID
+
+    now = datetime.datetime.now(datetime.timezone.utc)
+
+    def build(common_name, issuer_cert=None, issuer_key=None, aia_url=None, ca=True):
+        key = ec.generate_private_key(ec.SECP256R1())
+        subject = x509.Name([x509.NameAttribute(NameOID.COMMON_NAME, common_name)])
+        builder = (
+            x509.CertificateBuilder()
+            .subject_name(subject)
+            .issuer_name(issuer_cert.subject if issuer_cert else subject)
+            .public_key(key.public_key())
+            .serial_number(x509.random_serial_number())
+            .not_valid_before(now - datetime.timedelta(days=1))
+            .not_valid_after(now + datetime.timedelta(days=30))
+            .add_extension(x509.BasicConstraints(ca=ca, path_length=None), critical=True)
+        )
+        if aia_url:
+            builder = builder.add_extension(
+                x509.AuthorityInformationAccess([
+                    x509.AccessDescription(
+                        AuthorityInformationAccessOID.CA_ISSUERS,
+                        x509.UniformResourceIdentifier(aia_url),
+                    )
+                ]),
+                critical=False,
+            )
+        cert = builder.sign(issuer_key or key, hashes.SHA256())
+        return cert, key
+
+    root, root_key = build("Test Root CA")
+    intermediate, intermediate_key = build(
+        "Test Intermediate CA",
+        issuer_cert=root,
+        issuer_key=root_key,
+        aia_url="http://ca.example.com/root",
+    )
+    leaf, _ = build(
+        "leaf.example.com",
+        issuer_cert=intermediate,
+        issuer_key=intermediate_key,
+        aia_url="http://ca.example.com/intermediate",
+        ca=False,
+    )
+    return leaf, intermediate, root
