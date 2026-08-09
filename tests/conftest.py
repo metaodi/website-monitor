@@ -89,8 +89,16 @@ def mock_download(monkeypatch):
     """
     import website_hash
 
-    def _setup(*, static_html=None, rss_feed=None):
-        if static_html is not None:
+    # Tests don't want to actually wait out the selector-not-found retry delay.
+    monkeypatch.setattr(website_hash.time, "sleep", lambda seconds: None)
+
+    def _setup(*, static_html=None, static_html_sequence=None, rss_feed=None):
+        if static_html_sequence is not None:
+            responses = iter(static_html_sequence)
+            fetch = lambda *args, **kwargs: next(responses)
+            monkeypatch.setattr(website_hash.dl, "download", fetch)
+            monkeypatch.setattr(website_hash.dl, "download_with_selenium", fetch)
+        elif static_html is not None:
             monkeypatch.setattr(website_hash.dl, "download", lambda url, verify=True: static_html)
             monkeypatch.setattr(
                 website_hash.dl,

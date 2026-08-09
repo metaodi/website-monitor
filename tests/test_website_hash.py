@@ -58,6 +58,28 @@ class TestGetHtmlTextStatic:
         with pytest.raises(SystemExit):
             wh._get_html_text("https://example.com", ".nonexistent", True, "static")
 
+    def test_selector_not_found_retries_full_attempt_budget(
+        self, mock_download, static_simple_html
+    ):
+        """A selector missing on every attempt is retried, then gives up."""
+        mock_download(
+            static_html_sequence=[static_simple_html] * wh.SELECTOR_RETRY_ATTEMPTS
+        )
+        with pytest.raises(SystemExit):
+            wh._get_html_text("https://example.com", ".nonexistent", True, "static")
+
+    def test_selector_found_on_retry_succeeds(
+        self, mock_download, static_simple_html, static_multi_html
+    ):
+        """A selector missing on the first attempt but present later succeeds."""
+        mock_download(static_html_sequence=[static_simple_html, static_multi_html])
+        result = wh._get_html_text("https://example.com", "article", True, "static")
+        assert result == [
+            "Article 1", "First article content.",
+            "Article 2", "Second article content.",
+            "Article 3", "Third article content.",
+        ]
+
     def test_invalid_dl_type_raises(self, mock_download, static_simple_html):
         mock_download(static_html=static_simple_html)
         with pytest.raises(Exception, match="Invalid type"):

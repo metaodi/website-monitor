@@ -24,6 +24,7 @@ import hashlib
 import logging
 import re
 import sys
+import time
 from pprint import pformat
 from bs4 import BeautifulSoup
 from docopt import docopt
@@ -33,6 +34,13 @@ import download as dl
 log = logging.getLogger(__name__)
 
 _WORD_RE = re.compile(r"\w")
+
+# A selector that isn't found is often a transient hiccup (a slow-rendering
+# page, a momentary bot-check page, a CDN edge serving a half-built
+# response) rather than the selector actually being wrong, so the whole
+# fetch is retried a few times before giving up.
+SELECTOR_RETRY_ATTEMPTS = 3
+SELECTOR_RETRY_DELAY_SECONDS = 5
 
 
 def _normalize_text(text):
@@ -112,15 +120,28 @@ def _get_html_text(url, selector, verify, dl_type):
     Returns:
         List of extracted text strings
     """
-    if dl_type == "static":
-        content = dl.download(url, verify=verify)
-    elif dl_type == "dynamic":
-        content = dl.download_with_selenium(url, selector)
-    else:
-        raise Exception(f"Invalid type: {dl_type}")
+    as_list = []
+    for attempt in range(1, SELECTOR_RETRY_ATTEMPTS + 1):
+        if dl_type == "static":
+            content = dl.download(url, verify=verify)
+        elif dl_type == "dynamic":
+            content = dl.download_with_selenium(url, selector)
+        else:
+            raise Exception(f"Invalid type: {dl_type}")
 
-    soup = BeautifulSoup(content, "html.parser")
-    as_list = soup.select(selector)
+        soup = BeautifulSoup(content, "html.parser")
+        as_list = soup.select(selector)
+        if as_list:
+            break
+
+        if attempt < SELECTOR_RETRY_ATTEMPTS:
+            log.warning(
+                f"Selector {selector} not found in {url} "
+                f"(attempt {attempt}/{SELECTOR_RETRY_ATTEMPTS}), "
+                f"retrying in {SELECTOR_RETRY_DELAY_SECONDS}s..."
+            )
+            time.sleep(SELECTOR_RETRY_DELAY_SECONDS)
+
     if not as_list:
         log.error(f"Selector {selector} not found in {url}")
         sys.exit(1)
