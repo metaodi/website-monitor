@@ -10,7 +10,6 @@ Einstellung des Konkursverfahrens Stefan Haicu
 Gerichtliches Verbot, Seestrasse 169, Kilchberg (ZH)
 Kollokationsplan Uli Richard Meier, Neuauflage infolge nachträglicher Forderungseingabe
 Konkurspublikation/Schuldenruf Max Giezendanner, ausgeschlagene Erbschaft
-Liquidationsschuldenruf Mindcapital GmbH in Liquidation
 Löschung Garage Negru Thalwil, Thalwil
 Mutation ATP adhesive systems AG, Wollerau
 Mutation ATP adhesive systems Group GmbH, Wollerau
@@ -18,7 +17,6 @@ Mutation Ahlaya Yoga und Therapie GmbH, Einsiedeln, neu Ahlaya Yoga und Therapie
 Mutation Aqua Adhesives I GmbH, Zug
 Mutation Aqua Adhesives II GmbH, Zug
 Mutation BU Adhesives I GmbH, Zug
-Mutation Baugenossenschaft Denzlerstrasse, Zürich
 Mutation CK Food & Consulting GmbH, Cham, neu CK Food & Consulting GmbH in Liquidation, Zug
 Mutation Demenz Forschung Schweiz - Stiftung Synapsis, Zürich
 Mutation Filmolux Swiss AG, Wollerau
@@ -29,17 +27,16 @@ Mutation NoventusCollect, Risch
 Mutation SIX Group Services AG, Zürich
 Mutation SinnInvest GmbH, Feusisberg, neu Root
 Mutation Sound Capital AG, Zürich
-Mutation Spitex Region Frauenfeld, Frauenfeld
-Mutation Stiftung Pfadfinderheim Rüschlikon, Rüschlikon
-Mutation Thommen Group AG, Zug
+Mutation Stiftung Bertoli-Edler, Zürich
+Mutation WM Padel GmbH, Feusisberg, neu Thalwil
 Mutation Winkelhalden AG, Oberrieden
 Mutation World-Link for Law, Zürich
-Mutation Zürcher Kantonalbank, Zürich
 Mutation checksum AG, Cham, neu Baden
 Mutation mybite AG, Wallisellen
 Neueintragung Ai Veritas AG, Zürich
 Neueintragung BRONSCHHOFEN IMMO CHUR AG, Chur
-Neueintragung NM Capital GmbH, Zürich
+Neueintragung Blue Carbon Conservation AG, Zug
+Neueintragung Euro Alloys AG, Zug
 Registrierung einer Marke, Stellini Diamonds GmbH
 Testamentseröffnung Ireneo Orlandazzi, Bern
 Todesanzeige – Bruno Alexander Aeberli, Thalwil
@@ -48,4 +45,3 @@ Todesanzeige – Hans Enderli, Thalwil
 Todesanzeige – Lattmann Therese, Thalwil
 Todesanzeige – Urs Roger Howald, Thalwil
 Zahlungsbefehl Damir Mustafi
-Zahlungsbefehl de Kerros Alexandra Gabrielle
