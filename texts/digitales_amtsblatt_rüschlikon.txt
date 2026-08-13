@@ -5,6 +5,8 @@ Mutation AOOS - Schweizerische Aktiengesellschaft für Aufsicht, Zürich
 Mutation Banque Internationale à Luxembourg (Suisse) SA, Zürich
 Mutation FAUCH GmbH, Rüschlikon, neu FAUCH GmbH in Liquidation
 Mutation Krebsbach AG, Zug
+Mutation LGT Bank (Schweiz) AG, Zürich
+Mutation Lodag Immobilien AG, Zürich
 Mutation NOKERA AG, Rüschlikon
 Mutation NOKERA Management AG, Rüschlikon
 Mutation Niedax Schweiz AG, Visp
@@ -17,4 +19,5 @@ Mutation Winkler, Schreinerei-Innenausbau AG, Rüschlikon
 Mutation ZB Recherche, Kommunikation & Strategie GmbH, Rüschlikon, neu ZB Recherche, Kommunikation & Strategie GmbH in Liquidation
 Neueintragung Greenity AG, Würenlos
 Neueintragung Montigel Ecom, Basel
+Neueintragung Ovadev GmbH, Baar
 Zahlungsbefehl Damir Mustafi
