@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,0835b74fee8b3cf44adb5a9220b69eb566c7912cc032b5ea21ff9024cb05971f
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,d92ae23ddcab466e2c48cb33436625abbf2cd8868a2f8b1dadfbe1cb15075bed
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,c080b0c8ebec21adb4992818abc9cdae720370d609ca22c3a45c19089b2b94aa
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,4fda2df64499930924f9136ee22f37f84fa229c4657224bff69e347fa5868d6f
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,85b5a471d28cf833edebb4c072d80fc0b5fc5f1a40439daf7c2700d4dd440fa2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,1f3c1f889b564ed784966a1dd0eb0d08503ab1c2a70530857c8ed866af6f948a
@@ -11,8 +11,8 @@ Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,4fda2df644999
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,article,dynamic,no,c7bffa9990a2f9320ff74ff944b76e885aca17951a9ee567666045825b8981af
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,7a482df9c1379bbd5efb099952523edef280770f492e8ec47fbc81c4408b58dc
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
-"SP Bezirk Horgen",yes,9,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
-"SP Kanton Zürich",yes,9,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,2e71032985beeac9cec78823e2c582d22fb11fdb3bd7301031ab7aa6dde6eb1d
+"SP Bezirk Horgen",yes,10,https://sp-bezirk-horgen.ch/aktuelles/,article,static,no,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
+"SP Kanton Zürich",yes,10,https://spzuerich.ch/artikel-kanal/aktuell/,article,static,no,2e71032985beeac9cec78823e2c582d22fb11fdb3bd7301031ab7aa6dde6eb1d
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,b19e822238c3c41900c3eb3fab2598783deba97476d9f7a622ba5b8ba4cae182
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
 Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
