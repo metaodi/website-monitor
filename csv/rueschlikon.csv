@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,76cc5995ab04f54247860ee8927d9ab60164da32c808859e8c9a423bdbf33cd7
+"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,cbb436a03207926a2024b515fb444c75427014239781e1a0b1f5313147922018
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,1ebd427f1847746237fe98107029abce364540237aa47e241140b22877c361e7
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,857d030838cb277396fe9eb4ec34ca9f3f9904ec2bcc378e9e431608f6d6b03e
 "EVP Rüschlikon",no,36,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
@@ -8,7 +8,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,478f77f97280ad6fad5d9b7f18c931431b2b49039e53813e68d0bbdd6dc5f294
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,7a482df9c1379bbd5efb099952523edef280770f492e8ec47fbc81c4408b58dc
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,b7c5c649ea9902774a4a0fc1ab35cbbdb5b1667ad178edbce4f25d1a08a7dbd0
-"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,8fefa18511a203009f04063bbce86e350140280a52d6cef35c7cbd567f42df61
+"Ortsmuseum Rüschlikon",yes,1,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,8fefa18511a203009f04063bbce86e350140280a52d6cef35c7cbd567f42df61
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,8b37343e1ec7aa2ce91ba35456494e160e24a2b60ccaa0a90068526629767a26
 "SP Rüschlikon",yes,0,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,dynamic,yes,91bca4b014aaa8d93b3c627089f536601035bae1553ba1c4ea06f60f771c07ec
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/,"nav, .content",static,no,7b8a10b1180b5ca4cb0bfaf583337d8c055e9b24cefa17863e2ce68ac94183fb
