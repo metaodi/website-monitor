@@ -1,23 +1,21 @@
+Bauprojekt: Albisstrasse 22, Wohn- und Gewerbezone (WG), Gebiet mit Sonderbauvorschriften Zentrum Süd, Adliswil
 Bauprojekt: Alte Landstrasse, Stäfa
+Bauprojekt: Steinacherstrasse 74, Illnau-Effretikon
 Einstellung des Konkursverfahrens D & A Trading GmbH in Liquidation
 Kollokationsplan und Inventar Ingeborg Theresia Beil-Nussbaumer, ausgeschlagene Erbschaft
 Löschung RKRS GmbH in Liquidation, Thalwil
-Mutation A&F Center GmbH, Thalwil
-Mutation Alife EU AG in Liquidation, Baar
 Mutation Allgeier (Schweiz) AG, Thalwil
-Mutation Amplifon AG, Baar
 Mutation Axioma Wealth Management AG, Zürich
 Mutation Bank Julius Bär & Co. AG, Zürich
 Mutation Baugeschäft Tschopp AG, Langnau am Albis
 Mutation Biogen International GmbH, Baar
 Mutation Claire's Switzerland GmbH, Thalwil
-Mutation Electrosuisse, Verband für Elektro-, Energie- und Informationstechnik, Fehraltorf
 Mutation Giglio Consulting GmbH, Frutigen, neu RP Baumeister GmbH, Thalwil
 Mutation Giglio Consulting GmbH, Frutigen, neu Thalwil
 Mutation Goldman Sachs Bank AG, Zürich
 Mutation Golisan GmbH, Thalwil
 Mutation ICT Berufsbildung Zentralschweiz, Kriens
-Mutation Meyer Strategics GmbH, Thalwil, neu Meyer Strategics GmbH in Liquidation
+Mutation Keller-Frei AG, Wallisellen
 Mutation NewPlacement Academy GmbH, Zürich
 Mutation PANA Holding AG, Risch
 Mutation PLUG'N ROLL AG, Landquart, neu PLUG'N ROLL AG in Liquidation
@@ -34,3 +32,4 @@ Neueintragung Anna Sigrist, Thalwil
 Neueintragung KMS Group AG, Thalwil
 Neueintragung MountainIT GmbH, Samedan
 Sonstige Bekanntmachung, Adliswil
+Verfügung nach Art. 153 Abs 1 HRegV i.V.m. Art. 933 Abs. 1 OR, Effiserv, Urs Huwiler
