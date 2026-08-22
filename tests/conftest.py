@@ -98,11 +98,17 @@ def mock_download(monkeypatch):
             fetch = lambda *args, **kwargs: next(responses)
             monkeypatch.setattr(website_hash.dl, "download", fetch)
             monkeypatch.setattr(website_hash.dl, "download_with_selenium", fetch)
+            monkeypatch.setattr(website_hash.dl, "download_stealth", fetch)
         elif static_html is not None:
             monkeypatch.setattr(website_hash.dl, "download", lambda url, verify=True: static_html)
             monkeypatch.setattr(
                 website_hash.dl,
                 "download_with_selenium",
+                lambda url, selector: static_html,
+            )
+            monkeypatch.setattr(
+                website_hash.dl,
+                "download_stealth",
                 lambda url, selector: static_html,
             )
         if rss_feed is not None:

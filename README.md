@@ -48,6 +48,10 @@ To use WireGuard with the website monitor:
 
 The VPN connection will be established before checking websites and terminated after all checks are complete.
 
+### Stealth Mode
+
+For websites that fail under `static` or `dynamic` because of bot detection or Cloudflare protection (rather than because they need JavaScript rendering), use the `stealth` type. It fetches the page with [Scrapling](https://github.com/D4Vinci/Scrapling)'s `StealthyFetcher`, which uses a stealth-patched headless Chromium to solve Cloudflare challenges and spoof a realistic browser fingerprint. This is slower and heavier than `static`/`dynamic`, so only use it where those two demonstrably fail.
+
 ### Static Website & RSS Feed
 
 In addition to Telegram notifications, the monitor publishes a static website and RSS feed via GitHub Pages. This allows you to check recent website changes from any browser or subscribe using a feed reader.
@@ -72,7 +76,7 @@ label,active,error_count,url,selector,type,proxy,hash
 * `error_count`: The number of times an error has occured for this entry
 * `url`: the actual URL of the website
 * `selector`: a CSS selector for elements on the website. For `rss` type, this is a comma-separated list of feed entry fields to extract (e.g. `title`, `title,link`). If set to a generic HTML selector like `body`, it defaults to extracting `title`.
-* `type`: determines the type of the website. Use `static` for static websites, `dynamic` for websites that load most of their content at runtime (parsed using Selenium), or `rss` for RSS/Atom feeds (parsed using feedparser). Use `static` as a default.
+* `type`: determines the type of the website. Use `static` for static websites, `dynamic` for websites that load most of their content at runtime (parsed using Selenium), `stealth` for websites that fail under `static`/`dynamic` due to bot detection or Cloudflare protection (parsed using [Scrapling](https://github.com/D4Vinci/Scrapling)'s `StealthyFetcher`), or `rss` for RSS/Atom feeds (parsed using feedparser). Use `static` as a default.
 * `proxy`: used to enable or disable the proxy, use values `yes` or `no`
 * `hash`: The hash of the previous run. This is kept for backward compatibility but the actual comparison is now done using text files in the `texts` directory. Make sure to always provide a value (use a dummy value for new entries)
 

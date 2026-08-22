@@ -99,6 +99,35 @@ class TestGetHtmlTextDynamic:
 
 
 # ---------------------------------------------------------------------------
+# _get_html_text  (stealth scraper)
+# ---------------------------------------------------------------------------
+
+class TestGetHtmlTextStealth:
+    def test_stealth_uses_scrapling_mock(self, mock_download, static_simple_html):
+        mock_download(static_html=static_simple_html)
+        result = wh._get_html_text("https://example.com", "body", True, "stealth")
+        # Each stripped string is a separate entry, same as static/dynamic
+        assert result == ["Hello World", "This is a test paragraph.", "Sidebar content"]
+
+    def test_selector_not_found_exits(self, mock_download, static_simple_html):
+        mock_download(static_html=static_simple_html)
+        with pytest.raises(SystemExit):
+            wh._get_html_text("https://example.com", ".nonexistent", True, "stealth")
+
+    def test_selector_found_on_retry_succeeds(
+        self, mock_download, static_simple_html, static_multi_html
+    ):
+        """A selector missing on the first attempt but present later succeeds."""
+        mock_download(static_html_sequence=[static_simple_html, static_multi_html])
+        result = wh._get_html_text("https://example.com", "article", True, "stealth")
+        assert result == [
+            "Article 1", "First article content.",
+            "Article 2", "Second article content.",
+            "Article 3", "Third article content.",
+        ]
+
+
+# ---------------------------------------------------------------------------
 # _get_rss_text
 # ---------------------------------------------------------------------------
 
@@ -187,6 +216,12 @@ class TestGetWebsiteText:
     def test_dynamic_returns_tuple(self, mock_download, static_simple_html):
         mock_download(static_html=static_simple_html)
         text, url = wh.get_website_text("https://example.com", "body", True, "dynamic")
+        assert isinstance(text, str)
+        assert url == "https://example.com"
+
+    def test_stealth_returns_tuple(self, mock_download, static_simple_html):
+        mock_download(static_html=static_simple_html)
+        text, url = wh.get_website_text("https://example.com", "body", True, "stealth")
         assert isinstance(text, str)
         assert url == "https://example.com"
 
