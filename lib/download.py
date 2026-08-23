@@ -14,6 +14,7 @@ from cryptography.x509.oid import AuthorityInformationAccessOID, ExtensionOID
 from cryptography.x509.verification import PolicyBuilder, Store
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
+from scrapling.fetchers import StealthyFetcher
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
@@ -230,3 +231,15 @@ def download_with_selenium(url, selector):
         driver.quit()
 
     return content
+
+
+def download_stealth(url, selector):
+    response = StealthyFetcher.fetch(
+        url,
+        headless=True,
+        network_idle=True,
+        solve_cloudflare=True,
+        wait_selector=selector,
+        wait_selector_state="attached",
+    )
+    return response.html_content

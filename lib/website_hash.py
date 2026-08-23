@@ -12,7 +12,7 @@ Options:
   --version                               Show version.
   -u, --url <url-of-website>              URL of the website to monitor.
   -s, --selector <css-selector>           CSS selector to check for changes [default: body].
-  -t, --type <type>                       Type of website, one of: static, dynamic, rss [default: static].
+  -t, --type <type>                       Type of website, one of: static, dynamic, rss, stealth [default: static].
   -o, --output <path>                     Save the selector output to a file.
   -n, --notify-url-output <path>          Save the notification URL to a file.
   --verbose                               Option to enable more verbose output.
@@ -115,7 +115,7 @@ def _get_html_text(url, selector, verify, dl_type):
         url: URL of the website to check
         selector: CSS selector to extract text from
         verify: Whether to verify SSL certificates
-        dl_type: Type of download (static or dynamic)
+        dl_type: Type of download (static, dynamic, or stealth)
 
     Returns:
         List of extracted text strings
@@ -126,6 +126,8 @@ def _get_html_text(url, selector, verify, dl_type):
             content = dl.download(url, verify=verify)
         elif dl_type == "dynamic":
             content = dl.download_with_selenium(url, selector)
+        elif dl_type == "stealth":
+            content = dl.download_stealth(url, selector)
         else:
             raise Exception(f"Invalid type: {dl_type}")
 
@@ -161,7 +163,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
         url: URL of the website or feed to check
         selector: CSS selector for HTML pages, or comma-separated field names for RSS feeds
         verify: Whether to verify SSL certificates
-        dl_type: Type of download (static, dynamic, or rss)
+        dl_type: Type of download (static, dynamic, rss, or stealth)
 
     Returns:
         Tuple of (source_text, notification_url) where source_text is the
@@ -194,7 +196,7 @@ def get_website_hash(url, selector, verify, dl_type="static", output=None):
         url: URL of the website to check
         selector: CSS selector to extract text from
         verify: Whether to verify SSL certificates
-        dl_type: Type of download (static or dynamic)
+        dl_type: Type of download (static, dynamic, rss, or stealth)
         output: Optional file path to save the extracted text
 
     Returns:

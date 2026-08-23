@@ -77,6 +77,9 @@ jobs:
                 sudo apt-get update
                 sudo apt-get install chromium-browser
           fi
+          if [ "${{ matrix.type }}" = "stealth" ] ; then
+                uv run scrapling install
+          fi
       
       - name: Setup WireGuard
         if: ${{ matrix.proxy == 'yes' }}
