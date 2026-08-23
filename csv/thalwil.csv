@@ -21,3 +21,4 @@ label,active,error_count,url,selector,type,proxy,hash
 "ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
 "Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,685ae3b9c5ffa5af890d33e6c56ac96a76e6ee6cd9daf3626f144df43fe2f407
 "Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,c61040ce0441e3fed6d236bb4607d67604a27c1e3847b42ba37a4583020d221a
+"Museum Thalwil",yes,0,https://www.museumthalwil.ch/veranstaltungskalender/,.uk-container,static,no,aaabbbccc
