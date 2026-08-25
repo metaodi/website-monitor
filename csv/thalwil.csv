@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Liveticker Thalwil",no,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,26da7b9a9cd0db4b700e95e6103de32ac6bf9b9ceba42855b57f81e78cb98733
-"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,023d2c85d738597df47ddc39d0f65105339c3ff9c531dcbabb5b2222c3a3b4d3
+"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,4dd06be393e0b18c7759fb9de2768e1d19ecfc71c09079f71aba14c1e96afd8c
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,b9a459cb31a3aefd31fdf3c35741b66b2959da8b7c0f5835cdf0d3d59753ecab
 "EVP Thalwil",yes,0,https://www.evp-thalwil.ch/aktuell,main,static,no,68a930a4f502a7fb0bf330faae056d0ddb249c0d3cba57aa3c7af890ff35f848
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,e571f67249aaecc1c867fa2da5c0ac2ef600828de3613ff971d3ce2a1a92c0a0
@@ -12,7 +12,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,ec699bdf01aad8da7c30e0d27b0d0db44e54dd131079afd0707bb96a3212a9d5
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,c63c7b1688fbb0a43397a3a60212e890f4adc332b1e4b07b162c889ae3ed52c6
 "Museum Thalwil",yes,0,https://www.museumthalwil.ch/veranstaltungskalender/,.uk-container,static,no,874296520d66b737ec162be93b11beb4a8b7ede5800c191abb61661af4b4bce0
-"Pfadi Thala Wölfli Walhalla",yes,1,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,.elementor-widget-jet-listing-dynamic-field,static,no,4c0aa0eb5cb66fe0f7d4f3a3a4567eff45a82b10659d865fdfc106af0a4f5123
+"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,.elementor-widget-jet-listing-dynamic-field,static,no,4c0aa0eb5cb66fe0f7d4f3a3a4567eff45a82b10659d865fdfc106af0a4f5123
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,stealth,yes,822ceb0faedfc15fc3f4afed453926e3ad01893844d3da338733567a0674e22b
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,11f510af8816f524bfd7c33709826de17ca5a7a9e24797ac9f62d8461d4ca625
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,159cb582c4ba359b8fd85b344c2de470489c8bd7fbb6967e2a8938f549813a9f
