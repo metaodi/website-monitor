@@ -14,11 +14,12 @@ Mutation A2 Immobilien Schweiz AG, Hünenberg
 Mutation AGF Development AG, Hünenberg
 Mutation Alice Rosner Stiftung, Zug
 Mutation Allgeier IT-Consulting AG, Thalwil
-Mutation Bank Julius Bär & Co. AG, Zürich
-Mutation Biogen International GmbH, Baar
 Mutation Bootshafen Farbsteig AG, Thalwil
 Mutation Doktech GmbH, Thalwil, neu Doktech GmbH in Liquidation
+Mutation Dr. Nagler & Company AG, Zollikon, neu Thalwil
 Mutation FRAGO Holding AG, Hünenberg
+Mutation Fastned Stations Switzerland AG, Zug
+Mutation Fastned Switzerland AG, Zug
 Mutation Hans Mahler AG, Zürich
 Mutation Heineken Switzerland AG, Luzern
 Mutation IDC Corporation AG, Eschenbach (LU)
@@ -28,9 +29,9 @@ Mutation Keller-Frei AG, Wallisellen
 Mutation Kleiner Jung AG, Zürich
 Mutation Kreativ Zauber GmbH, Willisau, neu MB Elektro GmbH, Thalwil
 Mutation Kreativ Zauber GmbH, Willisau, neu Thalwil
-Mutation NewPlacement Academy GmbH, Zürich
-Mutation PLUG'N ROLL AG, Landquart, neu PLUG'N ROLL AG in Liquidation
-Mutation Paola Casa, Inhaberin Lucia Paola Iannelli, Thalwil
+Mutation Mutiara Bispo Hofmann, Horgen, neu Ohlinda, Inh. Bispo Hofmann, Rüschlikon
+Mutation Papyrus Schweiz AG, Thalwil
+Mutation Pavese Holding GmbH, Schenkon
 Mutation Prevanto AG, Zürich
 Mutation Properti AG, Zürich
 Mutation RAILTOUR (SUISSE) SA, Bern
@@ -42,8 +43,6 @@ Mutation True Wealth Freizügigkeitsstiftung I, Schwyz
 Mutation True Wealth Freizügigkeitsstiftung II, Schwyz
 Mutation Verein Theater Rigiblick, Zürich
 Mutation Willy Müller Förderstiftung, Zürich
-Mutation alptrail GmbH, Thalwil
-Neueintragung Anna Sigrist, Thalwil
 Neueintragung Kentainment, Hünenberg
 Neueintragung The HoCoSo Foundation, Thalwil
 Neueintragung mq-data GmbH, Biel/Bienne
