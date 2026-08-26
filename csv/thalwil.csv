@@ -15,10 +15,10 @@ label,active,error_count,url,selector,type,proxy,hash
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,.elementor-widget-jet-listing-dynamic-field,static,no,4c0aa0eb5cb66fe0f7d4f3a3a4567eff45a82b10659d865fdfc106af0a4f5123
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,stealth,yes,822ceb0faedfc15fc3f4afed453926e3ad01893844d3da338733567a0674e22b
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,11f510af8816f524bfd7c33709826de17ca5a7a9e24797ac9f62d8461d4ca625
-"Thalwil informiert",yes,1,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,0657add3fe788c7df9d6e4aad86b5875305c75dda3c803b4f002b550b51af02c
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,0657add3fe788c7df9d6e4aad86b5875305c75dda3c803b4f002b550b51af02c
 "Zimmerberg Online Thalwil",no,1,https://zimmerberg.online/rubrik/thalwil/feed/,"",rss,no,64fa9a0d6f48c7b6fe85f67912ad08d10d92da0241b78a5cadcef52e03ac8b19
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,68eb5f86bd1719d232ebb6cdaa360cadc4b9ea1af5f5d6ca12a5ed0316de358a
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,bbf00a9653e9f7c0a1c65a0b0950df289672ce08a13558a258fd43318be09263
-"ZPZ News Thalwil",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
+"ZPZ News Thalwil",yes,1,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
 "Ökopolis",yes,0,https://www.oekopolis.ch/,".lovecraft-widget-list li",static,no,685ae3b9c5ffa5af890d33e6c56ac96a76e6ee6cd9daf3626f144df43fe2f407
 "Ökopolis Veranstaltungen",yes,0,https://www.oekopolis.ch/veranstaltungen/,article,static,no,c61040ce0441e3fed6d236bb4607d67604a27c1e3847b42ba37a4583020d221a
