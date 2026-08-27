@@ -1,7 +1,6 @@
 Ausweisung, Salvatore Punturello , Dietikon
+Baugesuch - Büelstrasse 78, Galgenen
 Bauprojekt: Albisstrasse 1, Thalwil
-Bauprojekt: Albisstrasse 22, Wohn- und Gewerbezone (WG), Gebiet mit Sonderbauvorschriften Zentrum Süd, Adliswil
-Bauprojekt: Steinacherstrasse 74, Illnau-Effretikon
 Beschluss – Gebührenreglement mit Anhang 1 und Benützungsreglement – Änderungen per 1. September 2026, Thalwil
 Beschluss – Geschäftsreglement Sicherheitskommission – Änderungen per 19. August 2026, Thalwil
 Beschluss – Reglement zur Implementierung von Nachhaltigkeitsbeurteilungen in Verwaltungsprozessen – Änderungen per 1. September 2026, Thalwil
@@ -14,21 +13,23 @@ Mutation A2 Immobilien Schweiz AG, Hünenberg
 Mutation AGF Development AG, Hünenberg
 Mutation Alice Rosner Stiftung, Zug
 Mutation Allgeier IT-Consulting AG, Thalwil
+Mutation Arethia AG, Horgen
 Mutation Bootshafen Farbsteig AG, Thalwil
 Mutation Doktech GmbH, Thalwil, neu Doktech GmbH in Liquidation
 Mutation Dr. Nagler & Company AG, Zollikon, neu Thalwil
 Mutation FRAGO Holding AG, Hünenberg
 Mutation Fastned Stations Switzerland AG, Zug
 Mutation Fastned Switzerland AG, Zug
+Mutation GENERALE-BEAULIEU IMMOBILIERE SA, Genève
 Mutation Hans Mahler AG, Zürich
 Mutation Heineken Switzerland AG, Luzern
 Mutation IDC Corporation AG, Eschenbach (LU)
 Mutation JANTUN MAS AG, Wollerau
 Mutation Jan Paruzel, Thalwil
-Mutation Keller-Frei AG, Wallisellen
 Mutation Kleiner Jung AG, Zürich
 Mutation Kreativ Zauber GmbH, Willisau, neu MB Elektro GmbH, Thalwil
 Mutation Kreativ Zauber GmbH, Willisau, neu Thalwil
+Mutation Lotos Asset Management AG, Zürich
 Mutation Mutiara Bispo Hofmann, Horgen, neu Ohlinda, Inh. Bispo Hofmann, Rüschlikon
 Mutation Papyrus Schweiz AG, Thalwil
 Mutation Pavese Holding GmbH, Schenkon
@@ -36,6 +37,7 @@ Mutation Prevanto AG, Zürich
 Mutation Properti AG, Zürich
 Mutation RAILTOUR (SUISSE) SA, Bern
 Mutation SIX SIS AG, Olten
+Mutation Schadenorganisation Erdbeben, Ostermundigen
 Mutation Stardrinks AG, Luzern
 Mutation TRACE Resources AG, Thalwil, neu Zug
 Mutation TRÜMPLER AG, Uster
@@ -44,6 +46,7 @@ Mutation True Wealth Freizügigkeitsstiftung II, Schwyz
 Mutation Verein Theater Rigiblick, Zürich
 Mutation Willy Müller Förderstiftung, Zürich
 Neueintragung Kentainment, Hünenberg
+Neueintragung Terra Ulivo Capital AG, Ingenbohl
 Neueintragung The HoCoSo Foundation, Thalwil
 Neueintragung mq-data GmbH, Biel/Bienne
 Todesanzeige – Fritz Otto Bernhauser, Thalwil
@@ -51,4 +54,3 @@ Todesanzeige – Ida Degonda, Thalwil
 Todesanzeige – Maria Germana Haller-Breu, Thalwil
 Todesanzeige – Vita Maria del Pilar Stöckl-Manero, Thalwil
 Todesanzeige – null Alagarajah, Thalwil
-Verfügung nach Art. 153 Abs 1 HRegV i.V.m. Art. 933 Abs. 1 OR, Effiserv, Urs Huwiler
