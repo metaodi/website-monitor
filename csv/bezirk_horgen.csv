@@ -4,18 +4,18 @@ Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dyn
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,4fda2df64499930924f9136ee22f37f84fa229c4657224bff69e347fa5868d6f
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,421b9d91d7b8d704e30ec6191ded49b4a831e725257b09dde110440122653bb2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,3bc4de290c1070061fb0f3aebf1dc34f8d9c809a8bacd2110607551d58a3bb3c
-"FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/willkommen,.article,static,yes,b8ab7984faff32922c20f2175bb2bc3d6fafcca80196787c04c64d815d3985bc
+"FDP Bezirk Horgen",yes,1,https://www.fdp-bezirkhorgen.ch/willkommen,.article,static,yes,b8ab7984faff32922c20f2175bb2bc3d6fafcca80196787c04c64d815d3985bc
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,2402933ac6aa74bb84a60f061e9fca183ea1e4480664e7a0e3607619378fa0e0
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,464b5ab2954129e3d89ca0c7fca63804f866ec3104b73c82e6490c4dd9fb13bb
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,cad846127db6ea0364d1ba20455917bce31d4ff9c96743b2a9d9f7caf26dea15
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,article,dynamic,no,ae0c562ef7f82ace8083d25c6bdf3f449f517e06c3d7311ea6f0ea3c6d018eba
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,bc7e30a43bc223fec341e6ab40299372c27f9510eee3602e1d2d9c62904d1370
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,1d5269f822f68bd125d736335e6c2375dc6a0d81d7306c7e5947fb60bf9ecfb2
-"SP Bezirk Horgen",yes,2,https://sp-bezirk-horgen.ch/aktuelles/,article,stealth,yes,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
+"SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,stealth,yes,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
 "Städteverband (SSV)"," yes",0,https://staedteverband.ch/,.entry-detail-link,static,no,b7dab62b4b85b9012d573b1dec7437601f5769eb02b3f7860da0e1b3379afa2b
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,51748029a11c89654a9184b1f6476627d9f91a871c42c93c516a992a2ea3b9a7
-Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
-syndicom,yes,2,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,8cbf8aa746b40b8f8fe0fecd2b676671aedd0b6d26497d0d620cf0e39a652d68
+Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
+syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,8cbf8aa746b40b8f8fe0fecd2b676671aedd0b6d26497d0d620cf0e39a652d68
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,ba69cd86c92d03870625ef0b0a45e845bca2753fc92a8175ec9e5a52b82cc2fa
 Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,736d511e075b870b61db10679efeecffbd7beba923abedf65c0697c70f692165
 "Unternehmer-Vereinigung Bezirk Horgen",yes,0,https://www.uvh.ch/,.elementor-widget-theme-post-content,static,no,d185d13cb3d23f99d8882fbb816da01d4db1113d6ac5b23f6739d6b84178f4c4
