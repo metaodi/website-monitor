@@ -11,7 +11,6 @@ Einstellung des Konkursverfahrens Enver Arifi
 Einstellung des Konkursverfahrens Finanzberatung Studer GmbH in Liquidation
 Einstellung des Konkursverfahrens Lio Gal GmbH
 Einstellung des Konkursverfahrens Rebolet AG
-Gerichtliches Verbot, Grundbuch Blatt 2719, Kat. Nr. 2878, Plan 3, EGRID CH367743948274, 8906 Bonstetten, Bonstetten
 Kollokationsplan Rosmarie Witprächtiger-Senn
 Liquidationsschuldenruf Doktech GmbH in Liquidation
 Mutation 38 Grad Baumanagement AG, Dübendorf
@@ -28,19 +27,18 @@ Mutation Fastned Stations Switzerland AG, Zug
 Mutation Fastned Switzerland AG, Zug
 Mutation GENERALE-BEAULIEU IMMOBILIERE SA, Genève
 Mutation Hans Mahler AG, Zürich
-Mutation IDC Corporation AG, Eschenbach (LU)
-Mutation JANTUN MAS AG, Wollerau
+Mutation IT-CSM GmbH - IT Consulting & Systemmanagement, Egg, neu Thalwil
 Mutation Kastro Bodenbeläge GmbH, Kriens, neu LMB Möbel GmbH, Thalwil
 Mutation Kastro Bodenbeläge GmbH, Kriens, neu Thalwil
-Mutation Kleiner Jung AG, Zürich
+Mutation LocusAI GmbH, Egg, neu Thalwil
 Mutation Lotos Asset Management AG, Zürich
 Mutation Mutiara Bispo Hofmann, Horgen, neu Ohlinda, Inh. Bispo Hofmann, Rüschlikon
 Mutation Papyrus Schweiz AG, Thalwil
 Mutation Pavese AG Präzisionsmechanik, Schenkon
 Mutation Pavese Holding GmbH, Schenkon
-Mutation RAILTOUR (SUISSE) SA, Bern
 Mutation Schadenorganisation Erdbeben, Ostermundigen
 Mutation Stiftung Historisches Armeematerial Führungsunterstützung, Uster
+Mutation Suva, Luzern
 Mutation TRACE Resources AG, Thalwil, neu Zug
 Mutation TRÜMPLER AG, Uster
 Mutation True Wealth Freizügigkeitsstiftung I, Schwyz
@@ -48,13 +46,17 @@ Mutation True Wealth Freizügigkeitsstiftung II, Schwyz
 Mutation UBS Asset Management AG, Zürich
 Mutation UBS Asset Management Switzerland AG, Zürich
 Mutation Valserdepot Valentin, Thalwil
+Mutation Verband chinesischer Unternehmen in der Schweiz, Zürich
+Mutation pom+Consulting AG, Zürich
 Neueintragung Ciullo Luigi, italienische Spazialitäten "la perla", Thalwil
+Neueintragung Flowtech Holding AG, Thalwil
 Neueintragung IGM Limousine Halilaj, Thalwil
+Neueintragung Infineon Technologies Holding AG, Schaffhausen
+Neueintragung Khajat Transporte, Thalwil
+Neueintragung Sama Beirut GmbH, Thalwil
 Neueintragung StickLab GmbH, Thalwil
 Neueintragung Terra Ulivo Capital AG, Ingenbohl
-Neueintragung The HoCoSo Foundation, Thalwil
 Neueintragung Verein Finanz Führerschein, Thalwil
-Neueintragung mq-data GmbH, Biel/Bienne
 Todesanzeige – Felix Franz Kohler, Thalwil
 Todesanzeige – Ida Degonda, Thalwil
 Todesanzeige – Ingrid Magdalena Schärer-Peter, Thalwil
@@ -64,3 +66,4 @@ Todesanzeige – Marlys Grundbacher geb. Küng, Thalwil
 Todesanzeige – Martha Barbara Huber-Helfenstein, Thalwil
 Todesanzeige – Vita Maria del Pilar Stöckl-Manero, Thalwil
 Todesanzeige – null Alagarajah, Thalwil
+Vorläufige Konkursanzeige Neda Group AG
