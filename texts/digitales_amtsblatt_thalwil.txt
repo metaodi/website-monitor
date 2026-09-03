@@ -1,6 +1,5 @@
 Aufforderung nach Art. 152a Abs. 3 HRegV i.V.m. Art. 939 Abs. 1 OR, Handelsregisteramt des Kantons Zürich
 Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchamt Thalwil, Grundbuch Blatt 239, EGRID CH458341776248, Kataster 7884, Plan 20, Liegenschaft Wiesenstrasse 22–26, 8800 Thalwil, an 3. Pfandstelle, Maximalzinsfuss von 7 %
-Baugesuch - Büelstrasse 78, Galgenen
 Bauprojekt: Alte Landstrasse 106 / Mühlebachstrasse 52, Thalwil
 Bauprojekt: Hofackerstrasse 11, Kat.-Nr. 4636, Adliswil
 Bauprojekt: Seestrasse 75-81, Thalwil
@@ -12,19 +11,21 @@ Einstellung des Konkursverfahrens Finanzberatung Studer GmbH in Liquidation
 Einstellung des Konkursverfahrens Lio Gal GmbH
 Einstellung des Konkursverfahrens Rebolet AG
 Gerichtlicher Entscheid Claire's Switzerland GmbH
+Handänderung – Erbteilung mit Mutation Nr. 4632, Erben Pia Messmer-Dobler, Frenkendorf
+Handänderung – Kaufvertrag Rhemet AG in Liquidation / Messmer Mühlemann, Frenkendorf
 Kollokationsplan Rosmarie Witprächtiger-Senn
 Kollokationsplan und Inventar Gertrud Elisabeth Zanola, ausgeschlagene Erbschaft
+Liquidationsschuldenruf Meyer Strategics GmbH in Liquidation
 Löschung Ergotherapie Toigo, Thalwil
 Löschung Salem Finance, Thalwil
 Mutation 38 Grad Baumanagement AG, Dübendorf
 Mutation AKULUS AG, Stallikon, neu Kucera Estates AG, Zürich
 Mutation AOC AG, Schaffhausen
-Mutation Arethia AG, Horgen
 Mutation ClearByte GmbH, Dielsdorf
 Mutation Dorfburger AG, Zürich
 Mutation Ergo AG, Thalwil
 Mutation Flühgass Immobilien AG, Zürich
-Mutation GENERALE-BEAULIEU IMMOBILIERE SA, Genève
+Mutation GlaxoSmithKline AG Zweigniederlassung Baar/Zug, Baar
 Mutation HILFE AN BRASILIANISCHE KINDER, Zürich
 Mutation Haco AG, Muri bei Bern
 Mutation HeiQ Materials AG, Schlieren
@@ -35,11 +36,9 @@ Mutation Inderbitzin Unternehmensberatung, Zug
 Mutation Kastro Bodenbeläge GmbH, Kriens, neu LMB Möbel GmbH, Thalwil
 Mutation Kastro Bodenbeläge GmbH, Kriens, neu Thalwil
 Mutation LocusAI GmbH, Egg, neu Thalwil
-Mutation Lotos Asset Management AG, Zürich
 Mutation Loyalty Services AG, Thalwil
 Mutation Migros Bank AG, Zürich
 Mutation Pavese AG Präzisionsmechanik, Schenkon
-Mutation Schadenorganisation Erdbeben, Ostermundigen
 Mutation Schweizerische Nationalbank, Bern
 Mutation Schweizerische Nationalbank, Zürich
 Mutation Stiftung Arbeitskette, Zürich
@@ -48,6 +47,7 @@ Mutation Suva, Luzern
 Mutation Tannenberg Holding AG, Wollerau
 Mutation UBS Asset Management AG, Zürich
 Mutation UBS Asset Management Switzerland AG, Zürich
+Mutation UBS Business Solutions AG, Zürich
 Mutation Unternehmertag AG, Wollerau
 Mutation Valserdepot Valentin, Thalwil
 Mutation Verband chinesischer Unternehmen in der Schweiz, Zürich
@@ -60,7 +60,6 @@ Neueintragung Infineon Technologies Holding AG, Schaffhausen
 Neueintragung Khajat Transporte, Thalwil
 Neueintragung Sama Beirut GmbH, Thalwil
 Neueintragung StickLab GmbH, Thalwil
-Neueintragung Terra Ulivo Capital AG, Ingenbohl
 Neueintragung Verein Finanz Führerschein, Thalwil
 Neueintragung Zeitgeist Surfer Avijit Ghosh, Thalwil
 Todesanzeige – Felix Franz Kohler, Thalwil
