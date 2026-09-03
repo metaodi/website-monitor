@@ -1,3 +1,5 @@
+Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 1. Pfandstelle, Zins 8%
+Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 2. Pfandstelle, Zins 5%
 Beschluss – Aufhebung des generellen Feuer- und Feuerwerksverbots auf dem Gemeindegebiet Rüschlikon, Rüschlikon
 Einstellung des Konkursverfahrens Enver Arifi
 Einstellung des Konkursverfahrens Rebolet AG
@@ -12,15 +14,14 @@ Mutation Genossenschaft Seniorenwohnungen Grosshöchstetten, Grosshöchstetten
 Mutation Loyalty Services AG, Thalwil
 Mutation Orthmann AG, Steinach
 Mutation SDI Süddeutsche Immobilien AG, Steinach
-Mutation Sanreno Arifi, Rüschlikon
-Mutation Schweizerische Bankiervereinigung (SwissBanking), Basel
 Mutation Smiling Gecko, Dübendorf
 Mutation UBS Asset Management AG, Zürich
 Mutation UBS Asset Management Switzerland AG, Zürich
+Mutation UBS Business Solutions AG, Zürich
 Mutation Yuki Matcha AG, Erlenbach (ZH)
 Mutation furrerhugi.ag, Bern
 Neueintragung AM Advisory and Consulting GmbH, Rüschlikon
 Neueintragung Elevate FinCo AG, Zug
 Neueintragung Elevate HoldCo AG, Zug
 Neueintragung Marketing & Sales Switzerland, Rüschlikon
-Neueintragung Sanreno GmbH, Rüschlikon
+Neueintragung Trina Storage (Schweiz) AG, Wallisellen
