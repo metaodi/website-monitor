@@ -1,5 +1,3 @@
-Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 1. Pfandstelle, Zins 8%
-Aufruf Papier-Inhaberschuldbrief, lastend auf Grundbuchblatt 1173, EGRID CH367746467306, Nidelbadstrasse 22, Wohnhaus, Kataster-Nr. 4191, Grundbuchblatt 1176, EGRID CH907746724643, Rüschlikon, 1/4 subjektiv-dingliches Miteigentum, Kataster-Nr. 4193, 2. Pfandstelle, Zins 5%
 Bauprojekt: Mühlestrasse 40, Rüschlikon
 Bauprojekt: Schönenstrasse 22, 24, 30, 32, 34, 36, 38 und 40, Rüschlikon
 Einladung Versammlung – Delegiertenversammlung 3/2026, mehrere Gemeinden
@@ -14,16 +12,17 @@ Mutation Gross Generalunternehmung AG, Brugg
 Mutation IAF Interessengemeinschaft Ausbildung im Finanzbereich, Zürich
 Mutation IHAG Holding AG, Zürich
 Mutation Marmite Verlags AG, Zürich
+Mutation Muestra Events & Consulting GmbH, Vechigen, neu Bern
 Mutation National Coalition Building Institute (Schweiz), Winterthur
 Mutation Niedax Produktions AG, Raron
 Mutation Oscar Weber AG, Zürich
+Mutation PKB PRIVATE BANK SA, Lugano
+Mutation Payrexx AG, Thun
 Mutation Rothschild&Co Bank AG, Zürich
 Mutation SN Grundbesitz Möckern 1 AG, Zug
 Mutation SN Grundbesitz Möckern 2 AG, Zug
 Mutation Santhera Pharmaceuticals (Schweiz) AG, Pratteln
 Mutation Santhera Pharmaceuticals Holding AG, Pratteln
-Mutation UBS Business Solutions AG, Zürich
 Mutation UBS Switzerland AG, Zürich
 Neueintragung Egli Gartenpflege GmbH, Rüschlikon
 Neueintragung Hetherna GmbH, Rüschlikon
-Neueintragung Trina Storage (Schweiz) AG, Wallisellen
