@@ -1,3 +1,4 @@
+Aufforderung nach Art. 152a Abs. 3 HRegV i.V.m. Art. 939 Abs. 1 OR, Handelsregisteramt des Kantons Zürich
 Aufruf Namenaktie der Bootshafen Farbsteig AG, lautend auf Sportfischer Verein Thalwil und Umgebung
 Bauprojekt: Alsenhalde 2, Thalwil
 Bauprojekt: Feldstrasse 63 und 63a, Thalwil
@@ -6,29 +7,26 @@ Bauprojekt: Walderstrasse 36 und 36.1, Hinwil
 Kollokationsplan Kocks Consulting GmbH
 Löschung FinSide Consulting GmbH in Liquidation, Thalwil
 Löschung Soundwave Solution Weltin, Thalwil
-Mutation ABC-FACILITY Services AG, Zürich
 Mutation BANK ZIMMERBERG AG, Horgen
-Mutation Bold Equestrian AG, Hünenberg, neu Thalwil
 Mutation CSM Car Service GmbH, Maienfeld, neu CSM Car Service GmbH in Liquidation
 Mutation Chipeno AG, Horw, neu Kriens
-Mutation Claire's Switzerland GmbH, Thalwil
 Mutation Crunchy Communications GmbH, Thalwil, neu Rüschlikon
 Mutation FINARTIS Group SA, Lausanne
 Mutation FINARTIS SA, Lausanne
 Mutation GAWO Genossenschaft für Alterswohnungen Oberrieden, Oberrieden
 Mutation GLOBAL CORPORATE CONSULTANTS GmbH, Thalwil, neu Zürich
 Mutation Genossenschaft MS Etzel, Zürich
-Mutation Golden Thai GmbH, Thalwil, neu Golden Thai GmbH in Liquidation
-Mutation Hanna Schmid-Vögelin-Stiftung, Thalwil
-Mutation InfoConsulting Switzerland GmbH, Schwerzenbach
 Mutation Jakovac Nomadica, Thalwil, neu Wädenswil
 Mutation LLB (Schweiz) AG, Uznach
+Mutation La Prairie Group AG, Zürich
 Mutation LaKi GmbH, Thalwil
-Mutation Paul Baumgartner Invest GmbH, Bern, neu Swiss Alp Abbruch GmbH, Thalwil
-Mutation Paul Baumgartner Invest GmbH, Bern, neu Thalwil
+Mutation Nombro GmbH, Thalwil, neu Zürich
+Mutation Papyrus Schweiz AG, Thalwil
 Mutation Pensionskasse der Bank Vontobel AG, Zürich
 Mutation RKHConsulting GmbH, Wettingen
 Mutation Refined Career by Ágnes Pákozdi, Zürich, neu Thalwil
+Mutation Savenco AG, Thalwil, neu Rüschlikon
+Mutation Spoerry Consulting, Thalwil, neu Rüschlikon
 Mutation Stiftung Sitterhöfli, St. Gallen
 Mutation The Zurich International School, Wädenswil
 Mutation Toilet Board Coalition, Genève
@@ -36,7 +34,9 @@ Mutation UBS AG, Basel
 Mutation UBS AG, Zürich
 Mutation Velotto by Stützrädli GmbH, Zürich
 Mutation Vontobel Asset Management AG, Zürich
+Mutation Walde Immobilien AG, Zollikon
 Mutation Zusatzkasse der Bank Vontobel AG, Zürich
+Mutation bonainvest Immobilien AG, Solothurn
 Mutation siabit AG, Gebenstorf
 Neueintragung MOVOA Moritz Schmid, Thalwil
 Neueintragung Robert Zovko, Thalwil
@@ -49,3 +49,4 @@ Todesanzeige – Hans Langenegger, Thalwil
 Todesanzeige – Kurt Wallimann, Thalwil
 Todesanzeige – Sibille Bader, Thalwil
 Todesanzeige – Urban De Bastiani, Thalwil
+Vorläufige Konkursanzeige Özkan Keskin
