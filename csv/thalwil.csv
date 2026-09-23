@@ -4,7 +4,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,aaf12482830814f621fb674f84938da8e13652554feded85bd3d2cb75859bc2c
 "EVP Thalwil",yes,0,https://www.evp-thalwil.ch/aktuell,main,static,no,cf7b047645d1d1999f4ecafebff57ab12b76a285eefe4083a27f17ba5f887849
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,d22a3f0b1cec82961c9d78c36a0cbf238f6864743a9e8861fad48839359582e5
-"Freiwilliger Schulsport Thalwil",yes,1,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,yes,50d3c53d7eae9189764d35501c7dd6c30c82b5fb90b7793663a6c672962230c6
+"Freiwilliger Schulsport Thalwil",yes,0,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,yes,50d3c53d7eae9189764d35501c7dd6c30c82b5fb90b7793663a6c672962230c6
 "GLP Thalwil",yes,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,c1417782c649fa0feafb2feb3bda0e5c80ada34482654b3070a842fb434f7514
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,26aa38f14f1a584ba0f91bc32347743453f71c5c49a12bb0399aed10da54eaa4
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,bca32bb91d0adf5601722b8138db1db7789bf16b588fedf04d11afb54cb7f294
@@ -12,7 +12,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Ludiquartier lebt",yes,0,https://www.ludibadi.ch/aktuell.html,.el-content,static,no,ec699bdf01aad8da7c30e0d27b0d0db44e54dd131079afd0707bb96a3212a9d5
 "Mitte Thalwil",yes,0,https://thalwil.die-mitte.ch/,.content,static,yes,c63c7b1688fbb0a43397a3a60212e890f4adc332b1e4b07b162c889ae3ed52c6
 "Museum Thalwil",yes,0,https://www.museumthalwil.ch/veranstaltungskalender/,.uk-container,static,no,27a1e05bb389cb1be59a852cbd2d9cfb54b55e83c07ef4b639a83f5ba8a28ff0
-"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,.elementor-widget-jet-listing-dynamic-field,static,no,0ce8fd2f4bb86028925d5a7d1303d524b43d196ef4ea1192849638397b0ed10b
+"Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,.elementor-widget-jet-listing-dynamic-field,static,no,00bf8d4bb754b1044dace797d3019aa69a5d546ec57964cc2171f23aaa89a79b
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,stealth,yes,9a92cecd347dbdb3577175539efda12e6d3edb92a12948c94bc824fa692063b7
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,fe84e87c247490401a32a0b5624661ecdea171110795ba9c39452107a959688b
 "Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,6c1bdbf9d3a5e345f1be98ca362facaf2565dc25b0c904ef2df000fc1b876a31
