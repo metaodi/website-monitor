@@ -11,9 +11,9 @@
 17.09.2026
 18.09.2026
 22.09.2026
+23.09.2026
 24.07.2026
 27.07.2026
-30.06.2026
 31.07.2026
 31.08.2026
 Anwohnerinformation: Nachtarbeiten Projekte "Bahnhof Süd" und "Bahnhof Nord"
@@ -21,6 +21,7 @@ Aufhebung des generellen Feuer- und Feuerwerksverbots auf dem Gemeindegebiet Rü
 Badi Rüschlikon: Teilsperrung Seeeinstieg und Entfernung Rutschbahn
 Baustelleninformation Bahnhof Nord/Süd: Update Nachtarbeiten sowie Vollsperrung Bahnhofstrasse/Bahnhofplatz
 Bundesfeier 2026
+Chilbi Rüschlikon 2026
 Datum
 Einladung zur Weingarten-Party
 Feuer- und Feuerwerksverbot auf dem gesamten Gemeindegebiet
@@ -35,5 +36,4 @@ Rüschliker Bring- & Holtreff
 Sommeröffnungszeiten
 Sprechstunde des Gemeindepräsidenten
 Starte deine berufliche Zukunft in Rüschlikon
-Startschuss für E-Tankstellen: Gemeinde Rüschlikon baut öffentliche Ladeinfrastruktur für Elektrofahrzeuge
 ZVV-ActionPass: Freie Fahrt und Freizeiterlebnisse für alle ab 60 Jahren
