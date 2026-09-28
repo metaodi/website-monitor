@@ -3,8 +3,8 @@ label,active,error_count,url,selector,type,proxy,hash
 Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,f07b7ccbb3e58bf9109f6484da3ec30fe36a539b885c91a1a5401684ccd23609
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,4fda2df64499930924f9136ee22f37f84fa229c4657224bff69e347fa5868d6f
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,421b9d91d7b8d704e30ec6191ded49b4a831e725257b09dde110440122653bb2
-"EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,bf8d2fae90f03b792380120280b5be2307eab83c50c78fea3e8ab12092cf6468
-"FDP Bezirk Horgen",yes,0,https://www.fdp-bezirkhorgen.ch/willkommen,.article,static,yes,cb6861abb9db926ff37d1fa0f6cd9df3b521848e313156e860877980763f3853
+"EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,38f9076a54918a2c61c12cb9a748c32d85f3bf5025d077c0c20ef061b9781901
+"FDP Bezirk Horgen",yes,1,https://www.fdp-bezirkhorgen.ch/willkommen,.article,static,yes,cb6861abb9db926ff37d1fa0f6cd9df3b521848e313156e860877980763f3853
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,5259b25aa488c6514f34b6b662e3a05cb386d5fbd04697291d88698cb2ca9b3f
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,beee22ae8984f6001c266edfd62a01ec216e45aab4a831727533797dde6d99d3
 "Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,7bc645a8186377abc64c2eb9d8236c9bce7c64052f057ab898b033b14a0fc4eb
@@ -22,7 +22,7 @@ Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,6c4f59a33b0c9130aa4d58d
 VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,c05d956f2de62950de3172f7b4eb82e8bb15b605e7cabcd53adb97c19f16dd53
 "Verband der Gemeindepräsidien",yes,0,https://www.gpvzh.ch/newsmedienmitteilungen,.icms-datatable-col-name,dynamic,no,6c4bf0563a23a75f190cff897e447f0aa4b79559359275f68431a34305d4c224
 "VPOD Zürich",yes,0,https://zuerich.vpod.ch/news/,".news-article:nth-child(-n+10) h4",static,no,20332a0dee3350cff06c03d858b76a6f1251d50e5f0e294217a6f15505d40824
-VStA,yes,1,https://www.vsta.ch/,article,static,no,702c27b1ab20d9479e00b3c59c6a48fa058df274b0c5b6f80a090a275bfebcc5
+VStA,yes,0,https://www.vsta.ch/,article,static,no,702c27b1ab20d9479e00b3c59c6a48fa058df274b0c5b6f80a090a275bfebcc5
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,6896aefd8669111e1884bec898c3db6dd43bcfdfda762fe83df7ab58927b985f
 "Zimmerberg Online",no,0,https://zimmerberg.online/feed/,"",rss,no,bd1dd9be80afa1e0ce8a41e32826b37c096fac2d65b34e90a967edce5ee3a521
 "ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,7a1ea364a9c931b222b90a4ebc2e9b1ef101594f35fa80a59de58769fbc9d478
