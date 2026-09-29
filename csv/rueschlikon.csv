@@ -7,7 +7,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,2b948f43e54a142f40762a39adc12cccfca3ba706c949bcf106b4e8a3678f1b8
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,0242f49b776a1148770e5fbcc4578701e86ee62fe3bd53df7b6cf3c661fbe866
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,bca32bb91d0adf5601722b8138db1db7789bf16b588fedf04d11afb54cb7f294
-"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,e00de2606334ab6f1dae2be8bd90a56a8c13d6cbac752657f94575cb43f1e815
+"Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,4f1c9a3d169c2e12dd9dabbfe033324f6d9aab1982c5b04f043fca3bf7d234c8
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,9d1515548b33f9aef87f9708d37ef47b2baaa039d1f83aa5316f0c032e57354f
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,e5cf822a9a7a7813ace9d7c86ce651ad7555aa86289fc75f73e155a77ebfbcfd
 "SP Rüschlikon",no,64,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,stealth,yes,91bca4b014aaa8d93b3c627089f536601035bae1553ba1c4ea06f60f771c07ec
