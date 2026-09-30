@@ -108,6 +108,12 @@ def generate_html(entries, csv_sources, output_dir, base_url):
             url = html.escape(entry.get("url", ""))
             source = html.escape(entry.get("csv_source", ""))
             diff = html.escape(entry.get("diff_preview", ""))
+            search_text = html.escape(
+                " ".join(
+                    str(entry.get(field, ""))
+                    for field in ("label", "csv_source", "url", "diff_preview")
+                )
+            )
 
             if label and label not in seen_titles:
                 title_suggestions.append(f'<option value="{label}">')
@@ -118,7 +124,7 @@ def generate_html(entries, csv_sources, output_dir, base_url):
                 diff_html = f'<pre class="diff">{diff}</pre>'
 
             rows.append(
-                f"""<article>
+                f"""<article data-search="{search_text}">
   <time>{ts}</time>
   <span class="source">{source}</span>
   <h2><a href="{url}">{label}</a></h2>
@@ -174,7 +180,7 @@ def generate_html(entries, csv_sources, output_dir, base_url):
     <h1>{html.escape(title)}</h1>
     <label class="search">Search notifications
       <input type="search" id="notification-search" list="notification-titles"
-             placeholder="Search titles, sources, and changes…" autocomplete="off">
+             placeholder="Search titles, sources, URLs, and changes…" autocomplete="off">
     </label>
     <datalist id="notification-titles">
       {suggestions}
@@ -202,7 +208,7 @@ def generate_html(entries, csv_sources, output_dir, base_url):
       let visibleCount = 0;
 
       articles.forEach((article) => {{
-        const matches = article.textContent.toLocaleLowerCase().includes(query);
+        const matches = article.dataset.search.toLocaleLowerCase().includes(query);
         article.hidden = !matches;
         if (matches) visibleCount += 1;
       }});
