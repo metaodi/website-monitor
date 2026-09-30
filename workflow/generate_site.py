@@ -100,12 +100,18 @@ def generate_html(entries, csv_sources, output_dir, base_url):
             title += f" – {source_filter}"
 
         rows = []
+        title_suggestions = []
+        seen_titles = set()
         for entry in page_entries:
             ts = html.escape(format_timestamp(entry.get("timestamp", "")))
             label = html.escape(entry.get("label", ""))
             url = html.escape(entry.get("url", ""))
             source = html.escape(entry.get("csv_source", ""))
             diff = html.escape(entry.get("diff_preview", ""))
+
+            if label and label not in seen_titles:
+                title_suggestions.append(f'<option value="{label}">')
+                seen_titles.add(label)
 
             diff_html = ""
             if diff:
@@ -124,6 +130,7 @@ def generate_html(entries, csv_sources, output_dir, base_url):
             content = "<p>No notifications yet.</p>"
         else:
             content = "\n".join(rows)
+        suggestions = "\n".join(title_suggestions)
 
         page_html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -141,6 +148,10 @@ def generate_html(entries, csv_sources, output_dir, base_url):
     nav {{ font-size: 0.9rem; margin-bottom: 0.5rem; }}
     nav a {{ color: #0366d6; text-decoration: none; }}
     nav a:hover {{ text-decoration: underline; }}
+    .search {{ margin: 0.75rem 0; }}
+    .search input {{ width: 100%; padding: 0.6rem; border: 1px solid #aaa;
+                     border-radius: 4px; font: inherit; }}
+    #search-status {{ min-height: 1.25rem; font-size: 0.85rem; color: #666; }}
     .feed-link {{ font-size: 0.85rem; }}
     .feed-link a {{ color: #e36209; }}
     article {{ background: #fff; border: 1px solid #e0e0e0; border-radius: 6px;
@@ -161,16 +172,47 @@ def generate_html(entries, csv_sources, output_dir, base_url):
 <body>
   <header>
     <h1>{html.escape(title)}</h1>
+    <label class="search">Search notifications
+      <input type="search" id="notification-search" list="notification-titles"
+             placeholder="Search titles, sources, and changes…" autocomplete="off">
+    </label>
+    <datalist id="notification-titles">
+      {suggestions}
+    </datalist>
+    <p id="search-status" aria-live="polite"></p>
     <nav>{source_nav}</nav>
     <div class="feed-link">📡 <a href="{base_url}/feed.xml">RSS Feed</a></div>
   </header>
   <main>
     {content}
+    <p id="no-search-results" hidden>No matching notifications.</p>
   </main>
   <footer>
     Last updated: {now} ·
     <a href="https://github.com/metaodi/website-monitor">Source on GitHub</a>
   </footer>
+  <script>
+    const searchInput = document.getElementById("notification-search");
+    const articles = Array.from(document.querySelectorAll("main article"));
+    const searchStatus = document.getElementById("search-status");
+    const noResults = document.getElementById("no-search-results");
+
+    searchInput.addEventListener("input", () => {{
+      const query = searchInput.value.trim().toLocaleLowerCase();
+      let visibleCount = 0;
+
+      articles.forEach((article) => {{
+        const matches = article.textContent.toLocaleLowerCase().includes(query);
+        article.hidden = !matches;
+        if (matches) visibleCount += 1;
+      }});
+
+      noResults.hidden = !query || visibleCount > 0;
+      searchStatus.textContent = query
+        ? `${{visibleCount}} of ${{articles.length}} notifications shown`
+        : "";
+    }});
+  </script>
 </body>
 </html>"""
 

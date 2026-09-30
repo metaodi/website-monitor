@@ -62,6 +62,7 @@ In addition to Telegram notifications, the monitor publishes a static website an
 The site is automatically regenerated whenever new changes are detected. Notifications are stored in `notifications.jsonl` and the site is built and deployed using GitHub Pages.
 
 You can also filter notifications by source (e.g., Thalwil, Bezirk Horgen) using the navigation links on the site.
+Use the search bar at the top of a page to search its notifications by title, source, or change text; title suggestions are available while typing.
 
 ### CSV format
 
