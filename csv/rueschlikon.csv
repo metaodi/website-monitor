@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,726b4ecd5af83301534d8085f45f9b69d90c996a1f3659baa48c474557c4f841
+"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,70ecd6c82d0c638a8e420f18c013d6fd8f41b78c0f7d275f89821884349ed7bb
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,e0bda7b8e28afbb50152667d682d66c20b34814d269c03988982d6d5e391729c
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,857d030838cb277396fe9eb4ec34ca9f3f9904ec2bcc378e9e431608f6d6b03e
 "EVP Rüschlikon",no,42,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
