@@ -113,23 +113,6 @@ jobs:
             -o debug/syna_curl.html "$URL" || echo "curl failed"
           ls -la debug
           head -c 3000 debug/syna_curl_headers.txt
-          python3 - <<'PY'
-          import re
-          for f in ("debug/syna_requests.html", "debug/syna_curl.html"):
-              try:
-                  h = open(f, encoding="utf-8", errors="replace").read()
-              except OSError:
-                  continue
-              print("=================== %s (%d chars)" % (f, len(h)))
-              i = h.find("data-blog-listings")
-              j = h.find("o-pagination")
-              print("listing idx", i, "pagination idx", j)
-              start = max(0, h.rfind("<main", 0, i if i >= 0 else len(h)))
-              region = h[start:j if j > start else len(h)]
-              region = re.sub(r"<script.*?</script>", "", region, flags=re.S)
-              region = re.sub(r"\s+", " ", region)
-              print(region[:14000])
-          PY
 
       - name: Stop WireGuard
         if: always()
