@@ -3,7 +3,7 @@
 """Hash of a website selector
 
 Usage:
-  website_hash.py --url <url-of-website> [--selector <css-selector>] [--output <path>] [--type <type>] [--notify-url-output <path>] [--verbose] [--no-verify]
+  website_hash.py --url <url-of-website> [--selector <css-selector>] [--output <path>] [--type <type>] [--notify-url-output <path>] [--debug-html <path>] [--verbose] [--no-verify]
   website_hash.py (-h | --help)
   website_hash.py --version
 
@@ -15,6 +15,7 @@ Options:
   -t, --type <type>                       Type of website, one of: static, dynamic, rss, stealth [default: static].
   -o, --output <path>                     Save the selector output to a file.
   -n, --notify-url-output <path>          Save the notification URL to a file.
+  --debug-html <path>                     Save the last downloaded HTML to a file if the selector is not found.
   --verbose                               Option to enable more verbose output.
   --no-verify                             Option to disable SSL verification for requests.
 """
@@ -111,7 +112,7 @@ def _get_rss_text(url, selector, verify):
     return source_list, notification_link
 
 
-def _get_html_text(url, selector, verify, dl_type):
+def _get_html_text(url, selector, verify, dl_type, debug_html=None):
     """Extract text from an HTML page using a CSS selector.
 
     Args:
@@ -119,6 +120,8 @@ def _get_html_text(url, selector, verify, dl_type):
         selector: CSS selector to extract text from
         verify: Whether to verify SSL certificates
         dl_type: Type of download (static, dynamic, or stealth)
+        debug_html: Optional file path; if the selector is not found, the last
+            downloaded HTML is saved there to help debugging
 
     Returns:
         List of extracted text strings
@@ -149,6 +152,10 @@ def _get_html_text(url, selector, verify, dl_type):
 
     if not as_list:
         log.error(f"Selector {selector} not found in {url}")
+        if debug_html:
+            with open(debug_html, "w", encoding="utf-8") as f:
+                f.write(content)
+            log.error(f"Saved downloaded HTML ({len(content)} chars) to {debug_html}")
         sys.exit(1)
 
     source_list = []
@@ -159,7 +166,7 @@ def _get_html_text(url, selector, verify, dl_type):
     return source_list
 
 
-def get_website_text(url, selector, verify, dl_type="static"):
+def get_website_text(url, selector, verify, dl_type="static", debug_html=None):
     """Extract text from a website selector or RSS feed.
 
     Args:
@@ -167,6 +174,8 @@ def get_website_text(url, selector, verify, dl_type="static"):
         selector: CSS selector for HTML pages, or comma-separated field names for RSS feeds
         verify: Whether to verify SSL certificates
         dl_type: Type of download (static, dynamic, rss, or stealth)
+        debug_html: Optional file path to save the downloaded HTML to if the
+            selector is not found (HTML pages only)
 
     Returns:
         Tuple of (source_text, notification_url) where source_text is the
@@ -178,7 +187,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
     if dl_type == "rss":
         source_list, notification_url = _get_rss_text(url, selector, verify)
     else:
-        source_list = _get_html_text(url, selector, verify, dl_type)
+        source_list = _get_html_text(url, selector, verify, dl_type, debug_html)
 
     unique_source_list = list(set(source_list))
     log.debug("Unsorted:")
@@ -192,7 +201,7 @@ def get_website_text(url, selector, verify, dl_type="static"):
     return source_text, notification_url
 
 
-def get_website_hash(url, selector, verify, dl_type="static", output=None):
+def get_website_hash(url, selector, verify, dl_type="static", output=None, debug_html=None):
     """Get hash of text extracted from a website selector.
 
     Args:
@@ -201,6 +210,8 @@ def get_website_hash(url, selector, verify, dl_type="static", output=None):
         verify: Whether to verify SSL certificates
         dl_type: Type of download (static, dynamic, rss, or stealth)
         output: Optional file path to save the extracted text
+        debug_html: Optional file path to save the downloaded HTML to if the
+            selector is not found
 
     Returns:
         Tuple of (hash, notification_url) where hash is the SHA256 hash of
@@ -208,7 +219,7 @@ def get_website_hash(url, selector, verify, dl_type="static", output=None):
         notifications (for RSS feeds, this is the channel link;
         for other types, this is the original URL).
     """
-    source_text, notification_url = get_website_text(url, selector, verify, dl_type)
+    source_text, notification_url = get_website_text(url, selector, verify, dl_type, debug_html)
     if output:
         with open(output, "w", encoding="utf-8") as f:
             f.write(source_text)
@@ -236,11 +247,12 @@ if __name__ == "__main__":
     verify = not arguments["--no-verify"]
     output = arguments["--output"]
     notify_url_output = arguments["--notify-url-output"]
+    debug_html = arguments["--debug-html"]
 
     if not verify:
         urllib3.disable_warnings()
 
-    new_hash, notification_url = get_website_hash(url, selector, verify, dl_type, output)
+    new_hash, notification_url = get_website_hash(url, selector, verify, dl_type, output, debug_html)
     log.info(f"Hash: {new_hash}")
     log.info(f"Notification URL: {notification_url}")
     if notify_url_output:
