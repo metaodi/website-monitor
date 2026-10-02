@@ -30,6 +30,30 @@ jobs:
       - name: Install dependencies
         run: uv sync --locked --all-extras --dev
 
+      - name: Probe without VPN
+        run: |
+          cat > probe.py <<'PY'
+          import sys, re, time
+          sys.path.insert(0, 'lib')
+          import download
+          from bs4 import BeautifulSoup
+          URL = "https://syna.ch/zuerich-schaffhausen/zhsh-aktuell"
+          SEL = "article .uk-h3, article [property='text']"
+          for n in range(5):
+              try:
+                  h = download.download(URL)
+              except Exception as e:
+                  print("attempt", n, "ERROR", repr(e)[:300]); time.sleep(3); continue
+              hits = len(BeautifulSoup(h, "html.parser").select(SEL))
+              print("attempt", n, "chars", len(h), "selector hits", hits)
+              if hits == 0:
+                  t = re.sub(r"<script.*?</script>|<style.*?</style>", "", h, flags=re.S)
+                  print("--- head:", re.sub(r"\s+", " ", h)[:1500])
+                  print("--- text:", re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", t))[:1500])
+              time.sleep(3)
+          PY
+          echo '##### NO VPN'; uv run python probe.py
+
       - name: Setup WireGuard
         run: |
           sudo apt-get update
@@ -53,6 +77,27 @@ jobs:
 
       - name: Dump HTML
         run: |
+          cat > probe.py <<'PY'
+          import sys, re, time
+          sys.path.insert(0, 'lib')
+          import download
+          from bs4 import BeautifulSoup
+          URL = "https://syna.ch/zuerich-schaffhausen/zhsh-aktuell"
+          SEL = "article .uk-h3, article [property='text']"
+          for n in range(5):
+              try:
+                  h = download.download(URL)
+              except Exception as e:
+                  print("attempt", n, "ERROR", repr(e)[:300]); time.sleep(3); continue
+              hits = len(BeautifulSoup(h, "html.parser").select(SEL))
+              print("attempt", n, "chars", len(h), "selector hits", hits)
+              if hits == 0:
+                  t = re.sub(r"<script.*?</script>|<style.*?</style>", "", h, flags=re.S)
+                  print("--- head:", re.sub(r"\s+", " ", h)[:1500])
+                  print("--- text:", re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", t))[:1500])
+              time.sleep(3)
+          PY
+          echo '##### WITH VPN'; uv run python probe.py
           mkdir -p debug
           URL="https://syna.ch/zuerich-schaffhausen/zhsh-aktuell"
           # Same downloader as the real check (requests, browser-like headers)
