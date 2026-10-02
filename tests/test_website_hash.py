@@ -16,6 +16,9 @@ class TestNormalizeText:
     def test_double_newlines_collapsed(self):
         assert wh._normalize_text("a\n\nb") == "a\nb"
 
+    def test_crlf_converted_to_lf(self):
+        assert wh._normalize_text("a \r\nb\rc") == "a \nb\nc"
+
     def test_double_spaces_collapsed(self):
         assert wh._normalize_text("a  b") == "a b"
 

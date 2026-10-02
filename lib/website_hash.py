@@ -45,6 +45,9 @@ SELECTOR_RETRY_DELAY_SECONDS = 5
 
 def _normalize_text(text):
     """Normalize whitespace in extracted text."""
+    # Git's `* text=auto` rewrites CRLF to LF when texts/ is committed, so a
+    # CR left in here would make every run differ from the stored file.
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
     text = text.replace("\n\n", "\n")
     text = text.replace("  ", " ")
     return text
