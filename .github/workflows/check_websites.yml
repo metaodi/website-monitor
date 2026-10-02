@@ -167,7 +167,8 @@ jobs:
           # Get new text from website
           mkdir -p text
           mkdir -p hashes
-          new_hash=$(uv run ./lib/website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${safe_label}.txt -n text/${safe_label}_notify_url.txt --verbose)
+          mkdir -p debug
+          new_hash=$(uv run ./lib/website_hash.py -u "${{ matrix.url }}" -s "${{ matrix.selector }}" -t "${{ matrix.type }}" -o text/${safe_label}.txt -n text/${safe_label}_notify_url.txt --debug-html debug/${safe_label}.html --verbose)
           echo "New hash: $new_hash"
           echo $new_hash > hashes/${{ matrix.hash }}.txt
           echo "new_hash=$new_hash" >> $GITHUB_OUTPUT
@@ -281,6 +282,31 @@ jobs:
           }
           print(json.dumps(entry, ensure_ascii=False))
           " "${{ matrix.label }}" "${{ steps.website.outputs.notify_url }}" "$csv_source" "${{ steps.preview.outputs.text }}" > "notifications/${safe_label}.jsonl"
+
+      - name: Summarize failed download
+        if: ${{ failure() && steps.label.outputs.safe_label != '' }}
+        run: |
+          f="debug/${{ steps.label.outputs.safe_label }}.html"
+          if [ -f "$f" ]; then
+            {
+              echo "### ${{ matrix.label }}: selector not found"
+              echo "Selector: \`${{ matrix.selector }}\` - downloaded HTML: $(wc -c < "$f") bytes, saved as artifact \`debug-${{ steps.label.outputs.safe_label }}\`."
+              echo "Title: $(grep -o -m1 '<title>[^<]*' "$f" | sed 's/<title>//')"
+              echo '```text'
+              sed -e 's/<script[^>]*>.*<\/script>//g' -e 's/<[^>]*>/ /g' "$f" | tr -s ' \t\n' ' ' | head -c 1500
+              echo
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload downloaded HTML for debugging
+        if: ${{ failure() && steps.label.outputs.safe_label != '' }}
+        uses: actions/upload-artifact@v6
+        with:
+          name: debug-${{ steps.label.outputs.safe_label }}
+          path: debug
+          retention-days: 7
+          if-no-files-found: ignore
 
       - name: Upload hash as artifact
         if: ${{ always() && steps.label.outputs.safe_label != '' }}

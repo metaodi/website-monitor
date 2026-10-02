@@ -267,3 +267,24 @@ class TestGetWebsiteHash:
         )
         assert len(h) == 64
         assert url == "https://example.com/blog"
+
+
+class TestDebugHtml:
+    def test_html_saved_when_selector_not_found(
+        self, mock_download, static_simple_html, tmp_path
+    ):
+        mock_download(static_html=static_simple_html)
+        out = tmp_path / "debug.html"
+        with pytest.raises(SystemExit):
+            wh._get_html_text(
+                "https://example.com", ".nonexistent", True, "static", str(out)
+            )
+        assert out.read_text(encoding="utf-8") == static_simple_html
+
+    def test_html_not_saved_when_selector_found(
+        self, mock_download, static_simple_html, tmp_path
+    ):
+        mock_download(static_html=static_simple_html)
+        out = tmp_path / "debug.html"
+        wh._get_html_text("https://example.com", "body", True, "static", str(out))
+        assert not out.exists()
