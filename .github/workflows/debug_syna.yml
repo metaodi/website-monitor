@@ -68,6 +68,10 @@ jobs:
             -o debug/syna_curl.html "$URL" || echo "curl failed"
           ls -la debug
           head -c 3000 debug/syna_curl_headers.txt
+          for f in debug/syna_requests.html debug/syna_curl.html; do
+            echo "=================== $f ($(wc -c < $f) bytes)"
+            cat $f
+          done
 
       - name: Stop WireGuard
         if: always()
