@@ -349,7 +349,10 @@ jobs:
               fi
             done
           fi
-      
+
+      - name: Deduplicate notifications
+        run: python3 workflow/dedupe_notifications.py notifications.jsonl
+
       - name: Export database
         env:
            CSV_PATH: ${{ inputs.csv-path }}
