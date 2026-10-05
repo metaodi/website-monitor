@@ -1,10 +1,10 @@
 label,active,error_count,url,selector,type,proxy,hash
-"Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+"Beat Klingelfuss - Startseite",yes,1,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 "Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,b076e9ff852c862434d5bacaee8887f2a777f47eb16557fa060ad400a533db7f
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,7face53d2efe5e772892c053b68731aa9b34a714e00622ac8e371ca9edfe392a
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,857d030838cb277396fe9eb4ec34ca9f3f9904ec2bcc378e9e431608f6d6b03e
 "EVP Rüschlikon",no,43,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
-"FDP Rüschlikon",yes,2,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,2b948f43e54a142f40762a39adc12cccfca3ba706c949bcf106b4e8a3678f1b8
+"FDP Rüschlikon",yes,3,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,2b948f43e54a142f40762a39adc12cccfca3ba706c949bcf106b4e8a3678f1b8
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,0242f49b776a1148770e5fbcc4578701e86ee62fe3bd53df7b6cf3c661fbe866
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,72ccff645d78bf3b6818e7c731cb4e37807a69bdccc49607e5eef37dceca4a6b
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,4f1c9a3d169c2e12dd9dabbfe033324f6d9aab1982c5b04f043fca3bf7d234c8
