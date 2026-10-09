@@ -1,7 +1,7 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Liveticker Thalwil",no,0,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,26da7b9a9cd0db4b700e95e6103de32ac6bf9b9ceba42855b57f81e78cb98733
 "Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,cfc901320752371e80706b60a19a6b70e77da647ff65f9d1ba21753b86fe1ae4
-"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,0683c7ae259e67529bc23f2e63293239aac876088cc784fb74984bfd6303cbc8
+"Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,3902ff4bb12531aeeffdb866b036b52b316c329ad2960218d66776159f18a6cc
 "EVP Thalwil",yes,0,https://www.evp-thalwil.ch/aktuell,main,static,no,f8111164e5781eb834589c5937019fd8cacc4e6ab562df35c05a544f7a23b64f
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,f98837c65c6bd06497ae4def5b5cad6f010e3a4d908d6b3ad94a67b1818b2512
 "Freiwilliger Schulsport Thalwil",yes,0,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,yes,ed36c877146e54d02c6519ab7e680cfd46ca4fb933d688747de066fee2382f76
