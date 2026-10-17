@@ -4,7 +4,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,6cc1402975125f28a8feec021f6519500e075c4039512870ac1c0ebfecc355b9
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,857d030838cb277396fe9eb4ec34ca9f3f9904ec2bcc378e9e431608f6d6b03e
 "EVP Rüschlikon",no,44,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
-"FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,1ac3696a9b0d3b7f078f474ae2476cbd0b5a2eef8685778f84684a2e726ab086
+"FDP Rüschlikon",yes,1,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,1ac3696a9b0d3b7f078f474ae2476cbd0b5a2eef8685778f84684a2e726ab086
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,0242f49b776a1148770e5fbcc4578701e86ee62fe3bd53df7b6cf3c661fbe866
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,085ffc4f2a8e0a0241c11c18994e9e800a98c9491e8d50c09e381244113c078d
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,4f1c9a3d169c2e12dd9dabbfe033324f6d9aab1982c5b04f043fca3bf7d234c8
