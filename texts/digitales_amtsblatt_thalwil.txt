@@ -4,7 +4,6 @@ Bauprojekt: Bahnhofstrasse 21, Thalwil
 Bauprojekt: Claridenstrasse 22, Thalwil
 Bauprojekt: Dorfstrasse 94, Thalwil
 Bauprojekt: Feldweg 23, Kat.-Nr. 6318, Adliswil
-Bauprojekt: Neugutstrasse 5, Kat.-Nr. 5618, zweigeschossige Wohnzone (W2), Adliswil
 Bauprojekt: Tobelhof 13, Kat.-Nr. 5951, Adliswil
 Bauprojekt: Tödistrasse 75, Thalwil
 Dauernde Verkehrsanordnung Zone "Im FInk", Thalwil
@@ -15,29 +14,30 @@ Löschung Effiserv, Urs Huwiler, Thalwil
 Mutation Ausbildungszentrum Reinigung Rickenbach GmbH, Rickenbach (SO)
 Mutation Besinci Handel, Wädenswil, neu Thalwil
 Mutation COMSYS BÄRTSCH AG, Rüschlikon
+Mutation Carfa AG, Thalwil
 Mutation Casa Piz Mundaun AG, Lumnezia
 Mutation Dolenc Scheiwiller Parli Architekten AG, Thalwil
 Mutation FOOD FOUNDERS Studio AG, Uetikon am See
-Mutation HSBC Bank plc, London, Zweigniederlassung Zürich, Zürich
 Mutation Hitachi Energy AG, Zürich
 Mutation Hotel Alex Management AG, Thalwil
 Mutation Joey Schweiz AG, Hünenberg, neu Seuzach
 Mutation KKL Luzern Management AG, Luzern
 Mutation LGT Capital Partners AG, Freienbach
+Mutation LIONSCOUT GMBH, Regensdorf, neu Thalwil
 Mutation LU AG, Hinwil
 Mutation RAINS Switzerland AG, Thalwil
 Mutation Rotax AG, Thalwil, neu Rotax AG in Liquidation, Zürich
-Mutation SUGAR Pls Swiss GmbH, Thalwil
+Mutation SOS Ärzte Turicum AG, Zürich
 Mutation Saisonal GmbH, Zürich
 Mutation Schroder Investment Management (Switzerland) AG, Zürich
 Neueintragung Gonka Stiftung, Zug
 Neueintragung HÉRITAGE GRENAT, Genève
-Neueintragung Infineon Technologies Finance AG, Schaffhausen
+Neueintragung Mahler Motors, Muotathal
 Neueintragung Schigischt Services GmbH, Wetzikon (ZH)
 Neueintragung Swiss Compute Desk GmbH, Kriens
+Neueintragung Walti Immobilien AG, Thalwil
 Schluss des Konkursverfahrens Alfred Biedermann, ausgeschlagene Erbschaft
 Schuldenruf Aktiengesellschaft: Herabsetzung des Aktienkapitals Vogel Communications Group AG
 Todesanzeige – Margrit Berger-Wetzel, Thalwil
 Todesanzeige – Ruth Keller-Bucher, Thalwil
 Vorläufige Konkursanzeige Jürg Marius Bartholdi
-Vorläufige Konkursanzeige Neda Group AG in Liquidation
