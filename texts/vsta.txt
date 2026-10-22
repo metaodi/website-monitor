@@ -1,53 +1,52 @@
 .
 0800 226 644
-14. März 2026
 15 % Rabatt auf die Reiseversicherung von Generali
 19. Juni 2026
+22. Oktober 2026
 24. September 2026
 30. September 2026
 6. August 2026
 Ausserdem profitieren sie weiterhin von attraktiven Vergünstigungen auf folgende Versicherungen: Auto, Gebäude, Haftpflicht, Hausrat, Rechtsschutz und Unfall.
 Autor
-Bei den Investitionen ist der Selbstfinanzierungsgrad nach wie vor hoch und ein Abbau der Schulden wurde weiter umgesetzt.
+Cyon schreibt dazu:
 Dank unserer Partnerschaft mit Generali erhalten unsere Mitglieder einen persönlichen Vorsorge-Check sowie eine individuelle Beratung – kostenlos und unverbindlich.
 Das Bundesamt für Gesundheit (BAG) hat die Prämien 2027 bekannt gegeben. Und das Beste daran: Sanitas ist auch im nächsten Jahr die richtige Wahl, denn unsere Prämien bleiben überwiegend stabil oder steigen nur leicht an.
-Die Staatsrechnung 2025 weist wie in den Vorjahren einen erfreulichen Überschuss aus und der Saldo der Erfolgsrechnung ist wieder sehr hoch. Dabei hat der Kanton Zürich auch die eigenen Hausaufgaben erledigt und Sparbemühungen ernst genommen. Erfreulicherweise wurden auch Anliegen der Vereinigten Personalverbände wie die Teuerung und Zulagen weiterbezahlt, was unter den gegebenen finanziellen Umständen auch sinnvoll ist.
-Die Vereinigten Personalverbände fordern, dass die hervorragende Finanzlage des Kantons Zürich auch dem Personal zugutekommt. Die Angebote der BVK sollen nun endlich durch den Kanton übernommen werden, insbesondere die Gesamt- und Ergänzungsvorsorge.
+Die Lücken erlaubten es Angreifern, ohne Zugangsdaten Schadcode auf einem Server auszuführen und Websites komplett zu übernehmen. Weil Details vorzeitig öffentlich wurden, meldeten Sicherheitsfirmen weltweit erste Angriffsversuche, bevor überhaupt Korrekturen verfügbar waren. Sicherheitsbehörden der EU empfahlen deshalb, betroffene Server bis zur Installation der Korrekturen vom Netz zu nehmen. Das haben viele Organisationen getan, darunter Regierungsportale, Universitäten und Spitäler.
 Die finanzielle Vorsorge gewinnt für viele Menschen an Bedeutung. Ob Vermögensaufbau, Absicherung der Familie oder Planung des Ruhestands: Eine frühzeitige und passende Vorsorgelösung kann einen wichtigen Unterschied machen.
-Freundliche Grüsse
+Fazit: Es lohnt sich, eine Website bei einem seriösen Hoster zu halten, der einen perfekten Service leistet, wie z.B. Cyon in Basel.
 Generali Angebot für unsere Mitglieder
 Generali Reiseversicherung
 Generali-Vorsorge
 Haben Sie Fragen? Wir sind gerne für Sie da. Kontaktieren Sie uns einfach unter
 Herunterladen
+Heute Morgen wurde bekannt, dass seit dem Bekanntwerden der PHP‑Sicherheitslücke Kriminelle bereits hunderttausende Angriffe auf Websites versuchten, um sie zu übernehmen. Pech für die Websitebetreiber, deren Hoster nicht sofort reagiert haben, oder bei „Selbsthostern“, die die Website auf ihrem NAS‑Gerät betreiben und selbst das PHP-Update aufspielen müssen.
 Jedes Alter und jede Rasse ist willkommen. Versicherungsschutz ohne Vorbehalt, wann immer möglich auch für Hunde und Katzen mit Vorerkrankung. Kostenübernahmen, die andere Versicherungen ausschliessen.
 Jetzt kontaktieren
 Kategorien
-MEDIENMITTEILUNG der Vereinigten Personalverbände des Kantons Zürich (VPV) vom 13. März 2026
 Mehr Rückhalt im Gesundheitsalltag
 Mehr erfahren
 Nähere Informationen für das Jahr 2027 finden Sie unter:
 Näheres zur Reiseversicherung entnehmen Sie bitte dem Flyer der Generali.
-Personal soll auch profitieren
-Peter Reinhard
 Prämie berechnen
-Präsident
 Reiseversicherung von Generali
 Sanitas
 Sanitas Tierversicherung
 Sanitas, wichtiges für das Jahr 2027 (Prämien usw.)
 Schlagwörter
+Seit 04:00 Uhr sind deine Websites wieder normal erreichbar. Auch my.cyon, Webmail und cyon.ch stehen dir wieder wie gewohnt zur Verfügung. Wir haben die Korrekturen für die kritischen PHP-Sicherheitslücken («PHP2Shell») auf allen Servern installiert und PHP wieder eingeschaltet. Das gilt auch für ältere PHP-Versionen, für die das PHP-Projekt selbst keine Korrekturen mehr liefert.
 Sie haben die Wahl: Für überschaubare Tierarztkosten und das gute Gefühl, Ihren Liebling bestens versorgt zu wissen.
-Staatsrechnung 2025: Solider Abschluss
 Starke Leistungen: Smart oder Premium?
 Uncategorized
 Unser Vertragspartner Sanitas informiert über die Prämien 2027
 Unser Vertragspartner Sanitas versichert jetzt auch Vierbeiner. Denn für Sanitas gehören Katzen und Hunde zur Familie und verdienen es, umsorgt und bestens abgesichert zu sein. Sie haben selbst einen Hund oder eine Katze oder kennen jemanden? Unsere Tierversicherung überzeugt mit umfassendem Schutz – von Schwanzspitze bis Schnurrhaar, denn sie bietet mehr als viele andere Tierversicherungen. Diese Einschätzung teilt auch die Vergleichsplattform bonus.ch, die uns zur Testsiegerin erkoren hat. Weil auch das robusteste Haustier einmal zum Tierarzt muss, bleiben Tierhalterinnen und -halter so vor hohen Kosten geschützt – schon ab wenigen Franken pro Monat. Probieren Sie es einfach aus:
 Unsere Mitgliederinnen und Mitglieder können von einem exklusiven Vorteil profitieren:
-VPV Vereinigte Personalverbände des Kantons Zürich
+Unsere Website ist nach wie vor sehr sicher, auch wegen gewisser Massnahmen meinerseits mit sicherheitsrelevanten Add-ons.
 Veröffentlicht am
+Warum dieser drastische Schritt nötig war
 Was gibt es Neues bei Sanitas?
 Was ist neu? Nachfolgend finden Sie die wichtigsten Informationen. Für unsere Kundinnen und Kunden haben wir alles zu den Prämien 2027 online zusammengestellt. Die neuen Policen werden bis Ende Oktober per Post verschickt oder ins Sanitas Portal geladen.
+Website Ausfall am 21.10.2026, 16:00 Uhr bis 22.10.2026, 04:00 Uhr
+Wie sie in der Presse lesen konnten, gab es bei der Programmiersprache PHP weltweit eine äusserst kritische Sicherheitslücke, die gestern, 21.10.2026, um 16:00 Uhr bekannt geworden ist. Unser Hoster „Cyon“ in Basel, einer der grössten Hoster in der Schweiz, hat richtig reagiert und alles Relevante abgestellt. So war unsere Website seit 16:00 Uhr nicht mehr erreichbar. Per Mail wurde informiert, dass das PHP‑Update um 22:00 Uhr von PHP kommen soll und bis am Morgen alle Websites wieder erreichbar sein werden. Seit 04:00 Uhr ist unsere Website wieder online. Zu bemerken ist, dass weltweit über 70% der Websites auf PHP aufbauen.
 Zur Generali gelangen Sie mit dem Button «Generali» auf der rechten Seite.
 gian
 oder per E-Mail an
