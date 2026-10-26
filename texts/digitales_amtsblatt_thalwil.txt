@@ -1,5 +1,6 @@
 Aufforderung nach Art. 152a Abs. 3 HRegV i.V.m. Art. 933 Abs. 1 und 938 OR, Handelsregisteramt Kanton Zürich
 Bauprojekt: Alte Landstrasse 59, Kilchberg (ZH)
+Bauprojekt: Badstrasse 2, Kat.-Nr. 5470, Adliswil
 Bauprojekt: Haldenstrasse 37, Kat.-Nr. 7830, Adliswil
 Bauprojekt: Wiesenstrasse 7, Thalwil
 Erbschaftsübernahme - Agnes Mattmann geb. Maurer, Oensingen
@@ -12,23 +13,25 @@ Mutation Aetheris Ventures GmbH, Walchwil, neu Aetheris Ventures GmbH in Liquida
 Mutation Banca dello Stato del Cantone Ticino, Bellinzona
 Mutation Blackbeard GmbH, Zürich
 Mutation CAPANAGE GmbH, Zürich, neu Capanage GmbH, Thalwil
-Mutation Carfa AG, Thalwil
 Mutation Clearstream Fund Centre AG, Zürich
 Mutation Dayzzi (Schweiz) AG, Thalwil
 Mutation GEZE Schweiz AG, Reiden
+Mutation Global Gruppe Schweiz AG, Freienbach
 Mutation Golev Immobilien AG, Thalwil, neu Golev Immobilien AG in Liquidation
 Mutation Help-Tex GmbH, Olten, neu Help-Tex GmbH in Liquidation
 Mutation Immo-Pele AG, Schaffhausen
 Mutation International Education GmbH, Thalwil
 Mutation Koellmann AG, Thalwil
-Mutation LIONSCOUT GMBH, Regensdorf, neu Thalwil
+Mutation LGT Bank (Schweiz) AG, Zürich
 Mutation LaKi GmbH, Thalwil
 Mutation Netcetera AG, Zürich
 Mutation New Graceland - Auffangstation Schweiz, Waltenschwil
 Mutation Piega Holding AG, Freienbach, neu Horgen
 Mutation Ringier Central and Eastern Europe AG, Zürich
-Mutation SOS Ärzte Turicum AG, Zürich
+Mutation Scailyte AG, Basel
 Mutation Swixx Biopharma AG, Baar
+Mutation UBS AG, Basel
+Mutation UBS AG, Zürich
 Mutation UBS Asset Management AG, Zürich
 Mutation UBS Asset Management Switzerland AG, Zürich
 Mutation Vogel Communications Group AG, Thalwil
@@ -36,8 +39,7 @@ Mutation Zentrum für Bewegungsmedizin AG, Thalwil
 Mutation medilab medical equipments ag, Tägerwilen
 Mutation wefox Holding AG, Zürich
 Neueintragung 2RIVA GmbH, Thalwil
-Neueintragung Mahler Motors, Muotathal
-Neueintragung Walti Immobilien AG, Thalwil
+Neueintragung Swiss Link Trading, Inhaber El Abida, Thalwil
 Pfändungsanzeige/-urkunde Gerhild Thiepold
 Schuldenruf infolge Fusion nach FusG BAM Best Art Material AG mit Koellmann AG
 Todesanzeige – Josef Martin Bischofberger, Thalwil
