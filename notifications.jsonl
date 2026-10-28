@@ -1925,3 +1925,4 @@
 {"timestamp": "2026-10-28T14:55:51.929922+00:00", "label": "Wahlarchiv Kanton Zürich", "url": "https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996", "csv_source": "bezirk_horgen", "diff_preview": "+regierungsrat"}
 {"timestamp": "2026-10-28T16:51:56.926953+00:00", "label": "Bezirk.ch", "url": "https://www.bezirk.ch/", "csv_source": "bezirk_horgen", "diff_preview": "+Basar mit Koffermarkt findet zum letzten Mal statt"}
 {"timestamp": "2026-10-28T17:16:58.581645+00:00", "label": "Bezirk.ch Rüschlikon", "url": "https://www.bezirk.ch/rueschlikon", "csv_source": "rueschlikon", "diff_preview": "+Basar mit Koffermarkt findet zum letzten Mal statt"}
+{"timestamp": "2026-10-28T17:25:02.493977+00:00", "label": "Bezirk.ch Thalwil", "url": "https://www.bezirk.ch/thalwil", "csv_source": "thalwil", "diff_preview": "+Basar mit Koffermarkt findet zum letzten Mal statt"}
