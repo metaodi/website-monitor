@@ -6,7 +6,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "EVP Rüschlikon",no,46,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
 "FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,5b7d6de2472eebfe4cca45f364e9753bd7411fa38e0ae3ce6d5698b93015ad85
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,0242f49b776a1148770e5fbcc4578701e86ee62fe3bd53df7b6cf3c661fbe866
-"HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,bb9b6af6892c24fd1ef8238988f6b389f0f81ff4af27b5ed6701a264f8200eff
+"HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,b5353809330473ec7644d0c6f27e59be86b7b89968924bee1f22c86abe501bd4
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,4f1c9a3d169c2e12dd9dabbfe033324f6d9aab1982c5b04f043fca3bf7d234c8
 "Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,2dc8d5586c394aa6c1403bc83e9f8602e9530ff757cbab42ac06db6d18b10248
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,fe0fa23761a024b192a6f94ac6272c0e1b37d7f15bed1309ce76669b2b0d675e
