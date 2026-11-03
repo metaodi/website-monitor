@@ -1,14 +1,14 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,1d057c5efd956ff290d817e561d9e5242df0cc59a93a67b6102f5fa2f4f2072e
+"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,c900c810fe39e849ce1ca8e779a1b40009344c721744b4513bf66c7038666ce8
 "Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,bd70c76c133fa5da90c1b7f889bf0f1514073acad3149ebce17a8aa173c150e1
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,fa0511cdc800e76efe624e001f183a562e66d642e63068d807955e84d53050de
 "EVP Rüschlikon",no,47,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
-"FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,89a3f3353e5d6590d49a78a8cc6fc2720d0c520656f2d53a04d24c037350da43
+"FDP Rüschlikon",yes,1,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,89a3f3353e5d6590d49a78a8cc6fc2720d0c520656f2d53a04d24c037350da43
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,00f6a9966d4c3dd6c854563eb51b46ac85720b22ad0e4b2f36178b8eb5aeb038
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,b5353809330473ec7644d0c6f27e59be86b7b89968924bee1f22c86abe501bd4
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,4f1c9a3d169c2e12dd9dabbfe033324f6d9aab1982c5b04f043fca3bf7d234c8
-"Ortsmuseum Rüschlikon",yes,1,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,fa6db01ae7a619bfafe14db3250ad76e6295ac38f24994bcb0c1c2bcfaeb4059
+"Ortsmuseum Rüschlikon",yes,0,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,fa6db01ae7a619bfafe14db3250ad76e6295ac38f24994bcb0c1c2bcfaeb4059
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,62b65714370b3d9f17031205d9f94f1dfc5f0d79ba77d1a858b62d95c67e72f1
 "SP Rüschlikon",no,69,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,stealth,yes,91bca4b014aaa8d93b3c627089f536601035bae1553ba1c4ea06f60f771c07ec
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/,"nav, .content",static,no,7b8a10b1180b5ca4cb0bfaf583337d8c055e9b24cefa17863e2ce68ac94183fb
