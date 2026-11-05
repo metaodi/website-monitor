@@ -1,10 +1,10 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Beat Klingelfuss - Startseite",yes,0,https://beat-klingelfuss.ch/,.ps89,static,no,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,5db07d0bc10a6f9397c0ac24ea26b56887e26e6ddde630d33b44838121dbdf0a
-"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,67277140129d641cbc608db01708e0f88fc04c05a56ae04d0bf4aebf1b557c9d
+"Bezirk.ch Rüschlikon",yes,0,https://www.bezirk.ch/rueschlikon,"article h2, article .text-secondary",dynamic,no,ae5eb8095516c820882c7c1eead9591c1c6c751fb2320148e449605ac191b686
+"Digitales Amtsblatt Rüschlikon",yes,0,https://epublikation.ch/#!/search/publications?keyword=R%C3%BCschlikon&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,76ac907754c6c7a7554398dd1f733fc1d852bef3c353e22f9271920ba93ef1e1
 "Elena Michel - Startseite",yes,0,https://elenamichel.ch/,article,static,no,fa0511cdc800e76efe624e001f183a562e66d642e63068d807955e84d53050de
 "EVP Rüschlikon",no,47,https://evpzh.ch/sektionen/ortsgruppe/rueschlikon,#main,static,no,00e312a3030c9f1a550275ad76af50200c416fcd6183cf8b9f6c7ca9860654bc
-"FDP Rüschlikon",yes,0,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,89a3f3353e5d6590d49a78a8cc6fc2720d0c520656f2d53a04d24c037350da43
+"FDP Rüschlikon",yes,1,https://www.fdp-rueschlikon.ch/aktuell/news,#main-content,static,yes,89a3f3353e5d6590d49a78a8cc6fc2720d0c520656f2d53a04d24c037350da43
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,00f6a9966d4c3dd6c854563eb51b46ac85720b22ad0e4b2f36178b8eb5aeb038
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,b5353809330473ec7644d0c6f27e59be86b7b89968924bee1f22c86abe501bd4
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,4f1c9a3d169c2e12dd9dabbfe033324f6d9aab1982c5b04f043fca3bf7d234c8
