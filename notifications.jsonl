@@ -2073,3 +2073,4 @@
 {"timestamp": "2026-11-05T10:23:37.949539+00:00", "label": "Bezirk.ch Rüschlikon", "url": "https://www.bezirk.ch/rueschlikon", "csv_source": "rueschlikon", "diff_preview": "+Adliswil ist offiziell kinderfreundlich"}
 {"timestamp": "2026-11-05T12:01:02.421950+00:00", "label": "Bezirk.ch", "url": "https://www.bezirk.ch/", "csv_source": "bezirk_horgen", "diff_preview": "+Adliswil ist offiziell kinderfreundlich"}
 {"timestamp": "2026-11-05T13:10:55.562491+00:00", "label": "Bezirk.ch", "url": "https://www.bezirk.ch/", "csv_source": "bezirk_horgen", "diff_preview": "+Langenberg-Luchsin hat im Schwarzwald Zwillinge geboren"}
+{"timestamp": "2026-11-05T13:47:09.782270+00:00", "label": "Bezirk.ch Thalwil", "url": "https://www.bezirk.ch/thalwil", "csv_source": "thalwil", "diff_preview": "+Adliswil ist offiziell kinderfreundlich\n+Langenberg-Luchsin hat im Schwarzwald Zwillinge geboren"}
