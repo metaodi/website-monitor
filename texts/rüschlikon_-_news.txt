@@ -5,6 +5,7 @@
 04.11.2026
 08.10.2026
 09.10.2026
+09.11.2026
 10.09.2026
 14.10.2026
 15.09.2026
@@ -16,7 +17,6 @@
 26.10.2026
 27.09.2026
 Abstimmungs- und Wahlresultate vom 27. September 2026
-Anwohnerinformation: Nachtarbeiten Projekte "Bahnhof Süd" und "Bahnhof Nord"
 Badi Rüschlikon: Teilsperrung Seeeinstieg und Entfernung Rutschbahn
 Baustelleninformation Bahnhof Nord/Süd: Update Nachtarbeiten sowie Vollsperrung Bahnhofstrasse/Bahnhofplatz
 Baustelleninformation: Update zur aktuellen Vollsperrung Bahnhofstrasse/Bahnhofplatz
@@ -36,4 +36,5 @@ Rüschlikon hält an Steuerfuss fest – Moduswechsel beim Finanzausgleich
 Rüschlikon nimmt erste öffentliche E-Ladestationen in Betrieb
 Rüschlikon ruft Arbeitsgruppe Sport ins Leben
 Rüschlikon startet Vergabe der Mietwohnungen in «Bahnhof Süd»
+Solarstrom von Rüschlikon für Rüschlikon: Gemeinde schafft eine lokale Elektrizitätsgemeinschaft
 Sprechstunde des Gemeindepräsidenten
