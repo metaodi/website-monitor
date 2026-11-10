@@ -1,4 +1,6 @@
 Aufforderung nach Art. 152a Abs. 3 HRegV i.V.m. Art. 939 Abs. 1 OR, Handelsregisteramt Kanton Zürich
+Bauprojekt: Fachstrasse 12, 14, Oberrieden
+Bauprojekt: Hofernweg 20, Kat.-Nr. 8121, Adliswil
 Bauprojekt: Lebernstrasse 29, Kat.-Nr. 6530, Adliswil
 Bauprojekt: Rellstenstrasse 9, Kat.-Nr. 36, Adliswil
 Bauprojekt: Sihlaustrasse 13, Kat.-Nr. 2360, Adliswil
@@ -11,7 +13,6 @@ Mutation AXIS RE SE, Dublin, Zurich Branch, Zürich
 Mutation Alto Albis AG, Zug
 Mutation Alton Immobilien AG, Thalwil
 Mutation Alvetic GmbH, Wiedlisbach, neu Thalwil
-Mutation Bank Thalwil Genossenschaft, Thalwil
 Mutation Caberta Advisory GmbH, Risch
 Mutation Calcada AG, Zug
 Mutation Casa Depuoz, Zentrum für Schule, Ausbildung und Integration, Trun, neu Casa Depuoz, Kompetenzzentrum für Menschen mit besonderen Bedürfnissen
@@ -19,37 +20,43 @@ Mutation Chasa Editura Rumantscha ScRL, Chur
 Mutation Cigro GmbH, Zürich, neu Maschwanden
 Mutation Edelweiss Global Holdings AG, Zürich
 Mutation Eltaver GmbH, Zug
-Mutation FTB Holding SA, Brissago
+Mutation Ferienheim Thalwil zum Hirschen in Schwellbrunn, Thalwil
+Mutation Genossenschaft Campo Cortoi, Zürich
 Mutation IBM Research GmbH, Rüschlikon
 Mutation Johnson & Johnson (Switzerland) GmbH, Zug
 Mutation KPMG AG, Zürich
 Mutation Klarom GmbH, Winkel
-Mutation LGT Bank (Schweiz) AG, Zürich
 Mutation La Finanza AG, Thalwil, neu Zürich
 Mutation LaKi GmbH, Thalwil, neu LaKi GmbH in Liquidation
 Mutation Luzerner Pensionskasse (LUPK), Luzern
+Mutation MakiTool Technology Services Cornejo, Thalwil, neu Zürich
+Mutation Mettler-Toledo GmbH, Greifensee
+Mutation Mettler-Toledo Technologies GmbH, Greifensee
 Mutation Nuba AG, Zug
 Mutation Nuba Construction AG, Zug
 Mutation PURE LUXURY HOMES GMBH, Thalwil, neu Alsig Gebäudetechnik GmbH, Hedingen
 Mutation Proteam International AG, Zug
+Mutation Residenz Waldruh AG, Fischingen
 Mutation Sager Family Office AG, Zug
 Mutation Siegfried & ROI AG, Steinhausen
 Mutation Sonova AG, Stäfa
 Mutation Zürich Lebensversicherungs-Gesellschaft AG, Zürich
-Mutation arvy AG, Zürich
 Mutation beUnity AG, Thalwil, neu Adliswil
-Neueintragung Ardenum AG, Zumikon
+Neueintragung CALKAISER Partners AG, Thalwil
 Neueintragung Certara Switzerland GmbH, Zug
 Neueintragung ClassRoute GmbH, Thalwil
 Neueintragung Covaro AG, Zumikon
 Neueintragung Dirk Verburg GmbH, Thalwil
 Neueintragung Ehinger Invest GmbH, Schaffhausen
+Neueintragung Gerbernet GmbH, Safiental
 Neueintragung Herzpraxis Thalwil AG, Thalwil
+Neueintragung Malocin Maccabruni, Thalwil
 Neueintragung Monfort Immo GmbH, Bad Ragaz
 Neueintragung Nadjafi, Thalwil
 Neueintragung PII Immobilien AG, Thalwil
 Neueintragung Studio 42 Interiors GmbH, Thalwil
 Neueintragung Tech for Equality, Rüschlikon
 Neueintragung struktonom gmbh, Uster
+Todesanzeige – Corina Senn-Gurini, Thalwil
 Todesanzeige – Kurt Schnurrenberger, Wädenswil
 Vorläufige Konkursanzeige Mike Boppart
