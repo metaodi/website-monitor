@@ -5,7 +5,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "EVP Thalwil",yes,0,https://www.evp-thalwil.ch/aktuell,main,static,no,b1bd2b31705274a99de5387ed1b3ddd8b3ee506d6eb62087adffe3160a9c49c6
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,623e8f6464fa351dc454df723010aad5f1e600fe86a992b5097f3212e308b97f
 "Freiwilliger Schulsport Thalwil",yes,0,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,yes,50d3c53d7eae9189764d35501c7dd6c30c82b5fb90b7793663a6c672962230c6
-"GLP Thalwil",yes,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,c1417782c649fa0feafb2feb3bda0e5c80ada34482654b3070a842fb434f7514
+"GLP Thalwil",yes,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,e073614f9000b99e8b4a0ff28c472096bb40c81424c8b5e9f3a28153e3cb9145
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,7a61a74781d34893779c671bfa1a3c558142ac8f84cad8eae15db7d484a4fb28
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,e4392b1cce02d4c44077766e2e85c1aa7e5011f5adce73d01df2a9967d8ca8fb
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
@@ -15,7 +15,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Pfadi Thala Wölfli Walhalla",yes,0,https://pfadi-thala.ch/gruppen/woelfli-walhalla/,.elementor-widget-jet-listing-dynamic-field,static,no,5c3150ba5c7f7dd79452fe04c5a25fd9bf3b2ece66a7047897b25b88995cdb0b
 "SP Thalwil",yes,0,https://spthalwil.ch/aktuelles/,article,stealth,yes,7f36e801f78aafbef5396578fc268f9070358ca5c9363975e77115c5f92580ff
 "SVP Thalwil",yes,0,https://www.svp-thalwil.ch/,.articlePreviewSmall,static,no,1ebfb34fe391f7a124eb8b7f1bc40cc5edfe40a0d00b5fef49281cba9647b1da
-"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,533a9e2e84992fd17e90849ef626903ab341d8ddfa083e390c48f030f387a624
+"Thalwil informiert",yes,0,https://www.thalwil.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,6390d796a15cec871268dc4ae2caf51ac45c31df915cca7c84bbf22e2d0dcf7b
 "Zimmerberg Online Thalwil",no,0,https://zimmerberg.online/rubrik/thalwil/feed/,"",rss,no,cc045e1fad049fb0c80daecb7bb9fe98998d7a31dcf5518e941bfc2107627442
 "ZPZ Agenda Thalwil",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,7a1ea364a9c931b222b90a4ebc2e9b1ef101594f35fa80a59de58769fbc9d478
 "ZPZ Amtliche Publikation Thalwil",yes,0,https://www.zpz.ch/beschluesse-und-publikationen/amtliche-publikationen-der-zpz,main,static,no,bbf00a9653e9f7c0a1c65a0b0950df289672ce08a13558a258fd43318be09263
