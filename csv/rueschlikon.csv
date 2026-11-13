@@ -8,7 +8,7 @@ label,active,error_count,url,selector,type,proxy,hash
 "Grüne Rüschlikon",yes,0,https://gruene-rueschlikon.ch,article,dynamic,no,00f6a9966d4c3dd6c854563eb51b46ac85720b22ad0e4b2f36178b8eb5aeb038
 "HEV TRO Rüschlikon",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,db6349a2a8ae6507a5078e2a177ab8d48c8e9d870508e0d0cf80dbbe1ea575bb
 "Mitte Rüschlikon",yes,0,https://rueschlikon.die-mitte.ch/,.carousel-cell,static,yes,a1fb36abb7a71fd1fdacb87806fc5d10305455ff132114eecf09c9ea6a2e1ab8
-"Ortsmuseum Rüschlikon",yes,2,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,0b91c36f5e0d4065698380759bc62458674f9a96b679a33baf0b12b88f2823af
+"Ortsmuseum Rüschlikon",yes,3,https://ortsmuseum-rueschlikon.ch/aktuell/,article,static,no,0b91c36f5e0d4065698380759bc62458674f9a96b679a33baf0b12b88f2823af
 "Rüschlikon - News",yes,0,https://www.rueschlikon.ch/aktuellesinformationen,"#informationList_wrapper tr",dynamic,no,04c18429590dcbe75ff696914b95aa7760b92c10e14fdbfc914b89232482e6d2
 "SP Rüschlikon",no,70,https://rueschlikon.spkantonzh.ch/aktuell/medienmitteilungen/,#main,stealth,yes,91bca4b014aaa8d93b3c627089f536601035bae1553ba1c4ea06f60f771c07ec
 "SVP Rüschlikon",yes,0,https://www.svp-rueschlikon.ch/,"nav, .content",static,no,7b8a10b1180b5ca4cb0bfaf583337d8c055e9b24cefa17863e2ce68ac94183fb
