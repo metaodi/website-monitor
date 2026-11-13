@@ -1,9 +1,9 @@
-(Anmeldeschluss 04.11.2026!)
 .
 0800 226 644
+15 % Rabatt auf die Reiseversicherung von Generali
+19. Juni 2026
 22. Oktober 2026
 24. September 2026
-3. November 2026
 30. September 2026
 6. August 2026
 Ausserdem profitieren sie weiterhin von attraktiven Vergünstigungen auf folgende Versicherungen: Auto, Gebäude, Haftpflicht, Hausrat, Rechtsschutz und Unfall.
@@ -13,25 +13,22 @@ Dank unserer Partnerschaft mit Generali erhalten unsere Mitglieder einen persön
 Das Bundesamt für Gesundheit (BAG) hat die Prämien 2027 bekannt gegeben. Und das Beste daran: Sanitas ist auch im nächsten Jahr die richtige Wahl, denn unsere Prämien bleiben überwiegend stabil oder steigen nur leicht an.
 Die Lücken erlaubten es Angreifern, ohne Zugangsdaten Schadcode auf einem Server auszuführen und Websites komplett zu übernehmen. Weil Details vorzeitig öffentlich wurden, meldeten Sicherheitsfirmen weltweit erste Angriffsversuche, bevor überhaupt Korrekturen verfügbar waren. Sicherheitsbehörden der EU empfahlen deshalb, betroffene Server bis zur Installation der Korrekturen vom Netz zu nehmen. Das haben viele Organisationen getan, darunter Regierungsportale, Universitäten und Spitäler.
 Die finanzielle Vorsorge gewinnt für viele Menschen an Bedeutung. Ob Vermögensaufbau, Absicherung der Familie oder Planung des Ruhestands: Eine frühzeitige und passende Vorsorgelösung kann einen wichtigen Unterschied machen.
-Digital Smart Monday 09.11.2026, 17:30 – 18:30 (via ZOOM): Selbstorganisation zwischen Büro und Homeoffice
-Digital Smart Monday vom 9.11.2026
 Fazit: Es lohnt sich, eine Website bei einem seriösen Hoster zu halten, der einen perfekten Service leistet, wie z.B. Cyon in Basel.
 Generali Angebot für unsere Mitglieder
+Generali Reiseversicherung
 Generali-Vorsorge
 Haben Sie Fragen? Wir sind gerne für Sie da. Kontaktieren Sie uns einfach unter
 Herunterladen
 Heute Morgen wurde bekannt, dass seit dem Bekanntwerden der PHP‑Sicherheitslücke Kriminelle bereits hunderttausende Angriffe auf Websites versuchten, um sie zu übernehmen. Pech für die Websitebetreiber, deren Hoster nicht sofort reagiert haben, oder bei „Selbsthostern“, die die Website auf ihrem NAS‑Gerät betreiben und selbst das PHP-Update aufspielen müssen.
-Hier anmelden
 Jedes Alter und jede Rasse ist willkommen. Versicherungsschutz ohne Vorbehalt, wann immer möglich auch für Hunde und Katzen mit Vorerkrankung. Kostenübernahmen, die andere Versicherungen ausschliessen.
 Jetzt kontaktieren
 Kategorien
-Mehr Flexibilität und digitale Zusammenarbeit bieten viele Vorteile; gleichzeitig ist es im hybriden Arbeitsalltag anspruchsvoller, den Überblick zu behalten. Ablenkungen, ständige Erreichbarkeit und unklare Erwartungen können schnell zu Stress führen. Wie gelingt es, fokussiert zu arbeiten, klare Grenzen zu setzen und die eigene Energie gezielt einzusetzen?   Am
 Mehr Rückhalt im Gesundheitsalltag
 Mehr erfahren
 Nähere Informationen für das Jahr 2027 finden Sie unter:
+Näheres zur Reiseversicherung entnehmen Sie bitte dem Flyer der Generali.
 Prämie berechnen
-Referent: Roy Franke
-Roy Franke ist Blogger, Berater und Trainer zum Thema Digitale Transformation.
+Reiseversicherung von Generali
 Sanitas
 Sanitas Tierversicherung
 Sanitas, wichtiges für das Jahr 2027 (Prämien usw.)
@@ -42,6 +39,7 @@ Starke Leistungen: Smart oder Premium?
 Uncategorized
 Unser Vertragspartner Sanitas informiert über die Prämien 2027
 Unser Vertragspartner Sanitas versichert jetzt auch Vierbeiner. Denn für Sanitas gehören Katzen und Hunde zur Familie und verdienen es, umsorgt und bestens abgesichert zu sein. Sie haben selbst einen Hund oder eine Katze oder kennen jemanden? Unsere Tierversicherung überzeugt mit umfassendem Schutz – von Schwanzspitze bis Schnurrhaar, denn sie bietet mehr als viele andere Tierversicherungen. Diese Einschätzung teilt auch die Vergleichsplattform bonus.ch, die uns zur Testsiegerin erkoren hat. Weil auch das robusteste Haustier einmal zum Tierarzt muss, bleiben Tierhalterinnen und -halter so vor hohen Kosten geschützt – schon ab wenigen Franken pro Monat. Probieren Sie es einfach aus:
+Unsere Mitgliederinnen und Mitglieder können von einem exklusiven Vorteil profitieren:
 Unsere Website ist nach wie vor sehr sicher, auch wegen gewisser Massnahmen meinerseits mit sicherheitsrelevanten Add-ons.
 Veröffentlicht am
 Warum dieser drastische Schritt nötig war
@@ -49,9 +47,8 @@ Was gibt es Neues bei Sanitas?
 Was ist neu? Nachfolgend finden Sie die wichtigsten Informationen. Für unsere Kundinnen und Kunden haben wir alles zu den Prämien 2027 online zusammengestellt. Die neuen Policen werden bis Ende Oktober per Post verschickt oder ins Sanitas Portal geladen.
 Website Ausfall am 21.10.2026, 16:00 Uhr bis 22.10.2026, 04:00 Uhr
 Wie sie in der Presse lesen konnten, gab es bei der Programmiersprache PHP weltweit eine äusserst kritische Sicherheitslücke, die gestern, 21.10.2026, um 16:00 Uhr bekannt geworden ist. Unser Hoster „Cyon“ in Basel, einer der grössten Hoster in der Schweiz, hat richtig reagiert und alles Relevante abgestellt. So war unsere Website seit 16:00 Uhr nicht mehr erreichbar. Per Mail wurde informiert, dass das PHP‑Update um 22:00 Uhr von PHP kommen soll und bis am Morgen alle Websites wieder erreichbar sein werden. Seit 04:00 Uhr ist unsere Website wieder online. Zu bemerken ist, dass weltweit über 70% der Websites auf PHP aufbauen.
-für 50% am Event teilnehmen (bei der Bestellung «Ich bin kein Mitglied» anklicken und am Ende bei der Zahlungsübersicht (Zusammenfassung) den Promocode eingeben).
+Zur Generali gelangen Sie mit dem Button «Generali» auf der rechten Seite.
 gian
 oder per E-Mail an
-tFk9Vc
 tierversicherung(AT)sanitas.com
-zeigt Roy Franke – Experte für Selbstmanagement und Organisationsentwicklung – mit einfachen, praxisnahen Methoden, wie Sie Ihren hybriden Arbeitsalltag strukturierter gestalten, Ablenkungen reduzieren und die Zusammenarbeit im Team erfolgreich organisieren.   Sichern Sie sich Ihren Platz und entdecken Sie konkrete Strategien für mehr Fokus, Gelassenheit und Zufriedenheit im Berufsalltag. Wir freuen uns auf Sie!   Diese Veranstaltung wird in Zusammenarbeit mit dem Kaufmännischen Verband Zürich durchgeführt. Die VPV Mitglieder können mit dem Promocode
+– für sorgenfreies Reisen weltweit.
