@@ -3,9 +3,9 @@ label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,8d71e9c5539ea1f660020c0b44af3cea52df58510d881455569523b82e17d8cf
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,6d0d75afc693701c5eb2015d3ada8da7c87c76dfbd901b092ed2888db4d65cef
 "EVP Thalwil",yes,0,https://www.evp-thalwil.ch/aktuell,main,static,no,b1bd2b31705274a99de5387ed1b3ddd8b3ee506d6eb62087adffe3160a9c49c6
-"FDP Thalwil",yes,1,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,623e8f6464fa351dc454df723010aad5f1e600fe86a992b5097f3212e308b97f
+"FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,623e8f6464fa351dc454df723010aad5f1e600fe86a992b5097f3212e308b97f
 "Freiwilliger Schulsport Thalwil",yes,0,https://www.freiwilligerschulsport.ch/thalwil/Events,body,static,yes,63ce91c6d4abf7fab5b67309d4ed4336432e809fe81774856ef537a33bc53f54
-"GLP Thalwil",yes,1,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,e073614f9000b99e8b4a0ff28c472096bb40c81424c8b5e9f3a28153e3cb9145
+"GLP Thalwil",yes,0,https://bezirkhorgen.grunliberale.ch/thalwil/news/,.jet-listing-grid__item,static,no,e073614f9000b99e8b4a0ff28c472096bb40c81424c8b5e9f3a28153e3cb9145
 "Grüne Thalwil",yes,0,https://gruene-thalwil.ch,article,dynamic,no,7a61a74781d34893779c671bfa1a3c558142ac8f84cad8eae15db7d484a4fb28
 "HEV TRO",yes,0,https://www.hev-tro.ch/,.article-listing,static,no,8ded8d1e8e0ba6bf2a2013d89541b1d3aa3a925d3651469ecb4b5c8880246ce3
 "HGV Thalwil",yes,0,https://hgv-thalwil.ch/news/,.el-item,static,no,df08e56c05230ffa240b3c312c9b6a3d488c968a78255ea48b1aa305927e3de5
