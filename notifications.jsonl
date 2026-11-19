@@ -2282,3 +2282,4 @@
 {"timestamp": "2026-11-19T10:24:51.566893+00:00", "label": "Bezirk.ch Thalwil", "url": "https://www.bezirk.ch/thalwil", "csv_source": "thalwil", "diff_preview": "+Thalwiler Kirchturm leuchtet für Frieden"}
 {"timestamp": "2026-11-19T17:24:01.058412+00:00", "label": "Bezirk.ch Thalwil", "url": "https://www.bezirk.ch/thalwil", "csv_source": "thalwil", "diff_preview": "+Thalwil schafft Wildbienen Platz auf dem Friedhof"}
 {"timestamp": "2026-11-19T17:51:44.367821+00:00", "label": "Bezirk.ch", "url": "https://www.bezirk.ch/", "csv_source": "bezirk_horgen", "diff_preview": "+Thalwil schafft Wildbienen Platz auf dem Friedhof\n+Thalwiler Kirchturm leuchtet für Frieden"}
+{"timestamp": "2026-11-19T18:19:14.339075+00:00", "label": "Bezirk.ch Rüschlikon", "url": "https://www.bezirk.ch/rueschlikon", "csv_source": "rueschlikon", "diff_preview": "+Thalwil schafft Wildbienen Platz auf dem Friedhof"}
