@@ -27,11 +27,11 @@
 22. Oktober 2026
 23. März 2026
 23. November 2026
-23. September 2026
 24. August 2026
 24. Februar 2026
 25. August 2026
 25. Juni 2026
+25. November 2026
 25. September 2026
 26. Mai 2026
 26. März 2026
@@ -69,7 +69,6 @@ AL Sekretariat
 AL im Kanton
 AL unterstützt die Kandidierenden von SP und Grünen
 AL-Info
-Abstimmung nicht verpassen! In unseren Last-Minute-Tipps erfährst Du, wo mensch bis zum Wochenende noch abstimmen kann.
 Airbnb: Die Zeit des Trödelns ist vorbei!
 Aktuell
 Allgemein
@@ -145,6 +144,7 @@ Eine erste Einschätzung der BZO-Revision von Gemeinderat Christian Häberli.
 Energie
 Er bekämpfte die Europaallee, rettete die EWZ, gründete die Alternative Linke mit und lancierte das Airbnb-Verbot. Heute ist Niklaus «Niggi»…
 Erklärung der Kantonsratsfraktionen von AL, SP und Grünen zum Bundesgerichtsurteil über die Mindestlohnreglungen der Städte Zürich und Winterthur.
+Festgehaltene Demoteilnehmer:innen aus Winterthur und vermummte Zivilpolizist:innen: Das Vorgehen der Stadtpolizei Zürich am Jugendstreik steht in der Kritik. Im Interview…
 Frauenrechte
 Freiraum
 Für 2026 rechnet ewz mit 20 Mio Franken mehr Gewinn als budgetiert. Jetzt erst recht JA zur AL-Initiative «ewz-Bonus für…
@@ -247,7 +247,6 @@ Stream: Politik ist gut. Utopie ist besser mit Sibylle Berg
 Stägeli uf, Stägeli ab
 Tanja Maag
 Tanja Maag im Gespräch mit Lorenz Steinmann vom Rathuus über die AL, den Zürcher Stadtrat und Herausforderungen im Gesundheitswesen.
-Tipps für Last-Minute-Abstimmende
 Trotz Rekordgewinnen keine ewz-Volksdividende
 Umwelt
 Unser Leben findet hier statt, aber immer mehr Menschen, die uns dieses Leben ermöglichen, können es sich hier nicht mehr…
@@ -276,5 +275,6 @@ Zürichs öffentlicher Raum: Entwicklung oder Blockade?
 «Anpassung der Franchise»
 «Ein Lohn zum Leben – ein Leben in Würde»
 «Positives AL-Ergebnis»
+«Zivile Polizist:innen gab es an Demos schon immer – aber nicht in diesem Ausmass»
 Öffentlicher Raum
 Übergabe des Gemeinderatsmandats der AL für den Kreis 4/5
