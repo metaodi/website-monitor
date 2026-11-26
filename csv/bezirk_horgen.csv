@@ -1,20 +1,20 @@
 label,active,error_count,url,selector,type,proxy,hash
 "AL Zürich",yes,0,https://al-zh.ch/blog/,.post,static,no,9d579cc0f6059e13d9b10741f56c152c435083452cad5dc58647e68b250618ff
-Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,d7459714ea2996c6ce2173d2ef8554f064c688834d97ba3abd17a812e1fb061f
+Bezirk.ch,yes,0,https://www.bezirk.ch/,"article h2, article .text-secondary",dynamic,no,42034b8bda2e2cba01ed191881c06ce042641a3bb543034d5b050ec25be5e077
 Energiestadt,yes,0,https://www.energiestadt.ch/,.es-card,static,no,3e67db6747431c97291acf2791f22cf7317ba8cd2df03bfcd628c2d69ea616bf
 "EVP Bezirk Horgen",yes,0,https://www.evpzh.ch/sektionen/bezirksparteien/bezirk-horgen,.frame,static,no,421b9d91d7b8d704e30ec6191ded49b4a831e725257b09dde110440122653bb2
 "EVP Kanton Zürich",yes,0,https://www.evpzh.ch/aktuell/news,.article,static,no,21b63727be6f772d8f911d9996d151ab03d47c4fa61fc51c0f9e6c4751fec14a
-"FDP Bezirk Horgen",yes,1,https://www.fdp-bezirkhorgen.ch/willkommen,.article,static,yes,dba655a5c628cacf6feec63fdfc775ea0f1428350d50e1fd121efe2ef0cfd587
+"FDP Bezirk Horgen",yes,2,https://www.fdp-bezirkhorgen.ch/willkommen,.article,static,yes,dba655a5c628cacf6feec63fdfc775ea0f1428350d50e1fd121efe2ef0cfd587
 "Gewerkschaftsbund des Kantons Zürich",yes,0,https://www.gbkz.ch/,.news-list,static,no,1196e25b5276ef047b8fc1f4c1854804a827a7f3a4c8e041d880550259081429
 "GLP Bezirk Horgen",yes,0,https://bezirkhorgen.grunliberale.ch/aktuelles/medienmitteilungen/,.jet-listing-grid__item,static,yes,1cee06ec302cc9828d3053eb0cad12bf52c463a43f2f4f31d66f16831178a4d1
-"Grüne Bezirk Horgen",yes,1,https://gruene-bezirk-horgen.ch/,article,dynamic,no,1c838c8a2880aecdb1f040f1508d8ddab825564faf6d31dabe7b964bd3515189
+"Grüne Bezirk Horgen",yes,0,https://gruene-bezirk-horgen.ch/,article,dynamic,no,1c838c8a2880aecdb1f040f1508d8ddab825564faf6d31dabe7b964bd3515189
 "Grüne Kanton Zürich",yes,0,https://gruene-zh.ch,article,dynamic,no,3fb2379b4d689086a670378745e75356dc2edfc1a4113951cd409611f033ed79
 "HEV Kanton Zürich",yes,0,https://www.hev-zh.ch/,.article-listing,static,no,32bf663826747dc26ba65538e801a4f04c52f0f39673cef625e39184b9661075
 "Mitte Bezirk Horgen",yes,0,https://zh.die-mitte.ch/bezirk-horgen/,.content,static,yes,373677a394a2e8ab871658874192b2564e59b8664ee7b15cd8a0dac9fbc80a14
 "SP Bezirk Horgen",yes,0,https://sp-bezirk-horgen.ch/aktuelles/,article,stealth,yes,55b3176a03f1ad92adbc2e131a0e7c57e035339d11a412698105a8c8f793a025
 "Städteverband (SSV)"," yes",12,https://staedteverband.ch/,.entry-detail-link,static,no,b7dab62b4b85b9012d573b1dec7437601f5769eb02b3f7860da0e1b3379afa2b
 "SVP Bezirk Horgen",yes,0,https://svp-bezirk-horgen.ch/,article,static,yes,ca27afa35004048af12b6cf5a57467d602dbb9de5ca224f10f0bbc28acf64973
-Syna,yes,1,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
+Syna,yes,0,https://syna.ch/zuerich-schaffhausen/zhsh-aktuell,"article .uk-h3, article [property='text']",static,yes,dc6d493496c5ed0a502cd43286050512c094ae3d0b5bc43d40378a8062d91064
 syndicom,yes,0,https://syndicom.ch/medienstelle/,.pressrelease,static,yes,25085e3983fa55f483aee5b2f231c586f5b62f25374c7fcb42a7177aee519de8
 "TCS Sektion Zürich",yes,0,https://www.tcs.ch/de/der-tcs/sektionen/zuerich/news.php,.listEntryObject-news,static,no,38f637963aade0e02a1c317b8193b76eb58ee7da6f206d6ff87bcdd43c051d19
 Unia,yes,0,https://unia.ch/de/aktuell/feed.xml,"",rss,no,dff400ade23082feb0ed1e13bd78c24abf74749169b0af4bcd1026bb351f542d
@@ -25,5 +25,5 @@ VCS,yes,0,https://www.verkehrsclub.ch/medien,.teaser-card,static,no,a54e57a99d33
 VStA,yes,0,https://www.vsta.ch/,article,static,no,eb9b4840b0e87324fd853eddbad59cafeb40ce0921c0a5113acc92fc0c8b92f2
 "Wahlarchiv Kanton Zürich",yes,0,https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/wahlarchiv.zhweb-noredirect.zhweb-cache.html?keywords=wahlarchiv&filtered=false#-1409497996,body,static,no,13f9296fd81b0f0536d47ce0e180169249c9c505ad2c7dd8b47cb2a5109f13a2
 "Zimmerberg Online",no,0,https://zimmerberg.online/feed/,"",rss,no,ae0b72163fca6101c5b5b7cb1ee5a1868db4b1adfa2163f691670f6592228b8b
-"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,7a1ea364a9c931b222b90a4ebc2e9b1ef101594f35fa80a59de58769fbc9d478
+"ZPZ Agenda",yes,0,https://www.zpz.ch/aktuell/agenda,"main section p",static,no,f21c8169413ab613b2bbaf365f3d1ccd9460dec2a1c1bac04ad8cdfc9cc98b29
 "ZPZ News",yes,0,https://www.zpz.ch/news,.news-container,static,no,1fc6e718f184e486ca5e0d1bd89695d0caa86f6743c406e0225fc442764e1fd2
