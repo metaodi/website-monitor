@@ -1,6 +1,6 @@
 label,active,error_count,url,selector,type,proxy,hash
 "Bezirk.ch Liveticker Thalwil",no,5,https://www.bezirk.ch/ticker/thalwiler-gemeindewahlen,.scroll-mt-24,dynamic,no,26da7b9a9cd0db4b700e95e6103de32ac6bf9b9ceba42855b57f81e78cb98733
-"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,148bfd387377acc2ee38d8350f329b5c01a2de7aea607db1ef628d488f55c7cd
+"Bezirk.ch Thalwil",yes,0,https://www.bezirk.ch/thalwil,"article h2, article .text-secondary",dynamic,no,183ce2e6576cca9a04c309244a29e20d2312424cb3f0313bccb087eae06d3f91
 "Digitales Amtsblatt Thalwil",yes,0,https://epublikation.ch/#!/search/publications?keyword=Thalwil&searchPeriod=LAST7DAYS,"div.app-content-center div.list-entry h2",dynamic,no,d53eae41023040f36b648a9a3ea957be3f6b2fd7ace442027eb4dad2f65a4fd1
 "EVP Thalwil",yes,0,https://www.evp-thalwil.ch/aktuell,main,static,no,fc3cec55da5062e5654fd351dc1bf839b0c0bc6f122f02676261e68877a3539d
 "FDP Thalwil",yes,0,https://www.fdpthalwil.ch/aktuell/news,#main-content,static,yes,89203ced31a795ce3a3a204ff8f30f58505bb7c84d6df692f39c0c45c884e6e8
